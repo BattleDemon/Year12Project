@@ -13,7 +13,7 @@
 
 # Ignore specific files that are temporary or cause merge conflicts
 .obsidian/workspace
-.obsidian/workspaces.json
+.obsidian/workspace.json
 .obsidian/auto-pair-mod.json
 .obsidian/backups/
 .obsidian/cache/
