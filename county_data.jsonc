@@ -1,0 +1,2297 @@
+{
+	"#F32142" : {
+		// Identifyer,
+		"county_name" : "Shetland",
+		"county_code" : "She",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#5604B8": {
+		// Identifyer
+		"county_name" : "Orkney",
+		"county_code" : "Ork",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#FEC267": {
+		// Identifyer
+		"county_name" : "Caithness",
+		"county_code" : "Cai",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#DA6C64" : {
+		// Identifyer
+		"county-name" : "Sutherland",
+		"county_code" : "Sut",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#F56340": {
+		// Identifyer
+		"county_name" : "Rossshire and Cromartyshire",
+		"county_code" : "Ros",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#4A834A": {
+		// Identifyer
+		"county_name" : "Invernessshire",
+		"county_code" : "inv",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#D1A3AC": {
+		// Identifyer
+		"county_name" : "Morayshire",
+		"county_code" : "Mor",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#AB846A": {
+		// Identifyer
+		"county_name" : "Banffshire",
+		"county_code" : "Ban",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#D31DD2": {
+		// Identifyer
+		"county_name" : "Aberdeenshire",
+		"county_code" : "Abe",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#9E46BD": {
+		// Identifyer
+		"county_name" : "Nairnshire",
+		"county_code" : "Nai",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#E4D7A9": {
+		// Identifyer
+		"county_name" : "Kincardineshire",
+		"county_code" : "Kin",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#EF1345": {
+		// Identifyer
+		"county_name" : "Argyllshire",
+		"county_code" : "Arg",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#3EE159": {
+		// Identifyer
+		"county_name" : "Angus",
+		"county_code" : "Ang",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#C6E355": {
+		// Identifyer
+		"county_name" : "Perthshire",
+		"county_code" : "Per",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#16E170": {
+		// Identifyer
+		"county_name" : "Fife",
+		"county_code" : "Fif",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#E045F3": {
+		// Identifyer
+		"county_name" : "Dumbarton",
+		"county_code" : "Dum",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#F4812D": {
+		// Identifyer
+		"county_name" : "Stirlingshire",
+		"county_code" : "Sti",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#4812C0": {
+		// Identifyer
+		"county_name" : "Kinrossshire",
+		"county_code" : "Kin",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#4A45CC": {
+		// Identifyer
+		"county_name" : "Clackmannanshire",
+		"county_code" : "Cla",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#A547B9": {
+		// Identifyer
+		"county_name" : "East Lothian",
+		"county_code" : "ELo",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#93DE51": {
+		// Identifyer
+		"county_name" : "West Lothian",
+		"county_code" : "Wlo",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#4E15E1": {
+		// Identifyer
+		"county_name" : "Midlothian",
+		"county_code" : "Mlo",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#7124A8": {
+		// Identifyer
+		"county_name" : "Renfrewshire",
+		"county_code" : "Ren",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#6439BE": {
+		// Identifyer
+		"county_name" : "Buteshire",
+		"county_code" : "But",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#7C4DA0": {
+		// Identifyer
+		"county_name" : "Lanarkshire",
+		"county_code" : "Lan",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#8780CC": {
+		// Identifyer
+		"county_name" : "Berwickshire",
+		"county_code" : "Ber",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#056D10": {
+		// Identifyer
+		"county_name" : "Ayrshire",
+		"county_code" : "Ayr",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#DF0ECA": {
+		// Identifyer
+		"county_name" : "Pebbleshire",
+		"county_code" : "Peb",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#42F6C9": {
+		// Identifyer
+		"county_name" : "Northumberland",
+		"county_code" : "Nor",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#89237A": {
+		// Identifyer
+		"county_name" : "Roxburghshire",
+		"county_code" : "Rox",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#A965F6": {
+		// Identifyer
+		"county_name" : "Selkirkshire",
+		"county_code" : "Sel",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#970613": {
+		// Identifyer
+		"county_name" : "Dumfriesshire",
+		"county_code" : "Dum",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#608E87": {
+		// Identifyer
+		"county_name" : "Kirkcudbrightshire",
+		"county_code" : "Kir",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#6F20EE": {
+		// Identifyer
+		"county_name" : "Cumberland",
+		"county_code" : "Cmb",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#0A81CC": {
+		// Identifyer
+		"county_name" : "Wigtownshire",
+		"county_code" : "Wig",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#42D965": {
+		// Identifyer
+		"county_name" : "Durham",
+		"county_code" : "Dur",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#FEA807": {
+		// Identifyer
+		"county_name" : "Westmorland",
+		"county_code" : "Wmo",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#D8C361": {
+		// Identifyer
+		"county_name": "York",
+		"county_code" : "Yor",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#D9AE47": {
+		// Identifyer
+		"county_name" : "Mann",
+		"county_code" : "Man",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#951311": {
+		// Identifyer
+		"county_name" : "Lancashire",
+		"county_code" : "Lan",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#798301": {
+		// Identifyer
+		"county_name" : "Lincolnshire",
+		"county_code" : "Lin",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#D46A3F": {
+		// Identifyer
+		"county_name" : "Cheshire",
+		"county_code" : "Che",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#025BED": {
+		// Identifyer
+		"county_name" : "Nottinghamshire",
+		"county_code" : "Not",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#22710B": {
+		// Identifyer
+		"county_name" : "Derbyshire",
+		"county_code" : "Der",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#EC37F4": {
+		// Identifyer
+		"county_name" : "Yns Mon",
+		"county_code" : "Yns",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#41EA33": {
+		// Identifyer
+		"county_name" : "Flintshire",
+		"county_code" : "Fli",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#1D3FBF": {
+		// Identifyer
+		"county_name" : "Caenorfonshire",
+		"county_code" : "Cae",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#FC53A2": {
+		// Identifyer
+		"county_name" : "Denbighshire",
+		"county_code" : "Den",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#AAB8D5": {
+		// Identifyer
+		"county_name" : "Staffordshire",
+		"county_code" : "Sta",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#A2E86D": {
+		// Identifyer
+		"county_name" : "Merioneth",
+		"county_code" : "Mar",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#7EEC53": {
+		// Identifyer
+		"county_name" : "Norfolk",
+		"county_code" : "Nfk",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#5D9C3E": {
+		// Identifyer
+		"county_name" : "Shropshire",
+		"county_code" : "Shr",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#5716E1": {
+		// Identifyer
+		"county_name" : "Leicesterchire",
+		"county_code" : "Lei",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#AFC99F": {
+		// Identifyer
+		"county_name" : "Montgomeryshire",
+		"county_code" : "Mnt",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#D93663": {
+		// Identifyer
+		"county_name" : "Rutland",
+		"county_code" : "Rut",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#81DA8F": {
+		// Identifyer
+		"county_name" : "Cambridgeshire",
+		"county_code" : "Cam",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#CB903F": {
+		// Identifyer
+		"county_name" : "Northhamptonshire",
+		"county_code" : "Nhp",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#82A302": {
+		// Identifyer
+		"county_name" : "Warwickshire",
+		"county_code" : "War",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#C21ECD": {
+		// Identifyer
+		"county_name" : "Suffolk",
+		"county_code" : "Suf",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#3D0B34": {
+		// Identifyer
+		"county_name" : "Huntingdonshire",
+		"county_code" : "Hun",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#8B0E16": {
+		// Identifyer
+		"county_name" : "Cardiganshire",
+		"county_code" : "Car",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#3A32AA": {
+		// Identifyer
+		"county_name" : "Worcestershire",
+		"county_code" : "Wor",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#DF15EA": {
+		// Identifyer
+		"county_name" : "Radnorshire",
+		"county_code" : "Rad",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#325AEF": {
+		// Identifyer
+		"county_name" : "Herefordshire",
+		"county_code" : "Her",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#7220BB": {
+		// Identifyer
+		"county_name" : "Bedfordshire",
+		"county_code" : "Bed",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+    "#E61E2A": {
+		// Identifyer
+		"county_name" : "Buckinghamshire",
+		"county_code" : "Buc",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#3CBCAB": {
+		// Identifyer
+		"county_name" : "Gloucestershire",
+		"county_code" : "Glo",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#B0ED29": {
+		// Identifyer
+		"county_name" : "Oxfordshire",
+		"county_code" : "Oxf",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#C1B4FD": {
+		// Identifyer
+		"county_name" : "Catmarthenshire",
+		"county_code" : "Cat",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#4FB0D9": {
+		// Identifyer
+		"county_name" : "Essex",
+		"county_code" : "Ess",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#0B5DC4": {
+		// Identifyer
+		"county_name" : "Pembrokeshire",
+		"county_code" : "Pem",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#7C4B5D": {
+		// Identifyer
+		"county_name" : "Hertfordshire",
+		"county_code" : "Hrt",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#6E0FB6": {
+		// Identifyer
+		"county_name" : "Monmonthshire",
+		"county_code" : "Mmn",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#CE98D3": {
+		// Identifyer
+		"county_name" : "Glamorgan",
+		"county_code" : "Gla",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#693FB1": {
+		// Identifyer
+		"county_name" : "Berkshire",
+		"county_code" : "Ber",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#EA9C4C": {
+		// Identifyer
+		"county_name" : "Middlesex",
+		"county_code" : "Mid",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#1554FD": {
+		// Identifyer
+		"county_name" : "Wiltshire",
+		"county_code" : "Wil",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#C32595": {
+		// Identifyer
+		"county_name" : "Kent",
+		"county_code" : "Ken",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#1864FE": {
+		// Identifyer
+		"county_name" : "Surrey",
+		"county_code" : "Sur",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#75C681": {
+		// Identifyer
+		"county_name" : "Somerset",
+		"county_code" : "Som",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#F0FEDC": {
+		// Identifyer
+		"county_name" : "Hampshire",
+		"county_code" : "Ham",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#EE85E5": {
+		// Identifyer
+		"county_name" : "Devon",
+		"county_code" : "Dev",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#727118": {
+	// Identifyer
+		"county_name" : "Sussex",
+		"county_code" : "Sus",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#CD5AC8": {
+		// Identifyer
+		"county_name" : "Dorset",
+		"county_code" : "Dor",
+		// Popular make up
+        "culture" : "",
+        "faith" : "",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	},
+	"#787AB8": {
+		// Identifyer
+		"county_name" : "Cornwall",
+		"county_code" : "Cor",
+		// Popular make up
+        "culture" : "Cornish",
+        "faith" : "Insular Catholic",
+		// Control
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : "",
+		// Economy
+		"base_output" : "",
+		"extraction_efficientcy" : "",
+		// Military
+		"levy_pool" : "",
+		"levy_rate" : "",
+		"fort-lvl" : "",
+		// Geography
+		"terrain_type" : "",
+		"infrastrucure" : "",
+		// Memory
+		"integration_stage" : "",
+		"strategic_tags" : ""
+	}
+}

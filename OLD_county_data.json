@@ -95,94 +95,34 @@
 	"#970613": {
 		"county_name" : "Dumfriesshire"
 	},
-	"#D1DBDD": {
-		
-	},
-	"#608E87": {
+    "#608E87": {
 		"county_name" : "Kirkcudbrightshire"
 	},
-	"#77A944": {
-		
-	},
-	"#6F20EE": {
+    "#6F20EE": {
 		"county_name" : "Cumberland"
 	},
 	"#0A81CC": {
 		"county_name" : "Wigtownshire"
 	},
-	"#98C5B1": {
-		
-	},
-	"#42D965": {
+    "#42D965": {
 		"county_name" : "Durham"
 	},
-	"#DE1AA9": {
-		
-	},
-	"#FEA807": {
+    "#FEA807": {
 		"county_name" : "Westmorland"
 	},
-	"#312737": {
-		
-	},
-	"#D8C361": {
+    "#D8C361": {
 		"county_name": "York"
 	},
-	"#882C75": {
-		
-	},
-	"#53BAB8": {
-		
-	},
-	"#C8393A": {
-		
-	},
-	"#D9AE47": {
+    "#D9AE47": {
 		"county_name" : "Mann"
 	},
-	"#3426DC": {
-		
-	},
-	"#951311": {
+    "#951311": {
 		"county_name" : "Lancashire"
 	},
-	"#4BF698": {
-		
-	},
-	"#84AE10": {
-		
-	},
-	"#A15A16": {
-		
-	},
-	"#F0B832": {
-		
-	},
-	"#38940D": {
-		
-	},
-	"#9BC005": {
-		
-	},
-	"#1EE9EB": {
-		
-	},
-	"#17B269": {
-		
-	},
-	"#1817F0": {
-	
-	},
-	"#798301": {
+    "#798301": {
 		"county_name" : "Lincolnshire"
 	},
-	"#C9853F": {
-		
-	},
-	"#F55BF5": {
-		
-	},
-	"#D46A3F": {
+    "#D46A3F": {
 		"county_name" : "Cheshire"
 	},
 	"#025BED": {
@@ -194,22 +134,10 @@
 	"#EC37F4": {
 		"county_name" : "Yns Mon"
 	},
-	"#B58441": {
-		
-	},
-	"#C6808F": {
-		
-	},
-	"#41EA33": {
+    "#41EA33": {
 		"county_name" : "Flintshire"
 	},
-	"#28651D": {
-		
-	},
-	"#6EF45F": {
-		
-	},
-	"#1D3FBF": {
+    "#1D3FBF": {
 		"county_name" : "Caenorfonshire"
 	},
 	"#FC53A2": {
@@ -218,13 +146,7 @@
 	"#AAB8D5": {
 		"county_name" : "Staffordshire"
 	},
-	"#08A352": {
-		
-	},
-	"#909CBA": {
-		
-	},
-	"#A2E86D": {
+    "#A2E86D": {
 		"county_name" : "Merioneth"
 	},
 	"#7EEC53": {
@@ -236,22 +158,13 @@
 	"#5716E1": {
 		"county_name" : "Leicesterchire"
 	},
-	"#E3C536": {
-		
-	},
-	"#9B6AAB": {
-		
-	},
-	"#AFC99F": {
+    "#AFC99F": {
 		"county_name" : "Montgomeryshire"
 	},
-	"#136569": {
-		
-	},
-	"#D93663": {
+    "#D93663": {
 		"county_name" : "Rutland"
 	},
-	"#81DA8F": {
+    "#81DA8F": {
 		"county_name" : "Cambridgeshire"
 	},
 	"#CB903F": {
@@ -263,19 +176,13 @@
 	"#C21ECD": {
 		"county_name" : "Suffolk"
 	},
-	"#394403": {
-		
-	},
-	"#3D0B34": {
+    "#3D0B34": {
 		"county_name" : "Huntingdonshire"
 	},
 	"#8B0E16": {
 		"county_name" : "Cardiganshire"
 	},
-	"#44A14C": {
-		
-	},
-	"#3A32AA": {
+    "#3A32AA": {
 		"county_name" : "Worcestershire"
 	},
 	"#DF15EA": {
@@ -287,10 +194,7 @@
 	"#7220BB": {
 		"county_name" : "Bedfordshire"
 	},
-	"#301D2B": {
-		
-	},
-	"#E61E2A": {
+    "#E61E2A": {
 		"county_name" : "Buckinghamshire"
 	},
 	"#3CBCAB": {
@@ -348,6 +252,14 @@
 		"county_name" : "Dorset"
 	},
 	"#787AB8": {
-		"county_name" : "Cornwall"
+		"county_name" : "Cornwall",
+        "culture" : "",
+        "faith" : "",
+        "authority" : "",
+        "culture_acceptance" : "",
+        "administrative_control" : "",
+        "elite_loyalty" : "",
+        "pressure" : ""
+
 	}
 }
