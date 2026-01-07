@@ -1,0 +1,101 @@
+Male
+	Aed  
+	Aedán  
+	Áengus  
+	Áed Find  
+	Áedán mac Gabráin  
+	Ailill  
+	Art  
+	Bran  
+	Cathal  
+	Cellach  
+	Cennétig  
+	Colmán  
+	Conall  
+	Congal  
+	Cormac  
+	Crimthann  
+	Diarmait  
+	Domnall  
+	Donnchad  
+	Eochaid  
+	Fáelán  
+	Fergus  
+	Finn  
+	Flaithbertach  
+	Gilla  
+	Lorcán  
+	Máel Coluim  
+	Máel Sechnaill  
+	Murchad  
+	Muiredach  
+	Niall  
+	Óengus  
+	Raghnall  
+	Ruaidrí  
+	Sétnai  
+	Suibne  
+	Tadc  
+	Toirdelbach  
+	Tuathal  
+	Uilliam  
+	Ultán  
+	Énna  
+	Dubthach  
+	Lochlann  
+	Bresal  
+	Fedlimid  
+	Fiachra  
+	Amlaíb  
+	Cairbre
+
+Female
+	Áine  
+	Ailbe  
+	Bé Binn  
+	Brigid  
+	Cacht  
+	Cellach  
+	Clíodhna  
+	Coblaith  
+	Derbforgaill  
+	Derbail  
+	Éithne  
+	Eithliu  
+	Emer  
+	Fand  
+	Finnsech  
+	Flann  
+	Gormlaith  
+	Gráinne  
+	Lassair  
+	Líadan  
+	Macha  
+	Medb  
+	Mór  
+	Mór Mumhan  
+	Muireann  
+	Nessa  
+	Órlaith  
+	Ragnailt  
+	Sadbh  
+	Samthann  
+	Saoirse  
+	Scota  
+	Sétanta  
+	Sinead  
+	Sláine  
+	Sualtam  
+	Tailltiu  
+	Treasa  
+	Tuathla  
+	Uallach  
+	Úna  
+	Bébinn  
+	Caillech  
+	Dubhchoblaig  
+	Eithrig  
+	Findabair  
+	Lann  
+	Sadb  
+	Bóand

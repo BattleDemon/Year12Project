@@ -34,9 +34,79 @@
               "icon": "lucide-file",
               "title": "Game Design Document"
             }
+          },
+          {
+            "id": "457b88988167bee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Plan/Territory, control and borders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Territory, control and borders"
+            }
+          },
+          {
+            "id": "6129e95e7d24272c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Plan/Events/General Events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Events"
+            }
+          },
+          {
+            "id": "2d9008a4727eb2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Plan/Nations at the beginning of game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nations at the beginning of game"
+            }
+          },
+          {
+            "id": "2ed06ab71a733bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Plan/Tech Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Tree"
+            }
+          },
+          {
+            "id": "b0b62ca1ea7edbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Plan/Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -198,12 +268,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "753846932d98c1c1",
+  "active": "b0b62ca1ea7edbba",
   "lastOpenFiles": [
+    "Map Extract/addcolor.js",
+    "Map Extract/MapChart_Map (1).svg",
+    "Map Extract",
+    "Project Plan/Tech Tree.md",
+    "Project Plan/Resources.md",
+    "Project Plan/Territory, control and borders.md",
+    "Project Plan/Nations at the beginning of game.md",
     "Project Plan/Game Design Document.md",
+    "Project Plan/Events/General Events.md",
+    "Project Plan/Names/Anglo Saxon Names.md",
     "gitignore.md",
     "README.md",
-    "Untitled",
+    "Project Plan/Names/Gaelic Names.md",
+    "Project Plan/Names/Welsh Names.md",
+    "Project Plan/Names",
+    "Project Plan/Names/Norse Names.md",
+    "year-12-project/icon.svg.import",
+    "Project Plan/Events",
     "Project Plan",
     "Welcome.md"
   ]
