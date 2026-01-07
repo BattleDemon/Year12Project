@@ -1,8 +1,12 @@
 {
 	"#F32142" : {
 		// Identifyer,
-		"county_name" : "Shetland",
-		"county_code" : "She",
+		"county_names" : {
+			"saxon" : "Hjaltland",
+			"norse" : "Hjaltland",
+			"bretogael" : "Sealtainn"
+		},
+		"county_code" : "Hja",
 		// Popular make up
         "culture" : "",
         "faith" : "",
@@ -28,7 +32,11 @@
 	},
 	"#5604B8": {
 		// Identifyer
-		"county_name" : "Orkney",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ork",
 		// Popular make up
         "culture" : "",
@@ -56,6 +64,11 @@
 	"#FEC267": {
 		// Identifyer
 		"county_name" : "Caithness",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cai",
 		// Popular make up
         "culture" : "",
@@ -83,6 +96,11 @@
 	"#DA6C64" : {
 		// Identifyer
 		"county-name" : "Sutherland",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sut",
 		// Popular make up
         "culture" : "",
@@ -110,6 +128,11 @@
 	"#F56340": {
 		// Identifyer
 		"county_name" : "Rossshire and Cromartyshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ros",
 		// Popular make up
         "culture" : "",
@@ -137,6 +160,11 @@
 	"#4A834A": {
 		// Identifyer
 		"county_name" : "Invernessshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "inv",
 		// Popular make up
         "culture" : "",
@@ -164,6 +192,11 @@
 	"#D1A3AC": {
 		// Identifyer
 		"county_name" : "Morayshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mor",
 		// Popular make up
         "culture" : "",
@@ -191,6 +224,11 @@
 	"#AB846A": {
 		// Identifyer
 		"county_name" : "Banffshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ban",
 		// Popular make up
         "culture" : "",
@@ -218,6 +256,11 @@
 	"#D31DD2": {
 		// Identifyer
 		"county_name" : "Aberdeenshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Abe",
 		// Popular make up
         "culture" : "",
@@ -245,6 +288,11 @@
 	"#9E46BD": {
 		// Identifyer
 		"county_name" : "Nairnshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Nai",
 		// Popular make up
         "culture" : "",
@@ -272,6 +320,11 @@
 	"#E4D7A9": {
 		// Identifyer
 		"county_name" : "Kincardineshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Kin",
 		// Popular make up
         "culture" : "",
@@ -299,6 +352,11 @@
 	"#EF1345": {
 		// Identifyer
 		"county_name" : "Argyllshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Arg",
 		// Popular make up
         "culture" : "",
@@ -326,6 +384,11 @@
 	"#3EE159": {
 		// Identifyer
 		"county_name" : "Angus",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ang",
 		// Popular make up
         "culture" : "",
@@ -353,6 +416,11 @@
 	"#C6E355": {
 		// Identifyer
 		"county_name" : "Perthshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Per",
 		// Popular make up
         "culture" : "",
@@ -380,6 +448,11 @@
 	"#16E170": {
 		// Identifyer
 		"county_name" : "Fife",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Fif",
 		// Popular make up
         "culture" : "",
@@ -407,6 +480,11 @@
 	"#E045F3": {
 		// Identifyer
 		"county_name" : "Dumbarton",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Dum",
 		// Popular make up
         "culture" : "",
@@ -434,6 +512,11 @@
 	"#F4812D": {
 		// Identifyer
 		"county_name" : "Stirlingshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sti",
 		// Popular make up
         "culture" : "",
@@ -461,6 +544,11 @@
 	"#4812C0": {
 		// Identifyer
 		"county_name" : "Kinrossshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Kin",
 		// Popular make up
         "culture" : "",
@@ -488,6 +576,11 @@
 	"#4A45CC": {
 		// Identifyer
 		"county_name" : "Clackmannanshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cla",
 		// Popular make up
         "culture" : "",
@@ -515,6 +608,11 @@
 	"#A547B9": {
 		// Identifyer
 		"county_name" : "East Lothian",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "ELo",
 		// Popular make up
         "culture" : "",
@@ -542,6 +640,11 @@
 	"#93DE51": {
 		// Identifyer
 		"county_name" : "West Lothian",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Wlo",
 		// Popular make up
         "culture" : "",
@@ -569,6 +672,11 @@
 	"#4E15E1": {
 		// Identifyer
 		"county_name" : "Midlothian",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mlo",
 		// Popular make up
         "culture" : "",
@@ -596,6 +704,11 @@
 	"#7124A8": {
 		// Identifyer
 		"county_name" : "Renfrewshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ren",
 		// Popular make up
         "culture" : "",
@@ -623,6 +736,11 @@
 	"#6439BE": {
 		// Identifyer
 		"county_name" : "Buteshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "But",
 		// Popular make up
         "culture" : "",
@@ -650,6 +768,11 @@
 	"#7C4DA0": {
 		// Identifyer
 		"county_name" : "Lanarkshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Lan",
 		// Popular make up
         "culture" : "",
@@ -677,6 +800,11 @@
 	"#8780CC": {
 		// Identifyer
 		"county_name" : "Berwickshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ber",
 		// Popular make up
         "culture" : "",
@@ -704,6 +832,11 @@
 	"#056D10": {
 		// Identifyer
 		"county_name" : "Ayrshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ayr",
 		// Popular make up
         "culture" : "",
@@ -731,6 +864,11 @@
 	"#DF0ECA": {
 		// Identifyer
 		"county_name" : "Pebbleshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Peb",
 		// Popular make up
         "culture" : "",
@@ -758,6 +896,11 @@
 	"#42F6C9": {
 		// Identifyer
 		"county_name" : "Northumberland",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Nor",
 		// Popular make up
         "culture" : "",
@@ -785,6 +928,11 @@
 	"#89237A": {
 		// Identifyer
 		"county_name" : "Roxburghshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Rox",
 		// Popular make up
         "culture" : "",
@@ -812,6 +960,11 @@
 	"#A965F6": {
 		// Identifyer
 		"county_name" : "Selkirkshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sel",
 		// Popular make up
         "culture" : "",
@@ -839,6 +992,11 @@
 	"#970613": {
 		// Identifyer
 		"county_name" : "Dumfriesshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Dum",
 		// Popular make up
         "culture" : "",
@@ -866,6 +1024,11 @@
     "#608E87": {
 		// Identifyer
 		"county_name" : "Kirkcudbrightshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Kir",
 		// Popular make up
         "culture" : "",
@@ -893,6 +1056,11 @@
     "#6F20EE": {
 		// Identifyer
 		"county_name" : "Cumberland",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cmb",
 		// Popular make up
         "culture" : "",
@@ -920,6 +1088,11 @@
 	"#0A81CC": {
 		// Identifyer
 		"county_name" : "Wigtownshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Wig",
 		// Popular make up
         "culture" : "",
@@ -947,6 +1120,11 @@
     "#42D965": {
 		// Identifyer
 		"county_name" : "Durham",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Dur",
 		// Popular make up
         "culture" : "",
@@ -974,6 +1152,11 @@
     "#FEA807": {
 		// Identifyer
 		"county_name" : "Westmorland",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Wmo",
 		// Popular make up
         "culture" : "",
@@ -1001,6 +1184,11 @@
     "#D8C361": {
 		// Identifyer
 		"county_name": "York",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Yor",
 		// Popular make up
         "culture" : "",
@@ -1028,6 +1216,11 @@
     "#D9AE47": {
 		// Identifyer
 		"county_name" : "Mann",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Man",
 		// Popular make up
         "culture" : "",
@@ -1055,6 +1248,11 @@
     "#951311": {
 		// Identifyer
 		"county_name" : "Lancashire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Lan",
 		// Popular make up
         "culture" : "",
@@ -1082,6 +1280,11 @@
     "#798301": {
 		// Identifyer
 		"county_name" : "Lincolnshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Lin",
 		// Popular make up
         "culture" : "",
@@ -1109,6 +1312,11 @@
     "#D46A3F": {
 		// Identifyer
 		"county_name" : "Cheshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Che",
 		// Popular make up
         "culture" : "",
@@ -1136,6 +1344,11 @@
 	"#025BED": {
 		// Identifyer
 		"county_name" : "Nottinghamshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Not",
 		// Popular make up
         "culture" : "",
@@ -1163,6 +1376,11 @@
 	"#22710B": {
 		// Identifyer
 		"county_name" : "Derbyshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Der",
 		// Popular make up
         "culture" : "",
@@ -1190,6 +1408,11 @@
 	"#EC37F4": {
 		// Identifyer
 		"county_name" : "Yns Mon",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Yns",
 		// Popular make up
         "culture" : "",
@@ -1217,6 +1440,11 @@
     "#41EA33": {
 		// Identifyer
 		"county_name" : "Flintshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Fli",
 		// Popular make up
         "culture" : "",
@@ -1244,6 +1472,11 @@
     "#1D3FBF": {
 		// Identifyer
 		"county_name" : "Caenorfonshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cae",
 		// Popular make up
         "culture" : "",
@@ -1271,6 +1504,11 @@
 	"#FC53A2": {
 		// Identifyer
 		"county_name" : "Denbighshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Den",
 		// Popular make up
         "culture" : "",
@@ -1298,6 +1536,11 @@
 	"#AAB8D5": {
 		// Identifyer
 		"county_name" : "Staffordshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sta",
 		// Popular make up
         "culture" : "",
@@ -1325,6 +1568,11 @@
     "#A2E86D": {
 		// Identifyer
 		"county_name" : "Merioneth",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mar",
 		// Popular make up
         "culture" : "",
@@ -1352,6 +1600,11 @@
 	"#7EEC53": {
 		// Identifyer
 		"county_name" : "Norfolk",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Nfk",
 		// Popular make up
         "culture" : "",
@@ -1379,6 +1632,11 @@
 	"#5D9C3E": {
 		// Identifyer
 		"county_name" : "Shropshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Shr",
 		// Popular make up
         "culture" : "",
@@ -1406,6 +1664,11 @@
 	"#5716E1": {
 		// Identifyer
 		"county_name" : "Leicesterchire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Lei",
 		// Popular make up
         "culture" : "",
@@ -1433,6 +1696,11 @@
     "#AFC99F": {
 		// Identifyer
 		"county_name" : "Montgomeryshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mnt",
 		// Popular make up
         "culture" : "",
@@ -1460,6 +1728,11 @@
     "#D93663": {
 		// Identifyer
 		"county_name" : "Rutland",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Rut",
 		// Popular make up
         "culture" : "",
@@ -1487,6 +1760,11 @@
     "#81DA8F": {
 		// Identifyer
 		"county_name" : "Cambridgeshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cam",
 		// Popular make up
         "culture" : "",
@@ -1514,6 +1792,11 @@
 	"#CB903F": {
 		// Identifyer
 		"county_name" : "Northhamptonshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Nhp",
 		// Popular make up
         "culture" : "",
@@ -1541,6 +1824,11 @@
 	"#82A302": {
 		// Identifyer
 		"county_name" : "Warwickshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "War",
 		// Popular make up
         "culture" : "",
@@ -1568,6 +1856,11 @@
 	"#C21ECD": {
 		// Identifyer
 		"county_name" : "Suffolk",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Suf",
 		// Popular make up
         "culture" : "",
@@ -1595,6 +1888,11 @@
     "#3D0B34": {
 		// Identifyer
 		"county_name" : "Huntingdonshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Hun",
 		// Popular make up
         "culture" : "",
@@ -1622,6 +1920,11 @@
 	"#8B0E16": {
 		// Identifyer
 		"county_name" : "Cardiganshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Car",
 		// Popular make up
         "culture" : "",
@@ -1649,6 +1952,11 @@
     "#3A32AA": {
 		// Identifyer
 		"county_name" : "Worcestershire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Wor",
 		// Popular make up
         "culture" : "",
@@ -1676,6 +1984,11 @@
 	"#DF15EA": {
 		// Identifyer
 		"county_name" : "Radnorshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Rad",
 		// Popular make up
         "culture" : "",
@@ -1703,6 +2016,11 @@
 	"#325AEF": {
 		// Identifyer
 		"county_name" : "Herefordshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Her",
 		// Popular make up
         "culture" : "",
@@ -1730,6 +2048,11 @@
 	"#7220BB": {
 		// Identifyer
 		"county_name" : "Bedfordshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Bed",
 		// Popular make up
         "culture" : "",
@@ -1757,6 +2080,11 @@
     "#E61E2A": {
 		// Identifyer
 		"county_name" : "Buckinghamshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Buc",
 		// Popular make up
         "culture" : "",
@@ -1784,6 +2112,11 @@
 	"#3CBCAB": {
 		// Identifyer
 		"county_name" : "Gloucestershire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Glo",
 		// Popular make up
         "culture" : "",
@@ -1811,6 +2144,11 @@
 	"#B0ED29": {
 		// Identifyer
 		"county_name" : "Oxfordshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Oxf",
 		// Popular make up
         "culture" : "",
@@ -1838,6 +2176,11 @@
 	"#C1B4FD": {
 		// Identifyer
 		"county_name" : "Catmarthenshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cat",
 		// Popular make up
         "culture" : "",
@@ -1865,6 +2208,11 @@
 	"#4FB0D9": {
 		// Identifyer
 		"county_name" : "Essex",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ess",
 		// Popular make up
         "culture" : "",
@@ -1892,6 +2240,11 @@
 	"#0B5DC4": {
 		// Identifyer
 		"county_name" : "Pembrokeshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Pem",
 		// Popular make up
         "culture" : "",
@@ -1919,6 +2272,11 @@
 	"#7C4B5D": {
 		// Identifyer
 		"county_name" : "Hertfordshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Hrt",
 		// Popular make up
         "culture" : "",
@@ -1946,6 +2304,11 @@
 	"#6E0FB6": {
 		// Identifyer
 		"county_name" : "Monmonthshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mmn",
 		// Popular make up
         "culture" : "",
@@ -1973,6 +2336,11 @@
 	"#CE98D3": {
 		// Identifyer
 		"county_name" : "Glamorgan",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Gla",
 		// Popular make up
         "culture" : "",
@@ -2000,6 +2368,11 @@
 	"#693FB1": {
 		// Identifyer
 		"county_name" : "Berkshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ber",
 		// Popular make up
         "culture" : "",
@@ -2027,6 +2400,11 @@
 	"#EA9C4C": {
 		// Identifyer
 		"county_name" : "Middlesex",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Mid",
 		// Popular make up
         "culture" : "",
@@ -2054,6 +2432,11 @@
 	"#1554FD": {
 		// Identifyer
 		"county_name" : "Wiltshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Wil",
 		// Popular make up
         "culture" : "",
@@ -2081,6 +2464,11 @@
 	"#C32595": {
 		// Identifyer
 		"county_name" : "Kent",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ken",
 		// Popular make up
         "culture" : "",
@@ -2108,6 +2496,11 @@
 	"#1864FE": {
 		// Identifyer
 		"county_name" : "Surrey",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sur",
 		// Popular make up
         "culture" : "",
@@ -2135,6 +2528,11 @@
 	"#75C681": {
 		// Identifyer
 		"county_name" : "Somerset",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Som",
 		// Popular make up
         "culture" : "",
@@ -2162,6 +2560,11 @@
 	"#F0FEDC": {
 		// Identifyer
 		"county_name" : "Hampshire",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Ham",
 		// Popular make up
         "culture" : "",
@@ -2189,6 +2592,11 @@
 	"#EE85E5": {
 		// Identifyer
 		"county_name" : "Devon",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Dev",
 		// Popular make up
         "culture" : "",
@@ -2216,6 +2624,11 @@
 	"#727118": {
 	// Identifyer
 		"county_name" : "Sussex",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Sus",
 		// Popular make up
         "culture" : "",
@@ -2243,6 +2656,11 @@
 	"#CD5AC8": {
 		// Identifyer
 		"county_name" : "Dorset",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Dor",
 		// Popular make up
         "culture" : "",
@@ -2270,6 +2688,11 @@
 	"#787AB8": {
 		// Identifyer
 		"county_name" : "Cornwall",
+		"county_names" : {
+			"saxon" : "",
+			"norse" : "",
+			"bretogael" : ""
+		},
 		"county_code" : "Cor",
 		// Popular make up
         "culture" : "Cornish",
