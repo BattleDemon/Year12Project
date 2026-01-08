@@ -1,37 +1,37 @@
 {
 	"#F32142" : {
-		// Identifyer,
+		"county_name" : "Hjaltland",
 		"county_names" : {
 			"saxon" : "Hjaltland",
 			"norse" : "Hjaltland",
 			"bretogael" : "Sealtainn"
 		},
 		"county_code" : "Hja",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#5604B8": {
-		// Identifyer
+		
 		"county_name" : "Orkney",
 		"county_names" : {
 			"saxon" : "Orcneas",
@@ -39,31 +39,31 @@
 			"bretogael" : "Arcaibh"
 		},
 		"county_code" : "Ork",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#FEC267": {
-		// Identifyer
+		
 		"county_name" : "Caithness",
 		"county_names" : {
 			"saxon" : "Catnes",
@@ -71,31 +71,31 @@
 			"bretogael" : "Gallaibh"
 		},
 		"county_code" : "Cai",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#DA6C64" : {
-		// Identifyer
+		
 		"county-name" : "Sutherland",
 		"county_names" : {
 			"saxon" : "Suðrland",
@@ -103,287 +103,287 @@
 			"bretogael" : "Cataibh"
 		},
 		"county_code" : "Sut",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#F56340": {
-		// Identifyer
-		"county_name" : "Rossshire and Cromartyshire",
+		
+		"county_name" : "Ros",
 		"county_names" : {
 			"saxon" : "Ros",
 			"norse" : "Hróss",
 			"bretogael" : "Ros"
 		},
 		"county_code" : "Ros",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#4A834A": {
-		// Identifyer
-		"county_name" : "Invernessshire",
+		
+		"county_name" : "Inverness",
 		"county_names" : {
 			"saxon" : "Inbhirnis",
 			"norse" : "Invernes",
 			"bretogael" : "Inbhir Nis"
 		},
 		"county_code" : "inv",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#D1A3AC": {
-		// Identifyer
-		"county_name" : "Morayshire",
+		
+		"county_name" : "Moray",
 		"county_names" : {
 			"saxon" : "Moræf",
 			"norse" : "Myrkviðr",
 			"bretogael" : "Moireibh"
 		},
 		"county_code" : "Mor",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#AB846A": {
-		// Identifyer
-		"county_name" : "Banffshire",
+		
+		"county_name" : "Banff",
 		"county_names" : {
 			"saxon" : "Banff",
 			"norse" : "Banfi",
 			"bretogael" : "Banbh"
 		},
 		"county_code" : "Ban",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#D31DD2": {
-		// Identifyer
-		"county_name" : "Aberdeenshire",
+		
+		"county_name" : "Aberdeen",
 		"county_names" : {
 			"saxon" : "Aberdon",
 			"norse" : "Aberdín",
 			"bretogael" : "Obar Dheathain"
 		},
 		"county_code" : "Abe",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#9E46BD": {
-		// Identifyer
-		"county_name" : "Nairnshire",
+		
+		"county_name" : "Nairn",
 		"county_names" : {
 			"saxon" : "Nairn",
 			"norse" : "Njarðvík",
 			"bretogael" : "Inbhir Narann"
 		},
 		"county_code" : "Nai",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#E4D7A9": {
-		// Identifyer
-		"county_name" : "Kincardineshire",
+		
+		"county_name" : "Kincardine",
 		"county_names" : {
 			"saxon" : "Kincardine",
 			"norse" : "Kirkjugarðr",
 			"bretogael" : "Cinn Chàrdainn"
 		},
 		"county_code" : "Kin",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#EF1345": {
-		// Identifyer
-		"county_name" : "Argyllshire",
+		
+		"county_name" : "Argyll",
 		"county_names" : {
 			"saxon" : "Argyl",
 			"norse" : "Airer Goídel",
 			"bretogael" : "Earra-Ghàidheal"
 		},
 		"county_code" : "Arg",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#3EE159": {
-		// Identifyer
+		
 		"county_name" : "Angus",
 		"county_names" : {
 			"saxon" : "Angus",
@@ -391,63 +391,63 @@
 			"bretogael" : "Aonghas"
 		},
 		"county_code" : "Ang",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#C6E355": {
-		// Identifyer
-		"county_name" : "Perthshire",
+		
+		"county_name" : "Perth",
 		"county_names" : {
 			"saxon" : "Perth",
 			"norse" : "Perth",
 			"bretogael" : "Peairt"
 		},
 		"county_code" : "Per",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#16E170": {
-		// Identifyer
+		
 		"county_name" : "Fife",
 		"county_names" : {
 			"saxon" : "Fif",
@@ -455,31 +455,31 @@
 			"bretogael" : "Fìobha"
 		},
 		"county_code" : "Fif",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#E045F3": {
-		// Identifyer
+		
 		"county_name" : "Dumbarton",
 		"county_names" : {
 			"saxon" : "Dun Bretan",
@@ -487,127 +487,127 @@
 			"bretogael" : "Dùn Breatainn"
 		},
 		"county_code" : "Dum",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#F4812D": {
-		// Identifyer
-		"county_name" : "Stirlingshire",
+		
+		"county_name" : "Stirling",
 		"county_names" : {
 			"saxon" : "Strivelin",
 			"norse" : "Strífland",
 			"bretogael" : "Sruighlea"
 		},
 		"county_code" : "Sti",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#4812C0": {
-		// Identifyer
-		"county_name" : "Kinrossshire",
+		
+		"county_name" : "Kinross",
 		"county_names" : {
 			"saxon" : "Kinross",
 			"norse" : "Kinnrós",
 			"bretogael" : "Ceann Rois"
 		},
 		"county_code" : "Kin",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#4A45CC": {
-		// Identifyer
-		"county_name" : "Clackmannanshire",
+		
+		"county_name" : "Clackmannan",
 		"county_names" : {
 			"saxon" : "Clacmannan",
 			"norse" : "Klakmann",
 			"bretogael" : "Clach Mhanainn"
 		},
 		"county_code" : "Cla",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#A547B9": {
-		// Identifyer
+		
 		"county_name" : "East Lothian",
 		"county_names" : {
 			"saxon" : "Lodene",
@@ -615,31 +615,31 @@
 			"bretogael" : "Lodainn"
 		},
 		"county_code" : "ELo",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#93DE51": {
-		// Identifyer
+		
 		"county_name" : "West Lothian",
 		"county_names" : {
 			"saxon" : "West Lodene",
@@ -647,31 +647,31 @@
 			"bretogael" : "Lodainn an Iar"
 		},
 		"county_code" : "Wlo",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#4E15E1": {
-		// Identifyer
+		
 		"county_name" : "Midlothian",
 		"county_names" : {
 			"saxon" : "Mid Lodene",
@@ -679,223 +679,223 @@
 			"bretogael" : "Meadhan Lodainn"
 		},
 		"county_code" : "Mlo",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#7124A8": {
-		// Identifyer
-		"county_name" : "Renfrewshire",
+		
+		"county_name" : "Renfrew",
 		"county_names" : {
 			"saxon" : "Renfriu",
 			"norse" : "Rannfrith",
 			"bretogael" : "Rinn Friù"
 		},
 		"county_code" : "Ren",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#6439BE": {
-		// Identifyer
-		"county_name" : "Buteshire",
+		
+		"county_name" : "Bute",
 		"county_names" : {
 			"saxon" : "Bute",
 			"norse" : "Bót",
 			"bretogael" : "Bòd"
 		},
 		"county_code" : "But",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#7C4DA0": {
-		// Identifyer
-		"county_name" : "Lanarkshire",
+		
+		"county_name" : "Lanark",
 		"county_names" : {
 			"saxon" : "Lanerc",
 			"norse" : "Lanerk",
 			"bretogael" : "Lannraig"
 		},
 		"county_code" : "Lan",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#8780CC": {
-		// Identifyer
-		"county_name" : "Berwickshire",
+		
+		"county_name" : "Berwick",
 		"county_names" : {
 			"saxon" : "Berewic",
 			"norse" : "Beruvík",
 			"bretogael" : "Bearaig"
 		},
 		"county_code" : "Ber",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#056D10": {
-		// Identifyer
-		"county_name" : "Ayrshire",
+		
+		"county_name" : "Ayr",
 		"county_names" : {
 			"saxon" : "Eyr",
 			"norse" : "Eyrr",
 			"bretogael" : "Inbhir Àir"
 		},
 		"county_code" : "Ayr",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#DF0ECA": {
-		// Identifyer
-		"county_name" : "Pebbleshire",
+		
+		"county_name" : "Pebble",
 		"county_names" : {
 			"saxon" : "Peblis",
 			"norse" : "Píflis",
 			"bretogael" : "Na Pùballan"
 		},
 		"county_code" : "Peb",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#42F6C9": {
-		// Identifyer
+		
 		"county_name" : "Northumberland",
 		"county_names" : {
 			"saxon" : "Norþhymbra Land",
@@ -903,159 +903,159 @@
 			"bretogael" : "Brynaich"
 		},
 		"county_code" : "Nor",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#89237A": {
-		// Identifyer
-		"county_name" : "Roxburghshire",
+		
+		"county_name" : "Roxburgh",
 		"county_names" : {
 			"saxon" : "Hrocaburh",
 			"norse" : "Hrocaburh",
 			"bretogael" : "Rosbrog"
 		},
 		"county_code" : "Rox",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#A965F6": {
-		// Identifyer
-		"county_name" : "Selkirkshire",
+		
+		"county_name" : "Selkirk",
 		"county_names" : {
 			"saxon" : "Selecirce",
 			"norse" : "Selkirkja",
 			"bretogael" : "Eaglais na Saileach"
 		},
 		"county_code" : "Sel",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#970613": {
-		// Identifyer
-		"county_name" : "Dumfriesshire",
+		
+		"county_name" : "Dumfries",
 		"county_names" : {
 			"saxon" : "Dunfres",
 			"norse" : "Dúnfrís",
 			"bretogael" : "Dùn Phris"
 		},
 		"county_code" : "Dum",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#608E87": {
-		// Identifyer
-		"county_name" : "Kirkcudbrightshire",
+		
+		"county_name" : "Kirkcudbright",
 		"county_names" : {
 			"saxon" : "Kirkcuthbert",
 			"norse" : "Kirkja Guðbrands",
 			"bretogael" : "Cille Chuithbeirt"
 		},
 		"county_code" : "Kir",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#6F20EE": {
-		// Identifyer
+		
 		"county_name" : "Cumberland",
 		"county_names" : {
 			"saxon" : "Cumbraland",
@@ -1063,63 +1063,63 @@
 			"bretogael" : "Kumbria"
 		},
 		"county_code" : "Cmb",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#0A81CC": {
-		// Identifyer
-		"county_name" : "Wigtownshire",
+		
+		"county_name" : "Wigtown",
 		"county_names" : {
 			"saxon" : "Wicetun",
 			"norse" : "Víkjartún",
 			"bretogael" : "Baile na h-Ùige"
 		},
 		"county_code" : "Wig",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#42D965": {
-		// Identifyer
+		
 		"county_name" : "Durham",
 		"county_names" : {
 			"saxon" : "Dunholm",
@@ -1127,31 +1127,31 @@
 			"bretogael" : "Dùn Holme"
 		},
 		"county_code" : "Dur",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#FEA807": {
-		// Identifyer
+		
 		"county_name" : "Westmorland",
 		"county_names" : {
 			"saxon" : "Westmoringaland",
@@ -1159,31 +1159,31 @@
 			"bretogael" : "Mor Tir an Iar"
 		},
 		"county_code" : "Wmo",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#D8C361": {
-		// Identifyer
+		
 		"county_name": "York",
 		"county_names" : {
 			"saxon" : "Eoforwic",
@@ -1191,31 +1191,31 @@
 			"bretogael" : "Eboracon"
 		},
 		"county_code" : "Yor",
-		// Popular make up
+		
         "culture" : "norse",
         "faith" : "asatru",
-		// Control
+		
         "authority" : "Nrd",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#D9AE47": {
-		// Identifyer
+		
 		"county_name" : "Mann",
 		"county_names" : {
 			"saxon" : "Man",
@@ -1223,31 +1223,31 @@
 			"bretogael" : "Mannin"
 		},
 		"county_code" : "Man",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#951311": {
-		// Identifyer
+		
 		"county_name" : "Lancashire",
 		"county_names" : {
 			"saxon" : "Loncashire",
@@ -1255,31 +1255,31 @@
 			"bretogael" : "Lann Glas"
 		},
 		"county_code" : "Lan",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#798301": {
-		// Identifyer
+		
 		"county_name" : "Lincolnshire",
 		"county_names" : {
 			"saxon" : "Lindesege",
@@ -1287,31 +1287,31 @@
 			"bretogael" : "Lindum"
 		},
 		"county_code" : "Lin",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#D46A3F": {
-		// Identifyer
+		
 		"county_name" : "Cheshire",
 		"county_names" : {
 			"saxon" : "Legeceasterscir",
@@ -1319,95 +1319,95 @@
 			"bretogael" : "Caerlleon"
 		},
 		"county_code" : "Che",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#025BED": {
-		// Identifyer
-		"county_name" : "Nottinghamshire",
+		
+		"county_name" : "Nottingham",
 		"county_names" : {
 			"saxon" : "Snotingahamscir",
 			"norse" : "Snotingahamn",
 			"bretogael" : "Tig Guocobauc"
 		},
 		"county_code" : "Not",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#22710B": {
-		// Identifyer
-		"county_name" : "Derbyshire",
+		
+		"county_name" : "Derby",
 		"county_names" : {
 			"saxon" : "Deoraby",
 			"norse" : "Djúrabý",
 			"bretogael" : "Darby"
 		},
 		"county_code" : "Der",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#EC37F4": {
-		// Identifyer
+		
 		"county_name" : "Yns Mon",
 		"county_names" : {
 			"saxon" : "Anglesey",
@@ -1415,31 +1415,31 @@
 			"bretogael" : "Ynys Môn"
 		},
 		"county_code" : "Yns",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#41EA33": {
-		// Identifyer
+		
 		"county_name" : "Flintshire",
 		"county_names" : {
 			"saxon" : "Flintscir",
@@ -1447,127 +1447,127 @@
 			"bretogael" : "Sir y Fflint"
 		},
 		"county_code" : "Fli",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#1D3FBF": {
-		// Identifyer
-		"county_name" : "Caenorfonshire",
+		
+		"county_name" : "Caenorfon",
 		"county_names" : {
 			"saxon" : "Caer Arfon",
 			"norse" : "Kárnarfon",
 			"bretogael" : "Caernarfon"
 		},
 		"county_code" : "Cae",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#FC53A2": {
-		// Identifyer
-		"county_name" : "Denbighshire",
+		
+		"county_name" : "Denbigh",
 		"county_names" : {
 			"saxon" : "Dinbych",
 			"norse" : "Dynnbekk",
 			"bretogael" : "Dinbych"
 		},
 		"county_code" : "Den",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#AAB8D5": {
-		// Identifyer
-		"county_name" : "Staffordshire",
+		
+		"county_name" : "Stafford",
 		"county_names" : {
 			"saxon" : "Stæffordscīr",
 			"norse" : "Staðafjörðr",
 			"bretogael" : "Rhyd y Staff"
 		},
 		"county_code" : "Sta",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#A2E86D": {
-		// Identifyer
+		
 		"county_name" : "Merioneth",
 		"county_names" : {
 			"saxon" : "Meirionydd",
@@ -1575,31 +1575,31 @@
 			"bretogael" : "Meirionnydd"
 		},
 		"county_code" : "Mar",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#7EEC53": {
-		// Identifyer
+		
 		"county_name" : "Norfolk",
 		"county_names" : {
 			"saxon" : "Norþfolc",
@@ -1607,31 +1607,31 @@
 			"bretogael" : "Northfolk"
 		},
 		"county_code" : "Nfk",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#5D9C3E": {
-		// Identifyer
+		
 		"county_name" : "Shropshire",
 		"county_names" : {
 			"saxon" : "Scrobbesbyrgscīr",
@@ -1639,31 +1639,31 @@
 			"bretogael" : "Pengwern"
 		},
 		"county_code" : "Shr",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#5716E1": {
-		// Identifyer
+		
 		"county_name" : "Leicesterchire",
 		"county_names" : {
 			"saxon" : "Ligorceastrescīr",
@@ -1671,63 +1671,63 @@
 			"bretogael" : "Caerlŷr"
 		},
 		"county_code" : "Lei",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#AFC99F": {
-		// Identifyer
-		"county_name" : "Montgomeryshire",
+		
+		"county_name" : "Montgomery",
 		"county_names" : {
 			"saxon" : "Montgomeriscir",
 			"norse" : "Muntgomer",
 			"bretogael" : "Trefaldwyn"
 		},
 		"county_code" : "Mnt",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#D93663": {
-		// Identifyer
+		
 		"county_name" : "Rutland",
 		"county_names" : {
 			"saxon" : "Roteland",
@@ -1735,127 +1735,127 @@
 			"bretogael" : "Gwlad Rote"
 		},
 		"county_code" : "Rut",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#81DA8F": {
-		// Identifyer
-		"county_name" : "Cambridgeshire",
+		
+		"county_name" : "Cambridge",
 		"county_names" : {
 			"saxon" : "Grantebrycg",
 			"norse" : "Grantubryggja",
 			"bretogael" : "Rhyd y Granta"
 		},
 		"county_code" : "Cam",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#CB903F": {
-		// Identifyer
-		"county_name" : "Northhamptonshire",
+		
+		"county_name" : "Northhampton",
 		"county_names" : {
 			"saxon" : "Hāmtūnscīr Norð",
 			"norse" : "Norðr Hamtúnskíri",
 			"bretogael" : "Gwlad Hamtun y Gogledd"
 		},
 		"county_code" : "Nhp",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#82A302": {
-		// Identifyer
-		"county_name" : "Warwickshire",
+		
+		"county_name" : "Warwick",
 		"county_names" : {
 			"saxon" : "Wæringscīr",
 			"norse" : "Væringaskíri",
 			"bretogael" : "Tir y Wæringas"
 		},
 		"county_code" : "War",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#C21ECD": {
-		// Identifyer
+		
 		"county_name" : "Suffolk",
 		"county_names" : {
 			"saxon" : "Suþfolc",
@@ -1863,351 +1863,351 @@
 			"bretogael" : "Southfolk"
 		},
 		"county_code" : "Suf",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#3D0B34": {
-		// Identifyer
-		"county_name" : "Huntingdonshire",
+		
+		"county_name" : "Huntingdon",
 		"county_names" : {
 			"saxon" : "Huntandūnscīr",
 			"norse" : "Veiðitúnskíri",
 			"bretogael" : "Tir y Helwyr"
 		},
 		"county_code" : "Hun",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#8B0E16": {
-		// Identifyer
-		"county_name" : "Cardiganshire",
+		
+		"county_name" : "Cardigan",
 		"county_names" : {
 			"saxon" : "Ceredigion",
 			"norse" : "Kerrekland",
 			"bretogael" : "Ceredigion"
 		},
 		"county_code" : "Car",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#3A32AA": {
-		// Identifyer
-		"county_name" : "Worcestershire",
+		
+		"county_name" : "Worcester",
 		"county_names" : {
 			"saxon" : "Weogoraceastrescīr",
 			"norse" : "Vegarakæstr",
 			"bretogael" : "Caerwrangon"
 		},
 		"county_code" : "Wor",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#DF15EA": {
-		// Identifyer
-		"county_name" : "Radnorshire",
+		
+		"county_name" : "Radnor",
 		"county_names" : {
 			"saxon" : "Radenor",
 			"norse" : "Raðnor",
 			"bretogael" : "Maesyfed"
 		},
 		"county_code" : "Rad",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#325AEF": {
-		// Identifyer
-		"county_name" : "Herefordshire",
+		
+		"county_name" : "Hereford",
 		"county_names" : {
 			"saxon" : "Herefordscīr",
 			"norse" : "Herjafjörðr",
 			"bretogael" : "Henffordd"
 		},
 		"county_code" : "Her",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#7220BB": {
-		// Identifyer
-		"county_name" : "Bedfordshire",
+		
+		"county_name" : "Bedford",
 		"county_names" : {
 			"saxon" : "Bedanfordscīr",
 			"norse" : "Baðanfordskíri",
 			"bretogael" : "Rhyd Bedan"
 		},
 		"county_code" : "Bed",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
     "#E61E2A": {
-		// Identifyer
-		"county_name" : "Buckinghamshire",
+		
+		"county_name" : "Buckingham",
 		"county_names" : {
 			"saxon" : "Buccingahamscīr",
 			"norse" : "Bukkingshǫfnskíri",
 			"bretogael" : "Tir y Buccingas"
 		},
 		"county_code" : "Buc",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#3CBCAB": {
-		// Identifyer
-		"county_name" : "Gloucestershire",
+		
+		"county_name" : "Gloucester",
 		"county_names" : {
 			"saxon" : "Glowecestrescīr",
 			"norse" : "Glowkæstrskíri",
 			"bretogael" : "Caerloyw"
 		},
 		"county_code" : "Glo",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#B0ED29": {
-		// Identifyer
-		"county_name" : "Oxfordshire",
+		
+		"county_name" : "Oxford",
 		"county_names" : {
 			"saxon" : "Oxnafordscīr",
 			"norse" : "Uxnafjörðr",
 			"bretogael" : "Rhyd yr Ychen"
 		},
 		"county_code" : "Oxf",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#C1B4FD": {
-		// Identifyer
-		"county_name" : "Catmarthenshire",
+		
+		"county_name" : "Catmarthen",
 		"county_names" : {
 			"saxon" : "Moridunum",
 			"norse" : "Maridún",
 			"bretogael" : "Caerfyrddin"
 		},
 		"county_code" : "Cat",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#4FB0D9": {
-		// Identifyer
+		
 		"county_name" : "Essex",
 		"county_names" : {
 			"saxon" : "Eastseaxe",
@@ -2215,127 +2215,127 @@
 			"bretogael" : "East Sax"
 		},
 		"county_code" : "Ess",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#0B5DC4": {
-		// Identifyer
-		"county_name" : "Pembrokeshire",
+		
+		"county_name" : "Pembroke",
 		"county_names" : {
 			"saxon" : "Penbroc",
 			"norse" : "Penbrok",
 			"bretogael" : "Penfro"
 		},
 		"county_code" : "Pem",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#7C4B5D": {
-		// Identifyer
-		"county_name" : "Hertfordshire",
+		
+		"county_name" : "Hertford",
 		"county_names" : {
 			"saxon" : "Heorotfordscīr",
 			"norse" : "Hjartarvaðskíri",
 			"bretogael" : "Rhyd y Carw"
 		},
 		"county_code" : "Hrt",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#6E0FB6": {
-		// Identifyer
-		"county_name" : "Monmonthshire",
+		
+		"county_name" : "Monmonth",
 		"county_names" : {
 			"saxon" : "Monewuda",
 			"norse" : "Mönmúð",
 			"bretogael" : "Trefynwy"
 		},
 		"county_code" : "Mmn",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#CE98D3": {
-		// Identifyer
+		
 		"county_name" : "Glamorgan",
 		"county_names" : {
 			"saxon" : "Morganwg",
@@ -2343,31 +2343,31 @@
 			"bretogael" : "Morgannwg"
 		},
 		"county_code" : "Gla",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#693FB1": {
-		// Identifyer
+		
 		"county_name" : "Berkshire",
 		"county_names" : {
 			"saxon" : "Bearrocscīr",
@@ -2375,31 +2375,31 @@
 			"bretogael" : "Gwlad y Bearroc"
 		},
 		"county_code" : "Ber",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#EA9C4C": {
-		// Identifyer
+		
 		"county_name" : "Middlesex",
 		"county_names" : {
 			"saxon" : "Middelseaxe",
@@ -2407,31 +2407,31 @@
 			"bretogael" : "Tir y Saeson Canol"
 		},
 		"county_code" : "Mid",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#1554FD": {
-		// Identifyer
+		
 		"county_name" : "Wiltshire",
 		"county_names" : {
 			"saxon" : "Wiltūnscīr",
@@ -2439,31 +2439,31 @@
 			"bretogael" : "Gwlad Wilton"
 		},
 		"county_code" : "Wil",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#C32595": {
-		// Identifyer
+		
 		"county_name" : "Kent",
 		"county_names" : {
 			"saxon" : "Cent",
@@ -2471,31 +2471,31 @@
 			"bretogael" : "Cantium"
 		},
 		"county_code" : "Ken",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#1864FE": {
-		// Identifyer
+		
 		"county_name" : "Surrey",
 		"county_names" : {
 			"saxon" : "Suthrige",
@@ -2503,31 +2503,31 @@
 			"bretogael" : "Suroga"
 		},
 		"county_code" : "Sur",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#75C681": {
-		// Identifyer
+		
 		"county_name" : "Somerset",
 		"county_names" : {
 			"saxon" : "Sumorsǣte",
@@ -2535,31 +2535,31 @@
 			"bretogael" : "Gwlad yr Haf"
 		},
 		"county_code" : "Som",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#F0FEDC": {
-		// Identifyer
+		
 		"county_name" : "Hampshire",
 		"county_names" : {
 			"saxon" : "Hamtunscir",
@@ -2567,31 +2567,31 @@
 			"bretogael" : "Hamtir"
 		},
 		"county_code" : "Ham",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#EE85E5": {
-		// Identifyer
+		
 		"county_name" : "Devon",
 		"county_names" : {
 			"saxon" : "Defenascir",
@@ -2599,31 +2599,31 @@
 			"bretogael" : "Dyfnaint"
 		},
 		"county_code" : "Dev",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#727118": {
-	// Identifyer
+	
 		"county_name" : "Sussex",
 		"county_names" : {
 			"saxon" : "Suþseaxe",
@@ -2631,31 +2631,31 @@
 			"bretogael" : "South Sax"
 		},
 		"county_code" : "Sus",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#CD5AC8": {
-		// Identifyer
+		
 		"county_name" : "Dorset",
 		"county_names" : {
 			"saxon" : "Dornwarascir",
@@ -2663,31 +2663,31 @@
 			"bretogael" : "Durnovaria"
 		},
 		"county_code" : "Dor",
-		// Popular make up
+		
         "culture" : "",
         "faith" : "",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	},
 	"#787AB8": {
-		// Identifyer
+		
 		"county_name" : "Cornwall",
 		"county_names" : {
 			"saxon" : "Cornwealas",
@@ -2695,26 +2695,26 @@
 			"bretogael" : "Kernow"
 		},
 		"county_code" : "Cor",
-		// Popular make up
+		
         "culture" : "Cornish",
         "faith" : "Insular Catholic",
-		// Control
+		
         "authority" : "",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",
         "pressure" : "",
-		// Economy
+		
 		"base_output" : "",
 		"extraction_efficientcy" : "",
-		// Military
+		
 		"levy_pool" : "",
 		"levy_rate" : "",
 		"fort-lvl" : "",
-		// Geography
+		
 		"terrain_type" : "",
 		"infrastrucure" : "",
-		// Memory
+		
 		"integration_stage" : "",
 		"strategic_tags" : ""
 	}
