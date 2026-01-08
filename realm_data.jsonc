@@ -1,67 +1,62 @@
 {
-    "#1E4F3A" : {
-        "realm_name" : "Cornwall",
-        "realm_code" : "Cor",
-        "capital" : ""
-    },
-    "#4A8A5A" : {
-        "realm_name" : "Gwent",
-        "realm_code" : "Gwe",
-        "capital" : ""
-    },
-    "#356B44" : {
-        "realm_name" : "Deheubarth",
-        "realm_code" : "Deh",
-        "capital" : ""
-    },
-    "#3F7A4A" : {
-        "realm_name" : "Powys",
-        "realm_code" : "Pow",
-        "capital" : ""
-    },
-    "#2F6B3F" : {
-        "realm_name" : "Gwynedd",
-        "realm_code" : "Gwy",
-        "capital" : ""
-    },
-    "#3B6B5A" : {
-        "realm_name" : "Strathclyde:",
-        "realm_code" : "Str",
-        "capital" : ""
-    },
-    "#2E5F4F" : {
-        "realm_name" : "Alba",
-        "realm_code" : "Alb",
-        "capital" : ""
-    },
-    "#1F4E5F" : {
-        "realm_name" : "Subreyjar",
-        "realm_code" : "Sub",
-        "capital" : ""
-    },
-    "#355F8A" : {
-        "realm_name" : "Northen Danelaw",
-        "realm_code" : "Nrd",
-        "capital" : ""
-    },
-    "#2F5D73" : {
-        "realm_name" : "Danelaw",
-        "realm_code" : "Dan",
-        "capital" : ""
-    },
-    "#6A2C2C" : {
-        "realm_name" : "Northumbria",
-        "realm_code" : "Nor",
-        "capital" : ""
-    },
-    "#8B3A2E" : {
-        "realm_name" : "Mercia",
-        "realm_code" : "Mer",
-        "capital" : ""
-    },
-    "#7A2E2E" : {
-        "realm_name" : "Wessex",
-        "realm_code" : "Wes",
-        "capital" : ""
-    }
+  "Cor": {
+    "realm_name": "Cornwall",
+    "realm_code": "Cor",
+    "capital": "",
+    "color": "#1E4F3A"
+  },
+  "Gwe": {
+    "realm_name": "Gwent",
+    "realm_code": "Gwe",
+    "capital": "",
+    "color": "#4A8A5A"
+  },
+  "Deh": {
+    "realm_name": "Deheubarth",
+    "realm_code": "Deh",
+    "capital": "",
+    "color": "#356B44"
+  },
+  "Alb": {
+    "realm_name": "Alba",
+    "realm_code": "Alb",
+    "capital": "",
+    "color": "#2E5F4F"
+  },
+  "Sub": {
+    "realm_name": "Subreyjar",
+    "realm_code": "Sub",
+    "capital": "",
+    "color": "#1F4E5F"
+  },
+  "Nrd": {
+    "realm_name": "Northen Danelaw",
+    "realm_code": "Nrd",
+    "capital": "",
+    "color": "#355F8A"
+  },
+  "Dan": {
+    "realm_name": "Danelaw",
+    "realm_code": "Dan",
+    "capital": "",
+    "color": "#2F5D73"
+  },
+  "Nor": {
+    "realm_name": "Northumbria",
+    "realm_code": "Nor",
+    "capital": "",
+    "color": "#6A2C2C"
+  },
+  "Mer": {
+    "realm_name": "Mercia",
+    "realm_code": "Mer",
+    "capital": "",
+    "color": "#8B3A2E"
+  },
+  "Wes": {
+    "realm_name": "Wessex",
+    "realm_code": "Wes",
+    "capital": "",
+    "color": "#7A2E2E"
+  }
 }
