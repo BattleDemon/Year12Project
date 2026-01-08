@@ -1192,10 +1192,10 @@
 		},
 		"county_code" : "Yor",
 		// Popular make up
-        "culture" : "",
-        "faith" : "",
+        "culture" : "norse",
+        "faith" : "asatru",
 		// Control
-        "authority" : "",
+        "authority" : "Nrd",
         "culture_acceptance" : "",
         "administrative_control" : "",
         "elite_loyalty" : "",

@@ -1,54 +1,67 @@
 {
     "#1E4F3A" : {
-        "country_name" : "Cornwall",
+        "realm_name" : "Cornwall",
+        "realm_code" : "Cor",
         "capital" : ""
     },
     "#4A8A5A" : {
-        "country_name" : "Gwent",
+        "realm_name" : "Gwent",
+        "realm_code" : "Gwe",
         "capital" : ""
     },
     "#356B44" : {
-        "country_name" : "Deheubarth",
+        "realm_name" : "Deheubarth",
+        "realm_code" : "Deh",
         "capital" : ""
     },
     "#3F7A4A" : {
-        "country_name" : "Powys",
+        "realm_name" : "Powys",
+        "realm_code" : "Pow",
         "capital" : ""
     },
     "#2F6B3F" : {
-        "country_name" : "Gwynedd",
+        "realm_name" : "Gwynedd",
+        "realm_code" : "Gwy",
         "capital" : ""
     },
     "#3B6B5A" : {
-        "country_name" : "Strathclyde:",
+        "realm_name" : "Strathclyde:",
+        "realm_code" : "Str",
         "capital" : ""
     },
     "#2E5F4F" : {
-        "country_name" : "Alba",
+        "realm_name" : "Alba",
+        "realm_code" : "Alb",
         "capital" : ""
     },
     "#1F4E5F" : {
-        "country_name" : "Subreyjar",
+        "realm_name" : "Subreyjar",
+        "realm_code" : "Sub",
         "capital" : ""
     },
     "#355F8A" : {
-        "country_name" : "Northen Danelaw",
+        "realm_name" : "Northen Danelaw",
+        "realm_code" : "Nrd",
         "capital" : ""
     },
     "#2F5D73" : {
-        "country_name" : "Danelaw",
+        "realm_name" : "Danelaw",
+        "realm_code" : "Dan",
         "capital" : ""
     },
     "#6A2C2C" : {
-        "country_name" : "Northumbria",
+        "realm_name" : "Northumbria",
+        "realm_code" : "Nor",
         "capital" : ""
     },
     "#8B3A2E" : {
-        "country_name" : "Mercia",
+        "realm_name" : "Mercia",
+        "realm_code" : "Mer",
         "capital" : ""
     },
     "#7A2E2E" : {
-        "country_name" : "Wessex",
+        "realm_name" : "Wessex",
+        "realm_code" : "Wes",
         "capital" : ""
     }
 }
