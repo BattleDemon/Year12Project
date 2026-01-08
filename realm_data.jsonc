@@ -1,0 +1,41 @@
+{
+    "#1E4F3A" : {
+        "Country_name" : "Cornwall"
+    },
+    "#4A8A5A" : {
+        "Country_name" : "Gwent"
+    },
+    "#356B44" : {
+        "Country_name" : "Deheubarth"
+    },
+    "#3F7A4A" : {
+        "Country_name" : "Powys"
+    },
+    "#2F6B3F" : {
+        "Country_name" : "Gwynedd"
+    },
+    "#3B6B5A" : {
+        "Country_name" : "Strathclyde:"
+    },
+    "#2E5F4F" : {
+        "Country_name" : "Alba"
+    },
+    "#1F4E5F" : {
+        "Country_name" : "Subreyjar"
+    },
+    "#355F8A" : {
+        "Country_name" : "Northen Danelaw"
+    },
+    "#2F5D73" : {
+        "Country_name" : "Danelaw"
+    },
+    "#6A2C2C" : {
+        "Country_name" : "Northumbria"
+    },
+    "#8B3A2E" : {
+        "Country_name" : "Mercia"
+    },
+    "#7A2E2E" : {
+        "Country_name" : "Wessex"
+    }
+}
