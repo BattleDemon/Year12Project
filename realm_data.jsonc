@@ -1,41 +1,54 @@
 {
     "#1E4F3A" : {
-        "Country_name" : "Cornwall"
+        "country_name" : "Cornwall",
+        "capital" : ""
     },
     "#4A8A5A" : {
-        "Country_name" : "Gwent"
+        "country_name" : "Gwent",
+        "capital" : ""
     },
     "#356B44" : {
-        "Country_name" : "Deheubarth"
+        "country_name" : "Deheubarth",
+        "capital" : ""
     },
     "#3F7A4A" : {
-        "Country_name" : "Powys"
+        "country_name" : "Powys",
+        "capital" : ""
     },
     "#2F6B3F" : {
-        "Country_name" : "Gwynedd"
+        "country_name" : "Gwynedd",
+        "capital" : ""
     },
     "#3B6B5A" : {
-        "Country_name" : "Strathclyde:"
+        "country_name" : "Strathclyde:",
+        "capital" : ""
     },
     "#2E5F4F" : {
-        "Country_name" : "Alba"
+        "country_name" : "Alba",
+        "capital" : ""
     },
     "#1F4E5F" : {
-        "Country_name" : "Subreyjar"
+        "country_name" : "Subreyjar",
+        "capital" : ""
     },
     "#355F8A" : {
-        "Country_name" : "Northen Danelaw"
+        "country_name" : "Northen Danelaw",
+        "capital" : ""
     },
     "#2F5D73" : {
-        "Country_name" : "Danelaw"
+        "country_name" : "Danelaw",
+        "capital" : ""
     },
     "#6A2C2C" : {
-        "Country_name" : "Northumbria"
+        "country_name" : "Northumbria",
+        "capital" : ""
     },
     "#8B3A2E" : {
-        "Country_name" : "Mercia"
+        "country_name" : "Mercia",
+        "capital" : ""
     },
     "#7A2E2E" : {
-        "Country_name" : "Wessex"
+        "country_name" : "Wessex",
+        "capital" : ""
     }
 }
