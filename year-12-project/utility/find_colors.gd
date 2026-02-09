@@ -13,7 +13,7 @@ func _ready() -> void:
 #
 	#var data = get_pixel_color_dict(img)
 	#save_pixel_data_to_json(data, "res://pixel_data.json")
-	var tex: Texture2D = load("res://modified_design.png")
+	var tex: Texture2D = load("res://utility/goodMap.png")
 	var img: Image = tex.get_image()
 	img.decompress()
 	img.convert(Image.FORMAT_RGBA8)

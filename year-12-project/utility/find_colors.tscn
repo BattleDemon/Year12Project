@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://bqf03osdn17ui"]
+[gd_scene format=3 uid="uid://bqf03osdn17ui"]
 
 [ext_resource type="Script" uid="uid://lqmutu4fxfv" path="res://utility/find_colors.gd" id="1_0dcks"]
 
-[node name="Find Colors" type="Node2D"]
+[node name="Find Colors" type="Node2D" unique_id=747190785]
 script = ExtResource("1_0dcks")
