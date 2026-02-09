@@ -1,2721 +1,1020 @@
 {
-	"#F32142" : {
-		"county_name" : "Hjaltland",
-		"county_names" : {
-			"saxon" : "Hjaltland",
-			"norse" : "Hjaltland",
-			"bretogael" : "Sealtainn"
+	"Template" : {
+		"county_code": "XXX -  letter country code",
+
+		"county_names": {
+			"Culture1" : "name in culture",
+			"Culture2" : "name in this culture",
+			"ect" : "ect"
 		},
-		"county_code" : "Hja",
+
+		"culture" : "The culture of the region",
+        "faith" : "The faith of the region",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0FD84B": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#3C87EA": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#B5ED38": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#234E5C": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#000000": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#B5A08F": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#5604B8": {
+	"#244FAE": {
 		
-		"county_name" : "Orkney",
-		"county_names" : {
-			"saxon" : "Orcneas",
-			"norse" : "Orkneyjar",
-			"bretogael" : "Arcaibh"
-		},
-		"county_code" : "Ork",
+	},
+	"#B4280E": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#A9A14E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#06BC9F": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#4AB2B3": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#FA2C3F": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#F836C8": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#FEC267": {
+	"#0E851E": {
 		
-		"county_name" : "Caithness",
-		"county_names" : {
-			"saxon" : "Catnes",
-			"norse" : "Katanes",
-			"bretogael" : "Gallaibh"
-		},
-		"county_code" : "Cai",
+	},
+	"#71C8FF": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#F38317": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#4EB877": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#84E5D0": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#F887D9": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#287838": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#DA6C64" : {
+	"#BCF53D": {
 		
-		"county-name" : "Sutherland",
-		"county_names" : {
-			"saxon" : "Suðrland",
-			"norse" : "Suðrland",
-			"bretogael" : "Cataibh"
-		},
-		"county_code" : "Sut",
+	},
+	"#F3BB94": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#CE691D": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#D097B7": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#180E7A": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#14911F": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#023781": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#F56340": {
+	"#73563C": {
 		
-		"county_name" : "Ros",
-		"county_names" : {
-			"saxon" : "Ros",
-			"norse" : "Hróss",
-			"bretogael" : "Ros"
-		},
-		"county_code" : "Ros",
+	},
+	"#99335B": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#0651A6": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#DCF831": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#AB5AED": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#A4BD09": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#50F1BE": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#4A834A": {
+	"#1D9EE2": {
 		
-		"county_name" : "Inverness",
-		"county_names" : {
-			"saxon" : "Inbhirnis",
-			"norse" : "Invernes",
-			"bretogael" : "Inbhir Nis"
-		},
-		"county_code" : "Inv",
+	},
+	"#1C9E52": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#8E07C2": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#3CD5CD": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#3AB263": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#599704": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#829E2E": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#D1A3AC": {
+	"#18B573": {
 		
-		"county_name" : "Moray",
-		"county_names" : {
-			"saxon" : "Moræf",
-			"norse" : "Myrkviðr",
-			"bretogael" : "Moireibh"
-		},
-		"county_code" : "Mor",
+	},
+	"#EFAD64": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#C5C03E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#F18B65": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#35C753": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#655AE8": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#D6D48E": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#AB846A": {
+	"#95803C": {
 		
-		"county_name" : "Banff",
-		"county_names" : {
-			"saxon" : "Banff",
-			"norse" : "Banfi",
-			"bretogael" : "Banbh"
-		},
-		"county_code" : "Ban",
+	},
+	"#AA34C7": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#14651F": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#B02B50": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#28C279": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#60C00F": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#1EA5D6": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#D31DD2": {
+	"#6822DB": {
 		
-		"county_name" : "Aberdeen",
-		"county_names" : {
-			"saxon" : "Aberdon",
-			"norse" : "Aberdín",
-			"bretogael" : "Obar Dheathain"
-		},
-		"county_code" : "Abe",
+	},
+	"#8E720C": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#349EB4": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#CEF8DE": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#C29F95": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#D4E1BC": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#DAEA60": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#9E46BD": {
+	"#84A4D5": {
 		
-		"county_name" : "Nairn",
-		"county_names" : {
-			"saxon" : "Nairn",
-			"norse" : "Njarðvík",
-			"bretogael" : "Inbhir Narann"
-		},
-		"county_code" : "Nai",
+	},
+	"#B56DF6": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#3898D4": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#F58C33": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#94E1FD": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#141945": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#2E59A7": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#E4D7A9": {
+	"#F8B93D": {
 		
-		"county_name" : "Kincardine",
-		"county_names" : {
-			"saxon" : "Kincardine",
-			"norse" : "Kirkjugarðr",
-			"bretogael" : "Cinn Chàrdainn"
-		},
-		"county_code" : "Kin",
+	},
+	"#F8B10C": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#1A0E3C": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#9C1FFB": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#2B4FC1": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#6CD6EA": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#867C69": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#EF1345": {
+	"#D8D52C": {
 		
-		"county_name" : "Argyll",
-		"county_names" : {
-			"saxon" : "Argyl",
-			"norse" : "Airer Goídel",
-			"bretogael" : "Earra-Ghàidheal"
-		},
-		"county_code" : "Arg",
+	},
+	"#6FFE13": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#8BDD86": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#49A237": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#B1D484": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#651447": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#0C4272": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#3EE159": {
+	"#76734F": {
 		
-		"county_name" : "Angus",
-		"county_names" : {
-			"saxon" : "Angus",
-			"norse" : "Angús",
-			"bretogael" : "Aonghas"
-		},
-		"county_code" : "Ang",
+	},
+	"#842A47": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#71BD7F": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#EF998C": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#DD008E": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#87BB6A": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#21EEF1": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#C6E355": {
+	"#261110": {
 		
-		"county_name" : "Perth",
-		"county_names" : {
-			"saxon" : "Perth",
-			"norse" : "Perth",
-			"bretogael" : "Peairt"
-		},
-		"county_code" : "Per",
+	},
+	"#06DBC0": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#E76156": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#0C3CA7": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#7A2FBC": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#848FEC": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#92331A": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#16E170": {
+	"#EF934C": {
 		
-		"county_name" : "Fife",
-		"county_names" : {
-			"saxon" : "Fif",
-			"norse" : "Fífa",
-			"bretogael" : "Fìobha"
-		},
-		"county_code" : "Fif",
+	},
+	"#49D760": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#041689": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#EB625F": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#8A46C4": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#E43F9C": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#CD13CF": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#E045F3": {
+	"#5AF4C7": {
 		
-		"county_name" : "Dumbarton",
-		"county_names" : {
-			"saxon" : "Dun Bretan",
-			"norse" : "Dún Bretanna",
-			"bretogael" : "Dùn Breatainn"
-		},
-		"county_code" : "Dum",
+	},
+	"#39AAA3": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#BE34C9": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#9C8798": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#587E3D": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#43196C": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#8A967C": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#F4812D": {
+	"#0929FD": {
 		
-		"county_name" : "Stirling",
-		"county_names" : {
-			"saxon" : "Strivelin",
-			"norse" : "Strífland",
-			"bretogael" : "Sruighlea"
-		},
-		"county_code" : "Sti",
+	},
+	"#80494C": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#7942EC": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#BB5B4E": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#19E37C": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#3C977A": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#EA01DF": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#4812C0": {
+	"#B872B3": {
 		
-		"county_name" : "Kinross",
-		"county_names" : {
-			"saxon" : "Kinross",
-			"norse" : "Kinnrós",
-			"bretogael" : "Ceann Rois"
-		},
-		"county_code" : "Kin",
+	},
+	"#5DB274": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#BCA6A5": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#B2EB46": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#B7EE5F": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#ED427C": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#4FD3C6": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#4A45CC": {
+	"#4DD85F": {
 		
-		"county_name" : "Clackmannan",
-		"county_names" : {
-			"saxon" : "Clacmannan",
-			"norse" : "Klakmann",
-			"bretogael" : "Clach Mhanainn"
-		},
-		"county_code" : "Cla",
+	},
+	"#6CD350": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#5A7154": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#28E818": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#7982D7": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#2B246B": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#5EC387": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#A547B9": {
+	"#8EFF3D": {
 		
-		"county_name" : "East Lothian",
-		"county_names" : {
-			"saxon" : "Lodene",
-			"norse" : "Lothene",
-			"bretogael" : "Lodainn"
-		},
-		"county_code" : "ELo",
+	},
+	"#7D2845": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#19310E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#82C59B": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#9E35C6": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#AE8BC9": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#578E9D": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#93DE51": {
+	"#DE128C": {
 		
-		"county_name" : "West Lothian",
-		"county_names" : {
-			"saxon" : "West Lodene",
-			"norse" : "Vest Lothene",
-			"bretogael" : "Lodainn an Iar"
-		},
-		"county_code" : "Wlo",
+	},
+	"#D35A49": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#D46375": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#CA9B9C": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#B84A42": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#D819C9": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#F04828": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#4E15E1": {
+	"#E05FC5": {
 		
-		"county_name" : "Midlothian",
-		"county_names" : {
-			"saxon" : "Mid Lodene",
-			"norse" : "Mið Lothene",
-			"bretogael" : "Meadhan Lodainn"
-		},
-		"county_code" : "Mlo",
+	},
+	"#0D876B": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#97F927": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#1B3CE7": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#DDB0CE": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#CF4F40": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#BDDBC4": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#7124A8": {
+	"#1EC7BD": {
 		
-		"county_name" : "Renfrew",
-		"county_names" : {
-			"saxon" : "Renfriu",
-			"norse" : "Rannfrith",
-			"bretogael" : "Rinn Friù"
-		},
-		"county_code" : "Ren",
+	},
+	"#94D3D1": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#B1390D": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#61BBCC": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#BED0BE": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#84E5F0": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#4CFEA2": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#6439BE": {
+	"#25BB7D": {
 		
-		"county_name" : "Bute",
-		"county_names" : {
-			"saxon" : "Bute",
-			"norse" : "Bót",
-			"bretogael" : "Bòd"
-		},
-		"county_code" : "But",
+	},
+	"#F89792": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#B73F7D": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#285248": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#73CA9A": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#3600E0": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#EE7374": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#7C4DA0": {
+	"#F5EFF2": {
 		
-		"county_name" : "Lanark",
-		"county_names" : {
-			"saxon" : "Lanerc",
-			"norse" : "Lanerk",
-			"bretogael" : "Lannraig"
-		},
-		"county_code" : "Lan",
+	},
+	"#B889F2": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#69053E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#C30A24": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#AB2000": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#FAA636": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#FA533D": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#8780CC": {
+	"#C1E6E3": {
 		
-		"county_name" : "Berwick",
-		"county_names" : {
-			"saxon" : "Berewic",
-			"norse" : "Beruvík",
-			"bretogael" : "Bearaig"
-		},
-		"county_code" : "Ber",
+	},
+	"#5ABC07": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#32F9D1": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#5CDC9B": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#9577F5": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#CD6F4A": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#E33ECD": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#056D10": {
+	"#417D7F": {
 		
-		"county_name" : "Ayr",
-		"county_names" : {
-			"saxon" : "Eyr",
-			"norse" : "Eyrr",
-			"bretogael" : "Inbhir Àir"
-		},
-		"county_code" : "Ayr",
+	},
+	"#ED090D": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#B3BD4E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#68BA05": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#89DF3F": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#D44269": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#2A95ED": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#DF0ECA": {
+	"#0AF697": {
 		
-		"county_name" : "Pebble",
-		"county_names" : {
-			"saxon" : "Peblis",
-			"norse" : "Píflis",
-			"bretogael" : "Na Pùballan"
-		},
-		"county_code" : "Peb",
+	},
+	"#0EE6CD": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#A274E7": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#3F23DF": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#563004": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#AA7BF3": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#711651": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#42F6C9": {
+	"#BBCC38": {
 		
-		"county_name" : "Northumberland",
-		"county_names" : {
-			"saxon" : "Norþhymbra Land",
-			"norse" : "Norðhymbraland",
-			"bretogael" : "Brynaich"
-		},
-		"county_code" : "Nor",
+	},
+	"#2854D6": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#77F056": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#290A0D": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#4E377D": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#7FB37C": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#5B1EFC": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#89237A": {
+	"#93FD2C": {
 		
-		"county_name" : "Roxburgh",
-		"county_names" : {
-			"saxon" : "Hrocaburh",
-			"norse" : "Hrocaburh",
-			"bretogael" : "Rosbrog"
-		},
-		"county_code" : "Rox",
+	},
+	"#02953F": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#509C3C": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#F6456A": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#967410": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#4C434D": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#EC1793": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#A965F6": {
+	"#D083DB": {
 		
-		"county_name" : "Selkirk",
-		"county_names" : {
-			"saxon" : "Selecirce",
-			"norse" : "Selkirkja",
-			"bretogael" : "Eaglais na Saileach"
-		},
-		"county_code" : "Sel",
+	},
+	"#60FD54": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#B0545E": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#BB230B": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#E83135": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#D4D2EC": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#841162": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#970613": {
+	"#50DDC2": {
 		
-		"county_name" : "Dumfries",
-		"county_names" : {
-			"saxon" : "Dunfres",
-			"norse" : "Dúnfrís",
-			"bretogael" : "Dùn Phris"
-		},
-		"county_code" : "Dum",
+	},
+	"#B48689": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#BDE306": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#4C1D7D": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#03799C": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#B658A5": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#5630CE": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#608E87": {
+	"#64D92C": {
 		
-		"county_name" : "Kirkcudbright",
-		"county_names" : {
-			"saxon" : "Kirkcuthbert",
-			"norse" : "Kirkja Guðbrands",
-			"bretogael" : "Cille Chuithbeirt"
-		},
-		"county_code" : "Kir",
+	},
+	"#159664": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#71E641": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#CF6C5B": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#C99D5F": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#3899B7": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#E08F77": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#6F20EE": {
+	"#C796F7": {
 		
-		"county_name" : "Cumberland",
-		"county_names" : {
-			"saxon" : "Cumbraland",
-			"norse" : "Kumraland",
-			"bretogael" : "Kumbria"
-		},
-		"county_code" : "Cmb",
+	},
+	"#CC44CE": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#0D84F8": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#167DEA": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#F4F3F9": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#60A089": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#2D5A39": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#0A81CC": {
+	"#88DDA5": {
 		
-		"county_name" : "Wigtown",
-		"county_names" : {
-			"saxon" : "Wicetun",
-			"norse" : "Víkjartún",
-			"bretogael" : "Baile na h-Ùige"
-		},
-		"county_code" : "Wig",
+	},
+	"#D3B3B0": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#455280": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#0DFCA6": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#83AB78": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#6749DB": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#F51571": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#42D965": {
+	"#718AD7": {
 		
-		"county_name" : "Durham",
-		"county_names" : {
-			"saxon" : "Dunholm",
-			"norse" : "Dúnhelmr",
-			"bretogael" : "Dùn Holme"
-		},
-		"county_code" : "Dur",
+	},
+	"#3146ED": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#249685": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#67739A": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#1F782D": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#04C6AB": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#6FB10F": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#FEA807": {
+	"#59F002": {
 		
-		"county_name" : "Westmorland",
-		"county_names" : {
-			"saxon" : "Westmoringaland",
-			"norse" : "Vestmœrland",
-			"bretogael" : "Mor Tir an Iar"
-		},
-		"county_code" : "Wmo",
+	},
+	"#CA7DA4": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#54DD34": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#354452": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#2DBD84": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#CA14C0": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#D8C361": {
-		
-		"county_name": "York",
-		"county_names" : {
-			"saxon" : "Eoforwic",
-			"norse" : "Jórvík",
-			"bretogael" : "Eboracon"
-		},
-		"county_code" : "Yor",
-		
-        "culture" : "norse",
-        "faith" : "asatru",
-		
-        "authority" : "Nrd",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#D3F6D1": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#D9AE47": {
-		
-		"county_name" : "Mann",
-		"county_names" : {
-			"saxon" : "Man",
-			"norse" : "Mön",
-			"bretogael" : "Mannin"
-		},
-		"county_code" : "Man",
+	"#0BBB9B": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#951311": {
-		
-		"county_name" : "Lancashire",
-		"county_names" : {
-			"saxon" : "Loncashire",
-			"norse" : "Lóncastr",
-			"bretogael" : "Lann Glas"
-		},
-		"county_code" : "Lan",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#007568": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#798301": {
-		
-		"county_name" : "Lincolnshire",
-		"county_names" : {
-			"saxon" : "Lindesege",
-			"norse" : "Lindsey",
-			"bretogael" : "Lindum"
-		},
-		"county_code" : "Lin",
-		
-        "culture" : "",
-        "faith" : "",
+	"#C77E6D": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#D46A3F": {
-		
-		"county_name" : "Cheshire",
-		"county_names" : {
-			"saxon" : "Legeceasterscir",
-			"norse" : "Legakastr",
-			"bretogael" : "Caerlleon"
-		},
-		"county_code" : "Che",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#9CB544": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#025BED": {
-		
-		"county_name" : "Nottingham",
-		"county_names" : {
-			"saxon" : "Snotingahamscir",
-			"norse" : "Snotingahamn",
-			"bretogael" : "Tig Guocobauc"
-		},
-		"county_code" : "Not",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#399357": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#22710B": {
-		
-		"county_name" : "Derby",
-		"county_names" : {
-			"saxon" : "Deoraby",
-			"norse" : "Djúrabý",
-			"bretogael" : "Darby"
-		},
-		"county_code" : "Der",
-		
-        "culture" : "",
-        "faith" : "",
+	"#A9B953": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#EC37F4": {
-		
-		"county_name" : "Yns Mon",
-		"county_names" : {
-			"saxon" : "Anglesey",
-			"norse" : "Öngulsey",
-			"bretogael" : "Ynys Môn"
-		},
-		"county_code" : "Yns",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#3D0B84": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#41EA33": {
-		
-		"county_name" : "Flintshire",
-		"county_names" : {
-			"saxon" : "Flintscir",
-			"norse" : "Flintskíri",
-			"bretogael" : "Sir y Fflint"
-		},
-		"county_code" : "Fli",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#C81FC9": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#1D3FBF": {
-		
-		"county_name" : "Caenorfon",
-		"county_names" : {
-			"saxon" : "Caer Arfon",
-			"norse" : "Kárnarfon",
-			"bretogael" : "Caernarfon"
-		},
-		"county_code" : "Cae",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	"#0DD4B4": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#FC53A2": {
+	"#12A890": {
 		
-		"county_name" : "Denbigh",
-		"county_names" : {
-			"saxon" : "Dinbych",
-			"norse" : "Dynnbekk",
-			"bretogael" : "Dinbych"
-		},
-		"county_code" : "Den",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#AAB8D5": {
-		
-		"county_name" : "Stafford",
-		"county_names" : {
-			"saxon" : "Stæffordscīr",
-			"norse" : "Staðafjörðr",
-			"bretogael" : "Rhyd y Staff"
-		},
-		"county_code" : "Sta",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#9AED52": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#A2E86D": {
-		
-		"county_name" : "Merioneth",
-		"county_names" : {
-			"saxon" : "Meirionydd",
-			"norse" : "Meirun",
-			"bretogael" : "Meirionnydd"
-		},
-		"county_code" : "Mar",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	"#A18E41": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#7EEC53": {
+	"#8BE9DA": {
 		
-		"county_name" : "Norfolk",
-		"county_names" : {
-			"saxon" : "Norþfolc",
-			"norse" : "Norðfólk",
-			"bretogael" : "Northfolk"
-		},
-		"county_code" : "Nfk",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#5D9C3E": {
-		
-		"county_name" : "Shropshire",
-		"county_names" : {
-			"saxon" : "Scrobbesbyrgscīr",
-			"norse" : "Skrobbaborg",
-			"bretogael" : "Pengwern"
-		},
-		"county_code" : "Shr",
-		
-        "culture" : "",
-        "faith" : "",
+	"#6B7D78": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#5716E1": {
-		
-		"county_name" : "Leicesterchire",
-		"county_names" : {
-			"saxon" : "Ligorceastrescīr",
-			"norse" : "Ligarakæstr",
-			"bretogael" : "Caerlŷr"
-		},
-		"county_code" : "Lei",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#317284": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#AFC99F": {
-		
-		"county_name" : "Montgomery",
-		"county_names" : {
-			"saxon" : "Montgomeriscir",
-			"norse" : "Muntgomer",
-			"bretogael" : "Trefaldwyn"
-		},
-		"county_code" : "Mnt",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#B91EAE": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#D93663": {
-		
-		"county_name" : "Rutland",
-		"county_names" : {
-			"saxon" : "Roteland",
-			"norse" : "Rautaland",
-			"bretogael" : "Gwlad Rote"
-		},
-		"county_code" : "Rut",
-		
-        "culture" : "",
-        "faith" : "",
+	"#2AAFAD": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#81DA8F": {
-		
-		"county_name" : "Cambridge",
-		"county_names" : {
-			"saxon" : "Grantebrycg",
-			"norse" : "Grantubryggja",
-			"bretogael" : "Rhyd y Granta"
-		},
-		"county_code" : "Cam",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#0B4D61": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#CB903F": {
-		
-		"county_name" : "Northhampton",
-		"county_names" : {
-			"saxon" : "Hāmtūnscīr Norð",
-			"norse" : "Norðr Hamtúnskíri",
-			"bretogael" : "Gwlad Hamtun y Gogledd"
-		},
-		"county_code" : "Nhp",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#00A803": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#82A302": {
-		
-		"county_name" : "Warwick",
-		"county_names" : {
-			"saxon" : "Wæringscīr",
-			"norse" : "Væringaskíri",
-			"bretogael" : "Tir y Wæringas"
-		},
-		"county_code" : "War",
-		
-        "culture" : "",
-        "faith" : "",
+	"#915740": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#C21ECD": {
-		
-		"county_name" : "Suffolk",
-		"county_names" : {
-			"saxon" : "Suþfolc",
-			"norse" : "Suðfólk",
-			"bretogael" : "Southfolk"
-		},
-		"county_code" : "Suf",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#A6A58B": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#3D0B34": {
-		
-		"county_name" : "Huntingdon",
-		"county_names" : {
-			"saxon" : "Huntandūnscīr",
-			"norse" : "Veiðitúnskíri",
-			"bretogael" : "Tir y Helwyr"
-		},
-		"county_code" : "Hun",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#E0210A": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#8B0E16": {
-		
-		"county_name" : "Cardigan",
-		"county_names" : {
-			"saxon" : "Ceredigion",
-			"norse" : "Kerrekland",
-			"bretogael" : "Ceredigion"
-		},
-		"county_code" : "Car",
-		
-        "culture" : "",
-        "faith" : "",
+	"#F63687": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#3A32AA": {
-		
-		"county_name" : "Worcester",
-		"county_names" : {
-			"saxon" : "Weogoraceastrescīr",
-			"norse" : "Vegarakæstr",
-			"bretogael" : "Caerwrangon"
-		},
-		"county_code" : "Wor",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#A095B8": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#DF15EA": {
-		
-		"county_name" : "Radnor",
-		"county_names" : {
-			"saxon" : "Radenor",
-			"norse" : "Raðnor",
-			"bretogael" : "Maesyfed"
-		},
-		"county_code" : "Rad",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#58204F": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#325AEF": {
-		
-		"county_name" : "Hereford",
-		"county_names" : {
-			"saxon" : "Herefordscīr",
-			"norse" : "Herjafjörðr",
-			"bretogael" : "Henffordd"
-		},
-		"county_code" : "Her",
+	"#824051": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#7220BB": {
-		
-		"county_name" : "Bedford",
-		"county_names" : {
-			"saxon" : "Bedanfordscīr",
-			"norse" : "Baðanfordskíri",
-			"bretogael" : "Rhyd Bedan"
-		},
-		"county_code" : "Bed",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#C276F4": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-    "#E61E2A": {
-		
-		"county_name" : "Buckingham",
-		"county_names" : {
-			"saxon" : "Buccingahamscīr",
-			"norse" : "Bukkingshǫfnskíri",
-			"bretogael" : "Tir y Buccingas"
-		},
-		"county_code" : "Buc",
-		
-        "culture" : "",
-        "faith" : "",
+	"#298261": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#3CBCAB": {
-		
-		"county_name" : "Gloucester",
-		"county_names" : {
-			"saxon" : "Glowecestrescīr",
-			"norse" : "Glowkæstrskíri",
-			"bretogael" : "Caerloyw"
-		},
-		"county_code" : "Glo",
+	"#F084D4": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#B0ED29": {
-		
-		"county_name" : "Oxford",
-		"county_names" : {
-			"saxon" : "Oxnafordscīr",
-			"norse" : "Uxnafjörðr",
-			"bretogael" : "Rhyd yr Ychen"
-		},
-		"county_code" : "Oxf",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#194BDE": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#C1B4FD": {
-		
-		"county_name" : "Catmarthen",
-		"county_names" : {
-			"saxon" : "Moridunum",
-			"norse" : "Maridún",
-			"bretogael" : "Caerfyrddin"
-		},
-		"county_code" : "Cat",
-		
-        "culture" : "",
-        "faith" : "",
+	"#E7A027": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#4FB0D9": {
-		
-		"county_name" : "Essex",
-		"county_names" : {
-			"saxon" : "Eastseaxe",
-			"norse" : "Austrseaxan",
-			"bretogael" : "East Sax"
-		},
-		"county_code" : "Ess",
+	"#FC22DD": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#0B5DC4": {
-		
-		"county_name" : "Pembroke",
-		"county_names" : {
-			"saxon" : "Penbroc",
-			"norse" : "Penbrok",
-			"bretogael" : "Penfro"
-		},
-		"county_code" : "Pem",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#85508E": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#7C4B5D": {
-		
-		"county_name" : "Hertford",
-		"county_names" : {
-			"saxon" : "Heorotfordscīr",
-			"norse" : "Hjartarvaðskíri",
-			"bretogael" : "Rhyd y Carw"
-		},
-		"county_code" : "Hrt",
-		
-        "culture" : "",
-        "faith" : "",
+	"#BA08B4": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#6E0FB6": {
-		
-		"county_name" : "Monmonth",
-		"county_names" : {
-			"saxon" : "Monewuda",
-			"norse" : "Mönmúð",
-			"bretogael" : "Trefynwy"
-		},
-		"county_code" : "Mmn",
+	"#EE887F": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#CE98D3": {
-		
-		"county_name" : "Glamorgan",
-		"county_names" : {
-			"saxon" : "Morganwg",
-			"norse" : "Morgansland",
-			"bretogael" : "Morgannwg"
-		},
-		"county_code" : "Gla",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	"#65F839": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#693FB1": {
-		
-		"county_name" : "Berkshire",
-		"county_names" : {
-			"saxon" : "Bearrocscīr",
-			"norse" : "Berrokskíri",
-			"bretogael" : "Gwlad y Bearroc"
-		},
-		"county_code" : "Ber",
-		
-        "culture" : "",
-        "faith" : "",
+	"#F7A947": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#EA9C4C": {
-		
-		"county_name" : "Middlesex",
-		"county_names" : {
-			"saxon" : "Middelseaxe",
-			"norse" : "Miðilseaxan",
-			"bretogael" : "Tir y Saeson Canol"
-		},
-		"county_code" : "Mid",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#154709": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#1554FD": {
-		
-		"county_name" : "Wiltshire",
-		"county_names" : {
-			"saxon" : "Wiltūnscīr",
-			"norse" : "Wiltúnskíri",
-			"bretogael" : "Gwlad Wilton"
-		},
-		"county_code" : "Wil",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#EB1E38": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#C32595": {
-		
-		"county_name" : "Kent",
-		"county_names" : {
-			"saxon" : "Cent",
-			"norse" : "Kent",
-			"bretogael" : "Cantium"
-		},
-		"county_code" : "Ken",
+	"#1024E6": {
 		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#1864FE": {
-		
-		"county_name" : "Surrey",
-		"county_names" : {
-			"saxon" : "Suthrige",
-			"norse" : "Suðrík",
-			"bretogael" : "Suroga"
-		},
-		"county_code" : "Sur",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	"#198EA8": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#75C681": {
-		
-		"county_name" : "Somerset",
-		"county_names" : {
-			"saxon" : "Sumorsǣte",
-			"norse" : "Sumarsæti",
-			"bretogael" : "Gwlad yr Haf"
-		},
-		"county_code" : "Som",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	"#BA52DA": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#DE8591": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#3263EB": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#F0FEDC": {
+	"#936CED": {
 		
-		"county_name" : "Hampshire",
-		"county_names" : {
-			"saxon" : "Hamtunscir",
-			"norse" : "Hamtún",
-			"bretogael" : "Hamtir"
-		},
-		"county_code" : "Ham",
+	},
+	"#B376F1": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#083434": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#564531": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#527698": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#34E90C": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#850933": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#EE85E5": {
+	"#9367DC": {
 		
-		"county_name" : "Devon",
-		"county_names" : {
-			"saxon" : "Defenascir",
-			"norse" : "Dyfna",
-			"bretogael" : "Dyfnaint"
-		},
-		"county_code" : "Dev",
-		
-        "culture" : "",
-        "faith" : "",
-		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
-		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
-		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
-		
-		"terrain_type" : "",
-		"infrastrucure" : "",
-		
-		"integration_stage" : "",
-		"strategic_tags" : ""
-	},
-	"#727118": {
-	
-		"county_name" : "Sussex",
-		"county_names" : {
-			"saxon" : "Suþseaxe",
-			"norse" : "Suðseaxan",
-			"bretogael" : "South Sax"
-		},
-		"county_code" : "Sus",
+	},
+	"#6D4EE0": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#A03525": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#AC9917": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#FB6ADC": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#E98E17": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#BEDC3F": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#CD5AC8": {
+	"#CD0D46": {
 		
-		"county_name" : "Dorset",
-		"county_names" : {
-			"saxon" : "Dornwarascir",
-			"norse" : "Dornwara",
-			"bretogael" : "Durnovaria"
-		},
-		"county_code" : "Dor",
+	},
+	"#970533": {
 		
-        "culture" : "",
-        "faith" : "",
+	},
+	"#FFCB21": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#68E3F4": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#B64D39": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#FDAF76": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#820658": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	},
-	"#787AB8": {
+	"#213821": {
 		
-		"county_name" : "Cornwall",
-		"county_names" : {
-			"saxon" : "Cornwealas",
-			"norse" : "Kornwalr",
-			"bretogael" : "Kernow"
-		},
-		"county_code" : "Cor",
+	},
+	"#E30543": {
 		
-        "culture" : "Cornish",
-        "faith" : "Insular Catholic",
+	},
+	"#3303EE": {
 		
-        "authority" : "",
-        "culture_acceptance" : "",
-        "administrative_control" : "",
-        "elite_loyalty" : "",
-        "pressure" : "",
+	},
+	"#E48C2A": {
 		
-		"base_output" : "",
-		"extraction_efficientcy" : "",
+	},
+	"#816655": {
 		
-		"levy_pool" : "",
-		"levy_rate" : "",
-		"fort-lvl" : "",
+	},
+	"#485A8F": {
 		
-		"terrain_type" : "",
-		"infrastrucure" : "",
+	},
+	"#2DE10B": {
 		
-		"integration_stage" : "",
-		"strategic_tags" : ""
 	}
 }
