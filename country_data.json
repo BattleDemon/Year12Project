@@ -644,10 +644,10 @@
 		]
 	},
 	"#CE691D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nor -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Norfolk",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -784,10 +784,10 @@
 		]
 	},
 	"#73563C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cam -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Cambridge",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -868,10 +868,10 @@
 		]
 	},
 	"#DCF831" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nhp -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Northhampton",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -924,10 +924,10 @@
 		]
 	},
 	"#A4BD09" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "suf -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Suffolk",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1036,10 +1036,10 @@
 		]
 	},
 	"#1C9E52" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "Bed -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bedfordshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1148,10 +1148,10 @@
 		]
 	},
 	"#829E2E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "buc -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Buckinghamshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1204,10 +1204,10 @@
 		]
 	},
 	"#D6D48E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "glo -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Gloucesteshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1288,10 +1288,10 @@
 		]
 	},
 	"#F18B65" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "oxf -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Oxford",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1316,10 +1316,10 @@
 		]
 	},
 	"#35C753" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ess -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Essex",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1344,10 +1344,10 @@
 		]
 	},
 	"#95803C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "her -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Hertfordshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1484,10 +1484,10 @@
 		]
 	},
 	"#6822DB" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ber -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Berkshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1540,10 +1540,10 @@
 		]
 	},
 	"#349EB4" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mid -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Middlesex",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1568,10 +1568,10 @@
 		]
 	},
 	"#C29F95" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "wil -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Wiltshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1764,10 +1764,10 @@
 		]
 	},
 	"#3898D4" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "som -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Somerset",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1792,10 +1792,10 @@
 		]
 	},
 	"#F58C33" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ken -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Kent",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1848,10 +1848,10 @@
 		]
 	},
 	"#2E59A7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sur -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Surrey",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1960,10 +1960,10 @@
 		]
 	},
 	"#1A0E3C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ham -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Hampshire",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2044,10 +2044,10 @@
 		]
 	},
 	"#6CD6EA" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dev -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Devon",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2100,10 +2100,10 @@
 		]
 	},
 	"#D8D52C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dor -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Dorset",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2128,10 +2128,10 @@
 		]
 	},
 	"#6FFE13" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sus -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Sussex",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2296,10 +2296,10 @@
 		]
 	},
 	"#76734F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "Cor",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Cornwall",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
