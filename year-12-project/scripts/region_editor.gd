@@ -15,6 +15,9 @@ func _ready():
 	save_button.pressed.connect(_save_region)
 
 func load_region(hex: String, data: Dictionary):
+	if current_hex != "" and current_hex != hex:
+		_save_region()
+
 	current_hex = hex
 
 	county_code.text = data.get("county_code", "")
@@ -24,8 +27,24 @@ func load_region(hex: String, data: Dictionary):
 	coastal.button_pressed = data.get("coastal", false)
 	river.button_pressed = data.get("river", false)
 	natural_resource.text = data.get("natural_resource", "")
+	
+	var code = data.get("county_code", "")
+	var owner = find_realm_owner(code)
+	$"../realm_editor/realm_editor_content/realm_owner".text = "Realm: " + owner
+	
+func find_realm_owner(county_code: String) -> String:
+	for realm_code in DataManager.realms.keys():
+		var realm = DataManager.realms[realm_code]
+		if county_code in realm.get("realm", []):
+			return realm_code
+	return "Independent"
+
 
 func _save_region():
+	if county_code.text.length() != 3:
+		push_warning("County code must be 3 letters")
+		return
+	
 	if current_hex == "":
 		return
 

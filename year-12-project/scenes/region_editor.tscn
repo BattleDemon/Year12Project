@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://dnuu25eb0cflv"]
-
-[ext_resource type="Script" uid="uid://ciqk10q1ab7vq" path="res://scripts/region_editor.gd" id="1_w1cg5"]
-
-[node name="realm_editor" type="PanelContainer" unique_id=1340077930]
-script = ExtResource("1_w1cg5")

@@ -34,6 +34,8 @@ texture = ExtResource("1_b1cmn")
 
 [node name="overlay_map" type="Sprite2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=472084301]
 
+[node name="highlight_overlay" type="Polygon2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=449752925]
+
 [node name="right_panel" type="VBoxContainer" parent="HSplitContainer" unique_id=18882081]
 layout_mode = 2
 
@@ -263,6 +265,9 @@ layout_mode = 2
 [node name="save_realm" type="Button" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=869889044]
 offset_right = 8.0
 offset_bottom = 8.0
+
+[node name="realm_owner" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=93216278]
+layout_mode = 2
 
 [node name="bottom_bar" type="HBoxContainer" parent="HSplitContainer/right_panel" unique_id=716024191]
 layout_mode = 2

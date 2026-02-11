@@ -22,6 +22,7 @@ func _on_region_mode():
 func _on_realm_mode():
 	current_mode = "realm"
 	editor_stack.current = 1
+	map_manager.draw_realm_overlay()
 
 func _on_region_clicked(hex: String):
 	debug_label.text = "Selected: " + hex
@@ -31,7 +32,16 @@ func _on_region_clicked(hex: String):
 
 	var region_data = DataManager.regions[hex]
 
+	map_manager.highlight_region(hex)
+
 	if current_mode == "region":
-		region_editor.load_region(hex, region_data)
+		region_editor.load_region(hex, DataManager.regions[hex])
 	else:
 		realm_editor.handle_map_click(hex)
+
+func search_province_by_code(code: String):
+	for hex in DataManager.regions.keys():
+		if DataManager.regions[hex]["county_code"] == code:
+			map_manager.highlight_region(hex)
+			region_editor.load_region(hex, DataManager.regions[hex])
+			break
