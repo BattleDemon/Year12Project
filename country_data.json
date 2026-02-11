@@ -280,10 +280,10 @@
 		]
 	},
 	"#06BC9F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "elb -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Elbmarch",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -308,10 +308,10 @@
 		]
 	},
 	"#4AB2B3" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "efr -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "East Friesland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -336,10 +336,10 @@
 		]
 	},
 	"#FA2C3F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "wes -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Wesermarch1",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -364,10 +364,10 @@
 		]
 	},
 	"#F836C8" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "omm -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ommelanden",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -420,10 +420,10 @@
 		]
 	},
 	"#71C8FF" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "fri -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Friesland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -448,10 +448,10 @@
 		]
 	},
 	"#F38317" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "all -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Aller",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -476,10 +476,10 @@
 		]
 	},
 	"#4EB877" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dre -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Drenthe",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -532,10 +532,10 @@
 		]
 	},
 	"#F887D9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ems -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Emsland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -560,10 +560,10 @@
 		]
 	},
 	"#287838" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nho -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "North Holland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -616,10 +616,10 @@
 		]
 	},
 	"#BCF53D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mwe -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Middle Weser",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -700,10 +700,10 @@
 		]
 	},
 	"#D097B7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ove -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Overijssel",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -812,10 +812,10 @@
 		]
 	},
 	"#99335B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "han -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Hanover",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -896,10 +896,10 @@
 		]
 	},
 	"#AB5AED" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bru -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Brunswick",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -952,10 +952,10 @@
 		]
 	},
 	"#50F1BE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ost -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ostwestphalia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -980,10 +980,10 @@
 		]
 	},
 	"#1D9EE2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gel -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Gelderland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1064,10 +1064,10 @@
 		]
 	},
 	"#8E07C2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sho -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "South Holland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1260,10 +1260,10 @@
 		]
 	},
 	"#C5C03E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "har -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Harz",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1428,10 +1428,10 @@
 		]
 	},
 	"#60C00F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "kem -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Kempenland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1596,10 +1596,10 @@
 		]
 	},
 	"#CEF8DE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ant -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Antwerp",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1820,10 +1820,10 @@
 		]
 	},
 	"#141945" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "thu -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Thuringer Becken",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1876,10 +1876,10 @@
 		]
 	},
 	"#F8B93D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "wfl -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "West Flanders",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1932,10 +1932,10 @@
 		]
 	},
 	"#F8B10C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "efl -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "East Flanders",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2212,10 +2212,10 @@
 		]
 	},
 	"#B1D484" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pon -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ponthieu",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2352,10 +2352,10 @@
 		]
 	},
 	"#842A47" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "uar -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Upper Artois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2492,10 +2492,10 @@
 		]
 	},
 	"#21EEF1" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "rfl -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Roman Flanders",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2660,10 +2660,10 @@
 		]
 	},
 	"#92331A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "fra -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Frakenwald",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2912,10 +2912,10 @@
 		]
 	},
 	"#39AAA3" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cau -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Caux",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3136,10 +3136,10 @@
 		]
 	},
 	"#7942EC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "rou -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Rouennais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3248,10 +3248,10 @@
 		]
 	},
 	"#EA01DF" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "rie -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ries",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3276,10 +3276,10 @@
 		]
 	},
 	"#B872B3" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ami -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Amienois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3416,10 +3416,10 @@
 		]
 	},
 	"#ED427C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "fal -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Franconian Alb",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3500,10 +3500,10 @@
 		]
 	},
 	"#6CD350" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ebr -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ebroicien",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3528,10 +3528,10 @@
 		]
 	},
 	"#5A7154" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "hoh -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Hohenloher Edene",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4004,10 +4004,10 @@
 		]
 	},
 	"#D819C9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "eus -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Eastern Upper Swabia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4256,10 +4256,10 @@
 		]
 	},
 	"#1EC7BD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "uma -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Upper Maine",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4508,10 +4508,10 @@
 		]
 	},
 	"#B73F7D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "alg -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Allgua",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4816,10 +4816,10 @@
 		]
 	},
 	"#C1E6E3" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "tou -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Touraine",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4956,10 +4956,10 @@
 		]
 	},
 	"#E33ECD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "obe -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Oberinntal",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5320,10 +5320,10 @@
 		]
 	},
 	"#563004" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "upo -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Upper Poitou",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5460,10 +5460,10 @@
 		]
 	},
 	"#77F056" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lam -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "La Marche",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5544,10 +5544,10 @@
 		]
 	},
 	"#7FB37C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ten -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Trentino",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5656,10 +5656,10 @@
 		]
 	},
 	"#02953F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bre -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Brescia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5684,10 +5684,10 @@
 		]
 	},
 	"#509C3C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cmb -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Combraille",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5768,10 +5768,10 @@
 		]
 	},
 	"#4C434D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lyo -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Lyonnais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5824,10 +5824,10 @@
 		]
 	},
 	"#EC1793" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lim -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Limousin1",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5880,10 +5880,10 @@
 		]
 	},
 	"#B0545E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lau -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Lower Auvergne",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5936,10 +5936,10 @@
 		]
 	},
 	"#E83135" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ang -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Angouleme",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6020,10 +6020,10 @@
 		]
 	},
 	"#B48689" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "vic -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Vicenza",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6048,10 +6048,10 @@
 		]
 	},
 	"#BDE306" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "vie -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Viennois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6076,10 +6076,10 @@
 		]
 	},
 	"#4C1D7D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "trn -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Turenne",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6104,10 +6104,10 @@
 		]
 	},
 	"#03799C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ver -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Verona",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6216,10 +6216,10 @@
 		]
 	},
 	"#159664" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cre -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Cremona",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6244,10 +6244,10 @@
 		]
 	},
 	"#71E641" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gre -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Gresivaudan",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6272,10 +6272,10 @@
 		]
 	},
 	"#CF6C5B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pri -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Perigord",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6300,10 +6300,10 @@
 		]
 	},
 	"#C99D5F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "uau -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Upper Auvergne",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6328,10 +6328,10 @@
 		]
 	},
 	"#3899B7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pav -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Pavia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6356,10 +6356,10 @@
 		]
 	},
 	"#E08F77" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mon -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Monferrato",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6384,10 +6384,10 @@
 		]
 	},
 	"#C796F7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "man -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Mantua",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6412,10 +6412,10 @@
 		]
 	},
 	"#CC44CE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "viv -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Vivarais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6468,10 +6468,10 @@
 		]
 	},
 	"#167DEA" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pia -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Piacenza",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6496,10 +6496,10 @@
 		]
 	},
 	"#F4F3F9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sal -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Saluzzo",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6524,10 +6524,10 @@
 		]
 	},
 	"#60A089" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ale -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Alessandria",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6552,10 +6552,10 @@
 		]
 	},
 	"#2D5A39" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "que -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Quercy",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6580,10 +6580,10 @@
 		]
 	},
 	"#88DDA5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "vae -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Valentinois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6608,10 +6608,10 @@
 		]
 	},
 	"#D3B3B0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "reg -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Reggioem",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6636,10 +6636,10 @@
 		]
 	},
 	"#455280" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "par -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Parma",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6664,10 +6664,10 @@
 		]
 	},
 	"#0DFCA6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gev -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Gevaudan",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6692,10 +6692,10 @@
 		]
 	},
 	"#83AB78" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bol -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bologna",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6720,10 +6720,10 @@
 		]
 	},
 	"#6749DB" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "roe -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Rouergue",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6748,10 +6748,10 @@
 		]
 	},
 	"#F51571" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "baz -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bazadais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6776,10 +6776,10 @@
 		]
 	},
 	"#718AD7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "age -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Agenais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6804,10 +6804,10 @@
 		]
 	},
 	"#3146ED" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mod -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Modena",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6832,10 +6832,10 @@
 		]
 	},
 	"#249685" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mod -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Mondovi",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6944,10 +6944,10 @@
 		]
 	},
 	"#6FB10F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dig -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Dignois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7056,10 +7056,10 @@
 		]
 	},
 	"#354452" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "avi -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Avignonnais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7112,10 +7112,10 @@
 		]
 	},
 	"#CA14C0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "arm -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Armagnac",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7168,10 +7168,10 @@
 		]
 	},
 	"#0BBB9B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cat -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Castres",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7196,10 +7196,10 @@
 		]
 	},
 	"#007568" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "tol -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Toulousain",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7448,10 +7448,10 @@
 		]
 	},
 	"#9AED52" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bea -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bearn Bigorre",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7476,10 +7476,10 @@
 		]
 	},
 	"#A18E41" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "com -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Comminges",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7560,10 +7560,10 @@
 		]
 	},
 	"#2AAFAD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "raz -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Razes",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7728,10 +7728,10 @@
 		]
 	},
 	"#E0210A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "foi -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Foix",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
