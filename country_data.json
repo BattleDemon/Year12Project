@@ -1,6 +1,6 @@
 {
 	"Template" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX  -  letter country code",
 
 		"county_names": {
 			"Culture1" : "name in culture",
@@ -28,16 +28,16 @@
 		]
 	},
 	"#3C87EA" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -56,16 +56,16 @@
 		]
 	},
 	"#0FD84B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -84,16 +84,16 @@
 		]
 	},
 	"#B5ED38" : {
-		"county_code": "son -  letter country code",
+		"county_code": "son",
 
 		"county_names": {
 			"Culture1" : "Sonderjylland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -112,16 +112,16 @@
 		]
 	},
 	"#000000" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -140,16 +140,16 @@
 		]
 	},
 	"#B5A08F" : {
-		"county_code": "sle -  letter country code",
+		"county_code": "sle",
 
 		"county_names": {
 			"Culture1" : "Slesvig",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -168,16 +168,16 @@
 		]
 	},
 	"#244FAE" : {
-		"county_code": "lub -  letter country code",
+		"county_code": "lub",
 
 		"county_names": {
 			"Culture1" : "Lubeck",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -196,16 +196,16 @@
 		]
 	},
 	"#B4280E" : {
-		"county_code": "hol -  letter country code",
+		"county_code": "hol",
 
 		"county_names": {
 			"Culture1" : "Holstein",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -224,16 +224,16 @@
 		]
 	},
 	"#A9A14E" : {
-		"county_code": "sch -  letter country code",
+		"county_code": "sch",
 
 		"county_names": {
 			"Culture1" : "Schewin",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -252,16 +252,16 @@
 		]
 	},
 	"#14844B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -280,16 +280,16 @@
 		]
 	},
 	"#06BC9F" : {
-		"county_code": "elb -  letter country code",
+		"county_code": "elb",
 
 		"county_names": {
 			"Culture1" : "Elbmarch",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -308,16 +308,16 @@
 		]
 	},
 	"#4AB2B3" : {
-		"county_code": "efr -  letter country code",
+		"county_code": "efr",
 
 		"county_names": {
 			"Culture1" : "East Friesland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -336,16 +336,16 @@
 		]
 	},
 	"#FA2C3F" : {
-		"county_code": "wes -  letter country code",
+		"county_code": "wes",
 
 		"county_names": {
 			"Culture1" : "Wesermarch1",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -364,16 +364,16 @@
 		]
 	},
 	"#F836C8" : {
-		"county_code": "omm -  letter country code",
+		"county_code": "omm",
 
 		"county_names": {
 			"Culture1" : "Ommelanden",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -392,16 +392,16 @@
 		]
 	},
 	"#0E851E" : {
-		"county_code": "lbu -  letter country code",
+		"county_code": "lbu",
 
 		"county_names": {
 			"Culture1" : "Luneburger Heide",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -420,16 +420,16 @@
 		]
 	},
 	"#71C8FF" : {
-		"county_code": "fri -  letter country code",
+		"county_code": "fri",
 
 		"county_names": {
 			"Culture1" : "Friesland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -448,16 +448,16 @@
 		]
 	},
 	"#F38317" : {
-		"county_code": "all -  letter country code",
+		"county_code": "all",
 
 		"county_names": {
 			"Culture1" : "Aller",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -476,16 +476,16 @@
 		]
 	},
 	"#4EB877" : {
-		"county_code": "dre -  letter country code",
+		"county_code": "dre",
 
 		"county_names": {
 			"Culture1" : "Drenthe",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -504,16 +504,16 @@
 		]
 	},
 	"#84E5D0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -532,16 +532,16 @@
 		]
 	},
 	"#F887D9" : {
-		"county_code": "ems -  letter country code",
+		"county_code": "ems",
 
 		"county_names": {
 			"Culture1" : "Emsland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -560,16 +560,16 @@
 		]
 	},
 	"#287838" : {
-		"county_code": "nho -  letter country code",
+		"county_code": "nho",
 
 		"county_names": {
 			"Culture1" : "North Holland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -588,16 +588,16 @@
 		]
 	},
 	"#F3BB94" : {
-		"county_code": "alt -  letter country code",
+		"county_code": "alt",
 
 		"county_names": {
 			"Culture1" : "Altmark",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -616,16 +616,16 @@
 		]
 	},
 	"#BCF53D" : {
-		"county_code": "mwe -  letter country code",
+		"county_code": "mwe",
 
 		"county_names": {
 			"Culture1" : "Middle Weser",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -644,16 +644,16 @@
 		]
 	},
 	"#CE691D" : {
-		"county_code": "nor -  letter country code",
+		"county_code": "nor",
 
 		"county_names": {
 			"Culture1" : "Norfolk",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -672,16 +672,16 @@
 		]
 	},
 	"#023781" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -700,16 +700,16 @@
 		]
 	},
 	"#D097B7" : {
-		"county_code": "ove -  letter country code",
+		"county_code": "ove",
 
 		"county_names": {
 			"Culture1" : "Overijssel",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -728,16 +728,16 @@
 		]
 	},
 	"#180E7A" : {
-		"county_code": "mab -  letter country code",
+		"county_code": "mab",
 
 		"county_names": {
 			"Culture1" : "Magdeburger Borde",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -756,16 +756,16 @@
 		]
 	},
 	"#14911F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -784,16 +784,16 @@
 		]
 	},
 	"#73563C" : {
-		"county_code": "cam -  letter country code",
+		"county_code": "cam",
 
 		"county_names": {
 			"Culture1" : "Cambridge",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -812,16 +812,16 @@
 		]
 	},
 	"#99335B" : {
-		"county_code": "han -  letter country code",
+		"county_code": "han",
 
 		"county_names": {
 			"Culture1" : "Hanover",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -840,16 +840,16 @@
 		]
 	},
 	"#0651A6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -868,16 +868,16 @@
 		]
 	},
 	"#DCF831" : {
-		"county_code": "nhp -  letter country code",
+		"county_code": "nhp",
 
 		"county_names": {
 			"Culture1" : "Northhampton",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -896,16 +896,16 @@
 		]
 	},
 	"#AB5AED" : {
-		"county_code": "bru -  letter country code",
+		"county_code": "bru",
 
 		"county_names": {
 			"Culture1" : "Brunswick",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -924,16 +924,16 @@
 		]
 	},
 	"#A4BD09" : {
-		"county_code": "suf -  letter country code",
+		"county_code": "suf",
 
 		"county_names": {
 			"Culture1" : "Suffolk",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -952,16 +952,16 @@
 		]
 	},
 	"#50F1BE" : {
-		"county_code": "ost -  letter country code",
+		"county_code": "ost",
 
 		"county_names": {
 			"Culture1" : "Ostwestphalia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -980,16 +980,16 @@
 		]
 	},
 	"#1D9EE2" : {
-		"county_code": "gel -  letter country code",
+		"county_code": "gel",
 
 		"county_names": {
 			"Culture1" : "Gelderland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1008,16 +1008,16 @@
 		]
 	},
 	"#599704" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1036,16 +1036,16 @@
 		]
 	},
 	"#1C9E52" : {
-		"county_code": "Bed -  letter country code",
+		"county_code": "Bed",
 
 		"county_names": {
 			"Culture1" : "Bedfordshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1064,16 +1064,16 @@
 		]
 	},
 	"#8E07C2" : {
-		"county_code": "sho -  letter country code",
+		"county_code": "sho",
 
 		"county_names": {
 			"Culture1" : "South Holland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1092,16 +1092,16 @@
 		]
 	},
 	"#3AB263" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1120,16 +1120,16 @@
 		]
 	},
 	"#EFAD64" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1148,16 +1148,16 @@
 		]
 	},
 	"#829E2E" : {
-		"county_code": "buc -  letter country code",
+		"county_code": "buc",
 
 		"county_names": {
 			"Culture1" : "Buckinghamshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1176,16 +1176,16 @@
 		]
 	},
 	"#18B573" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1204,16 +1204,16 @@
 		]
 	},
 	"#D6D48E" : {
-		"county_code": "glo -  letter country code",
+		"county_code": "glo",
 
 		"county_names": {
 			"Culture1" : "Gloucesteshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1232,16 +1232,16 @@
 		]
 	},
 	"#3CD5CD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1260,16 +1260,16 @@
 		]
 	},
 	"#C5C03E" : {
-		"county_code": "har -  letter country code",
+		"county_code": "har",
 
 		"county_names": {
 			"Culture1" : "Harz",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1288,16 +1288,16 @@
 		]
 	},
 	"#F18B65" : {
-		"county_code": "oxf -  letter country code",
+		"county_code": "oxf",
 
 		"county_names": {
 			"Culture1" : "Oxford",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1316,16 +1316,16 @@
 		]
 	},
 	"#35C753" : {
-		"county_code": "ess -  letter country code",
+		"county_code": "ess",
 
 		"county_names": {
 			"Culture1" : "Essex",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1344,16 +1344,16 @@
 		]
 	},
 	"#95803C" : {
-		"county_code": "her -  letter country code",
+		"county_code": "her",
 
 		"county_names": {
 			"Culture1" : "Hertfordshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1372,16 +1372,16 @@
 		]
 	},
 	"#AA34C7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1400,16 +1400,16 @@
 		]
 	},
 	"#28C279" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1428,16 +1428,16 @@
 		]
 	},
 	"#60C00F" : {
-		"county_code": "kem -  letter country code",
+		"county_code": "kem",
 
 		"county_names": {
 			"Culture1" : "Kempenland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1456,16 +1456,16 @@
 		]
 	},
 	"#1EA5D6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1484,16 +1484,16 @@
 		]
 	},
 	"#6822DB" : {
-		"county_code": "ber -  letter country code",
+		"county_code": "ber",
 
 		"county_names": {
 			"Culture1" : "Berkshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1512,16 +1512,16 @@
 		]
 	},
 	"#8E720C" : {
-		"county_code": "saa -  letter country code",
+		"county_code": "saa",
 
 		"county_names": {
 			"Culture1" : "Saale",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1540,16 +1540,16 @@
 		]
 	},
 	"#349EB4" : {
-		"county_code": "mid -  letter country code",
+		"county_code": "mid",
 
 		"county_names": {
 			"Culture1" : "Middlesex",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1568,16 +1568,16 @@
 		]
 	},
 	"#C29F95" : {
-		"county_code": "wil -  letter country code",
+		"county_code": "wil",
 
 		"county_names": {
 			"Culture1" : "Wiltshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1596,16 +1596,16 @@
 		]
 	},
 	"#CEF8DE" : {
-		"county_code": "ant -  letter country code",
+		"county_code": "ant",
 
 		"county_names": {
 			"Culture1" : "Antwerp",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1624,16 +1624,16 @@
 		]
 	},
 	"#D4E1BC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1652,16 +1652,16 @@
 		]
 	},
 	"#DAEA60" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1680,16 +1680,16 @@
 		]
 	},
 	"#84A4D5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1708,16 +1708,16 @@
 		]
 	},
 	"#B02B50" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1736,16 +1736,16 @@
 		]
 	},
 	"#B56DF6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1764,16 +1764,16 @@
 		]
 	},
 	"#3898D4" : {
-		"county_code": "som -  letter country code",
+		"county_code": "som",
 
 		"county_names": {
 			"Culture1" : "Somerset",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1792,16 +1792,16 @@
 		]
 	},
 	"#F58C33" : {
-		"county_code": "ken -  letter country code",
+		"county_code": "ken",
 
 		"county_names": {
 			"Culture1" : "Kent",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1820,16 +1820,16 @@
 		]
 	},
 	"#141945" : {
-		"county_code": "thu -  letter country code",
+		"county_code": "thu",
 
 		"county_names": {
 			"Culture1" : "Thuringer Becken",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1848,16 +1848,16 @@
 		]
 	},
 	"#2E59A7" : {
-		"county_code": "sur -  letter country code",
+		"county_code": "sur",
 
 		"county_names": {
 			"Culture1" : "Surrey",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1876,16 +1876,16 @@
 		]
 	},
 	"#F8B93D" : {
-		"county_code": "wfl -  letter country code",
+		"county_code": "wfl",
 
 		"county_names": {
 			"Culture1" : "West Flanders",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1904,16 +1904,16 @@
 		]
 	},
 	"#94E1FD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1932,16 +1932,16 @@
 		]
 	},
 	"#F8B10C" : {
-		"county_code": "efl -  letter country code",
+		"county_code": "efl",
 
 		"county_names": {
 			"Culture1" : "East Flanders",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1960,16 +1960,16 @@
 		]
 	},
 	"#1A0E3C" : {
-		"county_code": "ham -  letter country code",
+		"county_code": "ham",
 
 		"county_names": {
 			"Culture1" : "Hampshire",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -1988,16 +1988,16 @@
 		]
 	},
 	"#9C1FFB" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2016,16 +2016,16 @@
 		]
 	},
 	"#2B4FC1" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2044,16 +2044,16 @@
 		]
 	},
 	"#6CD6EA" : {
-		"county_code": "dev -  letter country code",
+		"county_code": "dev",
 
 		"county_names": {
 			"Culture1" : "Devon",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2072,16 +2072,16 @@
 		]
 	},
 	"#867C69" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2100,16 +2100,16 @@
 		]
 	},
 	"#D8D52C" : {
-		"county_code": "dor -  letter country code",
+		"county_code": "dor",
 
 		"county_names": {
 			"Culture1" : "Dorset",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2128,16 +2128,16 @@
 		]
 	},
 	"#6FFE13" : {
-		"county_code": "sus -  letter country code",
+		"county_code": "sus",
 
 		"county_names": {
 			"Culture1" : "Sussex",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2156,16 +2156,16 @@
 		]
 	},
 	"#8BDD86" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2184,16 +2184,16 @@
 		]
 	},
 	"#49A237" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2212,16 +2212,16 @@
 		]
 	},
 	"#B1D484" : {
-		"county_code": "pon -  letter country code",
+		"county_code": "pon",
 
 		"county_names": {
 			"Culture1" : "Ponthieu",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2240,16 +2240,16 @@
 		]
 	},
 	"#651447" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2268,16 +2268,16 @@
 		]
 	},
 	"#0C4272" : {
-		"county_code": "vog -  letter country code",
+		"county_code": "vog",
 
 		"county_names": {
 			"Culture1" : "Vogtland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2300,12 +2300,12 @@
 
 		"county_names": {
 			"Culture1" : "Cornwall",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2324,16 +2324,16 @@
 		]
 	},
 	"#71BD7F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2352,16 +2352,16 @@
 		]
 	},
 	"#842A47" : {
-		"county_code": "uar -  letter country code",
+		"county_code": "uar",
 
 		"county_names": {
 			"Culture1" : "Upper Artois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2380,16 +2380,16 @@
 		]
 	},
 	"#EF998C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2408,16 +2408,16 @@
 		]
 	},
 	"#87BB6A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2436,16 +2436,16 @@
 		]
 	},
 	"#DD008E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2464,16 +2464,16 @@
 		]
 	},
 	"#261110" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2492,16 +2492,16 @@
 		]
 	},
 	"#21EEF1" : {
-		"county_code": "rfl -  letter country code",
+		"county_code": "rfl",
 
 		"county_names": {
 			"Culture1" : "Roman Flanders",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2520,16 +2520,16 @@
 		]
 	},
 	"#06DBC0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2548,16 +2548,16 @@
 		]
 	},
 	"#E76156" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2576,16 +2576,16 @@
 		]
 	},
 	"#0C3CA7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2604,16 +2604,16 @@
 		]
 	},
 	"#7A2FBC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2632,16 +2632,16 @@
 		]
 	},
 	"#848FEC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2660,16 +2660,16 @@
 		]
 	},
 	"#92331A" : {
-		"county_code": "fra -  letter country code",
+		"county_code": "fra",
 
 		"county_names": {
 			"Culture1" : "Frakenwald",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2688,16 +2688,16 @@
 		]
 	},
 	"#EF934C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2716,16 +2716,16 @@
 		]
 	},
 	"#49D760" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2744,16 +2744,16 @@
 		]
 	},
 	"#EB625F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2772,16 +2772,16 @@
 		]
 	},
 	"#041689" : {
-		"county_code": "frs -  letter country code",
+		"county_code": "frs",
 
 		"county_names": {
 			"Culture1" : "Frankische Schweiz",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2800,16 +2800,16 @@
 		]
 	},
 	"#8A46C4" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2828,16 +2828,16 @@
 		]
 	},
 	"#E43F9C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2856,16 +2856,16 @@
 		]
 	},
 	"#CD13CF" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2884,16 +2884,16 @@
 		]
 	},
 	"#5AF4C7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2912,16 +2912,16 @@
 		]
 	},
 	"#39AAA3" : {
-		"county_code": "cau -  letter country code",
+		"county_code": "cau",
 
 		"county_names": {
 			"Culture1" : "Caux",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2940,16 +2940,16 @@
 		]
 	},
 	"#BE34C9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2968,16 +2968,16 @@
 		]
 	},
 	"#0929FD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -2996,16 +2996,16 @@
 		]
 	},
 	"#9C8798" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3024,16 +3024,16 @@
 		]
 	},
 	"#587E3D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3052,16 +3052,16 @@
 		]
 	},
 	"#43196C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3080,16 +3080,16 @@
 		]
 	},
 	"#8A967C" : {
-		"county_code": "obw -  letter country code",
+		"county_code": "obw",
 
 		"county_names": {
 			"Culture1" : "Oberpfalzer Wald",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3108,16 +3108,16 @@
 		]
 	},
 	"#80494C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3136,16 +3136,16 @@
 		]
 	},
 	"#7942EC" : {
-		"county_code": "rou -  letter country code",
+		"county_code": "rou",
 
 		"county_names": {
 			"Culture1" : "Rouennais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3164,16 +3164,16 @@
 		]
 	},
 	"#BB5B4E" : {
-		"county_code": "cot -  letter country code",
+		"county_code": "cot",
 
 		"county_names": {
 			"Culture1" : "Cotentin",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3192,16 +3192,16 @@
 		]
 	},
 	"#19E37C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3220,16 +3220,16 @@
 		]
 	},
 	"#3C977A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3248,16 +3248,16 @@
 		]
 	},
 	"#EA01DF" : {
-		"county_code": "rie -  letter country code",
+		"county_code": "rie",
 
 		"county_names": {
 			"Culture1" : "Ries",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3276,16 +3276,16 @@
 		]
 	},
 	"#B872B3" : {
-		"county_code": "ami -  letter country code",
+		"county_code": "ami",
 
 		"county_names": {
 			"Culture1" : "Amienois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3304,16 +3304,16 @@
 		]
 	},
 	"#5DB274" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3332,16 +3332,16 @@
 		]
 	},
 	"#BCA6A5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3360,16 +3360,16 @@
 		]
 	},
 	"#B2EB46" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3388,16 +3388,16 @@
 		]
 	},
 	"#B7EE5F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3416,16 +3416,16 @@
 		]
 	},
 	"#ED427C" : {
-		"county_code": "fal -  letter country code",
+		"county_code": "fal",
 
 		"county_names": {
 			"Culture1" : "Franconian Alb",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3444,16 +3444,16 @@
 		]
 	},
 	"#4FD3C6" : {
-		"county_code": "cae -  letter country code",
+		"county_code": "cae",
 
 		"county_names": {
 			"Culture1" : "Caennais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3472,16 +3472,16 @@
 		]
 	},
 	"#4DD85F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3500,16 +3500,16 @@
 		]
 	},
 	"#6CD350" : {
-		"county_code": "ebr -  letter country code",
+		"county_code": "ebr",
 
 		"county_names": {
 			"Culture1" : "Ebroicien",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3528,16 +3528,16 @@
 		]
 	},
 	"#5A7154" : {
-		"county_code": "hoh -  letter country code",
+		"county_code": "hoh",
 
 		"county_names": {
 			"Culture1" : "Hohenloher Edene",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3556,16 +3556,16 @@
 		]
 	},
 	"#28E818" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3584,16 +3584,16 @@
 		]
 	},
 	"#7982D7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3612,16 +3612,16 @@
 		]
 	},
 	"#2B246B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3640,16 +3640,16 @@
 		]
 	},
 	"#8EFF3D" : {
-		"county_code": "dom -  letter country code",
+		"county_code": "dom",
 
 		"county_names": {
 			"Culture1" : "Donaus Moos",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3668,16 +3668,16 @@
 		]
 	},
 	"#7D2845" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3696,16 +3696,16 @@
 		]
 	},
 	"#19310E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3724,16 +3724,16 @@
 		]
 	},
 	"#82C59B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3752,16 +3752,16 @@
 		]
 	},
 	"#5EC387" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3780,16 +3780,16 @@
 		]
 	},
 	"#AE8BC9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3808,16 +3808,16 @@
 		]
 	},
 	"#DE128C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3836,16 +3836,16 @@
 		]
 	},
 	"#9E35C6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3864,16 +3864,16 @@
 		]
 	},
 	"#578E9D" : {
-		"county_code": "tre -  letter country code",
+		"county_code": "tre",
 
 		"county_names": {
 			"Culture1" : "Tregor",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3892,16 +3892,16 @@
 		]
 	},
 	"#D35A49" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3920,16 +3920,16 @@
 		]
 	},
 	"#D46375" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3948,16 +3948,16 @@
 		]
 	},
 	"#CA9B9C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -3976,16 +3976,16 @@
 		]
 	},
 	"#B84A42" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4004,16 +4004,16 @@
 		]
 	},
 	"#D819C9" : {
-		"county_code": "eus -  letter country code",
+		"county_code": "eus",
 
 		"county_names": {
 			"Culture1" : "Eastern Upper Swabia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4032,16 +4032,16 @@
 		]
 	},
 	"#F04828" : {
-		"county_code": "ren -  letter country code",
+		"county_code": "ren",
 
 		"county_names": {
 			"Culture1" : "Rennais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4060,16 +4060,16 @@
 		]
 	},
 	"#E05FC5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4088,16 +4088,16 @@
 		]
 	},
 	"#0D876B" : {
-		"county_code": "mus -  letter country code",
+		"county_code": "mus",
 
 		"county_names": {
 			"Culture1" : "Munchner Schottereben",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4116,16 +4116,16 @@
 		]
 	},
 	"#97F927" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4144,16 +4144,16 @@
 		]
 	},
 	"#1B3CE7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4172,16 +4172,16 @@
 		]
 	},
 	"#DDB0CE" : {
-		"county_code": "lma -  letter country code",
+		"county_code": "lma",
 
 		"county_names": {
 			"Culture1" : "Lower Maine",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4200,16 +4200,16 @@
 		]
 	},
 	"#CF4F40" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4228,16 +4228,16 @@
 		]
 	},
 	"#BDDBC4" : {
-		"county_code": "crn -  letter country code",
+		"county_code": "crn",
 
 		"county_names": {
 			"Culture1" : "Cornuaille",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4256,16 +4256,16 @@
 		]
 	},
 	"#1EC7BD" : {
-		"county_code": "uma -  letter country code",
+		"county_code": "uma",
 
 		"county_names": {
 			"Culture1" : "Upper Maine",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4284,16 +4284,16 @@
 		]
 	},
 	"#94D3D1" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4312,16 +4312,16 @@
 		]
 	},
 	"#B1390D" : {
-		"county_code": "plo -  letter country code",
+		"county_code": "plo",
 
 		"county_names": {
 			"Culture1" : "Ploermel",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4340,16 +4340,16 @@
 		]
 	},
 	"#84E5F0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4368,16 +4368,16 @@
 		]
 	},
 	"#BED0BE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4396,16 +4396,16 @@
 		]
 	},
 	"#61BBCC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4424,16 +4424,16 @@
 		]
 	},
 	"#4CFEA2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4452,16 +4452,16 @@
 		]
 	},
 	"#25BB7D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4480,16 +4480,16 @@
 		]
 	},
 	"#F89792" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4508,16 +4508,16 @@
 		]
 	},
 	"#B73F7D" : {
-		"county_code": "alg -  letter country code",
+		"county_code": "alg",
 
 		"county_names": {
 			"Culture1" : "Allgua",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4536,16 +4536,16 @@
 		]
 	},
 	"#285248" : {
-		"county_code": "van -  letter country code",
+		"county_code": "van",
 
 		"county_names": {
 			"Culture1" : "Vannetails",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4564,16 +4564,16 @@
 		]
 	},
 	"#73CA9A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4592,16 +4592,16 @@
 		]
 	},
 	"#3600E0" : {
-		"county_code": "anj -  letter country code",
+		"county_code": "anj",
 
 		"county_names": {
 			"Culture1" : "Anjou",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4620,16 +4620,16 @@
 		]
 	},
 	"#EE7374" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4648,16 +4648,16 @@
 		]
 	},
 	"#F5EFF2" : {
-		"county_code": "alp -  letter country code",
+		"county_code": "alp",
 
 		"county_names": {
 			"Culture1" : "Alpenvorland",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4676,16 +4676,16 @@
 		]
 	},
 	"#69053E" : {
-		"county_code": "nan -  letter country code",
+		"county_code": "nan",
 
 		"county_names": {
 			"Culture1" : "Nantais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4704,16 +4704,16 @@
 		]
 	},
 	"#B889F2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4732,16 +4732,16 @@
 		]
 	},
 	"#FA533D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4760,16 +4760,16 @@
 		]
 	},
 	"#AB2000" : {
-		"county_code": "unt -  letter country code",
+		"county_code": "unt",
 
 		"county_names": {
 			"Culture1" : "Unterinntal",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4788,16 +4788,16 @@
 		]
 	},
 	"#FAA636" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4816,16 +4816,16 @@
 		]
 	},
 	"#C1E6E3" : {
-		"county_code": "tou -  letter country code",
+		"county_code": "tou",
 
 		"county_names": {
 			"Culture1" : "Touraine",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4844,16 +4844,16 @@
 		]
 	},
 	"#32F9D1" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4872,16 +4872,16 @@
 		]
 	},
 	"#5CDC9B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4900,16 +4900,16 @@
 		]
 	},
 	"#9577F5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4928,16 +4928,16 @@
 		]
 	},
 	"#CD6F4A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4956,16 +4956,16 @@
 		]
 	},
 	"#E33ECD" : {
-		"county_code": "obe -  letter country code",
+		"county_code": "obe",
 
 		"county_names": {
 			"Culture1" : "Oberinntal",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -4984,16 +4984,16 @@
 		]
 	},
 	"#5ABC07" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5012,16 +5012,16 @@
 		]
 	},
 	"#417D7F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5040,16 +5040,16 @@
 		]
 	},
 	"#ED090D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5068,16 +5068,16 @@
 		]
 	},
 	"#B3BD4E" : {
-		"county_code": "sti -  letter country code",
+		"county_code": "sti",
 
 		"county_names": {
 			"Culture1" : "South Tirol",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5096,16 +5096,16 @@
 		]
 	},
 	"#68BA05" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5124,16 +5124,16 @@
 		]
 	},
 	"#89DF3F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5152,16 +5152,16 @@
 		]
 	},
 	"#2A95ED" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5180,16 +5180,16 @@
 		]
 	},
 	"#D44269" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5208,16 +5208,16 @@
 		]
 	},
 	"#0AF697" : {
-		"county_code": "lop -  letter country code",
+		"county_code": "lop",
 
 		"county_names": {
 			"Culture1" : "Lower Poitou",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5236,16 +5236,16 @@
 		]
 	},
 	"#0EE6CD" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5264,16 +5264,16 @@
 		]
 	},
 	"#A274E7" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5292,16 +5292,16 @@
 		]
 	},
 	"#3F23DF" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5320,16 +5320,16 @@
 		]
 	},
 	"#563004" : {
-		"county_code": "upo -  letter country code",
+		"county_code": "upo",
 
 		"county_names": {
 			"Culture1" : "Upper Poitou",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5348,16 +5348,16 @@
 		]
 	},
 	"#AA7BF3" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5376,16 +5376,16 @@
 		]
 	},
 	"#711651" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5404,16 +5404,16 @@
 		]
 	},
 	"#BBCC38" : {
-		"county_code": "bel -  letter country code",
+		"county_code": "bel",
 
 		"county_names": {
 			"Culture1" : "Belluno",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5432,16 +5432,16 @@
 		]
 	},
 	"#2854D6" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5460,16 +5460,16 @@
 		]
 	},
 	"#77F056" : {
-		"county_code": "lam -  letter country code",
+		"county_code": "lam",
 
 		"county_names": {
 			"Culture1" : "La Marche",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5488,16 +5488,16 @@
 		]
 	},
 	"#290A0D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5516,16 +5516,16 @@
 		]
 	},
 	"#4E377D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5544,16 +5544,16 @@
 		]
 	},
 	"#7FB37C" : {
-		"county_code": "ten -  letter country code",
+		"county_code": "ten",
 
 		"county_names": {
 			"Culture1" : "Trentino",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5572,16 +5572,16 @@
 		]
 	},
 	"#5B1EFC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5600,16 +5600,16 @@
 		]
 	},
 	"#841162" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5628,16 +5628,16 @@
 		]
 	},
 	"#93FD2C" : {
-		"county_code": "sai -  letter country code",
+		"county_code": "sai",
 
 		"county_names": {
 			"Culture1" : "Saintonge",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5656,16 +5656,16 @@
 		]
 	},
 	"#02953F" : {
-		"county_code": "bre -  letter country code",
+		"county_code": "bre",
 
 		"county_names": {
 			"Culture1" : "Brescia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5684,16 +5684,16 @@
 		]
 	},
 	"#509C3C" : {
-		"county_code": "cmb -  letter country code",
+		"county_code": "cmb",
 
 		"county_names": {
 			"Culture1" : "Combraille",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5712,16 +5712,16 @@
 		]
 	},
 	"#F6456A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5740,16 +5740,16 @@
 		]
 	},
 	"#967410" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5768,16 +5768,16 @@
 		]
 	},
 	"#4C434D" : {
-		"county_code": "lyo -  letter country code",
+		"county_code": "lyo",
 
 		"county_names": {
 			"Culture1" : "Lyonnais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5796,16 +5796,16 @@
 		]
 	},
 	"#D083DB" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5824,16 +5824,16 @@
 		]
 	},
 	"#EC1793" : {
-		"county_code": "lim -  letter country code",
+		"county_code": "lim",
 
 		"county_names": {
 			"Culture1" : "Limousin1",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5852,16 +5852,16 @@
 		]
 	},
 	"#60FD54" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5880,16 +5880,16 @@
 		]
 	},
 	"#B0545E" : {
-		"county_code": "lau -  letter country code",
+		"county_code": "lau",
 
 		"county_names": {
 			"Culture1" : "Lower Auvergne",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5908,16 +5908,16 @@
 		]
 	},
 	"#BB230B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5936,16 +5936,16 @@
 		]
 	},
 	"#E83135" : {
-		"county_code": "ang -  letter country code",
+		"county_code": "ang",
 
 		"county_names": {
 			"Culture1" : "Angouleme",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5964,16 +5964,16 @@
 		]
 	},
 	"#D4D2EC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -5992,16 +5992,16 @@
 		]
 	},
 	"#50DDC2" : {
-		"county_code": "ven -  letter country code",
+		"county_code": "ven",
 
 		"county_names": {
 			"Culture1" : "Venice",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6020,16 +6020,16 @@
 		]
 	},
 	"#B48689" : {
-		"county_code": "vic -  letter country code",
+		"county_code": "vic",
 
 		"county_names": {
 			"Culture1" : "Vicenza",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6048,16 +6048,16 @@
 		]
 	},
 	"#BDE306" : {
-		"county_code": "vie -  letter country code",
+		"county_code": "vie",
 
 		"county_names": {
 			"Culture1" : "Viennois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6076,16 +6076,16 @@
 		]
 	},
 	"#4C1D7D" : {
-		"county_code": "trn -  letter country code",
+		"county_code": "trn",
 
 		"county_names": {
 			"Culture1" : "Turenne",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6104,16 +6104,16 @@
 		]
 	},
 	"#03799C" : {
-		"county_code": "ver -  letter country code",
+		"county_code": "ver",
 
 		"county_names": {
 			"Culture1" : "Verona",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6132,16 +6132,16 @@
 		]
 	},
 	"#B658A5" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6160,16 +6160,16 @@
 		]
 	},
 	"#5630CE" : {
-		"county_code": "pad -  letter country code",
+		"county_code": "pad",
 
 		"county_names": {
 			"Culture1" : "Padua",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6188,16 +6188,16 @@
 		]
 	},
 	"#64D92C" : {
-		"county_code": "bor -  letter country code",
+		"county_code": "bor",
 
 		"county_names": {
 			"Culture1" : "Bordelais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6216,16 +6216,16 @@
 		]
 	},
 	"#159664" : {
-		"county_code": "cre -  letter country code",
+		"county_code": "cre",
 
 		"county_names": {
 			"Culture1" : "Cremona",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6244,16 +6244,16 @@
 		]
 	},
 	"#71E641" : {
-		"county_code": "gre -  letter country code",
+		"county_code": "gre",
 
 		"county_names": {
 			"Culture1" : "Gresivaudan",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6272,16 +6272,16 @@
 		]
 	},
 	"#CF6C5B" : {
-		"county_code": "pri -  letter country code",
+		"county_code": "pri",
 
 		"county_names": {
 			"Culture1" : "Perigord",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6300,16 +6300,16 @@
 		]
 	},
 	"#C99D5F" : {
-		"county_code": "uau -  letter country code",
+		"county_code": "uau",
 
 		"county_names": {
 			"Culture1" : "Upper Auvergne",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6328,16 +6328,16 @@
 		]
 	},
 	"#3899B7" : {
-		"county_code": "pav -  letter country code",
+		"county_code": "pav",
 
 		"county_names": {
 			"Culture1" : "Pavia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6356,16 +6356,16 @@
 		]
 	},
 	"#E08F77" : {
-		"county_code": "mon -  letter country code",
+		"county_code": "mon",
 
 		"county_names": {
 			"Culture1" : "Monferrato",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6384,16 +6384,16 @@
 		]
 	},
 	"#C796F7" : {
-		"county_code": "man -  letter country code",
+		"county_code": "man",
 
 		"county_names": {
 			"Culture1" : "Mantua",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6412,16 +6412,16 @@
 		]
 	},
 	"#CC44CE" : {
-		"county_code": "viv -  letter country code",
+		"county_code": "viv",
 
 		"county_names": {
 			"Culture1" : "Vivarais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6440,16 +6440,16 @@
 		]
 	},
 	"#0D84F8" : {
-		"county_code": "fer -  letter country code",
+		"county_code": "fer",
 
 		"county_names": {
 			"Culture1" : "Ferrara",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6468,16 +6468,16 @@
 		]
 	},
 	"#167DEA" : {
-		"county_code": "pia -  letter country code",
+		"county_code": "pia",
 
 		"county_names": {
 			"Culture1" : "Piacenza",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6496,16 +6496,16 @@
 		]
 	},
 	"#F4F3F9" : {
-		"county_code": "sal -  letter country code",
+		"county_code": "sal",
 
 		"county_names": {
 			"Culture1" : "Saluzzo",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6524,16 +6524,16 @@
 		]
 	},
 	"#60A089" : {
-		"county_code": "ale -  letter country code",
+		"county_code": "ale",
 
 		"county_names": {
 			"Culture1" : "Alessandria",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6552,16 +6552,16 @@
 		]
 	},
 	"#2D5A39" : {
-		"county_code": "que -  letter country code",
+		"county_code": "que",
 
 		"county_names": {
 			"Culture1" : "Quercy",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6580,16 +6580,16 @@
 		]
 	},
 	"#88DDA5" : {
-		"county_code": "vae -  letter country code",
+		"county_code": "vae",
 
 		"county_names": {
 			"Culture1" : "Valentinois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6608,16 +6608,16 @@
 		]
 	},
 	"#D3B3B0" : {
-		"county_code": "reg -  letter country code",
+		"county_code": "reg",
 
 		"county_names": {
 			"Culture1" : "Reggioem",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6636,16 +6636,16 @@
 		]
 	},
 	"#455280" : {
-		"county_code": "par -  letter country code",
+		"county_code": "par",
 
 		"county_names": {
 			"Culture1" : "Parma",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6664,16 +6664,16 @@
 		]
 	},
 	"#0DFCA6" : {
-		"county_code": "gev -  letter country code",
+		"county_code": "gev",
 
 		"county_names": {
 			"Culture1" : "Gevaudan",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6692,16 +6692,16 @@
 		]
 	},
 	"#83AB78" : {
-		"county_code": "bol -  letter country code",
+		"county_code": "bol",
 
 		"county_names": {
 			"Culture1" : "Bologna",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6720,16 +6720,16 @@
 		]
 	},
 	"#6749DB" : {
-		"county_code": "roe -  letter country code",
+		"county_code": "roe",
 
 		"county_names": {
 			"Culture1" : "Rouergue",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6748,16 +6748,16 @@
 		]
 	},
 	"#F51571" : {
-		"county_code": "baz -  letter country code",
+		"county_code": "baz",
 
 		"county_names": {
 			"Culture1" : "Bazadais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6776,16 +6776,16 @@
 		]
 	},
 	"#718AD7" : {
-		"county_code": "age -  letter country code",
+		"county_code": "age",
 
 		"county_names": {
 			"Culture1" : "Agenais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6804,16 +6804,16 @@
 		]
 	},
 	"#3146ED" : {
-		"county_code": "mod -  letter country code",
+		"county_code": "mod",
 
 		"county_names": {
 			"Culture1" : "Modena",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6832,16 +6832,16 @@
 		]
 	},
 	"#249685" : {
-		"county_code": "mod -  letter country code",
+		"county_code": "mod",
 
 		"county_names": {
 			"Culture1" : "Mondovi",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6860,16 +6860,16 @@
 		]
 	},
 	"#67739A" : {
-		"county_code": "lev -  letter country code",
+		"county_code": "lev",
 
 		"county_names": {
 			"Culture1" : "Levante",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6888,16 +6888,16 @@
 		]
 	},
 	"#1F782D" : {
-		"county_code": "pun -  letter country code",
+		"county_code": "pun",
 
 		"county_names": {
 			"Culture1" : "Punente",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6916,16 +6916,16 @@
 		]
 	},
 	"#04C6AB" : {
-		"county_code": "rom -  letter country code",
+		"county_code": "rom",
 
 		"county_names": {
 			"Culture1" : "Romagna",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6944,16 +6944,16 @@
 		]
 	},
 	"#6FB10F" : {
-		"county_code": "dig -  letter country code",
+		"county_code": "dig",
 
 		"county_names": {
 			"Culture1" : "Dignois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -6972,16 +6972,16 @@
 		]
 	},
 	"#59F002" : {
-		"county_code": "tur -  letter country code",
+		"county_code": "tur",
 
 		"county_names": {
 			"Culture1" : "Tursan",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7000,16 +7000,16 @@
 		]
 	},
 	"#CA7DA4" : {
-		"county_code": "luc -  letter country code",
+		"county_code": "luc",
 
 		"county_names": {
 			"Culture1" : "Lucca",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7028,16 +7028,16 @@
 		]
 	},
 	"#54DD34" : {
-		"county_code": "nim -  letter country code",
+		"county_code": "nim",
 
 		"county_names": {
 			"Culture1" : "Nimois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7056,16 +7056,16 @@
 		]
 	},
 	"#354452" : {
-		"county_code": "avi -  letter country code",
+		"county_code": "avi",
 
 		"county_names": {
 			"Culture1" : "Avignonnais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7084,16 +7084,16 @@
 		]
 	},
 	"#2DBD84" : {
-		"county_code": "nic -  letter country code",
+		"county_code": "nic",
 
 		"county_names": {
 			"Culture1" : "Nice",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7112,16 +7112,16 @@
 		]
 	},
 	"#CA14C0" : {
-		"county_code": "arm -  letter country code",
+		"county_code": "arm",
 
 		"county_names": {
 			"Culture1" : "Armagnac",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7140,16 +7140,16 @@
 		]
 	},
 	"#D3F6D1" : {
-		"county_code": "flo -  letter country code",
+		"county_code": "flo",
 
 		"county_names": {
 			"Culture1" : "Florence",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7168,16 +7168,16 @@
 		]
 	},
 	"#0BBB9B" : {
-		"county_code": "cat -  letter country code",
+		"county_code": "cat",
 
 		"county_names": {
 			"Culture1" : "Castres",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7196,16 +7196,16 @@
 		]
 	},
 	"#007568" : {
-		"county_code": "tol -  letter country code",
+		"county_code": "tol",
 
 		"county_names": {
 			"Culture1" : "Toulousain",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7224,16 +7224,16 @@
 		]
 	},
 	"#C77E6D" : {
-		"county_code": "urb -  letter country code",
+		"county_code": "urb",
 
 		"county_names": {
 			"Culture1" : "Urbino",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7252,16 +7252,16 @@
 		]
 	},
 	"#9CB544" : {
-		"county_code": "aqu -  letter country code",
+		"county_code": "aqu",
 
 		"county_names": {
 			"Culture1" : "Aquisextain",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7280,16 +7280,16 @@
 		]
 	},
 	"#399357" : {
-		"county_code": "nab -  letter country code",
+		"county_code": "nab",
 
 		"county_names": {
 			"Culture1" : "Navbonnais",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7308,16 +7308,16 @@
 		]
 	},
 	"#A9B953" : {
-		"county_code": "are -  letter country code",
+		"county_code": "are",
 
 		"county_names": {
 			"Culture1" : "Arezzo",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7336,16 +7336,16 @@
 		]
 	},
 	"#3D0B84" : {
-		"county_code": "pis -  letter country code",
+		"county_code": "pis",
 
 		"county_names": {
 			"Culture1" : "Pisa",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7364,16 +7364,16 @@
 		]
 	},
 	"#C81FC9" : {
-		"county_code": "dra -  letter country code",
+		"county_code": "dra",
 
 		"county_names": {
 			"Culture1" : "Dracenois",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7392,16 +7392,16 @@
 		]
 	},
 	"#0DD4B4" : {
-		"county_code": "mar -  letter country code",
+		"county_code": "mar",
 
 		"county_names": {
 			"Culture1" : "Marche",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7420,16 +7420,16 @@
 		]
 	},
 	"#12A890" : {
-		"county_code": "per -  letter country code",
+		"county_code": "per",
 
 		"county_names": {
 			"Culture1" : "Perugia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7448,16 +7448,16 @@
 		]
 	},
 	"#9AED52" : {
-		"county_code": "bea -  letter country code",
+		"county_code": "bea",
 
 		"county_names": {
 			"Culture1" : "Bearn Bigorre",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7476,16 +7476,16 @@
 		]
 	},
 	"#A18E41" : {
-		"county_code": "com -  letter country code",
+		"county_code": "com",
 
 		"county_names": {
 			"Culture1" : "Comminges",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7504,16 +7504,16 @@
 		]
 	},
 	"#8BE9DA" : {
-		"county_code": "bay -  letter country code",
+		"county_code": "bay",
 
 		"county_names": {
 			"Culture1" : "Bayonne",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7532,16 +7532,16 @@
 		]
 	},
 	"#B91EAE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7560,16 +7560,16 @@
 		]
 	},
 	"#2AAFAD" : {
-		"county_code": "raz -  letter country code",
+		"county_code": "raz",
 
 		"county_names": {
 			"Culture1" : "Razes",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7588,16 +7588,16 @@
 		]
 	},
 	"#0B4D61" : {
-		"county_code": "sie -  letter country code",
+		"county_code": "sie",
 
 		"county_names": {
 			"Culture1" : "Siena",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7616,16 +7616,16 @@
 		]
 	},
 	"#6B7D78" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7644,16 +7644,16 @@
 		]
 	},
 	"#00A803" : {
-		"county_code": "gip -  letter country code",
+		"county_code": "gip",
 
 		"county_names": {
 			"Culture1" : "Gipuzkoa",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7672,16 +7672,16 @@
 		]
 	},
 	"#915740" : {
-		"county_code": "spo -  letter country code",
+		"county_code": "spo",
 
 		"county_names": {
 			"Culture1" : "Spoleto",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7700,16 +7700,16 @@
 		]
 	},
 	"#A6A58B" : {
-		"county_code": "nar -  letter country code",
+		"county_code": "nar",
 
 		"county_names": {
 			"Culture1" : "Narvarre",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7728,16 +7728,16 @@
 		]
 	},
 	"#E0210A" : {
-		"county_code": "foi -  letter country code",
+		"county_code": "foi",
 
 		"county_names": {
 			"Culture1" : "Foix",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7756,16 +7756,16 @@
 		]
 	},
 	"#58204F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7784,16 +7784,16 @@
 		]
 	},
 	"#824051" : {
-		"county_code": "gro -  letter country code",
+		"county_code": "gro",
 
 		"county_names": {
 			"Culture1" : "Grosseto",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7812,16 +7812,16 @@
 		]
 	},
 	"#F084D4" : {
-		"county_code": "cis -  letter country code",
+		"county_code": "cis",
 
 		"county_names": {
 			"Culture1" : "Cismonte",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7840,16 +7840,16 @@
 		]
 	},
 	"#298261" : {
-		"county_code": "pat -  letter country code",
+		"county_code": "pat",
 
 		"county_names": {
 			"Culture1" : "Patrimonio",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7868,16 +7868,16 @@
 		]
 	},
 	"#194BDE" : {
-		"county_code": "hue -  letter country code",
+		"county_code": "hue",
 
 		"county_names": {
 			"Culture1" : "Huesca",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7896,16 +7896,16 @@
 		]
 	},
 	"#E7A027" : {
-		"county_code": "ros -  letter country code",
+		"county_code": "ros",
 
 		"county_names": {
 			"Culture1" : "Rosello",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7924,16 +7924,16 @@
 		]
 	},
 	"#FC22DD" : {
-		"county_code": "abu -  letter country code",
+		"county_code": "abu",
 
 		"county_names": {
 			"Culture1" : "Abruzzo Ultra",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7952,16 +7952,16 @@
 		]
 	},
 	"#85508E" : {
-		"county_code": "urg -  letter country code",
+		"county_code": "urg",
 
 		"county_names": {
 			"Culture1" : "Urgell",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -7980,16 +7980,16 @@
 		]
 	},
 	"#BA08B4" : {
-		"county_code": "bas -  letter country code",
+		"county_code": "bas",
 
 		"county_names": {
 			"Culture1" : "Barbastro",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8008,16 +8008,16 @@
 		]
 	},
 	"#65F839" : {
-		"county_code": "pum -  letter country code",
+		"county_code": "pum",
 
 		"county_names": {
 			"Culture1" : "Pumonte",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8036,16 +8036,16 @@
 		]
 	},
 	"#F7A947" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8064,16 +8064,16 @@
 		]
 	},
 	"#154709" : {
-		"county_code": "gir -  letter country code",
+		"county_code": "gir",
 
 		"county_names": {
 			"Culture1" : "Girona",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8092,16 +8092,16 @@
 		]
 	},
 	"#1024E6" : {
-		"county_code": "cap -  letter country code",
+		"county_code": "cap",
 
 		"county_names": {
 			"Culture1" : "Campagna",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8120,16 +8120,16 @@
 		]
 	},
 	"#198EA8" : {
-		"county_code": "oso -  letter country code",
+		"county_code": "oso",
 
 		"county_names": {
 			"Culture1" : "Osona",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8148,16 +8148,16 @@
 		]
 	},
 	"#EB1E38" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8176,16 +8176,16 @@
 		]
 	},
 	"#BA52DA" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8204,16 +8204,16 @@
 		]
 	},
 	"#DE8591" : {
-		"county_code": "zar -  letter country code",
+		"county_code": "zar",
 
 		"county_names": {
 			"Culture1" : "Zaragoza",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8232,16 +8232,16 @@
 		]
 	},
 	"#3263EB" : {
-		"county_code": "lat -  letter country code",
+		"county_code": "lat",
 
 		"county_names": {
 			"Culture1" : "Latium",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8260,16 +8260,16 @@
 		]
 	},
 	"#936CED" : {
-		"county_code": "lav -  letter country code",
+		"county_code": "lav",
 
 		"county_names": {
 			"Culture1" : "Lavoro",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8288,16 +8288,16 @@
 		]
 	},
 	"#083434" : {
-		"county_code": "nca -  letter country code",
+		"county_code": "nca",
 
 		"county_names": {
 			"Culture1" : "New Catelonia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8316,16 +8316,16 @@
 		]
 	},
 	"#564531" : {
-		"county_code": "bar -  letter country code",
+		"county_code": "bar",
 
 		"county_names": {
 			"Culture1" : "Barcelona",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8344,16 +8344,16 @@
 		]
 	},
 	"#850933" : {
-		"county_code": "cal -  letter country code",
+		"county_code": "cal",
 
 		"county_names": {
 			"Culture1" : "Calatayud",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8372,16 +8372,16 @@
 		]
 	},
 	"#6D4EE0" : {
-		"county_code": "alc -  letter country code",
+		"county_code": "alc",
 
 		"county_names": {
 			"Culture1" : "Alcaniz",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8400,16 +8400,16 @@
 		]
 	},
 	"#9367DC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8428,16 +8428,16 @@
 		]
 	},
 	"#AC9917" : {
-		"county_code": "gal -  letter country code",
+		"county_code": "gal",
 
 		"county_names": {
 			"Culture1" : "Gallura",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8456,16 +8456,16 @@
 		]
 	},
 	"#FB6ADC" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8484,16 +8484,16 @@
 		]
 	},
 	"#E98E17" : {
-		"county_code": "log -  letter country code",
+		"county_code": "log",
 
 		"county_names": {
 			"Culture1" : "Logudoro",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8512,16 +8512,16 @@
 		]
 	},
 	"#961736" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8540,16 +8540,16 @@
 		]
 	},
 	"#BEDC3F" : {
-		"county_code": "ter -  letter country code",
+		"county_code": "ter",
 
 		"county_names": {
 			"Culture1" : "Teruel",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8568,16 +8568,16 @@
 		]
 	},
 	"#CD0D46" : {
-		"county_code": "cas -  letter country code",
+		"county_code": "cas",
 
 		"county_names": {
 			"Culture1" : "Castellon",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8596,16 +8596,16 @@
 		]
 	},
 	"#FFCB21" : {
-		"county_code": "arb -  letter country code",
+		"county_code": "arb",
 
 		"county_names": {
 			"Culture1" : "Arborea",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8624,16 +8624,16 @@
 		]
 	},
 	"#68E3F4" : {
-		"county_code": "cag -  letter country code",
+		"county_code": "cag",
 
 		"county_names": {
 			"Culture1" : "Cagliari",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8652,16 +8652,16 @@
 		]
 	},
 	"#FDAF76" : {
-		"county_code": "val -  letter country code",
+		"county_code": "val",
 
 		"county_names": {
 			"Culture1" : "Valencia",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8680,16 +8680,16 @@
 		]
 	},
 	"#820658" : {
-		"county_code": "mal -  letter country code",
+		"county_code": "mal",
 
 		"county_names": {
 			"Culture1" : "Mallorca",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8708,16 +8708,16 @@
 		]
 	},
 	"#213821" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8736,16 +8736,16 @@
 		]
 	},
 	"#3303EE" : {
-		"county_code": "jat -  letter country code",
+		"county_code": "jat",
 
 		"county_names": {
 			"Culture1" : "Jativa",
-			"Culture2" : "name in this culture",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8764,16 +8764,16 @@
 		]
 	},
 	"#E48C2A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
@@ -8792,16 +8792,16 @@
 		]
 	},
 	"#485A8F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "XXX",
 
 		"county_names": {
-			"Culture1" : "name in culture",
-			"Culture2" : "name in this culture",
+			"Culture1" : "",
+			"Culture2" : "",
 			"ect" : "ect"
 		},
 
-		"culture" : "The culture of the region",
-        "faith" : "The faith of the region",
+		"culture" : "",
+        "faith" : "",
 
 		"max_infrastrucure" : "num",
 		"infrastrucure" : [
