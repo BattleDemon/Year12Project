@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://wkq45m2oco1c"]
+
+[ext_resource type="Script" uid="uid://ccvfvwqhktx4b" path="res://scripts/data_manager.gd" id="1_43pbl"]
+
+[node name="data_manager" type="Node" unique_id=455420790]
+script = ExtResource("1_43pbl")
