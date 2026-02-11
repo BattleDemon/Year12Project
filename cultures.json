@@ -1,0 +1,43 @@
+{
+    "Franks" : {
+        "cultural_group" : "germanic"
+    },
+    "Frisians" : {
+        "cultural_group" : "germanic"
+    },
+    "Saxons" : {
+        "cultural_group" : "germanic"
+    },
+    "Thuringians" : {
+        "cultural_group" : "germanic"
+    },
+    "Angle" : {
+        "cultural_group" : "germanic"
+    },
+    "Alemanni" : {
+        "cultural_group" : "germanic"
+    },
+    "Burgundian" : {
+        "cultural_group" : "germanic"
+    },
+
+    "Breton" : {
+        "cultural_group" : "brithonic"
+    },
+    "Breto-Roman" : {
+        "cultural_group" : "brithonic"
+    },
+
+    "Basque" : {
+        "cultural_group" : "basque"
+    },
+
+    "Visagothic" : {
+        "cultural_group" : "gothic"
+    },
+
+
+
+
+
+}
