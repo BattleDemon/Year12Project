@@ -392,10 +392,10 @@
 		]
 	},
 	"#0E851E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lbu -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Luneburger Heide",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -588,10 +588,10 @@
 		]
 	},
 	"#F3BB94" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "alt -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Altmark",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -728,10 +728,10 @@
 		]
 	},
 	"#180E7A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mab -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Magdeburger Borde",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -1512,10 +1512,10 @@
 		]
 	},
 	"#8E720C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "saa -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Saale",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2268,10 +2268,10 @@
 		]
 	},
 	"#0C4272" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "vog -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Vogtland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -2772,10 +2772,10 @@
 		]
 	},
 	"#041689" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "frs -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Frankische Schweiz",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3080,10 +3080,10 @@
 		]
 	},
 	"#8A967C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "obw -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Oberpfalzer Wald",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -3640,10 +3640,10 @@
 		]
 	},
 	"#8EFF3D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dom -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Donaus Moos",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4088,10 +4088,10 @@
 		]
 	},
 	"#0D876B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "mus -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Munchner Schottereben",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4648,10 +4648,10 @@
 		]
 	},
 	"#F5EFF2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "alp -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Alpenvorland",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -4760,10 +4760,10 @@
 		]
 	},
 	"#AB2000" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "unt -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Unterinntal",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5068,10 +5068,10 @@
 		]
 	},
 	"#B3BD4E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sti -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "South Tirol",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5404,10 +5404,10 @@
 		]
 	},
 	"#BBCC38" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bel -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Belluno",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5628,10 +5628,10 @@
 		]
 	},
 	"#93FD2C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sai -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Saintonge",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -5992,10 +5992,10 @@
 		]
 	},
 	"#50DDC2" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ven -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Venice",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6160,10 +6160,10 @@
 		]
 	},
 	"#5630CE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pad -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Padua",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6188,10 +6188,10 @@
 		]
 	},
 	"#64D92C" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bor -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bordelais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6440,10 +6440,10 @@
 		]
 	},
 	"#0D84F8" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "fer -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Ferrara",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6860,10 +6860,10 @@
 		]
 	},
 	"#67739A" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "lev -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Levante",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6888,10 +6888,10 @@
 		]
 	},
 	"#1F782D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pun -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Punente",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6916,10 +6916,10 @@
 		]
 	},
 	"#04C6AB" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "rom -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Romagna",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -6972,10 +6972,10 @@
 		]
 	},
 	"#59F002" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "tur -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Tursan",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7000,10 +7000,10 @@
 		]
 	},
 	"#CA7DA4" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "luc -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Lucca",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7028,10 +7028,10 @@
 		]
 	},
 	"#54DD34" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nim -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Nimois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7084,10 +7084,10 @@
 		]
 	},
 	"#2DBD84" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nic -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Nice",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7140,10 +7140,10 @@
 		]
 	},
 	"#D3F6D1" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "flo -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Florence",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7224,10 +7224,10 @@
 		]
 	},
 	"#C77E6D" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "urb -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Urbino",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7252,10 +7252,10 @@
 		]
 	},
 	"#9CB544" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "aqu -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Aquisextain",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7280,10 +7280,10 @@
 		]
 	},
 	"#399357" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nab -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Navbonnais",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7308,10 +7308,10 @@
 		]
 	},
 	"#A9B953" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "are -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Arezzo",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7336,10 +7336,10 @@
 		]
 	},
 	"#3D0B84" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "pis -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Pisa",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7364,10 +7364,10 @@
 		]
 	},
 	"#C81FC9" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "dra -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Dracenois",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7420,10 +7420,10 @@
 		]
 	},
 	"#12A890" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "per -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Perugia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7504,10 +7504,10 @@
 		]
 	},
 	"#8BE9DA" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bay -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Bayonne",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7588,10 +7588,10 @@
 		]
 	},
 	"#0B4D61" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "sie -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Siena",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7644,10 +7644,10 @@
 		]
 	},
 	"#00A803" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gip -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Gipuzkoa",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7700,10 +7700,10 @@
 		]
 	},
 	"#A6A58B" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nar -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Narvarre",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7784,10 +7784,10 @@
 		]
 	},
 	"#824051" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gro -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Grosseto",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7868,10 +7868,10 @@
 		]
 	},
 	"#194BDE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "hue -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Huesca",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7896,10 +7896,10 @@
 		]
 	},
 	"#E7A027" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ros -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Rosello",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7952,10 +7952,10 @@
 		]
 	},
 	"#85508E" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "urg -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Urgell",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -7980,10 +7980,10 @@
 		]
 	},
 	"#BA08B4" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bas -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Barbastro",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8064,10 +8064,10 @@
 		]
 	},
 	"#154709" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "gir -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Girona",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8120,10 +8120,10 @@
 		]
 	},
 	"#198EA8" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "oso -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Osona",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8204,10 +8204,10 @@
 		]
 	},
 	"#DE8591" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "zar -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Zaragoza",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8288,10 +8288,10 @@
 		]
 	},
 	"#083434" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "nca -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "New Catelonia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8316,10 +8316,10 @@
 		]
 	},
 	"#564531" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "bar -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Barcelona",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8344,10 +8344,10 @@
 		]
 	},
 	"#850933" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cal -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Calatayud",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8372,10 +8372,10 @@
 		]
 	},
 	"#6D4EE0" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "alc -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Alcaniz",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8540,10 +8540,10 @@
 		]
 	},
 	"#BEDC3F" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "ter -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Teruel",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8568,10 +8568,10 @@
 		]
 	},
 	"#CD0D46" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "cas -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Castellon",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8652,10 +8652,10 @@
 		]
 	},
 	"#FDAF76" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "val -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Valencia",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
@@ -8736,10 +8736,10 @@
 		]
 	},
 	"#3303EE" : {
-		"county_code": "XXX -  letter country code",
+		"county_code": "jat -  letter country code",
 
 		"county_names": {
-			"Culture1" : "name in culture",
+			"Culture1" : "Jativa",
 			"Culture2" : "name in this culture",
 			"ect" : "ect"
 		},
