@@ -1,10 +1,15 @@
 [gd_scene format=3 uid="uid://dp70y4a4x4a0h"]
 
 [ext_resource type="Texture2D" uid="uid://db52bxm2n7qi0" path="res://utility/goodMap.png" id="1_b1cmn"]
+[ext_resource type="Script" uid="uid://bk1134mqqk718" path="res://scripts/editor.gd" id="1_ba0ut"]
+[ext_resource type="Script" uid="uid://bdjlcr4iagcck" path="res://scripts/map_manager.gd" id="1_pxqd5"]
+[ext_resource type="Script" uid="uid://ciqk10q1ab7vq" path="res://scripts/region_editor.gd" id="4_q68jb"]
+[ext_resource type="Script" uid="uid://bydjovqwcaswk" path="res://scripts/realm_editor.gd" id="5_xg7d5"]
 
 [node name="editor" type="Control" unique_id=1219123374]
 layout_mode = 3
 anchors_preset = 0
+script = ExtResource("1_ba0ut")
 
 [node name="HSplitContainer" type="HSplitContainer" parent="." unique_id=436699551]
 layout_mode = 0
@@ -18,8 +23,11 @@ layout_mode = 2
 layout_mode = 2
 
 [node name="SubViewport" type="SubViewport" parent="HSplitContainer/map_panel/SubViewportContainer" unique_id=603242672]
+handle_input_locally = false
+render_target_update_mode = 4
 
 [node name="map_root" type="Node2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport" unique_id=432671269]
+script = ExtResource("1_pxqd5")
 
 [node name="province_map" type="Sprite2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=1131721592]
 texture = ExtResource("1_b1cmn")
@@ -44,6 +52,7 @@ current_tab = 0
 
 [node name="region_editor" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack" unique_id=278296095]
 layout_mode = 2
+script = ExtResource("4_q68jb")
 metadata/_tab_index = 0
 
 [node name="region_editor_content" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/region_editor" unique_id=1391968781]
@@ -173,6 +182,7 @@ layout_mode = 2
 [node name="realm_editor" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack" unique_id=645879071]
 visible = false
 layout_mode = 2
+script = ExtResource("5_xg7d5")
 metadata/_tab_index = 1
 
 [node name="realm_editor_content" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor" unique_id=1145551648]
@@ -180,19 +190,19 @@ layout_mode = 2
 
 [node name="realm" type="Node" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=1216143602]
 
-[node name="Label" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1443270832]
+[node name="select_realm" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1443270832]
 offset_right = 40.0
 offset_bottom = 23.0
 
-[node name="OptionButton" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=136879592]
+[node name="realm_dropdown" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=136879592]
 offset_right = 32.0
 offset_bottom = 20.0
 
-[node name="LineEdit" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=43003248]
+[node name="realm_name" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=43003248]
 offset_right = 68.5
 offset_bottom = 31.0
 
-[node name="ColorPickerButton" type="ColorPickerButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1640469685]
+[node name="realm_color" type="ColorPickerButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1640469685]
 offset_right = 8.0
 offset_bottom = 8.0
 
@@ -201,15 +211,58 @@ layout_mode = 2
 
 [node name="ruler" type="Node" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=369588178]
 
+[node name="ruler" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=618589439]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ruler_name" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=1316825364]
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="dynasty" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=705777238]
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="title" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=255604323]
+offset_right = 68.5
+offset_bottom = 31.0
+
 [node name="HSeparator2" type="HSeparator" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=53549672]
 layout_mode = 2
 
 [node name="realm_options" type="Node" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=1955722709]
 
+[node name="realm_level" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1295006789]
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="admin_type" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1648988241]
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="capitol_province" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1104071280]
+offset_right = 32.0
+offset_bottom = 20.0
+
 [node name="HSeparator3" type="HSeparator" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=394247975]
 layout_mode = 2
 
 [node name="regions" type="Node" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=806569606]
+
+[node name="Label" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=2121932949]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=1631504494]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="province_ckeckbox_list" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions/ScrollContainer" unique_id=1736590655]
+layout_mode = 2
+
+[node name="save_realm" type="Button" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=869889044]
+offset_right = 8.0
+offset_bottom = 8.0
 
 [node name="bottom_bar" type="HBoxContainer" parent="HSplitContainer/right_panel" unique_id=716024191]
 layout_mode = 2
@@ -220,5 +273,5 @@ layout_mode = 2
 [node name="save_realms_button" type="Button" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1304588933]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1252051370]
+[node name="debug_label" type="Label" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1252051370]
 layout_mode = 2
