@@ -2,15 +2,15 @@ extends VBoxContainer
 
 var current_realm_code := ""
 
-@onready var realm_dropdown = $realm_editor_content/realm/realm_dropdown
-@onready var realm_name = $realm_editor_content/realm/realm_name
-@onready var realm_color = $realm_editor_content/realm/realm_color
-@onready var ruler_name = $realm_editor_content/ruler/ruler_name
-@onready var ruler_dynasty = $realm_editor_content/ruler/dynasty
-@onready var ruler_title = $realm_editor_content/ruler/title
-@onready var capital_dropdown = $realm_editor_content/realm_options/capitol_province
-@onready var province_list = $realm_editor_content/regions/ScrollContainer/province_ckeckbox_list
-@onready var save_button = $realm_editor_content/regions/save_realm
+@onready var realm_dropdown = $realm/realm_dropdown
+@onready var realm_name = $realm/realm_name
+@onready var realm_color = $realm/realm_color
+@onready var ruler_name = $ruler/ruler_name
+@onready var ruler_dynasty = $ruler/dynasty
+@onready var ruler_title = $ruler/title
+@onready var capital_dropdown = $realm_options/capitol_province
+@onready var province_list = $regions/ScrollContainer/province_ckeckbox_list
+@onready var save_button = $regions/save_realm
 
 func _ready():
 	populate_realms()

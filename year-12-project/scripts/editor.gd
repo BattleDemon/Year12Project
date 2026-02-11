@@ -9,6 +9,8 @@ extends Control
 var current_mode := "region"
 
 func _ready():
+	print("editor ready")
+	
 	map_manager.region_clicked.connect(_on_region_clicked)
 	$HSplitContainer/right_panel/mode_bar/region_mode_button.pressed.connect(_on_region_mode)
 	$HSplitContainer/right_panel/mode_bar/realm_mode_button.pressed.connect(_on_realm_mode)
@@ -17,11 +19,11 @@ func _ready():
 
 func _on_region_mode():
 	current_mode = "region"
-	editor_stack.current = 0
+	editor_stack.current_tab = 0
 
 func _on_realm_mode():
 	current_mode = "realm"
-	editor_stack.current = 1
+	editor_stack.current_tab = 1
 	map_manager.draw_realm_overlay()
 
 func _on_region_clicked(hex: String):

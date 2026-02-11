@@ -13,7 +13,6 @@ func _ready():
 		push_error("Map texture not assigned.")
 		return
 	image = map_texture.get_image()
-	image.lock()
 
 func _unhandled_input(event):
 	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
@@ -37,7 +36,6 @@ func color_to_hex(c: Color) -> String:
 
 func highlight_region(hex: String):
 	var highlight_image = Image.create(image.get_width(), image.get_height(), false, Image.FORMAT_RGBA8)
-	highlight_image.lock()
 
 	var target_color = hex_to_color(hex)
 
@@ -47,7 +45,6 @@ func highlight_region(hex: String):
 			if pixel == target_color:
 				highlight_image.set_pixel(x, y, Color(1, 1, 0, 0.6)) # yellow transparent
 
-	highlight_image.unlock()
 
 	var tex = ImageTexture.create_from_image(highlight_image)
 	highlight_sprite.texture = tex
@@ -57,7 +54,6 @@ func hex_to_color(hex: String) -> Color:
 
 func draw_realm_overlay():
 	var overlay_image = Image.create(image.get_width(), image.get_height(), false, Image.FORMAT_RGBA8)
-	overlay_image.lock()
 
 	for x in image.get_width():
 		for y in image.get_height():
@@ -72,8 +68,7 @@ func draw_realm_overlay():
 				if realm_color != null:
 					overlay_image.set_pixel(x, y, realm_color)
 
-	overlay_image.unlock()
-	$RealmOverlay.texture = ImageTexture.create_from_image(overlay_image)
+	$overlay_map.texture = ImageTexture.create_from_image(overlay_image)
 
 func get_realm_color_for_county(county_code: String):
 	for realm in DataManager.realms.values():
