@@ -11,21 +11,30 @@ func _ready():
 	load_map_image()
 
 func load_map_image():
-	var texture = load("res://assets/goodMap.png")
-	map_sprite.texture = texture
+	var image = Image.new()
+	var err = image.load("res://assets/goodMap.png")
 	
-	map_image = texture.get_image()
+	if err != OK:
+		push_error("Failed to load map image")
+		return
+	
+	map_image = image
+	
+	var texture = ImageTexture.create_from_image(image)
+	map_sprite.texture = texture
+
 
 func _input(event):
 	if event is InputEventMouseButton and event.pressed:
 		var world_pos = get_global_mouse_position()
 		var local_pos = map_sprite.to_local(world_pos)
-		
-		if local_pos.x < 0 or local_pos.y < 0:
+
+		if not Rect2(Vector2.ZERO, map_image.get_size()).has_point(local_pos):
 			return
-		
-		var pixel_color = map_image.get_pixelv(local_pos)
-		print(pixel_color.to_html())
+
+		var pixel = map_image.get_pixelv(local_pos)
+		print(pixel.to_html())
+
 
 
 func select_county_by_color(hex_color : String):
