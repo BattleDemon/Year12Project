@@ -7,7 +7,9 @@
         "ruler" : {
             "name" : "name of ruler",
             "dynasty" : "family or dynasty",
-            "title" : "title of ruler"
+            "title" : "title of ruler",
+            "faith" : "",
+            "culture" : ""
         },
 
         "professional_armies" : [

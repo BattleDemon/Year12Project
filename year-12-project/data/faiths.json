@@ -1,0 +1,14 @@
+{
+    "Chalcedonian Christianity" : {
+        "religious_group" : "Christianity"
+    },
+    "Arianism" : {
+        "religious_group" : "Christianity"
+    },
+    "Germanic Paganism" : {
+        "religious_group" : "Paganism"
+    },
+    "Druidism" : {
+        "religious_group" : "Paganism"
+    }
+}
