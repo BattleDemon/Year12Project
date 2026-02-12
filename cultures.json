@@ -1,52 +1,61 @@
 {
     "Franks" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Frisians" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Saxons" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Thuringians" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Angle" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Alemanni" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
     "Burgundian" : {
-        "cultural_group" : "germanic"
+        "cultural_groups" : ["germanic"]
     },
 
     "Breton" : {
-        "cultural_group" : "brithonic"
+        "cultural_groups" : ["brithonic"]
     },
 
     "Basque" : {
-        "cultural_group" : "basque"
+        "cultural_groups" : ["basque"]
     },
 
     "Visagothic" : {
-        "cultural_group" : "gothic"
+        "cultural_groups" : ["gothic"]
     },
 
     "Breto-Roman" : {
-        "cultural_group" : "roman"
+        "cultural_groupss" : [
+            "roman",
+            "brithonic"           
+                            ]
     },
     "Hispano-Roman" : {
-        "cultural_group" : "roman"
+        "cultural_groups" : [
+            "roman",
+            "hispanic"
+        ]
     },
     "Gallo-Roman" : {
-        "cultural_group" : "roman"
+        "cultural_groups" : [
+            "roman",
+            "gaelic"
+        ]
     },
     "Roman" : {
-        "cultural_group" : "roman"
+        "cultural_groups" : ["roman"]
     },
 
     "Gaulish" : {
-        "cultural_group" : "gaelic"
+        "cultural_groups" : ["gaelic"]
     }
 }
