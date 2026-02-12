@@ -10,5 +10,8 @@
     },
     "Druidism" : {
         "religious_group" : "Paganism"
+    },
+    "Judaism" : {
+        "religious_group" : "judaism"
     }
 }
