@@ -7,12 +7,16 @@
         "ruler" : {
             "name" : "name of ruler",
             "dynasty" : "family or dynasty",
-            "title" : "title of ruler"
+            "title" : "title of ruler",
+            "faith" : "",
+            "culture" : ""
         },
 
         "professional_armies" : [
 
         ],
+
+
 
         "realm_lvl" : "aka: tributary, chiefdom, king, empire idk",
         "admin_type" : "chief, roman, other idk",
