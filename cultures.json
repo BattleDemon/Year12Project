@@ -24,9 +24,6 @@
     "Breton" : {
         "cultural_group" : "brithonic"
     },
-    "Breto-Roman" : {
-        "cultural_group" : "brithonic"
-    },
 
     "Basque" : {
         "cultural_group" : "basque"
@@ -35,6 +32,23 @@
     "Visagothic" : {
         "cultural_group" : "gothic"
     },
+
+    "Breto-Roman" : {
+        "cultural_group" : "roman"
+    },
+    "Hispano-Roman" : {
+        "cultural_group" : "roman"
+    },
+    "Gallo-Roman" : {
+        "cultural_group" : "roman"
+    },
+    "Roman" : {
+        "cultural_group" : "roman"
+    },
+
+    "gaulish" : {
+        "cultural_group" : "gaelic"
+    }
 
 
 
