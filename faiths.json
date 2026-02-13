@@ -1,15 +1,23 @@
 {
     "Chalcedonian Christianity" : {
-        "religious_group" : "Christianity"
+        "religious_group" : "Christianity",
+        "color" : "bcad2c"
     },
     "Arianism" : {
-        "religious_group" : "Christianity"
+        "religious_group" : "Christianity",
+        "color" : "746a0f"
+    },
+    "Nestorian Christianity" : {
+        "religious_group" : "Christianity",
+        "Color" : "f8e00f"
     },
     "Germanic Paganism" : {
-        "religious_group" : "Paganism"
+        "religious_group" : "Paganism",
+        "color" : "736857"
     },
     "Druidism" : {
-        "religious_group" : "Paganism"
+        "religious_group" : "Paganism",
+        "color" : "3c8731"
     },
     "Judaism" : {
         "religious_group" : "judaism"
