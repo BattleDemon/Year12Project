@@ -5,19 +5,20 @@
     "Frisians" : {
         "cultural_groups" : ["germanic"]
     },
-    "Saxons" : {
-        "cultural_groups" : ["germanic"]
-    },
     "Thuringians" : {
-        "cultural_groups" : ["germanic"]
-    },
-    "Angle" : {
         "cultural_groups" : ["germanic"]
     },
     "Alemanni" : {
         "cultural_groups" : ["germanic"]
     },
     "Burgundian" : {
+        "cultural_groups" : ["germanic"]
+    },
+
+    "Saxons" : {
+        "cultural_groups" : ["germanic"]
+    },
+    "Angle" : {
         "cultural_groups" : ["germanic"]
     },
 
