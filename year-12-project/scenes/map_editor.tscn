@@ -40,8 +40,213 @@ layout_mode = 0
 offset_left = -1.0
 offset_top = 3.0
 offset_right = 488.0
-offset_bottom = 103.0
+offset_bottom = 62.0
 theme_override_font_sizes/font_size = 40
+text = "Selected Region code : "
+
+[node name="Editors" type="TabContainer" parent="UI/Container" unique_id=1100145975]
+layout_mode = 0
+offset_top = 72.0
+offset_right = 259.0
+offset_bottom = 1300.0
+tab_alignment = 1
+current_tab = 0
+
+[node name="RegionEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=1905029382]
+layout_mode = 2
+metadata/_tab_index = 0
+
+[node name="RegionCode" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1296720184]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/RegionCode" unique_id=1646781000]
+layout_mode = 0
+offset_left = 24.0
+offset_top = 18.0
+offset_right = 120.0
+offset_bottom = 41.0
+text = "Region Code"
+
+[node name="TextEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/RegionCode" unique_id=335625521]
+layout_mode = 0
+offset_left = 143.0
+offset_top = 12.0
+offset_right = 235.0
+offset_bottom = 47.0
+placeholder_text = "XXX"
+
+[node name="CultureAndFaith" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=474734252]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=797398716]
+layout_mode = 0
+offset_left = 23.0
+offset_top = 50.0
+offset_right = 63.0
+offset_bottom = 73.0
+
+[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=1116132956]
+layout_mode = 0
+offset_left = 28.0
+offset_top = 106.0
+offset_right = 68.0
+offset_bottom = 129.0
+
+[node name="TextEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=999294648]
+layout_mode = 0
+offset_left = 151.0
+offset_top = 106.0
+offset_right = 159.0
+offset_bottom = 114.0
+
+[node name="TextEdit2" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=429789938]
+layout_mode = 0
+offset_left = 146.0
+offset_top = 59.0
+offset_right = 154.0
+offset_bottom = 67.0
+
+[node name="RegionNames" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1659066057]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=1399444499]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=736477679]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1955363884]
+layout_mode = 2
+
+[node name="LineEdit7" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1479185142]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1286139433]
+layout_mode = 2
+
+[node name="LineEdit6" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1930512298]
+layout_mode = 2
+
+[node name="Label3" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=855361608]
+layout_mode = 2
+
+[node name="LineEdit5" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1334608612]
+layout_mode = 2
+
+[node name="Label4" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=531168301]
+layout_mode = 2
+
+[node name="LineEdit4" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=768289991]
+layout_mode = 2
+
+[node name="Label5" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=253860386]
+layout_mode = 2
+
+[node name="LineEdit3" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2103232398]
+layout_mode = 2
+
+[node name="Label6" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=825766879]
+layout_mode = 2
+
+[node name="LineEdit2" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2123700603]
+layout_mode = 2
+
+[node name="Label7" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1408954796]
+layout_mode = 2
+
+[node name="LineEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=357363355]
+layout_mode = 2
+
+[node name="Infrastructure" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1976998844]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=684396154]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=685601615]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="LineEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=1107643238]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="SpinBox" type="SpinBox" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=1871400780]
+layout_mode = 0
+offset_right = 86.5
+offset_bottom = 31.0
+
+[node name="Terrain" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=51943319]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1425524779]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="OptionButton" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1988899143]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1697196053]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="CheckButton" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1201754871]
+layout_mode = 0
+offset_right = 44.0
+offset_bottom = 24.0
+
+[node name="Label3" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1899747582]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="CheckButton2" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1519693475]
+layout_mode = 0
+offset_right = 44.0
+offset_bottom = 24.0
+
+[node name="Label4" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=370601616]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="OptionButton2" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=627607686]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="Modifiers" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1537034841]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Modifiers" unique_id=1997654096]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="TextEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/Modifiers" unique_id=1217206401]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="Button" type="Button" parent="UI/Container/Editors/RegionEditor" unique_id=572894384]
+layout_mode = 2
+
+[node name="RealmEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=557937229]
+visible = false
+layout_mode = 2
+metadata/_tab_index = 1
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1492771032]
 zoom = Vector2(0.5, 0.5)

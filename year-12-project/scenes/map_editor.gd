@@ -13,7 +13,7 @@ func _process(delta: float) -> void:
 
 
 func _on_map_texture_selected_color_hex(hex_color: Variant) -> void:
-	print("selected color =",hex_color)
+	print("selected color = ",hex_color)
 	if hex_color == "000000":
 		return
 		
