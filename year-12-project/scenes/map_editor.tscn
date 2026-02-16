@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://bjtnugflbeo2k"]
 
-[ext_resource type="Script" uid="uid://cn73rdcop2jdv" path="res://scenes/map_editor.gd" id="1_rdfmk"]
+[ext_resource type="Script" uid="uid://cn73rdcop2jdv" path="res://scripts/map_editor.gd" id="1_rdfmk"]
 [ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/BaseMapTexture.png" id="2_ikn3w"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_rdfmk"]
-[ext_resource type="Script" uid="uid://dmxuyg3sac15e" path="res://scenes/container.gd" id="4_8qdu6"]
+[ext_resource type="Script" uid="uid://dmxuyg3sac15e" path="res://scripts/container.gd" id="4_8qdu6"]
 
 [node name="MapEditor" type="Node2D" unique_id=2098927932]
 script = ExtResource("1_rdfmk")
@@ -308,5 +308,4 @@ metadata/_tab_index = 1
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1492771032]
 zoom = Vector2(0.48, 0.48)
 
-[connection signal="region_code_signal" from="." to="UI/Container" method="_on_map_editor_region_code_signal"]
-[connection signal="selected_color_hex" from="MapTexture" to="." method="_on_map_texture_selected_color_hex"]
+[connection signal="selectedRegionCode" from="MapTexture" to="UI/Container" method="_on_map_texture_selected_region_code"]

@@ -24,6 +24,6 @@ LoadJsonData="*uid://b7mrplkc70ijw"
 
 [rendering]
 
-textures/canvas_textures/default_texture_filter=0
+textures/canvas_textures/default_texture_filter=2
 textures/lossless_compression/force_png=true
 textures/decals/filter=5

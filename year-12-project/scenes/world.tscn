@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bt4qtgqloqm52"]
 
-[ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/BaseMapTexture.png" id="1_rwgxs"]
+[ext_resource type="Texture2D" uid="uid://8bvvwrsg84ax" path="res://assets/BaseMapTextureV2.png" id="1_rwgxs"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_4wyf3"]
 
 [node name="World" type="Node2D" unique_id=1284385250]
@@ -23,4 +23,3 @@ texture = ExtResource("1_rwgxs")
 script = ExtResource("2_4wyf3")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=577011808]
-zoom = Vector2(0.48, 0.48)
