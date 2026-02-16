@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://bjtnugflbeo2k"]
 
 [ext_resource type="Script" uid="uid://cn73rdcop2jdv" path="res://scenes/map_editor.gd" id="1_rdfmk"]
-[ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/goodMap.png" id="2_ikn3w"]
+[ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/BaseMapTexture.png" id="2_ikn3w"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_rdfmk"]
 [ext_resource type="Script" uid="uid://dmxuyg3sac15e" path="res://scenes/container.gd" id="4_8qdu6"]
 
@@ -78,156 +78,205 @@ placeholder_text = "XXX"
 [node name="CultureAndFaith" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=474734252]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=797398716]
+[node name="CultureLabel" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=797398716]
 layout_mode = 0
-offset_left = 23.0
-offset_top = 50.0
-offset_right = 63.0
-offset_bottom = 73.0
+offset_left = 36.0
+offset_top = 62.0
+offset_right = 94.0
+offset_bottom = 85.0
+text = "Culture"
 
-[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=1116132956]
+[node name="FaithLabel" type="Label" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=1116132956]
 layout_mode = 0
-offset_left = 28.0
-offset_top = 106.0
-offset_right = 68.0
-offset_bottom = 129.0
+offset_left = 47.0
+offset_top = 110.0
+offset_right = 87.0
+offset_bottom = 133.0
+text = "Faith"
 
-[node name="TextEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=999294648]
+[node name="FaithEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=999294648]
 layout_mode = 0
-offset_left = 151.0
-offset_top = 106.0
-offset_right = 159.0
-offset_bottom = 114.0
+offset_left = 138.0
+offset_top = 105.0
+offset_right = 230.0
+offset_bottom = 138.0
+placeholder_text = "Faith"
 
-[node name="TextEdit2" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=429789938]
+[node name="CultureEdit" type="TextEdit" parent="UI/Container/Editors/RegionEditor/CultureAndFaith" unique_id=429789938]
 layout_mode = 0
-offset_left = 146.0
-offset_top = 59.0
-offset_right = 154.0
-offset_bottom = 67.0
+offset_left = 137.0
+offset_top = 58.0
+offset_right = 233.0
+offset_bottom = 91.0
+placeholder_text = "Culture"
 
 [node name="RegionNames" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1659066057]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=1399444499]
+[node name="CulturalNamesLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=1399444499]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 33.0
+offset_top = 150.0
+offset_right = 154.0
+offset_bottom = 173.0
+text = "Cultural Names"
 
-[node name="VBoxContainer" type="VBoxContainer" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=736477679]
+[node name="VBoxContainer" type="GridContainer" parent="UI/Container/Editors/RegionEditor/RegionNames" unique_id=1062470861]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
+offset_left = 75.0
+offset_top = 171.0
+offset_right = 222.0
+offset_bottom = 601.0
+columns = 2
 
-[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1955363884]
+[node name="GermanicLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1955363884]
+layout_mode = 2
+text = "Germanic"
+
+[node name="GermanicEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1479185142]
 layout_mode = 2
 
-[node name="LineEdit7" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1479185142]
+[node name="RomanLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1286139433]
+layout_mode = 2
+text = "Roman"
+
+[node name="RomanEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1930512298]
 layout_mode = 2
 
-[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1286139433]
+[node name="GaelicLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=855361608]
+layout_mode = 2
+text = "Gaelic"
+
+[node name="GaelicEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1334608612]
 layout_mode = 2
 
-[node name="LineEdit6" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1930512298]
+[node name="BrithonicLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=531168301]
+layout_mode = 2
+text = "Brithonic"
+
+[node name="BrithonicEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=768289991]
 layout_mode = 2
 
-[node name="Label3" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=855361608]
+[node name="GothicLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=253860386]
+layout_mode = 2
+text = "Gothic"
+
+[node name="GothicEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2103232398]
 layout_mode = 2
 
-[node name="LineEdit5" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1334608612]
+[node name="BasqueLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=825766879]
+layout_mode = 2
+text = "Basque"
+
+[node name="BasqueEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2123700603]
 layout_mode = 2
 
-[node name="Label4" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=531168301]
+[node name="HispanicLabel" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1408954796]
 layout_mode = 2
+text = "Hispanic"
 
-[node name="LineEdit4" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=768289991]
-layout_mode = 2
-
-[node name="Label5" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=253860386]
-layout_mode = 2
-
-[node name="LineEdit3" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2103232398]
-layout_mode = 2
-
-[node name="Label6" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=825766879]
-layout_mode = 2
-
-[node name="LineEdit2" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=2123700603]
-layout_mode = 2
-
-[node name="Label7" type="Label" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=1408954796]
-layout_mode = 2
-
-[node name="LineEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=357363355]
+[node name="HispanicEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/RegionNames/VBoxContainer" unique_id=357363355]
 layout_mode = 2
 
 [node name="Infrastructure" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1976998844]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=684396154]
+[node name="MaxInfrastructure" type="Label" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=684396154]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 13.0
+offset_top = 419.0
+offset_right = 159.0
+offset_bottom = 442.0
+text = "Max Infrastructure"
+
+[node name="MaxInfrastructureSelect" type="SpinBox" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=1871400780]
+layout_mode = 0
+offset_left = 165.0
+offset_top = 415.0
+offset_right = 251.5
+offset_bottom = 446.0
 
 [node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=685601615]
+visible = false
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 19.0
+offset_top = 460.0
+offset_right = 59.0
+offset_bottom = 483.0
 
 [node name="LineEdit" type="LineEdit" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=1107643238]
+visible = false
 layout_mode = 0
-offset_right = 68.5
-offset_bottom = 31.0
-
-[node name="SpinBox" type="SpinBox" parent="UI/Container/Editors/RegionEditor/Infrastructure" unique_id=1871400780]
-layout_mode = 0
-offset_right = 86.5
-offset_bottom = 31.0
+offset_left = 165.0
+offset_top = 456.0
+offset_right = 233.5
+offset_bottom = 487.0
 
 [node name="Terrain" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=51943319]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1425524779]
+[node name="TerrainTypeLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1425524779]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 28.0
+offset_top = 450.0
+offset_right = 68.0
+offset_bottom = 473.0
+text = "Terrain Type"
 
-[node name="OptionButton" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1988899143]
+[node name="TerrainOptions" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1988899143]
 layout_mode = 0
-offset_right = 32.0
-offset_bottom = 20.0
+offset_left = 175.0
+offset_top = 455.0
+offset_right = 207.0
+offset_bottom = 475.0
 
-[node name="Label2" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1697196053]
+[node name="CoastalLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1697196053]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 31.0
+offset_top = 485.0
+offset_right = 71.0
+offset_bottom = 508.0
+text = "Coastal Bool"
 
-[node name="CheckButton" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1201754871]
+[node name="CoastalCheck" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1201754871]
 layout_mode = 0
-offset_right = 44.0
-offset_bottom = 24.0
+offset_left = 167.0
+offset_top = 478.0
+offset_right = 211.0
+offset_bottom = 502.0
 
-[node name="Label3" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1899747582]
+[node name="RiverLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1899747582]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 35.0
+offset_top = 515.0
+offset_right = 114.0
+offset_bottom = 538.0
+text = "River Bool"
 
-[node name="CheckButton2" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1519693475]
+[node name="RiverCheck" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1519693475]
 layout_mode = 0
-offset_right = 44.0
-offset_bottom = 24.0
+offset_left = 163.0
+offset_top = 517.0
+offset_right = 207.0
+offset_bottom = 541.0
 
-[node name="Label4" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=370601616]
+[node name="NaturalResourcesLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=370601616]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 23.0
+offset_left = 8.0
+offset_top = 549.0
+offset_right = 151.0
+offset_bottom = 572.0
+text = "Natural Resources"
 
-[node name="OptionButton2" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=627607686]
+[node name="ResourcesOptions" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=627607686]
 layout_mode = 0
-offset_right = 32.0
-offset_bottom = 20.0
+offset_left = 171.0
+offset_top = 548.0
+offset_right = 203.0
+offset_bottom = 568.0
 
 [node name="Modifiers" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1537034841]
+visible = false
 layout_mode = 2
 
 [node name="Label" type="Label" parent="UI/Container/Editors/RegionEditor/Modifiers" unique_id=1997654096]
@@ -240,8 +289,16 @@ layout_mode = 0
 offset_right = 8.0
 offset_bottom = 8.0
 
-[node name="Button" type="Button" parent="UI/Container/Editors/RegionEditor" unique_id=572894384]
+[node name="Save" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1411332219]
 layout_mode = 2
+
+[node name="Button" type="Button" parent="UI/Container/Editors/RegionEditor/Save" unique_id=572894384]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 577.0
+offset_right = 260.0
+offset_bottom = 608.0
+text = "Save Region"
 
 [node name="RealmEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=557937229]
 visible = false

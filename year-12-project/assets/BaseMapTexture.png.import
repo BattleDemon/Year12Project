@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cadib2fqdl2f"
-path="res://.godot/imported/goodMap.png-c98dcb4ad86d9cf76ac38d90872becb1.ctex"
+path="res://.godot/imported/BaseMapTexture.png-be169bb40d043236425d3d95bf70f19a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/goodMap.png"
-dest_files=["res://.godot/imported/goodMap.png-c98dcb4ad86d9cf76ac38d90872becb1.ctex"]
+source_file="res://assets/BaseMapTexture.png"
+dest_files=["res://.godot/imported/BaseMapTexture.png-be169bb40d043236425d3d95bf70f19a.ctex"]
 
 [params]
 

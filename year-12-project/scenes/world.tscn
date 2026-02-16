@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://bt4qtgqloqm52"]
+
+[ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/BaseMapTexture.png" id="1_rwgxs"]
+[ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_4wyf3"]
+
+[node name="World" type="Node2D" unique_id=1284385250]
+
+[node name="Map" type="Node2D" parent="." unique_id=382262125]
+
+[node name="BaseMapTexture" type="TextureRect" parent="Map" unique_id=54694182]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -560.0
+offset_top = -680.0
+offset_right = 560.0
+offset_bottom = 680.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_rwgxs")
+script = ExtResource("2_4wyf3")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=577011808]
+zoom = Vector2(0.48, 0.48)
