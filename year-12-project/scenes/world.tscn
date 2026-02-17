@@ -2,9 +2,13 @@
 
 [ext_resource type="Texture2D" uid="uid://8bvvwrsg84ax" path="res://assets/BaseMapTextureV2.png" id="1_rwgxs"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_4wyf3"]
-[ext_resource type="Shader" uid="uid://duxwobybumio3" path="res://scenes/world.gdshader" id="3_4wyf3"]
+[ext_resource type="Shader" uid="uid://duxwobybumio3" path="res://shaders/world.gdshader" id="3_4wyf3"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_k0juu"]
+shader = ExtResource("3_4wyf3")
+shader_parameter/selected_color = Vector4(0, 0, 0, 0)
+shader_parameter/highlight_strength = 0.7
+shader_parameter/tolerance = 0.0
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_4wyf3"]
 shader = ExtResource("3_4wyf3")
