@@ -2,13 +2,21 @@
 
 [ext_resource type="Script" uid="uid://cn73rdcop2jdv" path="res://scripts/map_editor.gd" id="1_rdfmk"]
 [ext_resource type="Texture2D" uid="uid://cadib2fqdl2f" path="res://assets/BaseMapTexture.png" id="2_ikn3w"]
+[ext_resource type="Shader" uid="uid://duxwobybumio3" path="res://scenes/world.gdshader" id="2_o22ft"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_rdfmk"]
 [ext_resource type="Script" uid="uid://dmxuyg3sac15e" path="res://scripts/container.gd" id="4_8qdu6"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_wfxal"]
+shader = ExtResource("2_o22ft")
+shader_parameter/selected_color = Vector4(0, 0, 0, 0)
+shader_parameter/highlight_strength = 1.0
+shader_parameter/tolerance = 0.03
 
 [node name="MapEditor" type="Node2D" unique_id=2098927932]
 script = ExtResource("1_rdfmk")
 
 [node name="MapTexture" type="TextureRect" parent="." unique_id=1304609206]
+material = SubResource("ShaderMaterial_wfxal")
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
