@@ -6075,6 +6075,34 @@
         ],
         "color_code": "#83AB78"
     },
+    "mde": {
+        "county_names": {
+            "Culture1": "Modena",
+            "Germanic": "",
+            "Roman" : "",
+            "gaelic" : "",
+            "brithonic" : "",
+            "gothic" : "",
+            "basque" : "",
+            "hispanic" : ""
+        },
+        "culture": "",
+        "faith": "",
+        "max_infrastrucure": "num",
+        "infrastrucure": [
+            "this building",
+            "other building",
+            "ect"
+        ],
+        "terrain": "terrain type",
+        "coastal": "T/F if it is on the coast",
+        "river": "T/F if it is on a river",
+        "natural_resource": "the type of natural resource ",
+        "modifiers": [
+            "list of modifiers applied to this region"
+        ],
+        "color_code": "#83AB78"
+    },
     "roe": {
         "county_names": {
             "Culture1": "Rouergue",
