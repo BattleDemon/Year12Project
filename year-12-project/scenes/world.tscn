@@ -4,12 +4,6 @@
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_4wyf3"]
 [ext_resource type="Shader" uid="uid://duxwobybumio3" path="res://shaders/world.gdshader" id="3_4wyf3"]
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_k0juu"]
-shader = ExtResource("3_4wyf3")
-shader_parameter/selected_color = Vector4(0, 0, 0, 0)
-shader_parameter/highlight_strength = 0.7
-shader_parameter/tolerance = 0.0
-
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_4wyf3"]
 shader = ExtResource("3_4wyf3")
 shader_parameter/selected_color = Vector4(0, 0, 0, 0)
@@ -20,8 +14,8 @@ shader_parameter/tolerance = 0.03
 
 [node name="Map" type="Node2D" parent="." unique_id=382262125]
 
-[node name="ArtisticMapTexture" type="TextureRect" parent="Map" unique_id=1411681041]
-material = SubResource("ShaderMaterial_k0juu")
+[node name="BaseMapTexture" type="TextureRect" parent="Map" unique_id=1342450838]
+material = SubResource("ShaderMaterial_4wyf3")
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -34,22 +28,22 @@ offset_bottom = 1691.0
 grow_horizontal = 2
 grow_vertical = 2
 texture = ExtResource("1_rwgxs")
-
-[node name="BaseMapTexture" type="TextureRect" parent="Map" unique_id=54694182]
-material = SubResource("ShaderMaterial_4wyf3")
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -560.0
-offset_top = -680.0
-offset_right = 560.0
-offset_bottom = 680.0
-grow_horizontal = 2
-grow_vertical = 2
-texture = ExtResource("1_rwgxs")
 script = ExtResource("2_4wyf3")
+
+[node name="ArtisticMapTexture" type="Sprite2D" parent="Map" unique_id=740917055]
+texture = ExtResource("1_rwgxs")
+
+[node name="MapModes" type="Node2D" parent="Map" unique_id=1116000326]
+
+[node name="ProvinceMap" type="Sprite2D" parent="Map/MapModes" unique_id=739286093]
+
+[node name="PoliticalMap" type="Sprite2D" parent="Map/MapModes" unique_id=1588037841]
+
+[node name="CultureMap" type="Sprite2D" parent="Map/MapModes" unique_id=532539214]
+
+[node name="ReligionMap" type="Sprite2D" parent="Map/MapModes" unique_id=1138206332]
+
+[node name="TerrainMap" type="Sprite2D" parent="Map/MapModes" unique_id=1540787804]
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=577011808]
 zoom = Vector2(0.18, 0.18)

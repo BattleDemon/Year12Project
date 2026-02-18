@@ -15,7 +15,7 @@ shader_parameter/tolerance = 0.03
 [node name="MapEditor" type="Node2D" unique_id=2098927932]
 script = ExtResource("1_rdfmk")
 
-[node name="MapTexture" type="TextureRect" parent="." unique_id=1304609206]
+[node name="MapTexture" type="TextureRect" parent="." unique_id=1897731089]
 material = SubResource("ShaderMaterial_wfxal")
 anchors_preset = 8
 anchor_left = 0.5
