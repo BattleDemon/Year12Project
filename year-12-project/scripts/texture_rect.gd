@@ -2,30 +2,35 @@ extends TextureRect
 
 @onready var image: Image = texture.get_image()
 
-signal selectedRegionCode(region_code)
+signal selected_region_code(region_code: String)
 
-func _input(event):
-	if event is InputEventMouseButton:
-		var local_mouse_pos = get_local_mouse_position()
-		
-		if Rect2(Vector2.ZERO, size).has_point(local_mouse_pos):
-			var img_color = image.get_pixelv(local_mouse_pos.floor())
-			
-			if img_color.a == 0.0:
-				return # transparent pixel, ignore
-			
-			var hex_color = img_color.to_html(false).left(6) # false ignores alpha
-			if hex_color == "000000":
-				return
+func _input(event: InputEvent) -> void:
+	if not event is InputEventMouseButton:
+		return
+	if not (event as InputEventMouseButton).pressed:
+		return
 
-			var new_hex = "#%s" % hex_color.to_upper()
-			if LoadJsonData.color_region_data.has(new_hex):
-				var region_code = LoadJsonData.color_region_data[new_hex]
-				selectedRegionCode.emit(region_code)
-				
-				# Make sure the shader gets RGB only, optionally apply alpha
-				var shader_color = Color(img_color.r, img_color.g, img_color.b, 1.0)
-				material.set_shader_parameter("selected_color", shader_color)
-				print(region_code)
-			else:
-				print("Error: Key does not exist")
+	var local_pos := get_local_mouse_position()
+	if not Rect2(Vector2.ZERO, size).has_point(local_pos):
+		return
+
+	var pix: Color = image.get_pixelv(local_pos.floor())
+
+	# Transparent or black → water / border pixel, ignore
+	if pix.a < 0.5 or (pix.r + pix.g + pix.b) < 0.01:
+		return
+
+	var hex: String = "#%s" % pix.to_html(false).left(6).to_upper()
+
+	if not LoadJsonData.color_region_data.has(hex):
+		print("MapClick: unknown color ", hex)
+		return
+
+	var region_code: String = LoadJsonData.color_region_data[hex]
+	selected_region_code.emit(region_code)
+	print("Selected: ", region_code)
+
+	# Tell the overlay shader which province is selected (for highlight)
+	var shader_color := Color(pix.r, pix.g, pix.b, 1.0)
+	if MapModeController.overlay_material:
+		MapModeController.overlay_material.set_shader_parameter("selected_color", shader_color)

@@ -2,20 +2,40 @@
 
 [ext_resource type="Texture2D" uid="uid://8bvvwrsg84ax" path="res://assets/BaseMapTextureV2.png" id="1_rwgxs"]
 [ext_resource type="Script" uid="uid://c1nmrshmy0iwp" path="res://scripts/texture_rect.gd" id="2_4wyf3"]
-[ext_resource type="Shader" uid="uid://duxwobybumio3" path="res://shaders/world.gdshader" id="3_4wyf3"]
+[ext_resource type="Shader" uid="uid://c5s13ib07t06r" path="res://shaders/map_overlay.gdshader" id="4_71j4m"]
+[ext_resource type="Script" uid="uid://c84qqd8mbafr1" path="res://scenes/map_overlay.gd" id="4_k0juu"]
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_4wyf3"]
-shader = ExtResource("3_4wyf3")
-shader_parameter/selected_color = Vector4(0, 0, 0, 0)
-shader_parameter/highlight_strength = 0.5
-shader_parameter/tolerance = 0.03
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_qfnet"]
+shader = ExtResource("4_71j4m")
+shader_parameter/province_count = 1.0
+shader_parameter/border_width = 1.5
+shader_parameter/selected_color = Color(0, 0, 0, 0)
+shader_parameter/selected_tint = Color(1.5, 1.5, 0.6, 1)
+shader_parameter/water_color = Color(0.15, 0.35, 0.6, 1)
 
 [node name="World" type="Node2D" unique_id=1284385250]
 
 [node name="Map" type="Node2D" parent="." unique_id=382262125]
 
+[node name="MapOverlay" type="TextureRect" parent="Map" unique_id=772549242]
+material = SubResource("ShaderMaterial_qfnet")
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1443.5
+offset_top = -1691.0
+offset_right = 1443.5
+offset_bottom = 1691.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_rwgxs")
+script = ExtResource("4_k0juu")
+
 [node name="BaseMapTexture" type="TextureRect" parent="Map" unique_id=1342450838]
-material = SubResource("ShaderMaterial_4wyf3")
+visible = false
+self_modulate = Color(1, 1, 1, 0)
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -31,6 +51,7 @@ texture = ExtResource("1_rwgxs")
 script = ExtResource("2_4wyf3")
 
 [node name="ArtisticMapTexture" type="Sprite2D" parent="Map" unique_id=740917055]
+visible = false
 texture = ExtResource("1_rwgxs")
 
 [node name="MapModes" type="Node2D" parent="Map" unique_id=1116000326]
