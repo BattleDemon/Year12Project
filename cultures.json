@@ -1,62 +1,77 @@
 {
     "Franks" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#16678A"
     },
     "Frisians" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#19CFD5"
     },
     "Thuringians" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#043246"
     },
     "Alemanni" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#5F7BD0"
     },
     "Burgundian" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#885FD0"
     },
 
     "Saxons" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#02367F"
     },
     "Angle" : {
-        "cultural_groups" : ["germanic"]
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#1065DB"
     },
 
     "Breton" : {
-        "cultural_groups" : ["brithonic"]
+        "cultural_groups" : ["brithonic"],
+        "cultural_color" : "#027F5B"
     },
 
     "Basque" : {
-        "cultural_groups" : ["basque"]
+        "cultural_groups" : ["basque"],
+        "cultural_color" : "#F0D929"
     },
 
     "Visagothic" : {
-        "cultural_groups" : ["gothic"]
+        "cultural_groups" : ["gothic"],
+        "cultural_color" : "#D67A09"
     },
 
     "Breto-Roman" : {
         "cultural_groupss" : [
             "roman",
             "brithonic"           
-                            ]
+                            ],
+        "cultural_color" : "#EB3DF3"
     },
     "Hispano-Roman" : {
         "cultural_groups" : [
             "roman",
             "hispanic"
-        ]
+        ],
+        "cultural_color" : "#EB366B"
     },
     "Gallo-Roman" : {
         "cultural_groups" : [
             "roman",
             "gaelic"
-        ]
+        ],
+        "cultural_color" : "#A72298"
     },
     "Roman" : {
-        "cultural_groups" : ["roman"]
+        "cultural_groups" : ["roman"],
+        "cultural_color" : "#D6091C"
     },
 
     "Gaulish" : {
-        "cultural_groups" : ["gaelic"]
+        "cultural_groups" : ["gaelic"],
+        "cultural_color" : "#096106"
     }
 }
