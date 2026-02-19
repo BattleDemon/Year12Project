@@ -168,7 +168,7 @@
 		"terrain": "terrain type"
 	},
 	"alb": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "T",
 		"color_code": "#244FAE",
 		"county_names": {
 			"Culture1": "Lubeck",
@@ -187,12 +187,12 @@
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"alc": {
@@ -2996,7 +2996,7 @@
 		"terrain": "terrain type"
 	},
 	"hol": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "T",
 		"color_code": "#B4280E",
 		"county_names": {
 			"Culture1": "Holstein",
@@ -3015,12 +3015,12 @@
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"hue": {
@@ -5992,7 +5992,7 @@
 		"terrain": "terrain type"
 	},
 	"sch": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "T",
 		"color_code": "#A9A14E",
 		"county_names": {
 			"Culture1": "Schewin",
@@ -6011,12 +6011,12 @@
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sen": {
@@ -6104,7 +6104,7 @@
 		"terrain": "terrain type"
 	},
 	"sle": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "T",
 		"color_code": "#B5A08F",
 		"county_names": {
 			"Culture1": "Slesvig",
@@ -6123,12 +6123,12 @@
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"soi": {
@@ -6212,7 +6212,7 @@
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "F",
+		"river": "T",
 		"terrain": "terrain type"
 	},
 	"spe": {

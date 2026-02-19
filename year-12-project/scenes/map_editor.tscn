@@ -313,6 +313,16 @@ visible = false
 layout_mode = 2
 metadata/_tab_index = 1
 
+[node name="SaveAllButton" type="Button" parent="UI/Container" unique_id=1311243581]
+layout_mode = 0
+offset_left = 719.0
+offset_top = 6.0
+offset_right = 925.0
+offset_bottom = 37.0
+scale = Vector2(2, 2)
+text = "Global Save Button
+"
+
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1492771032]
 zoom = Vector2(0.48, 0.48)
 

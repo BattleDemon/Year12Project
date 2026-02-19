@@ -102,3 +102,26 @@ func _select_option_by_text(option_button: OptionButton, text_value: String):
 		if option_button.get_item_text(i) == text_value:
 			option_button.select(i)
 			return
+			
+func force_push_current_to_memory(region_code):
+	emit_signal("save_region_requested", _collect_current_data())
+	
+func _collect_current_data() -> Dictionary:
+	var updated_data = {
+		"culture": culture_edit.text,
+		"faith": faith_edit.text,
+		"max_infrastrucure": str(max_infra.value),
+		"coastal": "T" if coastal_check.button_pressed else "F",
+		"river": "T" if river_check.button_pressed else "F",
+		"county_names": {
+			"Germanic": germanic_edit.text,
+			"Roman": roman_edit.text,
+			"gaelic": gaelic_edit.text,
+			"brithonic": brithonic_edit.text,
+			"gothic": gothic_edit.text,
+			"basque": basque_edit.text,
+			"hispanic": hispanic_edit.text
+		}
+	}
+
+	return updated_data
