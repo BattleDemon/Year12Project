@@ -34,3 +34,14 @@ func load_json_files(file_path: String) -> Variant:
 		return null
 		
 	return json_result
+	
+func save_region_data():
+	var path = "res://data/region_data.json"
+	
+	var file = FileAccess.open(path, FileAccess.WRITE)
+	if file:
+		file.store_string(JSON.stringify(region_data, "\t"))
+		file.close()
+		print("Region data saved.")
+	else:
+		print("Failed to save region data.")
