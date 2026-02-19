@@ -2,7 +2,7 @@ extends Node
 
 enum MapMode { REALM, CULTURE, FAITH } # I will add Terrain, Goverment, Other
 
-var current_mode: MapMode = MapMode.FAITH
+var current_mode: MapMode = MapMode.CULTURE
 var overlay_material: ShaderMaterial = null
 
 var _province_codes: Array[String] = []

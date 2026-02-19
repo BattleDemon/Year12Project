@@ -1,5 +1,5 @@
 {
-	"Bed": {
+	"bed": {
 		"coastal": "T/F if it is on the coast",
 		"color_code": "#1C9E52",
 		"county_names": {
@@ -27,7 +27,7 @@
 		"river": "T/F if it is on a river",
 		"terrain": "terrain type"
 	},
-	"Bej": {
+	"bej": {
 		"coastal": "T/F if it is on the coast",
 		"color_code": "#967410",
 		"county_names": {
@@ -55,7 +55,7 @@
 		"river": "T/F if it is on a river",
 		"terrain": "terrain type"
 	},
-	"Cor": {
+	"cor": {
 		"coastal": "T/F if it is on the coast",
 		"color_code": "#76734F",
 		"county_names": {
@@ -180,7 +180,7 @@
 			"gothic": "Albilanda",
 			"hispanic": "Albia"
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
@@ -1484,7 +1484,7 @@
 		"terrain": "terrain type"
 	},
 	"cam": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#73563C",
 		"county_names": {
 			"Culture1": "Cambridge",
@@ -1496,19 +1496,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"cap": {
@@ -2156,7 +2156,7 @@
 		"terrain": "terrain type"
 	},
 	"elb": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#06BC9F",
 		"county_names": {
 			"Culture1": "Elbmarch",
@@ -2168,19 +2168,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"elx": {
@@ -2240,7 +2240,7 @@
 		"terrain": "terrain type"
 	},
 	"ess": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#35C753",
 		"county_names": {
 			"Culture1": "Essex",
@@ -2252,19 +2252,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"eus": {
@@ -3008,7 +3008,7 @@
 			"gothic": "Holtsateland",
 			"hispanic": "Holtia"
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
@@ -3164,7 +3164,7 @@
 		"terrain": "terrain type"
 	},
 	"ken": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F58C33",
 		"county_names": {
 			"Culture1": "Kent",
@@ -3183,12 +3183,12 @@
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"kol": {
@@ -4620,7 +4620,7 @@
 		"terrain": "terrain type"
 	},
 	"nor": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CE691D",
 		"county_names": {
 			"Culture1": "Norfolk",
@@ -4632,19 +4632,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"obe": {
@@ -6004,7 +6004,7 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
@@ -6116,7 +6116,7 @@
 			"gothic": "Sliasweiks",
 			"hispanic": "Sliasica"
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
@@ -6300,7 +6300,7 @@
 		"terrain": "terrain type"
 	},
 	"suf": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#A4BD09",
 		"county_names": {
 			"Culture1": "Suffolk",
@@ -6312,19 +6312,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Angle",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sur": {
