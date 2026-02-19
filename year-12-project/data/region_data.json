@@ -1,6 +1,6 @@
 {
 	"aar": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#5CDC9B",
 		"county_names": {
 			"Culture1": "Aargua",
@@ -12,23 +12,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"abu": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#FC22DD",
 		"county_names": {
 			"Culture1": "Abruzzo Ultra",
@@ -40,19 +40,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"age": {
@@ -140,7 +140,7 @@
 		"terrain": "terrain type"
 	},
 	"ale": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#60A089",
 		"county_names": {
 			"Culture1": "Alessandria",
@@ -152,19 +152,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"alg": {
@@ -280,7 +280,7 @@
 		"terrain": "terrain type"
 	},
 	"ami": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#8A46C4",
 		"county_names": {
 			"Culture1": "Amienois",
@@ -292,23 +292,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"amo": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#73CA9A",
 		"county_names": {
 			"Culture1": "Amont",
@@ -320,19 +320,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ang": {
@@ -420,7 +420,7 @@
 		"terrain": "terrain type"
 	},
 	"aos": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D083DB",
 		"county_names": {
 			"Culture1": "Aosta",
@@ -432,19 +432,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"aqu": {
@@ -476,7 +476,7 @@
 		"terrain": "terrain type"
 	},
 	"arb": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#FFCB21",
 		"county_names": {
 			"Culture1": "Arborea",
@@ -488,23 +488,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"are": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#A9B953",
 		"county_names": {
 			"Culture1": "Arezzo",
@@ -516,19 +516,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"arm": {
@@ -560,7 +560,7 @@
 		"terrain": "terrain type"
 	},
 	"aut": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#2A95ED",
 		"county_names": {
 			"Culture1": "Autunnais",
@@ -572,19 +572,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"aux": {
@@ -616,7 +616,7 @@
 		"terrain": "terrain type"
 	},
 	"ava": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#0EE6CD",
 		"county_names": {
 			"Culture1": "Aval",
@@ -628,19 +628,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"avi": {
@@ -840,7 +840,7 @@
 		"terrain": "terrain type"
 	},
 	"beg": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#BB230B",
 		"county_names": {
 			"Culture1": "",
@@ -852,23 +852,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"bej": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#967410",
 		"county_names": {
 			"Culture1": "Beujolais",
@@ -880,23 +880,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"bel": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#BBCC38",
 		"county_names": {
 			"Culture1": "Belluno",
@@ -908,23 +908,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ben": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#ED090D",
 		"county_names": {
 			"Culture1": "Bern",
@@ -936,19 +936,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ber": {
@@ -1008,7 +1008,7 @@
 		"terrain": "terrain type"
 	},
 	"bgs": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#2B4FC1",
 		"county_names": {
 			"Culture1": "Bergisches Land",
@@ -1020,19 +1020,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"blo": {
@@ -1064,7 +1064,7 @@
 		"terrain": "terrain type"
 	},
 	"bol": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3146ED",
 		"county_names": {
 			"Culture1": "Bologna",
@@ -1076,19 +1076,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"bor": {
@@ -1148,7 +1148,7 @@
 		"terrain": "terrain type"
 	},
 	"bra": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#49A237",
 		"county_names": {
 			"Culture1": "Brabant",
@@ -1160,19 +1160,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"brc": {
@@ -1204,7 +1204,7 @@
 		"terrain": "terrain type"
 	},
 	"bre": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#02953F",
 		"county_names": {
 			"Culture1": "Brescia",
@@ -1216,23 +1216,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"brr": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#4DD85F",
 		"county_names": {
 			"Culture1": "Barrois",
@@ -1244,23 +1244,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"brs": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#4E377D",
 		"county_names": {
 			"Culture1": "Bresse",
@@ -1272,19 +1272,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"bru": {
@@ -1316,7 +1316,7 @@
 		"terrain": "terrain type"
 	},
 	"bss": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#97F927",
 		"county_names": {
 			"Culture1": "Bassigny",
@@ -1328,19 +1328,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"buc": {
@@ -1400,7 +1400,7 @@
 		"terrain": "terrain type"
 	},
 	"cag": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#68E3F4",
 		"county_names": {
 			"Culture1": "Cagliari",
@@ -1412,19 +1412,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"cal": {
@@ -1484,7 +1484,7 @@
 		"terrain": "terrain type"
 	},
 	"cap": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#1024E6",
 		"county_names": {
 			"Culture1": "Campagna",
@@ -1496,19 +1496,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"cas": {
@@ -1652,7 +1652,7 @@
 		"terrain": "terrain type"
 	},
 	"cis": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F084D4",
 		"county_names": {
 			"Culture1": "Cismonte",
@@ -1664,19 +1664,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"cmb": {
@@ -1792,7 +1792,7 @@
 		"terrain": "terrain type"
 	},
 	"cre": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#159664",
 		"county_names": {
 			"Culture1": "Cremona",
@@ -1804,19 +1804,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"crn": {
@@ -1876,7 +1876,7 @@
 		"terrain": "terrain type"
 	},
 	"dig": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#6FB10F",
 		"county_names": {
 			"Culture1": "Dignois",
@@ -1888,23 +1888,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"dij": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#32F9D1",
 		"county_names": {
 			"Culture1": "Dijonnais",
@@ -1916,19 +1916,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"dom": {
@@ -1988,7 +1988,7 @@
 		"terrain": "terrain type"
 	},
 	"dra": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#C81FC9",
 		"county_names": {
 			"Culture1": "Dracenois",
@@ -2000,19 +2000,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"dre": {
@@ -2072,7 +2072,7 @@
 		"terrain": "terrain type"
 	},
 	"efl": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F8B10C",
 		"county_names": {
 			"Culture1": "East Flanders",
@@ -2084,19 +2084,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"efr": {
@@ -2128,7 +2128,7 @@
 		"terrain": "terrain type"
 	},
 	"eif": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#0C3CA7",
 		"county_names": {
 			"Culture1": "Eifel",
@@ -2140,19 +2140,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"elb": {
@@ -2184,7 +2184,7 @@
 		"terrain": "terrain type"
 	},
 	"elx": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#E43F9C",
 		"county_names": {
 			"Culture1": "East Luxembourg",
@@ -2196,19 +2196,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ems": {
@@ -2324,7 +2324,7 @@
 		"terrain": "terrain type"
 	},
 	"fer": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#0D84F8",
 		"county_names": {
 			"Culture1": "Ferrara",
@@ -2336,23 +2336,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"flo": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D3F6D1",
 		"county_names": {
 			"Culture1": "Florence",
@@ -2364,19 +2364,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"foi": {
@@ -2492,7 +2492,7 @@
 		"terrain": "terrain type"
 	},
 	"gal": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#AC9917",
 		"county_names": {
 			"Culture1": "Gallura",
@@ -2504,19 +2504,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"gat": {
@@ -2688,7 +2688,7 @@
 		"terrain": "terrain type"
 	},
 	"gra": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#A274E7",
 		"county_names": {
 			"Culture1": "Graubunden",
@@ -2700,23 +2700,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"gre": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#71E641",
 		"county_names": {
 			"Culture1": "Gresivaudan",
@@ -2728,23 +2728,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"gro": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#824051",
 		"county_names": {
 			"Culture1": "Grosseto",
@@ -2756,23 +2756,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"hai": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#261110",
 		"county_names": {
 			"Culture1": "Hainaut",
@@ -2784,19 +2784,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ham": {
@@ -2884,7 +2884,7 @@
 		"terrain": "terrain type"
 	},
 	"heg": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#EE7374",
 		"county_names": {
 			"Culture1": "Hegau",
@@ -2896,19 +2896,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"her": {
@@ -3052,7 +3052,7 @@
 		"terrain": "terrain type"
 	},
 	"hun": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#9C8798",
 		"county_names": {
 			"Culture1": "Hunsruck",
@@ -3064,19 +3064,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"jat": {
@@ -3108,7 +3108,7 @@
 		"terrain": "terrain type"
 	},
 	"jul": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#867C69",
 		"county_names": {
 			"Culture1": "Julich",
@@ -3120,19 +3120,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"kem": {
@@ -3192,7 +3192,7 @@
 		"terrain": "terrain type"
 	},
 	"kol": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#94E1FD",
 		"county_names": {
 			"Culture1": "Koln Bucht",
@@ -3204,23 +3204,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"kra": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B7EE5F",
 		"county_names": {
 			"Culture1": "kraichgau",
@@ -3232,23 +3232,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lal": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#7D2845",
 		"county_names": {
 			"Culture1": "Lower Alsace",
@@ -3260,19 +3260,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lam": {
@@ -3304,7 +3304,7 @@
 		"terrain": "terrain type"
 	},
 	"lar": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#848FEC",
 		"county_names": {
 			"Culture1": "Lower Artois",
@@ -3316,23 +3316,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lat": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3263EB",
 		"county_names": {
 			"Culture1": "Latium",
@@ -3344,19 +3344,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lau": {
@@ -3388,7 +3388,7 @@
 		"terrain": "terrain type"
 	},
 	"lav": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#936CED",
 		"county_names": {
 			"Culture1": "Lavoro",
@@ -3400,19 +3400,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lbe": {
@@ -3500,7 +3500,7 @@
 		"terrain": "terrain type"
 	},
 	"lev": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#67739A",
 		"county_names": {
 			"Culture1": "Levante",
@@ -3512,23 +3512,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lib": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D4E1BC",
 		"county_names": {
 			"Culture1": "Limburg",
@@ -3540,23 +3540,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lie": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#DD008E",
 		"county_names": {
 			"Culture1": "Liege",
@@ -3568,19 +3568,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lim": {
@@ -3668,7 +3668,7 @@
 		"terrain": "terrain type"
 	},
 	"log": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#E98E17",
 		"county_names": {
 			"Culture1": "Logudoro",
@@ -3680,23 +3680,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"loo": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#9C1FFB",
 		"county_names": {
 			"Culture1": "loon",
@@ -3708,19 +3708,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lop": {
@@ -3752,7 +3752,7 @@
 		"terrain": "terrain type"
 	},
 	"luc": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CA7DA4",
 		"county_names": {
 			"Culture1": "Lucca",
@@ -3764,23 +3764,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"lyo": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#4C434D",
 		"county_names": {
 			"Culture1": "Lyonnais",
@@ -3792,19 +3792,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mab": {
@@ -3892,7 +3892,7 @@
 		"terrain": "terrain type"
 	},
 	"man": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#C796F7",
 		"county_names": {
 			"Culture1": "Mantua",
@@ -3904,23 +3904,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mar": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#0DD4B4",
 		"county_names": {
 			"Culture1": "Marche",
@@ -3932,23 +3932,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mde": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#83AB78",
 		"county_names": {
 			"Culture1": "Modena",
@@ -3960,19 +3960,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mid": {
@@ -4004,7 +4004,7 @@
 		"terrain": "terrain type"
 	},
 	"mil": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#417D7F",
 		"county_names": {
 			"Culture1": "Millieu",
@@ -4016,23 +4016,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"min": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D4D2EC",
 		"county_names": {
 			"Culture1": "Milano",
@@ -4044,23 +4044,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mod": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#249685",
 		"county_names": {
 			"Culture1": "Mondovi",
@@ -4072,23 +4072,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mon": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#E08F77",
 		"county_names": {
 			"Culture1": "Monferrato",
@@ -4100,23 +4100,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"moz": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#60FD54",
 		"county_names": {
 			"Culture1": "Monza",
@@ -4128,23 +4128,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mun": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3AB263",
 		"county_names": {
 			"Culture1": "Munsterland",
@@ -4156,19 +4156,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"mus": {
@@ -4256,7 +4256,7 @@
 		"terrain": "terrain type"
 	},
 	"nam": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#E76156",
 		"county_names": {
 			"Culture1": "Namur",
@@ -4268,19 +4268,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"nan": {
@@ -4368,7 +4368,7 @@
 		"terrain": "terrain type"
 	},
 	"nec": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#19310E",
 		"county_names": {
 			"Culture1": "Neckar",
@@ -4380,23 +4380,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"neu": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#9577F5",
 		"county_names": {
 			"Culture1": "Neuchatel",
@@ -4408,19 +4408,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"nev": {
@@ -4508,7 +4508,7 @@
 		"terrain": "terrain type"
 	},
 	"nic": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#2DBD84",
 		"county_names": {
 			"Culture1": "Nice",
@@ -4520,23 +4520,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"nie": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#28C279",
 		"county_names": {
 			"Culture1": "Niederrheim",
@@ -4548,19 +4548,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"nim": {
@@ -4592,7 +4592,7 @@
 		"terrain": "terrain type"
 	},
 	"noa": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F6456A",
 		"county_names": {
 			"Culture1": "Novara",
@@ -4604,19 +4604,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"nor": {
@@ -4648,7 +4648,7 @@
 		"terrain": "terrain type"
 	},
 	"obe": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#E33ECD",
 		"county_names": {
 			"Culture1": "Oberinntal",
@@ -4660,23 +4660,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"obr": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#711651",
 		"county_names": {
 			"Culture1": "Oberwallis",
@@ -4688,19 +4688,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"obw": {
@@ -4928,7 +4928,7 @@
 		"terrain": "terrain type"
 	},
 	"pad": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#5630CE",
 		"county_names": {
 			"Culture1": "Padua",
@@ -4940,23 +4940,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pal": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#19E37C",
 		"county_names": {
 			"Culture1": "Palatinate",
@@ -4968,23 +4968,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"par": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#455280",
 		"county_names": {
 			"Culture1": "Parma",
@@ -4996,23 +4996,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pat": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#298261",
 		"county_names": {
 			"Culture1": "Patrimonio",
@@ -5024,23 +5024,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pav": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3899B7",
 		"county_names": {
 			"Culture1": "Pavia",
@@ -5052,19 +5052,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pay": {
@@ -5124,7 +5124,7 @@
 		"terrain": "terrain type"
 	},
 	"per": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#12A890",
 		"county_names": {
 			"Culture1": "Perugia",
@@ -5136,23 +5136,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pia": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#167DEA",
 		"county_names": {
 			"Culture1": "Piacenza",
@@ -5164,23 +5164,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pis": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3D0B84",
 		"county_names": {
 			"Culture1": "Pisa",
@@ -5192,19 +5192,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"plo": {
@@ -5236,7 +5236,7 @@
 		"terrain": "terrain type"
 	},
 	"pme": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B2EB46",
 		"county_names": {
 			"Culture1": "Pays Messin",
@@ -5248,23 +5248,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pna": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D35A49",
 		"county_names": {
 			"Culture1": "Pays Nancy",
@@ -5276,23 +5276,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pon": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B1D484",
 		"county_names": {
 			"Culture1": "Ponthieu",
@@ -5304,19 +5304,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pri": {
@@ -5348,7 +5348,7 @@
 		"terrain": "terrain type"
 	},
 	"pth": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#9E35C6",
 		"county_names": {
 			"Culture1": "Perthois",
@@ -5360,23 +5360,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pum": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#65F839",
 		"county_names": {
 			"Culture1": "Pumonte",
@@ -5388,23 +5388,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"pun": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#1F782D",
 		"county_names": {
 			"Culture1": "Punente",
@@ -5416,19 +5416,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"que": {
@@ -5488,7 +5488,7 @@
 		"terrain": "terrain type"
 	},
 	"reg": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#D3B3B0",
 		"county_names": {
 			"Culture1": "Reggioem",
@@ -5500,19 +5500,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"rem": {
@@ -5572,7 +5572,7 @@
 		"terrain": "terrain type"
 	},
 	"ret": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#587E3D",
 		"county_names": {
 			"Culture1": "Rethelois",
@@ -5584,23 +5584,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"rfl": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#21EEF1",
 		"county_names": {
 			"Culture1": "Roman Flanders",
@@ -5612,23 +5612,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"rhv": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#82C59B",
 		"county_names": {
 			"Culture1": "Rhine Valley",
@@ -5640,19 +5640,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"rie": {
@@ -5712,7 +5712,7 @@
 		"terrain": "terrain type"
 	},
 	"rom": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#04C6AB",
 		"county_names": {
 			"Culture1": "Romagna",
@@ -5724,19 +5724,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ros": {
@@ -5796,7 +5796,7 @@
 		"terrain": "terrain type"
 	},
 	"ruh": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#1EA5D6",
 		"county_names": {
 			"Culture1": "Ruhr",
@@ -5808,19 +5808,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"saa": {
@@ -5880,7 +5880,7 @@
 		"terrain": "terrain type"
 	},
 	"sal": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F4F3F9",
 		"county_names": {
 			"Culture1": "Saluzzo",
@@ -5892,23 +5892,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sar": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#28E818",
 		"county_names": {
 			"Culture1": "Sarregueminois",
@@ -5920,19 +5920,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sau": {
@@ -5964,7 +5964,7 @@
 		"terrain": "terrain type"
 	},
 	"sav": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#5B1EFC",
 		"county_names": {
 			"Culture1": "Savoy",
@@ -5976,19 +5976,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sch": {
@@ -6076,7 +6076,7 @@
 		"terrain": "terrain type"
 	},
 	"sie": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#0B4D61",
 		"county_names": {
 			"Culture1": "Siena",
@@ -6088,19 +6088,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sle": {
@@ -6244,7 +6244,7 @@
 		"terrain": "terrain type"
 	},
 	"spo": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#915740",
 		"county_names": {
 			"Culture1": "Spoleto",
@@ -6256,23 +6256,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"sti": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B3BD4E",
 		"county_names": {
 			"Culture1": "South Tirol",
@@ -6284,19 +6284,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"suf": {
@@ -6384,7 +6384,7 @@
 		"terrain": "terrain type"
 	},
 	"swa": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B84A42",
 		"county_names": {
 			"Culture1": "Swabian Alb",
@@ -6396,23 +6396,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"swz": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#AE8BC9",
 		"county_names": {
 			"Culture1": "Schwarzwald",
@@ -6424,23 +6424,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"tan": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#EF998C",
 		"county_names": {
 			"Culture1": "Taunus",
@@ -6452,19 +6452,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"tau": {
@@ -6496,7 +6496,7 @@
 		"terrain": "terrain type"
 	},
 	"ten": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#7FB37C",
 		"county_names": {
 			"Culture1": "Trentino",
@@ -6508,19 +6508,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ter": {
@@ -6552,7 +6552,7 @@
 		"terrain": "terrain type"
 	},
 	"thi": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#BE34C9",
 		"county_names": {
 			"Culture1": "Thierache",
@@ -6564,23 +6564,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"thr": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#FA533D",
 		"county_names": {
 			"Culture1": "Thurgau",
@@ -6592,19 +6592,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"thu": {
@@ -6664,7 +6664,7 @@
 		"terrain": "terrain type"
 	},
 	"tic": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#290A0D",
 		"county_names": {
 			"Culture1": "Ticino",
@@ -6676,19 +6676,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"tol": {
@@ -6720,7 +6720,7 @@
 		"terrain": "terrain type"
 	},
 	"tor": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B658A5",
 		"county_names": {
 			"Culture1": "Torino",
@@ -6732,19 +6732,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"tou": {
@@ -6860,7 +6860,7 @@
 		"terrain": "terrain type"
 	},
 	"ual": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#BED0BE",
 		"county_names": {
 			"Culture1": "Upper Alsace",
@@ -6872,23 +6872,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"uar": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#842A47",
 		"county_names": {
 			"Culture1": "Upper Artois",
@@ -6900,19 +6900,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"uau": {
@@ -7000,7 +7000,7 @@
 		"terrain": "terrain type"
 	},
 	"unr": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CD13CF",
 		"county_names": {
 			"Culture1": "untermain",
@@ -7012,23 +7012,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"unt": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#AB2000",
 		"county_names": {
 			"Culture1": "Unterinntal",
@@ -7040,19 +7040,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"upo": {
@@ -7084,7 +7084,7 @@
 		"terrain": "terrain type"
 	},
 	"urb": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#C77E6D",
 		"county_names": {
 			"Culture1": "Urbino",
@@ -7096,19 +7096,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"urg": {
@@ -7152,7 +7152,7 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
@@ -7224,7 +7224,7 @@
 		"terrain": "terrain type"
 	},
 	"vat": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#2854D6",
 		"county_names": {
 			"Culture1": "Valtellina",
@@ -7236,23 +7236,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"vau": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#3F23DF",
 		"county_names": {
 			"Culture1": "Vaud",
@@ -7264,23 +7264,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ved": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#5DB274",
 		"county_names": {
 			"Culture1": "Verdunois",
@@ -7292,23 +7292,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"vem": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#5AF4C7",
 		"county_names": {
 			"Culture1": "Vermandois",
@@ -7320,23 +7320,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ven": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#50DDC2",
 		"county_names": {
 			"Culture1": "Venice",
@@ -7348,23 +7348,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"ver": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#03799C",
 		"county_names": {
 			"Culture1": "Verona",
@@ -7376,23 +7376,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"vic": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#B48689",
 		"county_names": {
 			"Culture1": "Vicenza",
@@ -7404,23 +7404,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Roman",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"vie": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#BDE306",
 		"county_names": {
 			"Culture1": "Viennois",
@@ -7432,23 +7432,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"viv": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CC44CE",
 		"county_names": {
 			"Culture1": "Vivarais",
@@ -7460,19 +7460,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Burgundian",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"voe": {
@@ -7532,7 +7532,7 @@
 		"terrain": "terrain type"
 	},
 	"vos": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CF4F40",
 		"county_names": {
 			"Culture1": "Vosges",
@@ -7544,23 +7544,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"vrb": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#CD6F4A",
 		"county_names": {
 			"Culture1": "Vorarlberg",
@@ -7572,23 +7572,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wds": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#89DF3F",
 		"county_names": {
 			"Culture1": "Waldstatte",
@@ -7600,19 +7600,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wes": {
@@ -7644,7 +7644,7 @@
 		"terrain": "terrain type"
 	},
 	"wet": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#06DBC0",
 		"county_names": {
 			"Culture1": "Wetterau",
@@ -7656,23 +7656,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wfl": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#F8B93D",
 		"county_names": {
 			"Culture1": "West Flanders",
@@ -7684,19 +7684,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wil": {
@@ -7728,7 +7728,7 @@
 		"terrain": "terrain type"
 	},
 	"wlx": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#EF934C",
 		"county_names": {
 			"Culture1": "West Luxembourg",
@@ -7740,23 +7740,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wsw": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#71BD7F",
 		"county_names": {
 			"Culture1": "Westerwald",
@@ -7768,23 +7768,23 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Franks",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"wus": {
-		"coastal": "T/F if it is on the coast",
+		"coastal": "F",
 		"color_code": "#25BB7D",
 		"county_names": {
 			"Culture1": "Western Upper Swabia",
@@ -7796,19 +7796,19 @@
 			"gothic": "",
 			"hispanic": ""
 		},
-		"culture": "",
+		"culture": "Alemanni",
 		"faith": "",
 		"infrastrucure": [
 			"this building",
 			"other building",
 			"ect"
 		],
-		"max_infrastrucure": "num",
+		"max_infrastrucure": "0.0",
 		"modifiers": [
 			"list of modifiers applied to this region"
 		],
 		"natural_resource": "the type of natural resource ",
-		"river": "T/F if it is on a river",
+		"river": "F",
 		"terrain": "terrain type"
 	},
 	"zar": {
