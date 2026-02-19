@@ -225,11 +225,19 @@ layout_mode = 2
 
 [node name="TerrainTypeLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1425524779]
 layout_mode = 0
-offset_left = 28.0
+offset_left = 20.0
 offset_top = 450.0
-offset_right = 68.0
+offset_right = 117.0
 offset_bottom = 473.0
 text = "Terrain Type"
+
+[node name="TerrainEnviromentLabel2" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1816182733]
+layout_mode = 0
+offset_left = 19.0
+offset_top = 490.0
+offset_right = 169.0
+offset_bottom = 513.0
+text = "Terrain Enviroment"
 
 [node name="TerrainOptions" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1988899143]
 layout_mode = 0
@@ -238,50 +246,57 @@ offset_top = 455.0
 offset_right = 207.0
 offset_bottom = 475.0
 
+[node name="EnviromentOptions" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1508565347]
+layout_mode = 0
+offset_left = 186.0
+offset_top = 494.0
+offset_right = 218.0
+offset_bottom = 514.0
+
 [node name="CoastalLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1697196053]
 layout_mode = 0
-offset_left = 31.0
-offset_top = 485.0
-offset_right = 71.0
-offset_bottom = 508.0
+offset_left = 20.0
+offset_top = 523.0
+offset_right = 116.0
+offset_bottom = 546.0
 text = "Coastal Bool"
 
 [node name="CoastalCheck" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1201754871]
 layout_mode = 0
-offset_left = 167.0
-offset_top = 478.0
-offset_right = 211.0
-offset_bottom = 502.0
+offset_left = 175.0
+offset_top = 531.0
+offset_right = 219.0
+offset_bottom = 555.0
 
 [node name="RiverLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1899747582]
 layout_mode = 0
-offset_left = 35.0
-offset_top = 515.0
-offset_right = 114.0
-offset_bottom = 538.0
+offset_left = 21.0
+offset_top = 554.0
+offset_right = 100.0
+offset_bottom = 577.0
 text = "River Bool"
 
 [node name="RiverCheck" type="CheckButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=1519693475]
 layout_mode = 0
-offset_left = 163.0
-offset_top = 517.0
-offset_right = 207.0
-offset_bottom = 541.0
+offset_left = 178.0
+offset_top = 558.0
+offset_right = 222.0
+offset_bottom = 582.0
 
 [node name="NaturalResourcesLabel" type="Label" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=370601616]
 layout_mode = 0
 offset_left = 8.0
-offset_top = 549.0
+offset_top = 592.0
 offset_right = 151.0
-offset_bottom = 572.0
+offset_bottom = 615.0
 text = "Natural Resources"
 
 [node name="ResourcesOptions" type="OptionButton" parent="UI/Container/Editors/RegionEditor/Terrain" unique_id=627607686]
 layout_mode = 0
-offset_left = 171.0
-offset_top = 548.0
-offset_right = 203.0
-offset_bottom = 568.0
+offset_left = 180.0
+offset_top = 592.0
+offset_right = 212.0
+offset_bottom = 612.0
 
 [node name="Modifiers" type="Control" parent="UI/Container/Editors/RegionEditor" unique_id=1537034841]
 visible = false
@@ -302,10 +317,10 @@ layout_mode = 2
 
 [node name="SaveButton" type="Button" parent="UI/Container/Editors/RegionEditor/Save" unique_id=572894384]
 layout_mode = 0
-offset_left = 1.0
-offset_top = 577.0
-offset_right = 260.0
-offset_bottom = 608.0
+offset_left = -4.0
+offset_top = 632.0
+offset_right = 255.0
+offset_bottom = 663.0
 text = "Save Region"
 
 [node name="RealmEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=557937229]
