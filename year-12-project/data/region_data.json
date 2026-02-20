@@ -3164,7 +3164,7 @@
 		"terrain": "terrain type"
 	},
 	"ken": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#F58C33",
 		"county_names": {
 			"Culture1": "Kent",
