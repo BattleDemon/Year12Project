@@ -1,6 +1,6 @@
 ### Description
-Regions are the base 
-### Json Example
+Regions 
+### JSON Example
 ```
 "xxx": {
 
