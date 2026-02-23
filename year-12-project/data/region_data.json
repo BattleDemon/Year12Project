@@ -476,7 +476,7 @@
 		"terrain": "terrain type"
 	},
 	"arb": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#FFCB21",
 		"county_names": {
 			"Culture1": "Arborea",
@@ -728,7 +728,7 @@
 		"terrain": "terrain type"
 	},
 	"bay": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#8BE9DA",
 		"county_names": {
 			"Culture1": "Bayonne",
@@ -1092,7 +1092,7 @@
 		"terrain": "terrain type"
 	},
 	"bor": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#64D92C",
 		"county_names": {
 			"Culture1": "Bordelais",
@@ -1372,7 +1372,7 @@
 		"terrain": "terrain type"
 	},
 	"cae": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#4FD3C6",
 		"county_names": {
 			"Culture1": "Caennais",
@@ -1400,7 +1400,7 @@
 		"terrain": "terrain type"
 	},
 	"cag": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#68E3F4",
 		"county_names": {
 			"Culture1": "Cagliari",
@@ -1568,7 +1568,7 @@
 		"terrain": "terrain type"
 	},
 	"cau": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#39AAA3",
 		"county_names": {
 			"Culture1": "Caux",
@@ -1652,7 +1652,7 @@
 		"terrain": "terrain type"
 	},
 	"cis": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#F084D4",
 		"county_names": {
 			"Culture1": "Cismonte",
@@ -1736,7 +1736,7 @@
 		"terrain": "terrain type"
 	},
 	"cor": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#76734F",
 		"county_names": {
 			"Culture1": "Cornwall",
@@ -1764,7 +1764,7 @@
 		"terrain": "terrain type"
 	},
 	"cot": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#BB5B4E",
 		"county_names": {
 			"Culture1": "Cotentin",
@@ -1820,7 +1820,7 @@
 		"terrain": "terrain type"
 	},
 	"crn": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#BDDBC4",
 		"county_names": {
 			"Culture1": "Cornuaille",
@@ -1848,7 +1848,7 @@
 		"terrain": "terrain type"
 	},
 	"dev": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#6CD6EA",
 		"county_names": {
 			"Culture1": "Devon",
@@ -1960,7 +1960,7 @@
 		"terrain": "terrain type"
 	},
 	"dor": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#D8D52C",
 		"county_names": {
 			"Culture1": "Dorset",
@@ -2100,7 +2100,7 @@
 		"terrain": "terrain type"
 	},
 	"efr": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#4AB2B3",
 		"county_names": {
 			"Culture1": "East Friesland",
@@ -2156,7 +2156,7 @@
 		"terrain": "terrain type"
 	},
 	"elb": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#06BC9F",
 		"county_names": {
 			"Culture1": "Elbmarch",
@@ -2240,7 +2240,7 @@
 		"terrain": "terrain type"
 	},
 	"ess": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#35C753",
 		"county_names": {
 			"Culture1": "Essex",
@@ -2436,7 +2436,7 @@
 		"terrain": "terrain type"
 	},
 	"fri": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#71C8FF",
 		"county_names": {
 			"Culture1": "Friesland",
@@ -2492,7 +2492,7 @@
 		"terrain": "terrain type"
 	},
 	"gal": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#AC9917",
 		"county_names": {
 			"Culture1": "Gallura",
@@ -2548,7 +2548,7 @@
 		"terrain": "terrain type"
 	},
 	"gel": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#1D9EE2",
 		"county_names": {
 			"Culture1": "Gelderland",
@@ -2604,7 +2604,7 @@
 		"terrain": "terrain type"
 	},
 	"gip": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#00A803",
 		"county_names": {
 			"Culture1": "Gipuzkoa",
@@ -2660,7 +2660,7 @@
 		"terrain": "terrain type"
 	},
 	"glo": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#D6D48E",
 		"county_names": {
 			"Culture1": "Gloucesteshire",
@@ -2800,7 +2800,7 @@
 		"terrain": "terrain type"
 	},
 	"ham": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#1A0E3C",
 		"county_names": {
 			"Culture1": "Hampshire",
@@ -3668,7 +3668,7 @@
 		"terrain": "terrain type"
 	},
 	"log": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#E98E17",
 		"county_names": {
 			"Culture1": "Logudoro",
@@ -3724,7 +3724,7 @@
 		"terrain": "terrain type"
 	},
 	"lop": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#0AF697",
 		"county_names": {
 			"Culture1": "Lower Poitou",
@@ -3864,7 +3864,7 @@
 		"terrain": "terrain type"
 	},
 	"mal": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#820658",
 		"county_names": {
 			"Culture1": "Mallorca",
@@ -3976,7 +3976,7 @@
 		"terrain": "terrain type"
 	},
 	"mid": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#349EB4",
 		"county_names": {
 			"Culture1": "Middlesex",
@@ -4284,7 +4284,7 @@
 		"terrain": "terrain type"
 	},
 	"nan": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#69053E",
 		"county_names": {
 			"Culture1": "Nantais",
@@ -4452,7 +4452,7 @@
 		"terrain": "terrain type"
 	},
 	"nho": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#287838",
 		"county_names": {
 			"Culture1": "North Holland",
@@ -4620,7 +4620,7 @@
 		"terrain": "terrain type"
 	},
 	"nor": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#CE691D",
 		"county_names": {
 			"Culture1": "Norfolk",
@@ -4760,7 +4760,7 @@
 		"terrain": "terrain type"
 	},
 	"omm": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#F836C8",
 		"county_names": {
 			"Culture1": "Ommelanden",
@@ -4872,7 +4872,7 @@
 		"terrain": "terrain type"
 	},
 	"ove": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#D097B7",
 		"county_names": {
 			"Culture1": "Overijssel",
@@ -5292,7 +5292,7 @@
 		"terrain": "terrain type"
 	},
 	"pon": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#B1D484",
 		"county_names": {
 			"Culture1": "Ponthieu",
@@ -5376,7 +5376,7 @@
 		"terrain": "terrain type"
 	},
 	"pum": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#65F839",
 		"county_names": {
 			"Culture1": "Pumonte",
@@ -5544,7 +5544,7 @@
 		"terrain": "terrain type"
 	},
 	"ren": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#F04828",
 		"county_names": {
 			"Culture1": "Rennais",
@@ -5768,7 +5768,7 @@
 		"terrain": "terrain type"
 	},
 	"rou": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#7942EC",
 		"county_names": {
 			"Culture1": "Rouennais",
@@ -5852,7 +5852,7 @@
 		"terrain": "terrain type"
 	},
 	"sai": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#93FD2C",
 		"county_names": {
 			"Culture1": "Saintonge",
@@ -6048,7 +6048,7 @@
 		"terrain": "terrain type"
 	},
 	"sho": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#8E07C2",
 		"county_names": {
 			"Culture1": "South Holland",
@@ -6160,7 +6160,7 @@
 		"terrain": "terrain type"
 	},
 	"som": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#3898D4",
 		"county_names": {
 			"Culture1": "Somerset",
@@ -6300,7 +6300,7 @@
 		"terrain": "terrain type"
 	},
 	"suf": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#A4BD09",
 		"county_names": {
 			"Culture1": "Suffolk",
@@ -6356,7 +6356,7 @@
 		"terrain": "terrain type"
 	},
 	"sus": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#6FFE13",
 		"county_names": {
 			"Culture1": "Sussex",
@@ -6776,7 +6776,7 @@
 		"terrain": "terrain type"
 	},
 	"tre": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#578E9D",
 		"county_names": {
 			"Culture1": "Tregor",
@@ -6832,7 +6832,7 @@
 		"terrain": "terrain type"
 	},
 	"tur": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#59F002",
 		"county_names": {
 			"Culture1": "Tursan",
@@ -7196,7 +7196,7 @@
 		"terrain": "terrain type"
 	},
 	"van": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#285248",
 		"county_names": {
 			"Culture1": "Vannetails",
@@ -7616,7 +7616,7 @@
 		"terrain": "terrain type"
 	},
 	"wes": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#FA2C3F",
 		"county_names": {
 			"Culture1": "Wesermarch1",
@@ -7672,7 +7672,7 @@
 		"terrain": "terrain type"
 	},
 	"wfl": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#F8B93D",
 		"county_names": {
 			"Culture1": "West Flanders",
