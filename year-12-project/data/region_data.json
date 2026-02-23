@@ -28,7 +28,7 @@
 		"terrain": "terrain type"
 	},
 	"abu": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#FC22DD",
 		"county_names": {
 			"Culture1": "Abruzzo Ultra",
@@ -448,7 +448,7 @@
 		"terrain": "terrain type"
 	},
 	"aqu": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#9CB544",
 		"county_names": {
 			"Culture1": "Aquisextain",
@@ -672,7 +672,7 @@
 		"terrain": "terrain type"
 	},
 	"bar": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#564531",
 		"county_names": {
 			"Culture1": "Barcelona",
@@ -1512,7 +1512,7 @@
 		"terrain": "terrain type"
 	},
 	"cas": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#CD0D46",
 		"county_names": {
 			"Culture1": "Castellon",
@@ -1988,7 +1988,7 @@
 		"terrain": "terrain type"
 	},
 	"dra": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#C81FC9",
 		"county_names": {
 			"Culture1": "Dracenois",
@@ -2324,7 +2324,7 @@
 		"terrain": "terrain type"
 	},
 	"fer": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#0D84F8",
 		"county_names": {
 			"Culture1": "Ferrara",
@@ -2632,7 +2632,7 @@
 		"terrain": "terrain type"
 	},
 	"gir": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#154709",
 		"county_names": {
 			"Culture1": "Girona",
@@ -2744,7 +2744,7 @@
 		"terrain": "terrain type"
 	},
 	"gro": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#824051",
 		"county_names": {
 			"Culture1": "Grosseto",
@@ -3080,7 +3080,7 @@
 		"terrain": "terrain type"
 	},
 	"jat": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#3303EE",
 		"county_names": {
 			"Culture1": "Jativa",
@@ -3332,7 +3332,7 @@
 		"terrain": "terrain type"
 	},
 	"lat": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#3263EB",
 		"county_names": {
 			"Culture1": "Latium",
@@ -3388,7 +3388,7 @@
 		"terrain": "terrain type"
 	},
 	"lav": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#936CED",
 		"county_names": {
 			"Culture1": "Lavoro",
@@ -3500,7 +3500,7 @@
 		"terrain": "terrain type"
 	},
 	"lev": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#67739A",
 		"county_names": {
 			"Culture1": "Levante",
@@ -3752,7 +3752,7 @@
 		"terrain": "terrain type"
 	},
 	"luc": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#CA7DA4",
 		"county_names": {
 			"Culture1": "Lucca",
@@ -3920,7 +3920,7 @@
 		"terrain": "terrain type"
 	},
 	"mar": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#0DD4B4",
 		"county_names": {
 			"Culture1": "Marche",
@@ -4228,7 +4228,7 @@
 		"terrain": "terrain type"
 	},
 	"nab": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#399357",
 		"county_names": {
 			"Culture1": "Navbonnais",
@@ -4340,7 +4340,7 @@
 		"terrain": "terrain type"
 	},
 	"nca": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#083434",
 		"county_names": {
 			"Culture1": "New Catelonia",
@@ -4508,7 +4508,7 @@
 		"terrain": "terrain type"
 	},
 	"nic": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#2DBD84",
 		"county_names": {
 			"Culture1": "Nice",
@@ -4564,7 +4564,7 @@
 		"terrain": "terrain type"
 	},
 	"nim": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#54DD34",
 		"county_names": {
 			"Culture1": "Nimois",
@@ -5012,7 +5012,7 @@
 		"terrain": "terrain type"
 	},
 	"pat": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#298261",
 		"county_names": {
 			"Culture1": "Patrimonio",
@@ -5180,7 +5180,7 @@
 		"terrain": "terrain type"
 	},
 	"pis": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#3D0B84",
 		"county_names": {
 			"Culture1": "Pisa",
@@ -5404,7 +5404,7 @@
 		"terrain": "terrain type"
 	},
 	"pun": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#1F782D",
 		"county_names": {
 			"Culture1": "Punente",
@@ -5712,7 +5712,7 @@
 		"terrain": "terrain type"
 	},
 	"rom": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#04C6AB",
 		"county_names": {
 			"Culture1": "Romagna",
@@ -5740,7 +5740,7 @@
 		"terrain": "terrain type"
 	},
 	"ros": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#E7A027",
 		"county_names": {
 			"Culture1": "Rosello",
@@ -7084,7 +7084,7 @@
 		"terrain": "terrain type"
 	},
 	"urb": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#C77E6D",
 		"county_names": {
 			"Culture1": "Urbino",
@@ -7168,7 +7168,7 @@
 		"terrain": "terrain type"
 	},
 	"val": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#FDAF76",
 		"county_names": {
 			"Culture1": "Valencia",
@@ -7336,7 +7336,7 @@
 		"terrain": "terrain type"
 	},
 	"ven": {
-		"coastal": "F",
+		"coastal": "T",
 		"color_code": "#50DDC2",
 		"county_names": {
 			"Culture1": "Venice",
