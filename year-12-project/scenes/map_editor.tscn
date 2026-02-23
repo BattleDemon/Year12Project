@@ -58,9 +58,10 @@ offset_top = 72.0
 offset_right = 259.0
 offset_bottom = 1300.0
 tab_alignment = 1
-current_tab = 0
+current_tab = 1
 
 [node name="RegionEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=1905029382]
+visible = false
 layout_mode = 2
 metadata/_tab_index = 0
 
@@ -324,7 +325,6 @@ offset_bottom = 663.0
 text = "Save Region"
 
 [node name="RealmEditor" type="VBoxContainer" parent="UI/Container/Editors" unique_id=557937229]
-visible = false
 layout_mode = 2
 metadata/_tab_index = 1
 
