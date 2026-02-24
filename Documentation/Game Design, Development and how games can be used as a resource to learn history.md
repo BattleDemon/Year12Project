@@ -6,7 +6,7 @@
 
 #### 2.1 Project Goal
 
-#### 2.1 Background and Passion
+#### 2.2 Background and Passion
 
 ## 3 Literature Review
 
@@ -17,17 +17,17 @@
 #### 3.3 Grand Strategy Game Design
 ## 4 Historical Research Framework
 
-#### 4.1
+#### 4.1 
 
 #### 4.2
 
 ## 5 Design Philosophy 
 
-#### 5.1
+#### 5.1 Historical 
 
-#### 5.2
+#### 5.2 Conceptualise
 
-#### 5.3
+#### 5.3 Would it be fun
 
 ## 6 Technical Development 
 
