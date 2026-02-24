@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Game Design, Development and how games can be used as a resource to learn history.md",
+                "file": "Documentation/Feature Ideas/Infrastructure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Game Design, Development and how games can be used as a resource to learn history"
+              "title": "Infrastructure"
             }
           }
         ]
@@ -187,35 +187,35 @@
   },
   "active": "49ffb59478797d8c",
   "lastOpenFiles": [
+    "Documentation/Feature Ideas/Events and Storyline.md",
+    "Documentation/Feature Ideas/Infrastructure.md",
+    "Documentation/Feature Ideas/Governments and Rulers.md",
+    "Documentation/Feature Ideas/Resources.md",
+    "Documentation/Feature Ideas/Warfare and Conquest.md",
+    "Documentation/Feature Ideas/Trade and Supply.md",
+    "Documentation/Feature Ideas/Terrain.md",
     "Documentation/Project Proposal.md",
     "Documentation/Game Design, Development and how games can be used as a resource to learn history.md",
     "Documentation/Feature Ideas/Regions and Regional Features.md",
     "Documentation/Feature Ideas/Progression, Research and Technology.md",
     "Documentation/Feature Ideas/Realms and Features of the Realms.md",
     "Documentation/Feature Ideas/Modifiers.md",
-    "Documentation/Feature Ideas/Governments and Rulers.md",
-    "Documentation/Feature Ideas/Events and Storyline.md",
-    "Documentation/Feature Ideas/Warfare and Conquest.md",
     "Documentation/DevLogs/February/February Development Log.md",
     "Documentation/DevLogs/March",
     "Documentation/DevLogs/February",
     "Documentation/Research/Game Design Research",
     "Documentation/Research/Historical Research",
     "Documentation/Research",
-    "Documentation/Feature Ideas/Infrastructure.md",
     "260210_10h03m36s_screenshot.png",
     "characters.json",
     "familyTree.json",
     "Documentation/Feature Ideas/Region Levels.md",
-    "Documentation/Feature Ideas/Resources.md",
-    "Documentation/Feature Ideas/Terrain.md",
     "Documentation/Feature Ideas/Cultures/Cultures.md",
     "Documentation/Feature Ideas/Cultures/Basque Cultures",
     "Documentation/Feature Ideas/Cultures/Gaelic Cultures",
     "Documentation/Feature Ideas/Cultures/Brithonic Cultures",
     "Documentation/Feature Ideas/Faiths/Faiths.md",
     "README.md",
-    "Documentation/Feature Ideas/Trade and Supply.md",
     "2026-02-24.md",
     "Project Plan/Tech Tree.md",
     "Project Plan/Names/Anglo Saxon Names.md",
