@@ -1,0 +1,9 @@
+{
+    "xxxxxxx" : {
+        "name" : "name of ruler",
+        "dynasty" : "family or dynasty - Points to a family tree used to calculate inheritance ect",
+        "title" : "title of ruler",
+        "faith" : "faith of ruler",
+        "culture" : "culture of ruler"
+    }
+}
