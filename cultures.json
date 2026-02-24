@@ -28,6 +28,10 @@
         "cultural_groups" : ["germanic"],
         "cultural_color" : "#1065DB"
     },
+    "Visagothic" : {
+        "cultural_groups" : ["germanic"],
+        "cultural_color" : "#D67A09"
+    },
 
     "Breton" : {
         "cultural_groups" : ["brithonic"],
@@ -39,11 +43,6 @@
         "cultural_color" : "#F0D929"
     },
 
-    "Visagothic" : {
-        "cultural_groups" : ["gothic"],
-        "cultural_color" : "#D67A09"
-    },
-
     "Breto-Roman" : {
         "cultural_groupss" : [
             "roman",
@@ -52,10 +51,7 @@
         "cultural_color" : "#EB3DF3"
     },
     "Hispano-Roman" : {
-        "cultural_groups" : [
-            "roman",
-            "hispanic"
-        ],
+        "cultural_groups" : "roman",
         "cultural_color" : "#EB366B"
     },
     "Gallo-Roman" : {

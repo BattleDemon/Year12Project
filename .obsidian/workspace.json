@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Project Proposal.md",
+                "file": "Documentation/Feature Ideas/Regions and Regional Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project Proposal"
+              "title": "Regions and Regional Features"
             }
           }
         ]
@@ -181,44 +181,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "active": "f3ffb0ff2d95509a",
   "lastOpenFiles": [
-    "Documentation/Feature Ideas/Regions and Regional Features.md",
     "Documentation/Feature Ideas/Realms and Features of the Realms.md",
-    "Documentation/Feature Ideas/Trade and Supply.md",
+    "Documentation/Feature Ideas/Modifiers.md",
+    "Documentation/Feature Ideas/Regions and Regional Features.md",
+    "Documentation/Feature Ideas/Resources.md",
+    "Documentation/Feature Ideas/Terrain.md",
+    "Documentation/Feature Ideas/Infrastructure.md",
+    "Documentation/Feature Ideas/Cultures/Cultures.md",
+    "Documentation/Feature Ideas/Cultures/Basque Cultures",
+    "Documentation/Feature Ideas/Cultures/Gaelic Cultures",
+    "Documentation/Feature Ideas/Cultures/Brithonic Cultures",
+    "Documentation/Feature Ideas/Cultures/Roman Cultures",
+    "Documentation/Feature Ideas/Cultures/Germanic Cultures",
+    "Documentation/Feature Ideas/Cultures",
+    "Documentation/Feature Ideas/Faiths/Faiths.md",
     "Documentation/Feature Ideas/Progression, Research and Technology.md",
+    "Documentation/Feature Ideas/Faiths/Pagan Faiths",
+    "Documentation/Feature Ideas/Faiths/Christian Faiths",
+    "Documentation/Feature Ideas/Faiths",
+    "README.md",
+    "Documentation/Project Proposal.md",
+    "Documentation/Feature Ideas/Trade and Supply.md",
     "Documentation/Feature Ideas/Governments and Rulers.md",
     "Documentation/Feature Ideas/Events and Storyline.md",
     "2026-02-24.md",
-    "Documentation/Project Proposal.md",
     "Untitled.md",
     "Documentation/Feature Ideas/Warfare and Conquest.md",
     "Documentation/Feature Ideas/Faith",
-    "Documentation/Feature Ideas/Cultures",
-    "Documentation/Feature Ideas",
-    "Documentation/DevLogs",
-    "Untitled",
-    "Documentation",
     "Project Plan/Tech Tree.md",
     "Project Plan/Names/Anglo Saxon Names.md",
     "Project Plan/Resources.md",
-    "Map Extract/addcolor.js",
     "Map Extract/MapChart_Map (1).svg",
-    "Map Extract",
     "Project Plan/Territory, control and borders.md",
     "Project Plan/Nations at the beginning of game.md",
     "Project Plan/Game Design Document.md",
     "Project Plan/Events/General Events.md",
     "gitignore.md",
-    "README.md",
-    "Project Plan/Names/Gaelic Names.md",
-    "Project Plan/Names/Welsh Names.md",
-    "Project Plan/Names",
-    "Project Plan/Names/Norse Names.md",
-    "year-12-project/icon.svg.import",
-    "Welcome.md"
+    "Project Plan/Names/Gaelic Names.md"
   ]
 }
