@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Feature Ideas/Realms and Features of the Realms.md",
+                "file": "Documentation/Feature Ideas/Regions and Regional Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Realms and Features of the Realms"
+              "title": "Regions and Regional Features"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "f3ffb0ff2d95509a",
   "lastOpenFiles": [
+    "260210_10h03m36s_screenshot.png",
+    "Documentation/Feature Ideas/Realms and Features of the Realms.md",
     "characters.json",
     "Documentation/Feature Ideas/Regions and Regional Features.md",
-    "Documentation/Feature Ideas/Realms and Features of the Realms.md",
     "familyTree.json",
     "Documentation/Feature Ideas/Region Levels.md",
     "Documentation/Feature Ideas/Modifiers.md",
@@ -207,7 +208,6 @@
     "Documentation/Feature Ideas/Progression, Research and Technology.md",
     "Documentation/Feature Ideas/Faiths/Pagan Faiths",
     "Documentation/Feature Ideas/Faiths/Christian Faiths",
-    "Documentation/Feature Ideas/Faiths",
     "README.md",
     "Documentation/Project Proposal.md",
     "Documentation/Feature Ideas/Trade and Supply.md",

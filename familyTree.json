@@ -13,7 +13,26 @@
                 "faith" : "faith of ruler",
                 "culture" : "culture of ruler",
                 "children" : {
-
+                    "character code" : {
+                        "name" : "name of ruler",
+                        "gender" : "M/F",
+                        "title" : "title of ruler",
+                        "faith" : "faith of ruler",
+                        "culture" : "culture of ruler",
+                        "children" : {
+                            
+                        }
+                    }
+                }
+            },
+            "other character code" : {
+                "name" : "name of ruler",
+                "gender" : "M/F",
+                "title" : "title of ruler",
+                "faith" : "faith of ruler",
+                "culture" : "culture of ruler",
+                "children" : {
+                    
                 }
             }
         }
