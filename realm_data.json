@@ -10,7 +10,8 @@
             "title" : "title of ruler",
             "faith" : "faith of ruler",
             "culture" : "culture of ruler",
-            "start_reign" : "ddmmyyyy"
+            "start_reign" : "ddmmyyyy",
+            "character_code" : "xxxxxxxx"
         },
 
         "realm_history" : [

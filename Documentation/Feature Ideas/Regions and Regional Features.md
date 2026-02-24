@@ -16,14 +16,14 @@ Regions also have a cultural name for each region, some based on a historical na
 		"Roman" : "Roman  Name",
 		"gaelic" : "Gaelic Name",
 		"brithonic" : "Brithonic Name",
-		"gothic" : "Gothic Name",
 		"basque" : "Basque Name",
-		"hispanic" : "Hispanic Name"
 	},
 
 	"culture": "Culture of the Region",
 
 	"faith": "Faith of the Region",
+	
+	"region_level" : "# 1-3; 1 = Outpost, 2 = Town, 3 = City",
 
 	"max_infrastrucure": "# of infistructure the region can have",
 
@@ -32,6 +32,8 @@ Regions also have a cultural name for each region, some based on a historical na
 		"Infrastructure 2",
 		"Other Infrastructures ect"
 	],
+	
+	"population" : "# - num of population, used to determine how many workers, levies and armys can exist"
 
 	"terrain": "terrain type",
 
@@ -45,7 +47,7 @@ Regions also have a cultural name for each region, some based on a historical na
 		"list of modifiers applied to this region"
 	],
 
-	"color_code": "#xxxxxx"
+	"color_code": "#xxxxxx",
 },
 ```
 ### Faiths
