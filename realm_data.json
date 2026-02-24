@@ -6,22 +6,31 @@
 
         "ruler" : {
             "name" : "name of ruler",
-            "dynasty" : "family or dynasty",
+            "dynasty" : "family or dynasty - Points to a family tree used to calculate inheritance ect",
             "title" : "title of ruler",
-            "faith" : "",
-            "culture" : ""
+            "faith" : "faith of ruler",
+            "culture" : "culture of ruler",
+            "start_reign" : "ddmmyyyy"
         },
 
-        "professional_armies" : [
-
+        "realm_history" : [
+            {
+                "name" : "name of ruler",
+                "dynasty" : "family or dynasty",
+                "title" : "title of ruler",
+                "faith" : "faith of ruler",
+                "culture" : "culture of ruler",
+                "start_reign" : "ddmmyyyy",
+                "end_reign" : "ddmmyyyy"
+            }
         ],
 
-        "realm_lvl" : "aka: tributary, chiefdom, king, empire idk",
-        "admin_type" : "chief, roman, other idk",
+        "realm_level" : "aka: tributary, chiefdom, king, empire idk",
+        "admin_type" : "Tribal, Roman, Feudal",
 
-        "capitol" : "code of county where capitol is located",
+        "capitol" : "code of region where capitol is located",
         "realm" : [
-            "List of countys in realm"
+            "List of region in realm"
         ]
     }
 }

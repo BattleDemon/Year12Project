@@ -187,9 +187,11 @@
   },
   "active": "f3ffb0ff2d95509a",
   "lastOpenFiles": [
+    "familyTree.json",
     "Documentation/Feature Ideas/Realms and Features of the Realms.md",
-    "Documentation/Feature Ideas/Modifiers.md",
+    "Documentation/Feature Ideas/Region Levels.md",
     "Documentation/Feature Ideas/Regions and Regional Features.md",
+    "Documentation/Feature Ideas/Modifiers.md",
     "Documentation/Feature Ideas/Resources.md",
     "Documentation/Feature Ideas/Terrain.md",
     "Documentation/Feature Ideas/Infrastructure.md",
@@ -221,8 +223,6 @@
     "Project Plan/Territory, control and borders.md",
     "Project Plan/Nations at the beginning of game.md",
     "Project Plan/Game Design Document.md",
-    "Project Plan/Events/General Events.md",
-    "gitignore.md",
-    "Project Plan/Names/Gaelic Names.md"
+    "Project Plan/Events/General Events.md"
   ]
 }

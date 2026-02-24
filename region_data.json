@@ -25,7 +25,9 @@
         "modifiers": [
             "list of modifiers applied to this region"
         ],
-        "color_code": "#B5ED38"
+        "color_code": "#B5ED38",
+        "region_level" : "# 1-3; 1 = Outpost, 2 = Town, 3 = City",
+        "population" : "# - num of population, used to determine how many workers, levies and armys can exist"
     },
     "sle": {
         "county_names": {
