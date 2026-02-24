@@ -1,16 +1,36 @@
 ## Table of Contents
 
-## My Background and Passion
+## 1 Abstract
 
-## Game Design
+## 2 Introduction
 
-## Game Development
+## 3 Literature Review
 
-## Games as a Resource to learn History
+#### 3.1 Game Based Learning in History
+
+#### 3.2 Historical Simulation and Authenticity
+
+#### 3.3 Grand Strategy Game Design
+## 4 Historical Research Framework
+
+## 5 Design Philosophy 
+
+## 6 Technical Development 
+
+## 7 Mentor and Community
+
+## 8 Playtesting and Evaluation 
+
+## 9 Discussion
+
+## 10 Conclusion
 
 ## References
 
-## Appendix
+## Appendices 
+
+
+
 
 
 
