@@ -70,7 +70,7 @@ Regions also have a cultural name for each region, some based on a historical na
 [[Terrain]]
 ### Resources
 
-[[Resources]]
+[[Documentation/Feature Ideas/Resources]]
 
 ### Modifiers
 
