@@ -26,12 +26,15 @@
             "id": "6c7c2367325ddb3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226123957.jpg"
+                "file": "Documentation/Feature Ideas/Warfare and Conquest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "IMG20260226123957"
+              "icon": "lucide-file",
+              "title": "Warfare and Conquest"
             }
           }
         ],
@@ -198,16 +201,19 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "ae93bd9d46aa6573",
+  "active": "6c7c2367325ddb3a",
   "lastOpenFiles": [
-    "Documentation/Feature Ideas/Governments and Rulers.md",
+    "Documentation/Feature Ideas/Resources.md",
     "Documentation/Feature Ideas/Regions and Regional Features.md",
-    "Documentation/Feature Ideas/Whiteboard Brain storms",
+    "Documentation/Feature Ideas/Region Levels.md",
+    "Documentation/Feature Ideas/Realms and Features of the Realms.md",
+    "Documentation/Feature Ideas/Progression, Research and Technology.md",
     "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226123957.jpg",
+    "Documentation/Feature Ideas/Governments and Rulers.md",
+    "Documentation/Feature Ideas/Whiteboard Brain storms",
     "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226124002.jpg",
     "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226124005.jpg",
     "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226124012.jpg",
-    "Documentation/Feature Ideas/Resources.md",
     "Documentation/Feature Ideas/Terrain.md",
     "Documentation/Feature Ideas/Trade and Economy.md",
     "Documentation/Feature Ideas/Warfare and Conquest.md",
@@ -215,10 +221,7 @@
     "Documentation/Project Proposal.md",
     "Documentation/Feature Ideas/Infrastructure.md",
     "Documentation/Feature Ideas/Modifiers.md",
-    "Documentation/Feature Ideas/Progression, Research and Technology.md",
     "Documentation/Feature Ideas/Events and Storyline.md",
-    "Documentation/Feature Ideas/Realms and Features of the Realms.md",
-    "Documentation/Feature Ideas/Region Levels.md",
     "Documentation/Research/Game Design Research/thesis.pdf",
     "Documentation/Research/Game Design Research/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf",
     "Documentation/Research/Game Design Research/PhD 2006 Sweetser.pdf",
