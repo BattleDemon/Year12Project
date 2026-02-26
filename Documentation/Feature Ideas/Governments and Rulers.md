@@ -1,6 +1,7 @@
-### Chiefdoms
+### Chiefdom
 
 ### Roman 
 
 ### Feudal
 
+### Tributary
