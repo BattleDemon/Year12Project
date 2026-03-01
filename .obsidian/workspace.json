@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49ffb59478797d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/\"Actual history doesn't take place\" Digital Gaming, Accuracy and Authenticity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "\"Actual history doesn't take place\" Digital Gaming, Accuracy and Authenticity"
-            }
-          },
-          {
             "id": "6c7c2367325ddb3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Feature Ideas/Warfare and Conquest.md",
+                "file": "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Warfare and Conquest"
+              "title": "Game Design, Development, And How Games Can Be Used As A Resource To Learn History"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,6 +187,7 @@
   },
   "active": "6c7c2367325ddb3a",
   "lastOpenFiles": [
+    "Documentation/Feature Ideas/Warfare and Conquest.md",
     "Documentation/Feature Ideas/Resources.md",
     "Documentation/Feature Ideas/Regions and Regional Features.md",
     "Documentation/Feature Ideas/Region Levels.md",
@@ -216,8 +201,7 @@
     "Documentation/Feature Ideas/Whiteboard Brain storms/IMG20260226124012.jpg",
     "Documentation/Feature Ideas/Terrain.md",
     "Documentation/Feature Ideas/Trade and Economy.md",
-    "Documentation/Feature Ideas/Warfare and Conquest.md",
-    "Documentation/Game Design, Development and how games can be used as a resource to learn history.md",
+    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "Documentation/Project Proposal.md",
     "Documentation/Feature Ideas/Infrastructure.md",
     "Documentation/Feature Ideas/Modifiers.md",
