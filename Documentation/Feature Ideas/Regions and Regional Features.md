@@ -59,7 +59,7 @@ Each region can support a maximum amount of Infrastructure determined by its ter
 
 ### Region Level
 
-[[Region Levels]]
+[[Region and Realm Levels]]
 
 ### Terrain
 

@@ -1,3 +1,0 @@
-Outpost
-Town 
-City
