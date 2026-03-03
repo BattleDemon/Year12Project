@@ -1,7 +1,0 @@
-https://medium.com/@squashfold/anatomy-of-a-grand-strategy-game-devlog-1-3962ba395ae4
-https://420playhousegames.itch.io/nwo-ac
-https://ben.itch.io/saxon-kings
-https://tycro-games.github.io/projects/Y2-blockB/
-https://www.google.com/search?client=opera&q=indie+grand+strategy+games&sourceid=opera&ie=UTF-8&oe=UTF-8
-https://tycro-dev.itch.io/grand-strategy-map-demo
-https://tycro-games.github.io/posts/Grand-Strategy-Editor-using-Gdextension-in-Godot-with-C++/
