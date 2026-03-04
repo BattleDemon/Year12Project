@@ -53,6 +53,8 @@ DO NOW
 
 #### 3.1 - Game Based Learning in History
 
+###### 3.1.1 - 
+
 #### 3.2 - Historical Simulation and Authenticity
 
 #### 3.3 - Grand Strategy Game Design
@@ -88,6 +90,14 @@ DO NOW
 
 #### 6.1 - Engine and Tools
 
+###### 6.1.1 - Engine Selection and Rationale
+
+###### 6.1.2 - Toolchain and Workflow
+
+###### 6.1.3 - Version Control Strategy
+
+###### 6.1.4 - Asset Pipeline
+
 If you want to make an "apple pie"(A game) you must first "invent the universe"(Make a game engine, but before that you need an OS and before that you need a computer ... the universe).
 #### 6.2 - Architecture
 
@@ -99,6 +109,10 @@ If you want to make an "apple pie"(A game) you must first "invent the universe"(
 
 ###### 6.2.4 - Save and Load System
 
+###### 6.2.5 - Data Driven Design
+
+###### 6.2.6 - Modularity and Extensibility
+
 #### 6.3 - Conception, Iteration, and Debugging
 
 #### 6.4 - Development Log
@@ -106,6 +120,15 @@ If you want to make an "apple pie"(A game) you must first "invent the universe"(
 #### 6.5 - Technical Challenges and Solutions
 
 #### 6.6 - Data Structures and System Design
+###### 6.6.1 – Province Data Model
+
+###### 6.6.2 – Event Data Schema
+
+###### 6.6.3 – State Management
+
+###### 6.6.4 – Performance Considerations
+
+###### 6.6.5 – Trade Offs and Design Decisions
 
 ## 7 - Mentor 
 
