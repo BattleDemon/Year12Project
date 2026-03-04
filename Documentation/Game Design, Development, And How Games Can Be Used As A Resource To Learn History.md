@@ -56,11 +56,25 @@ DO NOW
 #### 3.2 - Historical Simulation and Authenticity
 
 #### 3.3 - Grand Strategy Game Design
-## 4 - Historical Research Framework
+## 4 – Historical Research Framework
 
-#### 4.1 - Source Selection Criteria
+#### 4.1 – Source Selection Criteria
 
-#### 4.2 - Translating History Into Mechanics
+###### 4.1.1 – Primary Sources
+
+###### 4.1.2 – Secondary Sources
+
+###### 4.1.3 – Bias and Perspective
+
+###### 4.1.4 – Conflicting Interpretations
+
+#### 4.2 – Translating History Into Mechanics
+
+###### 4.2.1 – Abstraction
+
+###### 4.2.2 – Systems vs Events
+
+###### 4.2.3 – Limits of Simulation
 
 ## 5 - Design Philosophy 
 
@@ -77,13 +91,21 @@ DO NOW
 If you want to make an "apple pie"(A game) you must first "invent the universe"(Make a game engine, but before that you need an OS and before that you need a computer ... the universe).
 #### 6.2 - Architecture
 
+###### 6.2.1 - Data Flow
+
+###### 6.2.2 - Province System Structure
+
+###### 6.2.3 - Event Handling
+
+###### 6.2.4 - Save and Load System
+
 #### 6.3 - Conception, Iteration, and Debugging
 
 #### 6.4 - Development Log
 
 #### 6.5 - Technical Challenges and Solutions
 
-#### 6.6 Data Structures and System Design
+#### 6.6 - Data Structures and System Design
 
 ## 7 - Mentor 
 
@@ -102,7 +124,15 @@ Research and Report - Kirsty
 
 #### 8.2 - Community Feedback
 
-#### 8.3 - Game Based Learning
+#### 8.3 - Educational Evaluation of the Prototype
+
+###### 8.3.1 - Method
+
+##### 8.3.2 - Participant Feedback
+
+###### 8.3.3 - Observed Historical Thinking
+
+###### 8.3.4 - Limitations of Testing
 
 #### 8.4 - Wider Community
 
