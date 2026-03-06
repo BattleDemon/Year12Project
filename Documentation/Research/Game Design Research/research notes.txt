@@ -1,0 +1,123 @@
+### Summary
+
+This article by Markus Eldegard Mindrebø explores the innovative use of **relationship-based grand strategy video games**, specifically *Crusader Kings II*, as **simulation tools for qualitative historical network research**. Focusing on medieval aristocratic networks derived from the Old Norse-Icelandic kings’ sagas (12th–13th centuries), the study demonstrates how such games can model and analyze the formation, development, and dissolution of interpersonal networks in a **dynamic, interactive, and temporal framework**.
+
+---
+
+### Key Insights and Concepts
+
+- **Historical Network Analysis (HNA)** traditionally struggles with static snapshots of networks; this study proposes **using complex strategy games with AI-driven NPCs as dynamic simulators** to explore network progression and agent motivations over time.
+- *Crusader Kings II* (CKII) was chosen due to its:
+  - Detailed **character traits system** influencing socio-political behavior.
+  - Complex **opinion mechanics** quantifying interpersonal relationships numerically.
+  - Realistic modeling of **medieval kinship, alliances, conflicts, and succession** within a feudal context.
+- NPCs in CKII act as **autonomous agents**, fulfilling criteria for agent-based modeling (ABM), allowing researchers to examine **individual decision-making within broader social networks**.
+- The article emphasizes a **hybrid methodology** combining game simulation with traditional historical methods to verify findings and generate new research questions.
+
+---
+
+### Theoretical Framework and Methodology
+
+| Aspect                                | Description                                                                                   |
+|-------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Agent-Based Modeling (ABM)**      | Simulation of autonomous agents interacting within an environment, useful for socio-political hierarchies analysis. |
+| **Social Network Analysis (SNA)**   | Mapping and studying connections between individuals, traditionally static but extended here through simulation.   |
+| **Game as Network Software**        | CKII serves as a platform to reconstruct medieval networks, allowing manipulation of variables and repeated modeling. |
+| **Reduction and Assumptions**       | Focus on Scandinavian kingdoms; interpersonal connections prioritized; agents pursue pragmatic Realpolitik with emotional modifiers. |
+| **Simulation Approaches**            | Passive observation, player intervention (partial or full), and developer console usage to guide or verify network dynamics. |
+| **Verification Phase**               | Comparing simulation outcomes to saga narratives to identify alternative actions or motivations behind historical events. |
+
+---
+
+### Case Study: Simulation of Norwegian Aristocratic Networks (c. 936)
+
+- The study uses *Hákonar saga góða* from *Heimskringla* (Snorri Sturluson’s kings’ sagas) as the core historiographical source.
+- The historical context involves:
+  - Haraldr Fairhair’s dynasty aftermath.
+  - Struggle for Norwegian kingship between brothers Eiríkr Blood-axe and Hákon the Good.
+  - External influences from Denmark, Orkney, and England.
+- CKII’s 936 start date used to recreate political landscape, kinship ties, and power structures.
+
+---
+
+### Simulation Runs and Findings
+
+| Simulation Part          | Method                                                  | Key Findings                                                                                                                  |
+|-------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **1. Observing Succession** | Passive observation via console mode                    | Hákon consolidates power with strong aristocratic support; Eiríkr remains in exile without challenging Norway directly; Danish support fluctuates, impacting Eiríkr’s chances. |
+| **2. Preventing Succession** | Player controls Hákon, aims for stability               | Successfully maintains network cohesion and prevents Eiríkr’s challenge; confirms importance of internal alliances and religious appeasement. |
+| **3. Supporting Succession** | Player controls Danish king Haraldr Bluetooth to back Eiríkr | Alliance formed but Eiríkr still does not press claim on Norway, reinforcing idea that Gunnhildr may be key strategist behind sons’ ambitions. |
+| **4. Forcing Succession** | Artificially removes Hákon and Eiríkr to place Haraldr Eiríksson as king | Initial peaceful succession followed by tyrannical moves by Haraldr and Gunnhildr provoke aristocratic revolt, culminating in rebellion led by Hákon jarl Sigurðarson, aligning with saga narratives. |
+
+---
+
+### Quantitative Data Summary from Simulations
+
+| Simulation Run # | Avg. Opinion of Ruler by Aristocracy | Conflict with Aristocracy? | Key Events                                      |
+|------------------|-------------------------------------|---------------------------|------------------------------------------------|
+| 1–10 (Hákon)     | High (mostly >50)                   | Rare or no                 | Strong network; suppresses internal conflict   |
+| 1–10 (Eiríkr)    | Low to moderate                    | Yes                       | Fails to build strong network; remains in exile|
+| 1–10 (Haraldr)   | Variable, decreases after tyrannical actions | Yes                       | Tyranny prompts revolt and rebellion            |
+
+---
+
+### Advantages and Limitations of Using CKII for Historical Network Simulation
+
+**Advantages:**
+
+- Enables analysis of **emergent social structures** beyond fixed historiographical narratives.
+- Allows exploration of **“what-if” scenarios** by modifying agent attributes or network ties.
+- Rich **trait and opinion system** closely mirrors medieval interpersonal motivations described in sagas.
+- Facilitates **dynamic temporal analysis** of network evolution.
+
+**Limitations:**
+
+- Game designed primarily for entertainment; **historical accuracy is imperfect**.
+- Simplifications exist in succession laws and social hierarchy, especially in Norwegian context.
+- Peripheral actors and less powerful network members often **underrepresented**, limiting micro-level analyses.
+- Requires **modification and scholarly input** for improved historical fidelity.
+
+---
+
+### Conclusions and Future Directions
+
+- The study establishes a **proof-of-concept for using grand strategy games as heuristic tools** in historical network research.
+- **Deviations from historical narratives in simulations are especially valuable**, revealing alternative courses of action and underlying motivations.
+- The approach offers a method to **“fill in” fragmented or incomplete historical data**, addressing “broken links” in medieval networks.
+- Future work should focus on:
+  - Developing **customized game mods** to fit specific historiographical contexts.
+  - Incorporating **more actors and social strata** for comprehensive analysis.
+  - Extending methodology to other medieval sources and regions.
+- Ultimately, this approach bridges **digital gaming, social network theory, and medieval historiography**, enriching each field’s understanding of past social and political complexities.
+
+---
+
+### Keywords
+
+- Historical Network Research  
+- Social Network Analysis  
+- Agent-Based Modeling  
+- Grand Strategy Games  
+- Crusader Kings II  
+- Old Norse-Icelandic Sagas  
+- Medieval Aristocracy  
+- Simulation Methodology  
+- Political Networks  
+- Interpersonal Dynamics
+
+---
+
+### References (Select)
+
+- Mindrebø, Markus Eldegard. *Simulating medieval connections: Grand strategy games and social network analysis*, Journal of Historical Network Research 10 (2024): 92–121.
+- Bjarni Aðalbjarnarson (ed.), *Heimskringla* I (2002).
+- Preiser-Kapeller, Johannes. “The Ties that Do Not Bind…” JHNR 4 (2020).
+- Kilduff, Martin & Wenpin Tsai. *Social Networks and Organizations* (2003).
+- Jenkins, Henry. “Game Design as Narrative Architecture,” in *First Person* (2004).
+- Cegielski, Wendy H. & J. Daniel Rogers. “Rethinking the Role of Agent-Based Modeling in Archaeology,” JAA 41 (2016).
+
+---
+
+This article innovatively positions complex strategy video games as powerful, though imperfect, **simulation platforms for exploring medieval aristocratic networks**, offering historians a novel, interactive tool for qualitative network analysis and hypothesis testing.
+
+
