@@ -41,13 +41,20 @@ DO AFTER
 
 ## 2 - Introduction
 
+- **Main Introduction**: Briefly define the scope of your game, establishing its dual nature as both a digital experience and a historical inquiry.
+    - **Context**: Introduce the specific historical period or event your game explores.
+    - **Design Hook**: Mention the core design philosophy (e.g., experiential learning or historical problem space) to signal the report’s depth.
 #### 2.1 - Project Goal
 
-DO NOW
+- **Project Goal**: Use **SMART** objectives (Specific, Measurable, Achievable, Relevant, and Time-bound) to define success.
+    - **Research Aim**: State what historical "second-order concepts" (like empathy or evidence) you aim to teach.
+    - **Technical Aim**: Briefly note the intended framework or development outcome, such as creating a reusable game engine for historical narratives.
 
 #### 2.2 - Background and Passion
 
-DO NOW
+- **Reason for Project and Passion**: This section humanizes the data by explaining the "why" behind the effort.
+    - **Personal/Professional "Why"**: Connect your personal passion for history or game design to a broader need, such as improving engagement in history education.
+    - **Community Impact**: Highlight the value of the project's mentorship and community engagement, showing how collaborative design improves the final product.
 
 ## 3 - Literature Review
 
