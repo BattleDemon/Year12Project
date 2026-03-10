@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -206,10 +207,10 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "321d91dc3900b817",
+  "active": "5fef994ead0488f4",
   "lastOpenFiles": [
-    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "Documentation/Report with notes.md",
+    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "Documentation/Project Timeline for report.md",
     "Documentation/Project Proposal.md",
     "2.1 - Project Goal.md",
