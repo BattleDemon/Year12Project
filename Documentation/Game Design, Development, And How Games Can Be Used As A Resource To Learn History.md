@@ -1,48 +1,50 @@
 ## Table of Contents
 
-- [[#1 - Abstract]]
-- [[#2 - Introduction]]
-	- [[#2.1 - Project Goal]]
-	- [[#2.2 - Background and Passion]]
-- [[#3 - Literature Review]]
-	- [[#3.1 - Game Based Learning in History]]
-	- [[#3.2 - Historical Simulation and Authenticity]]
-	- [[#3.3 - Grand Strategy Game Design]]
-- [[#4  - Historical Research Framework]]
-	- [[#4.1 - Source Selection Criteria]]
-	- [[#4.2 - Translating History Into Game Mechanics]]
-- [[#5 - Design Philosophy]]
-	- [[#5.1 - Historical]]
-	- [[#5.2 - Conceptualise]]
-	- [[#5.3 -  Player Agency and Historical Constraint]]
-- [[#6 - Technical Development]]
-	- [[#6.1 - Engine and Tools]]
-	- [[#6.2 - Architecture]]
-	- [[#6.3 - Conception, Iteration, and Debugging]]
-	- [[#6.4 - Development Log]]
-	- [[#6.5 - Technical Challenges and Solutions]]
-	- [[#6.6 - Data Structures and System Design]]
-- [[#7 - Mentor]]
-	- [[#7.1 - School Mentorship]]
-	- [[#7.2 - Canberra Mentorship]]
-	- [[#7.3 - Industry Mentorship]]
-- [[#8 - Community]]
-	- [[#8.1 - Playtesting]]
-	- [[#8.2 - Community Feedback]]
-	- [[#8.3 -Educational Evaluation of the Prototypes]]
-	- [[#8.4 - Wider Community]]
-- [[#9 - Discussion]]
-	- [[#9.1 - Did the Research Translate Effectively?]]
-	- [[#9.2 - Was the Design Philosophy Successful?]]
-	- [[#9.3 - Were Technical Goals Achieved?]]
-	- [[#9.4 - How did the Community Respond?]]
-	- [[#9.5 - Does the Final Product Achieve the Project Goal?]]
-- [[#10 - Limitations and Constraints]]
-- [[#11 - Future Development]]
-- [[#12 - Reflection]]
-- [[#13 - Conclusion]]
-- [[#References]]
-- [[#Appendices]]
+[[#1 - Abstract|1 - Abstract]] <span style="float:right;">p.xx</span> 
+- [[#2 - Introduction]] <span style="float:right;">p.xx</span> 
+	- [[#2.1 - Project Goal]] <span style="float:right;">p.xx</span> 
+	- [[#2.2 - Background and Passion ]] <span style="float:right;">p.xx</span> 
+- [[#3 - Literature Review]] <span style="float:right;">p.xx</span> 
+	- [[#3.1 - Game Based Learning in History]] <span style="float:right;">p.xx</span> 
+	- [[#3.2 - Historical Simulation and Authenticity]] <span style="float:right;">p.xx</span> 
+	- [[#3.3 - Grand Strategy Game Design]] <span style="float:right;">p.xx</span> 
+- [[#4  - Historical Research Framework]] <span style="float:right;">p.xx</span> 
+	- [[#4.1 - Source Selection Criteria]] <span style="float:right;">p.xx</span> 
+	- [[#4.2 - Translating History Into Game Mechanics]] <span style="float:right;">p.xx</span> 
+- [[#5 - Design Philosophy]] <span style="float:right;">p.xx</span> 
+	- [[#5.1 - Historical]] <span style="float:right;">p.xx</span> 
+	- [[#5.2 - Conceptualise]] <span style="float:right;">p.xx</span> 
+	- [[#5.3 -  Player Agency and Historical Constraint]] <span style="float:right;">p.xx</span> 
+- [[#6 - Technical Development]] <span style="float:right;">p.xx</span> 
+	- [[#6.1 - Engine and Tools]] <span style="float:right;">p.xx</span> 
+	- [[#6.2 - Architecture]] <span style="float:right;">p.xx</span> 
+	- [[#6.3 - Conception, Iteration, and Debugging]] <span style="float:right;">p.xx</span> 
+	- [[#6.4 - Development Log]] <span style="float:right;">p.xx</span> 
+	- [[#6.5 - Technical Challenges and Solutions]] <span style="float:right;">p.xx</span> 
+	- [[#6.6 - Data Structures and System Design]] <span style="float:right;">p.xx</span> 
+- [[#7 - Mentor]] <span style="float:right;">p.xx</span> 
+	- [[#7.1 - School Mentorship]] <span style="float:right;">p.xx</span> 
+	- [[#7.2 - Canberra Mentorship]] <span style="float:right;">p.xx</span> 
+	- [[#7.3 - Industry Mentorship]] <span style="float:right;">p.xx</span> 
+- [[#8 - Community]] <span style="float:right;">p.xx</span> 
+	- [[#8.1 - Playtesting]] <span style="float:right;">p.xx</span> 
+	- [[#8.2 - Community Feedback]] <span style="float:right;">p.xx</span> 
+	- [[#8.3 -Educational Evaluation of the Prototypes]] <span style="float:right;">p.xx</span> 
+	- [[#8.4 - Wider Community]] <span style="float:right;">p.xx</span> 
+- [[#9 - Discussion]] <span style="float:right;">p.xx</span> 
+	- [[#9.1 - Did the Research Translate Effectively?]] <span style="float:right;">p.xx</span> 
+	- [[#9.2 - Was the Design Philosophy Successful?]] <span style="float:right;">p.xx</span> 
+	- [[#9.3 - Were Technical Goals Achieved?]] <span style="float:right;">p.xx</span> 
+	- [[#9.4 - How did the Community Respond?]] <span style="float:right;">p.xx</span> 
+	- [[#9.5 - Does the Final Product Achieve the Project Goal?]] <span style="float:right;">p.xx</span> 
+- [[#10 - Limitations and Constraints]] <span style="float:right;">p.xx</span> 
+- [[#11 - Future Development]] <span style="float:right;">p.xx</span> 
+- [[#12 - Reflection]] <span style="float:right;">p.xx</span> 
+- [[#13 - Conclusion]] <span style="float:right;">p.xx</span> 
+- [[#References]] <span style="float:right;">p.xx</span> 
+- [[#Appendices]] <span style="float:right;">p.xx</span> 
+
+---
 ## 1 - Abstract
 
 DO AFTER
@@ -62,6 +64,7 @@ DO AFTER
     - **Personal/Professional "Why"**: Connect your personal passion for history or game design to a broader need, such as improving engagement in history education.
     - **Community Impact**: Highlight the value of the project's mentorship and community engagement, showing how collaborative design improves the final product.
 
+---
 ## 3 - Literature Review
 
 #### 3.1 - Game Based Learning in History
@@ -81,6 +84,8 @@ DO AFTER
 ###### 3.3.4 - Hears Of Iron IV
 
 ###### 3.3.5 - Non Historical Grand Strategy Design
+
+---
 ## 4 – Historical Research Framework
 
 #### 4.1 – Source Selection Criteria
@@ -101,6 +106,7 @@ DO AFTER
 
 ###### 4.2.3 – Limits of Simulation
 
+---
 ## 5 - Design Philosophy 
 
 #### 5.1 - Historical 
@@ -109,6 +115,7 @@ DO AFTER
 
 #### 5.3 - Player Agency and Historical Constraint
 
+---
 ## 6 - Technical Development 
 
 #### 6.1 - Engine and Tools
@@ -153,6 +160,7 @@ If you want to make an "apple pie"(A game) you must first "invent the universe"(
 
 ###### 6.6.5 – Trade Offs and Design Decisions
 
+---
 ## 7 - Mentor 
 
 #### 7.1 - School Mentorship
@@ -164,6 +172,7 @@ Research and Report - Kirsty
 
 #### 7.3 - Industry Mentorship
 
+---
 ## 8 - Community
 
 #### 8.1 - Playtesting
@@ -182,6 +191,7 @@ Research and Report - Kirsty
 
 #### 8.4 - Wider Community
 
+---
 ## 9 - Discussion
 
 #### 9.1 - Did the Research Translate Effectively?
@@ -194,6 +204,7 @@ Research and Report - Kirsty
 
 #### 9.5 - Does the Final Product Achieve the Project Goal?
 
+---
 ## 10 - Limitations and Constraints
 
 ## 11 - Future Development
@@ -205,9 +216,4 @@ Research and Report - Kirsty
 ## References
 
 ## Appendices 
-
-
-
-
-
 
