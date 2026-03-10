@@ -73,6 +73,14 @@ DO AFTER
 #### 3.2 - Historical Simulation and Authenticity
 
 #### 3.3 - Grand Strategy Game Design
+
+###### 3.3.1 - General Grand Strategy Game Design
+
+###### 3.3.2 - Crusader Kings III 
+
+###### 3.3.3 - Europa Universalis V
+
+###### 3.3.4 - Hears Of Iron IV
 ## 4 – Historical Research Framework
 
 #### 4.1 – Source Selection Criteria
