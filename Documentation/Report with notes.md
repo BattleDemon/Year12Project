@@ -49,7 +49,70 @@ DO AFTER
 
 ## 2 - Introduction
 
+**Paragraph 1 – Context and Idea**
 
+This paragraph explains the **bigger concept** behind the project.
+You introduce:
+- history as something more than memorising facts
+- games as systems that allow players to interact with complex processes
+- the idea that simulations can model political, economic, and social change
+- why strategy games are particularly suited to historical exploration
+The goal of this paragraph is to establish:
+**interactive simulation can be a way to explore history.**
+You are basically setting up the intellectual foundation for the project.
+
+- What problem exists in how history is commonly taught or understood?
+    
+- Why is history more than just memorising dates and events?
+    
+- What makes historical processes complex or systemic?
+    
+- How can simulations represent complex systems?
+    
+- Why are games particularly good at modelling systems?
+    
+- What makes strategy games useful for exploring historical change?
+    
+- How does interacting with a system differ from simply reading about it?
+    
+- Why might games help people understand cause and consequence in history?
+
+**Paragraph 2 – Your Project
+
+The second paragraph narrows down to **your specific work**.
+Here you introduce:
+- the project itself (a historical grand strategy game)
+- that it is both a **technical software project** and a **historical investigation**
+- that historical sources inform the design of the systems
+- that the report will examine research, design philosophy, technical development, and evaluation
+
+- What exactly is the project you created?
+    
+- What type of game is it?
+    
+- What historical ideas or processes does the game attempt to model?
+    
+- Is the project mainly entertainment, education, or both?
+    
+- How does historical research influence the design of the game?
+    
+- What technical challenge does the project involve?
+    
+- What systems or mechanics does the game attempt to simulate?
+    
+- What questions is the project trying to explore about history?
+
+- What research informed the design of the game?
+    
+- How were historical sources selected and interpreted?
+    
+- What design philosophy guided the simulation?
+    
+- What technical systems were built to support the game?
+    
+- How was the prototype tested or evaluated?
+    
+- How will the success of the project be analysed?
 #### 2.1 - Project Goal
 
 - **Project Goal**: Use **SMART** objectives (Specific, Measurable, Achievable, Relevant, and Time-bound) to define success.
