@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5020d4a74a81db",
+        "id": "be011c9cf0bd918b",
         "type": "tabs",
         "children": [
           {
-            "id": "5fef994ead0488f4",
+            "id": "c8768500421c6a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -185,13 +186,13 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "5fef994ead0488f4",
+  "active": "c8768500421c6a91",
   "lastOpenFiles": [
+    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "Documentation/maxresdefault.jpg",
     "Documentation/Project Proposal.md",
     "Documentation/Report with notes.md",
     "Documentation/Project Timeline for report.md",
-    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "README.md",
     "gitignore.md",
     "260210_10h03m36s_screenshot.png",

@@ -4,9 +4,8 @@ Put similar Image to this but with my game enlarged in the centre
 
 <center>Dexter Hart</center>
 
-
----
-## Table of Contents
+<div style="page-break-after: always;"></div>
+## Temp Table of Contents With Links
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">p.xx</span> 
 - [[#2 - Introduction]] <span style="float:right;">p.xx</span> 
 	- [[#2.1 - Project Goal]] <span style="float:right;">p.xx</span> 
@@ -52,6 +51,51 @@ Put similar Image to this but with my game enlarged in the centre
 - [[#Appendices]] <span style="float:right;">p.xx</span> 
 
 ---
+## Table of Contents
+1 - Abstract <span style="float:right;">p.xx</span> 
+- 2 - Introduction <span style="float:right;">p.xx</span> 
+	- 2.1 - Project Goal <span style="float:right;">p.xx</span> 
+	- 2.2 - qBackground and Passion <span style="float:right;">p.xx</span>
+- 3 - Literature Review <span style="float:right;">p.xx</span>
+	- 3.1 - Game Based Learning of History <span style="float:right;">p.xx</span>
+	- 3.2 - Historical Simulation and Authenticity <span style="float:right;">p.xx</span>
+	- 3.3 - Grand Strategy Game Design <span style="float:right;">p.xx</span>
+- 4 - Historical Research Framework <span style="float:right;">p.xx</span>
+	- 4.1 - Source Selection Criteria <span style="float:right;">p.xx</span>
+	- 4.2 - Translating History Into Game Mechanics <span style="float:right;">p.xx</span>
+- 5 - Design Philosophy <span style="float:right;">p.xx</span>
+	- 5.1 - Historical <span style="float:right;">p.xx</span>
+	- 5.2 - Conceptualise <span style="float:right;">p.xx</span>
+	- 5.3 - Player Agency and Historical Constraint <span style="float:right;">p.xx</span>
+- 6 - Technical Development <span style="float:right;">p.xx</span>
+	- 6.1 - Engine and Tools <span style="float:right;">p.xx</span>
+	- 6.2 - Architecture <span style="float:right;">p.xx</span>
+	- 6.3 - Conception, Iteration, and Debugging <span style="float:right;">p.xx</span>
+	- 6.4 - Development Log <span style="float:right;">p.xx</span>
+	- 6.5 - Technical Challenges and Solutions <span style="float:right;">p.xx</span>
+	- 6.6 - Data Structures and System Design <span style="float:right;">p.xx</span>
+- 7 - Mentor <span style="float:right;">p.xx</span>
+	- 7.1 - School Mentorship <span style="float:right;">p.xx</span>
+	- 7.2 - Canberra Mentorship <span style="float:right;">p.xx</span>
+	- 7.3 - Industry Mentorship <span style="float:right;">p.xx</span>
+- 8 - Community <span style="float:right;">p.xx</span>
+	- 8.1 - Playtesting <span style="float:right;">p.xx</span>
+	- 8.2 - Community Feedback <span style="float:right;">p.xx</span>
+	- 8.3 - Educational Evaluation of the Prototypes <span style="float:right;">p.xx</span>
+	- 8.4 - Wider Community <span style="float:right;">p.xx</span>
+- 9 - Discussion <span style="float:right;">p.xx</span>
+	- 9.1 - Did the Research Translate Effectively? <span style="float:right;">p.xx</span>
+	- 9.2 - Was the Design Philosophy Successful? <span style="float:right;">p.xx</span>
+	- 9.3 - Were Technical Goals Achieved? <span style="float:right;">p.xx</span>
+	- 9.4 - How did the Community Respond? <span style="float:right;">p.xx</span>
+	- 9.5 - Does the Final Product Achieve the Project Goals? <span style="float:right;">p.xx</span>
+- 10 - Limitations and Constraints <span style="float:right;">p.xx</span> 
+- 11 - Future Development <span style="float:right;">p.xx</span>
+- 12 - Reflection <span style="float:right;">p.xx</span>
+- References <span style="float:right;">p.xx</span>
+- Appendices <span style="float:right;">p.xx</span>
+
+<div style="page-break-after: always;"></div>
 ## 1 - Abstract
 
 DO AFTER
