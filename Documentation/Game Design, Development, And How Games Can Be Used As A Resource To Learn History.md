@@ -1,4 +1,11 @@
-PUT IMAGE OF PARADOX GAMES RUNNING DOWN THE PAGE WITH EACH SIDE BY SIDE THEN AT THE BOTTOM FADE WITH THE IMAGE OF MY GAME
+![[maxresdefault.jpg]]
+Put similar Image to this but with my game enlarged in the centre
+
+
+<center>Dexter Hart</center>
+
+
+---
 ## Table of Contents
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">p.xx</span> 
 - [[#2 - Introduction]] <span style="float:right;">p.xx</span> 
@@ -72,6 +79,7 @@ DO AFTER
 #### 3.1 - Game Based Learning of History
 
 ###### 3.1.1 - 
+
 
 #### 3.2 - Historical Simulation and Authenticity
 
