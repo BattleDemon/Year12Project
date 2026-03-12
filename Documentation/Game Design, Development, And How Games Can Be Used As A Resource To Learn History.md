@@ -52,7 +52,7 @@ Put similar Image to this but with my game enlarged in the centre
 
 ---
 ## Table of Contents
-1 - Abstract <span style="float:right;">p.xx</span> 
+- 1 - Abstract <span style="float:right;">p.xx</span> 
 - 2 - Introduction <span style="float:right;">p.xx</span> 
 	- 2.1 - Project Goal <span style="float:right;">p.xx</span> 
 	- 2.2 - qBackground and Passion <span style="float:right;">p.xx</span>
