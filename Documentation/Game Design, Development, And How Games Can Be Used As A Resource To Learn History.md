@@ -1,5 +1,5 @@
+PUT IMAGE OF PARADOX GAMES RUNNING DOWN THE PAGE WITH EACH SIDE BY SIDE THEN AT THE BOTTOM FADE WITH THE IMAGE OF MY GAME
 ## Table of Contents
-
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">p.xx</span> 
 - [[#2 - Introduction]] <span style="float:right;">p.xx</span> 
 	- [[#2.1 - Project Goal]] <span style="float:right;">p.xx</span> 
@@ -59,6 +59,8 @@ DO AFTER
     - **Technical Aim**: Briefly note the intended framework or development outcome, such as creating a reusable game engine for historical narratives.
 
 #### 2.2 - Background and Passion
+
+
 
 - **Reason for Project and Passion**: This section humanizes the data by explaining the "why" behind the effort.
     - **Personal/Professional "Why"**: Connect your personal passion for history or game design to a broader need, such as improving engagement in history education.
