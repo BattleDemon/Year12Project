@@ -1,7 +1,6 @@
 ![[maxresdefault.jpg]]
 Put similar Image to this but with my game enlarged in the centre
 
-
 <center>Dexter Hart</center>
 
 <div style="page-break-after: always;"></div>
@@ -55,7 +54,7 @@ Put similar Image to this but with my game enlarged in the centre
 - 1 - Abstract <span style="float:right;">p.xx</span> 
 - 2 - Introduction <span style="float:right;">p.xx</span> 
 	- 2.1 - Project Goal <span style="float:right;">p.xx</span> 
-	- 2.2 - qBackground and Passion <span style="float:right;">p.xx</span>
+	- 2.2 - Background and Passion <span style="float:right;">p.xx</span>
 - 3 - Literature Review <span style="float:right;">p.xx</span>
 	- 3.1 - Game Based Learning of History <span style="float:right;">p.xx</span>
 	- 3.2 - Historical Simulation and Authenticity <span style="float:right;">p.xx</span>
@@ -124,7 +123,6 @@ DO AFTER
 
 ###### 3.1.1 - 
 
-
 #### 3.2 - Historical Simulation and Authenticity
 
 #### 3.3 - Grand Strategy Game Design
@@ -176,13 +174,12 @@ DO AFTER
 
 ###### 6.1.1 - Engine Selection and Rationale
 
-###### 6.1.2 - Toolchain and Workflow
+###### 6.1.2 - Graphical Assets
 
-###### 6.1.3 - Version Control Strategy
+###### 6.1.3 - 
 
-###### 6.1.4 - Asset Pipeline
+###### 6.1.4 - Version Control 
 
-If you want to make an "apple pie"(A game) you must first "invent the universe"(Make a game engine, but before that you need an OS and before that you need a computer ... the universe).
 #### 6.2 - Architecture
 
 ###### 6.2.1 - Data Flow
