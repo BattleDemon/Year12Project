@@ -5,7 +5,7 @@ PUT IMAGE OF PARADOX GAMES RUNNING DOWN THE PAGE WITH EACH SIDE BY SIDE THEN AT 
 	- [[#2.1 - Project Goal]] <span style="float:right;">p.xx</span> 
 	- [[#2.2 - Background and Passion ]] <span style="float:right;">p.xx</span> 
 - [[#3 - Literature Review]] <span style="float:right;">p.xx</span> 
-	- [[#3.1 - Game Based Learning in History]] <span style="float:right;">p.xx</span> 
+	- [[#3.1 - Game Based Learning of History]] <span style="float:right;">p.xx</span> 
 	- [[#3.2 - Historical Simulation and Authenticity]] <span style="float:right;">p.xx</span> 
 	- [[#3.3 - Grand Strategy Game Design]] <span style="float:right;">p.xx</span> 
 - [[#4  - Historical Research Framework]] <span style="float:right;">p.xx</span> 
@@ -69,7 +69,7 @@ DO AFTER
 ---
 ## 3 - Literature Review
 
-#### 3.1 - Game Based Learning in History
+#### 3.1 - Game Based Learning of History
 
 ###### 3.1.1 - 
 
