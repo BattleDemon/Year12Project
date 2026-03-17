@@ -166,6 +166,11 @@ DO AFTER
 
 ###### 6.1.1 - Engine Selection and Rationale
 
+Options
+Godot
+Develop Own Engine
+Unity
+Unreal
 ###### 6.1.2 - Graphical Assets
 
 ###### 6.1.3 - 
