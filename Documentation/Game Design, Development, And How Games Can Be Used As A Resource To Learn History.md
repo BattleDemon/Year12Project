@@ -2,9 +2,10 @@
 Put similar Image to this but with my game enlarged in the centre
 
 <center>Dexter Hart</center>
-<div style="page-break-after: always;"></div>
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Table of Contents
 - Table of Contents <span style="float:right;">p.xx</span>
@@ -153,10 +154,16 @@ Put similar Image to this but with my game enlarged in the centre
 - Appendices <span style="float:right;">p.xx</span>
 	- Appendix X.A - TITLE
 
+---
+
+<div style="page-break-after: always;"></div>
+
 ## 1 - Abstract
 
 ---
+
 <div style="page-break-after: always;"></div>
+
 ## 2 - Introduction
 
 #### 2. 1 - Project Goals
@@ -186,11 +193,14 @@ Put similar Image to this but with my game enlarged in the centre
 ###### 2.4.1 - Type of Game
 
 grand strategy / simulation
+
 ###### 2.4.2 - Core Features
 
 ###### 2.4.3 - Intended User Experience
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## 3 - Research
 
@@ -249,6 +259,8 @@ Economy, diplomacy, warfare
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## 4 - Product Rationale
 
 #### 4.1 - Historical Design Approach
@@ -294,6 +306,8 @@ Events, systems, limitations
 ###### 4.5.3 - What the player Should Learn or Understand
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## 5 - Development and Production
 
@@ -384,6 +398,8 @@ Events, systems, limitations
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## 6 - Reflection
 
 #### 6.1 - Effectiveness of Research Translation
@@ -438,8 +454,14 @@ Events, systems, limitations
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 
 ## 7 - Conclusion
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ## References
 
