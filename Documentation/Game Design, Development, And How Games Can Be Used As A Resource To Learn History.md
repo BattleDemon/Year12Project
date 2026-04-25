@@ -251,16 +251,7 @@ Aim for 3000 - 5000 words
 - Oversimplification
 - Misrepresentation
 - Gameplay vs truth
-
-#### 3.2.3 Case Studies (START LIGHT HERE, EXPAND LATER)
-
-- Pick **2–3 games**
-- For now:
-    - 1 paragraph per game:
-        - what it does
-        - what it teaches
-        - 1 strength, 1 weakness
-
+  
 ### Output:
 
 - 3–5 paragraphs
@@ -276,6 +267,16 @@ Aim for 3000 - 5000 words
 ``` 
 
 ## **3.2.3 Case Studies (EXPAND NOW)**
+
+#### 3.2.3 Case Studies (START LIGHT HERE, EXPAND LATER)
+
+- Pick **2–3 games** CK3, EU5, HOI4 
+- For now:
+    - 1 paragraph per game:
+        - what it does
+        - what it teaches
+        - 1 strength, 1 weakness
+
 
 **Upgrade to: 600–900 words total**
 
