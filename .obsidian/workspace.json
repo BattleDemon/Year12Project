@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e76334ed945c9e22",
