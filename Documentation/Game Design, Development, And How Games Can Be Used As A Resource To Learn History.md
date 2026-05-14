@@ -12,7 +12,7 @@ Put similar Image to this but with my game enlarged in the centre
 [[#2 - Introduction|2 - Introduction]] <span style="float:right;">Pg.xx</span>
 	[[#2.1 - Line of Enquiry]]
 	[[#2.2 - Background and Passion]]
-	[[#2.3 - Project Outline]]
+	[[#2.3 - Product Outline]]
 [[#3 - Research]] <span style="float:right;">Pg.xx</span>
 	
 [[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
@@ -62,15 +62,15 @@ Put similar Image to this but with my game enlarged in the centre
 
 #### 2.1 - Line of Enquiry
 
-This report investigates the use and effects of games as a resource for learning, with a specific focus on its impact in IT and History education. Its guiding line of enquiry is: "LINE OF ENQUIRY". With the final product produced, being a video game; that explores a historical period being that of the Merovingian rule of Francia, and aims to display the history within it in line with the research. This report outlines the research undertaken, on the subjects of Games as a resource for learning, and the aspects of game design, it then places these researched ideas into practice within the development of the product, with that process being documented and made comments on, with care taken into displaying the process and planning that went in to the final product. 
+This report investigates the use and effects of games as a resource for learning, with a specific focus on their application in both IT and History education. The guiding line of enquiry is: _"How can research into game-based learning and grand strategy game design be applied to create a historically grounded simulation that passively educates a general audience about Merovingian Francia?"_ The final product developed for this project is a grand strategy video game set during the Merovingian rule of Francia, designed to present historical content in a manner consistent with the research findings. This report outlines the research undertaken across the areas of game-based learning and game design, examines how those ideas were translated into practice, and documents the development the process, planning, and decision-making undertaken.
 
 #### 2.2 - Background and Passion
 
-The product outlined in this report is a project which I wanted to produced since I was in early high school. Although the core idea and format of the game has remained unchanged over the years, its specifics and intricacies have being shaped by my current interests, and obsessions. With in early high school, it being more of a fantasy world in which you command either an army or civilisation, to in year nine, more of a realistic and historical, simulator, to a brief period in year ten when I envisioned a Sci-fi, universe akin to Warhammer 40K. Then over parts of year eleven, it progressed back towards a true historical simulator, with alternative history aspects. 
+The product outlined in this report is one I have wanted to create since early high school. While the core concept, of a game in which the player commands and manages a civilisation or kingdom, has remained consistent throughout its conceptualisation, its specific setting and scope have evolved considerably over the years, shaped by shifting interests and growing historical knowledge. In early high school the concept took the form of a fantasy world centred on commanding armies and civilisations. By Year Nine this had shifted toward a more grounded, realistic historical simulator of the Viking Invasions. A brief period in Year Ten saw the idea reimagined as a science-fiction universe drawing inspiration from settings such as Warhammer 40,000, before Year Eleven brought a return to the historical simulation, this time incorporating an alternative history dimension rather than a fixed narrative. It is from this final iteration that the current product emerged: a grand strategy and kingdom simulation set in the aftermath of the fall of the Western Roman Empire, and follows the Merovingian rule of Francia.
 
 #### 2.3 - Product Outline
 
-The final product, which my research intents to elevate. 
+The final product is a grand strategy video game set during the Merovingian period of early medieval Francia, intended for a general audience with an interest in history. The game does not function as a formal teaching tool but instead aims to passively educate players, embedding authentic historical detail; including figures, events, and political structures of the period and integrates them into its mechanics and world. In doing so, it seeks to make an often-overlooked era of European history accessible and engaging through interactive play. The product serves as the practical application of the research outlined in this report, translating findings on game-based learning and grand strategy game design into a functional, historically grounded experience. 
 
 ---
 
@@ -78,15 +78,15 @@ The final product, which my research intents to elevate.
 
 ## 3 - Research
 
-#### 3.1 - Key Concepts an Ideas
+#### 3.1 - Key Concepts and Ideas
 
 #### 3.2 - Games as a Resource for Learning
 
-#### 3.3 - Gameification 
+#### 3.3 - Games as a Resource for Learning History
 
-#### 3.4 - Games as a Resource for Learning History
+### 3.4 - Games as a Resource for Learning IT
 
-### 3.5 - Games as a Resource for Learning IT
+#### 3.5 - Gameification 
 
 #### 3.6 - Game Design
 
