@@ -10,12 +10,45 @@ Put similar Image to this but with my game enlarged in the centre
 
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
 [[#2 - Introduction|2 - Introduction]] <span style="float:right;">Pg.xx</span>
-	[[#2. 1 - Project Goals]] <span style="float:right;">Pg.xx</span>
+	[[#2.1 - Line of Enquiry]]
+	[[#2.2 - Background and Passion]]
+	[[#2.3 - Project Outline]]
 [[#3 - Research]] <span style="float:right;">Pg.xx</span>
+	[[#3.1 - Key Concepts and Definitions]]
+	[[#3.2 - Game Based Learning of History]]
+	[[#3.3 - Historical Simulation and Authenticity]]
+	[[#3.4 - Grand Strategy Game Design]]
+	[[#3.5 - Historical Sources]]
+	[[#3.6 - Translating History into Game Mechanics]]
+	[[#3.7 - Implications for Game Design]]
 [[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
+	[[#4.1 - Historical Design Approach]]
+	[[#4.2 - Conceptualisation]]
+	[[#4.3 - Player Agency with Historical Constraints]]
+	[[#4.4 - Target Audience]]
+	[[#4.5 - Purpose and Intended Impact]]
 [[#5 - Development and Production]] <span style="float:right;">Pg.xx</span>
+	[[#5.1 - Initial Concept and Planning]]
+	[[#5.2 - Engine and Tools]]
+	[[#5.3 - Architecture]]
+	[[#5.4 - Iteration and Debugging]]
+	[[#5.5 - Evolution of the Design]]
+	[[#5.6 - Technical Challenges and Solutions]]
+	[[#5.7 - Evidence of Development]]
+	[[#5.8 - Data Structures and System Design]]
+	[[#5.9 - Mentorship]]
+	[[#5.10 - Playtesting and Community Feedback]]
 [[#6 - Reflection]] <span style="float:right;">Pg.xx</span>
+	[[#6.1 - Effectiveness of Research Translation]]
+	[[#6.2 - Success of Design Philosophy]]
+	[[#6.3 - Technical Outcomes]]
+	[[#6.4 - Community Response]]
+	[[#6.5 - Achievement of Project Goals]]
+	[[#6.6 - Limitations and Constraints]]
+	[[#6.7 - Future Improvements]]
+	[[#6.8 - Personal Learning and Skill Development]]
 [[#7 - Conclusion]] <span style="float:right;">Pg.xx</span>
+
 [[#References]] <span style="float:right;">Pg.xx</span>
 [[#Appendices]]  <span style="float:right;">Pg.xx</span>
 
@@ -33,37 +66,17 @@ Put similar Image to this but with my game enlarged in the centre
 
 ## 2 - Introduction
 
-#### 2. 1 - Project Goals
+#### 2.1 - Line of Enquiry
 
-###### 2.1.1 - Primary Objectives
-
-###### 2.1.2 - Secondary Objectives
-
-###### 2.1.3 - Success Criteria
+This report investigates the use and affects of games as a resource for learning, with a specific focus on its impact in IT and History education. Its guiding line of enquiry is: "LINE OF ENQUIRY". With the final product produced, being a video game; that explores a historical period being that of the Merovingian rule of Francia, and aims to display the history within it in line with the research. This report outlines the research undertaken, on the subjects of Games as a resource for learning, and the aspects of game design, it then places these researched ideas into practice within the development of the product, with that process being documented and made comments on, with care taken into displaying the process and planning that went in to the final product. 
 
 #### 2.2 - Background and Passion
 
-###### 2.2.1 - Personal Context
+The product outlined in this report is a project which I wanted to produced since I was in early high school. Although the core idea and format of the game has remained unchanged over the years, its specifics and intricacies have being shaped by my current interests, and obsessions.  
 
-###### 2.2.2 - Interest in History and Games
+#### 2.3 - Product Outline
 
-###### 2.2.3 - Motivation for Combining the Two
-
-#### 2.3 - Line of Enquiry
-
-###### 2.3.1 - CORE QUESTION
-
-###### 2.3.2 - SUB QUESTION 1
-
-#### 2.4 - Product Overview and Purpose
-
-###### 2.4.1 - Type of Game
-
-grand strategy / simulation
-
-###### 2.4.2 - Core Features
-
-###### 2.4.3 - Intended User Experience
+The final product, which my research intents to elevate. 
 
 ---
 
