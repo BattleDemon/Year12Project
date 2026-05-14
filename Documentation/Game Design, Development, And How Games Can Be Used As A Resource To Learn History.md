@@ -14,13 +14,7 @@ Put similar Image to this but with my game enlarged in the centre
 	[[#2.2 - Background and Passion]]
 	[[#2.3 - Project Outline]]
 [[#3 - Research]] <span style="float:right;">Pg.xx</span>
-	[[#3.1 - Key Concepts and Definitions]]
-	[[#3.2 - Game Based Learning of History]]
-	[[#3.3 - Historical Simulation and Authenticity]]
-	[[#3.4 - Grand Strategy Game Design]]
-	[[#3.5 - Historical Sources]]
-	[[#3.6 - Translating History into Game Mechanics]]
-	[[#3.7 - Implications for Game Design]]
+	
 [[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
 	[[#4.1 - Historical Design Approach]]
 	[[#4.2 - Conceptualisation]]
@@ -68,11 +62,11 @@ Put similar Image to this but with my game enlarged in the centre
 
 #### 2.1 - Line of Enquiry
 
-This report investigates the use and affects of games as a resource for learning, with a specific focus on its impact in IT and History education. Its guiding line of enquiry is: "LINE OF ENQUIRY". With the final product produced, being a video game; that explores a historical period being that of the Merovingian rule of Francia, and aims to display the history within it in line with the research. This report outlines the research undertaken, on the subjects of Games as a resource for learning, and the aspects of game design, it then places these researched ideas into practice within the development of the product, with that process being documented and made comments on, with care taken into displaying the process and planning that went in to the final product. 
+This report investigates the use and effects of games as a resource for learning, with a specific focus on its impact in IT and History education. Its guiding line of enquiry is: "LINE OF ENQUIRY". With the final product produced, being a video game; that explores a historical period being that of the Merovingian rule of Francia, and aims to display the history within it in line with the research. This report outlines the research undertaken, on the subjects of Games as a resource for learning, and the aspects of game design, it then places these researched ideas into practice within the development of the product, with that process being documented and made comments on, with care taken into displaying the process and planning that went in to the final product. 
 
 #### 2.2 - Background and Passion
 
-The product outlined in this report is a project which I wanted to produced since I was in early high school. Although the core idea and format of the game has remained unchanged over the years, its specifics and intricacies have being shaped by my current interests, and obsessions.  
+The product outlined in this report is a project which I wanted to produced since I was in early high school. Although the core idea and format of the game has remained unchanged over the years, its specifics and intricacies have being shaped by my current interests, and obsessions. With in early high school, it being more of a fantasy world in which you command either an army or civilisation, to in year nine, more of a realistic and historical, simulator, to a brief period in year ten when I envisioned a Sci-fi, universe akin to Warhammer 40K. Then over parts of year eleven, it progressed back towards a true historical simulator, with alternative history aspects. 
 
 #### 2.3 - Product Outline
 
@@ -84,366 +78,40 @@ The final product, which my research intents to elevate.
 
 ## 3 - Research
 
-Aim for 3000 - 5000 words
+#### 3.1 - Key Concepts an Ideas
 
-#### 3.1 - Key Concepts and Definitions
+#### 3.2 - Games as a Resource for Learning
 
+#### 3.3 - Gameification 
 
+#### 3.4 - Games as a Resource for Learning History
 
-```
+### 3.5 - Games as a Resource for Learning IT
 
-## **3.1 Key Concepts and Definitions**
+#### 3.6 - Game Design
 
-**Target: 250–350 words**
+#### 3.7 - Game Design Specific to Grand Strategy Games
 
-### Do this:
-
-- Pick **5–6 key terms only**
-- For each:
-    - 1 sentence definition
-    - 1 sentence explaining why it matters to your project
-
-### Output:
-
-- 1 short paragraph per concept
-- No deep analysis yet
-
-```
-
-#### 3.2 - Game Based Learning of History
-
-```
-
-## **3.2 Game Based Learning of History**
-
-**Target: 600–800 words**
-
-### Do this in order:
-
-#### 3.2.1 Benefits
-
-- Engagement
-- Active learning
-- Systems thinking
-
-#### 3.2.2 Limitations
-
-- Oversimplification
-- Misrepresentation
-- Gameplay vs truth
-  
-### Output:
-
-- 3–5 paragraphs
-
-```
-
-###### 3.2.1 - Educational Benefits
-
-###### 3.2.2 - Limitations and Criticisms
-
-###### 3.2.3 - Case Studies
-
-``` 
-
-## **3.2.3 Case Studies (EXPAND NOW)**
-
-#### 3.2.3 Case Studies (START LIGHT HERE, EXPAND LATER)
-
-- Pick **2–3 games** CK3, EU5, HOI4 
-- For now:
-    - 1 paragraph per game:
-        - what it does
-        - what it teaches
-        - 1 strength, 1 weakness
-
-
-**Upgrade to: 600–900 words total**
-
-### For each game:
-
-Write a full breakdown:
-
-- What systems it models
-- How it represents history
-- What it gets right
-- What it oversimplifies
-- What the player actually learns
-- What you will take or avoid
-
-### Output:
-- 2-3 detailed mini-anlyses
-
-```
-
-#### 3.3 - Historical Simulation and Authenticity
-
-```
-
-## **3.3 Historical Simulation and Authenticity**
-
-**Target: 600–800 words**
-
-### Do this:
-
-#### 3.3.1
-
-- Define types of authenticity  
-    (factual, systemic, experiential)
-
-#### 3.3.2
-
-- Explain why realism must be reduced
-- Give 1–2 examples
-
-#### 3.3.3
-
-- Explain bias in historical interpretation
-- Link to how games present history
-
-### Output:
-
-- 3–4 paragraphs
-
-```
-
-###### 3.3.1 - Forms of Authenticity
-
-Visual. systemic, narrative
-
-###### 3.3.2 - Trade-offs Between Accuracy and Gameplay
-
-###### 3.3.3 - Historiography and Bias
-
-#### 3.4 - Grand Strategy Game Design
-
-```
-
-## **3.4 Grand Strategy Game Design**
-
-**Target: 500–700 words**
-
-### Do this:
-
-#### 3.4.1
-
-- List core systems:
-    - economy
-    - diplomacy
-    - warfare
-
-#### 3.4.2
-
-- Explain interconnected systems
-- Show cause and effect
-
-#### 3.4.3
-
-- Explain emergent gameplay
-- Give an example scenario
-
-### Output:
-
-- 3–4 paragraphs
-
-```
-
-###### 3.4.1 - Core Mechanics 
-
-Economy, diplomacy, warfare
-
-###### 3.4.2 - Systems Thinking in Strategy Games
-
-###### 3.4.3 - Emergent Gameplay
-
-#### 3.5 - Historical Sources
-
-```
-
-## **3.5 Historical Sources**
-
-**Target: 400–600 words**
-
-### Do this:
-
-Split into 3 small chunks:
-
-#### 3.5.1
-
-- Define primary vs secondary
-- Give 1 example of each
-
-#### 3.5.2
-
-- Explain bias and reliability
-- Include how perspective affects history
-
-#### 3.5.3
-
-- Explain **how you will use sources in your game**
-    - events
-    - systems
-    - balancing realism
-
-### Output:
-
-- 2–3 paragraphs total
-- Keep it practical
-
-```
-###### 3.5.1 - Primary vs Secondary Sources
-
-###### 3.5.2 - Reliability and Bias
-
-###### 3.5.3 - Relevance to Game Design
-
-#### 3.6 - Translating History into Game Mechanics
-
-```
-
-## **3.6 Translating History Into Game Mechanics**
-
-**Target: 700–1000 words**
-
-### Structure this clearly:
-
-#### 3.6.1 Abstraction
-
-- Take 1 real system (economy, war, politics)
-- Show:
-    - real complexity
-    - simplified version
-
-#### 3.6.2 Causality
-
-- Show cause → effect chains
-- Explain how games model this
-
-#### 3.6.3 Balance
-
-- Show:
-    - what happens if too realistic
-    - what happens if too simplified
-
-### Output:
-
-- 4–6 strong paragraphs
-- Use **specific examples**, not theory
-
-```
-
-###### 3.6.1 - Abstraction of Complex Systems
-
-###### 3.6.2 - Representing Causality
-
-###### 3.6.3 - Balancing Realism and Playability
-#### 3.7 - Implications for Game Design
-
-```
-
-## **3.7 Implications for Game Design**
-
-**Target: 600–900 words**
-
-This is the most important section.
-
----
-
-### 3.7.1 Design Principles
-
-Write **5–7 clear rules**, for example:
-
-- systems must reflect cause and effect
-- realism should not reduce clarity
-- player decisions must have visible consequences
-
-Explain each briefly.
-
----
-
-### 3.7.2 Constraints
-
-List limits:
-
-- technical
-- historical accuracy
-- complexity
-
-Explain why they matter.
-
----
-
-### 3.7.3 Opportunities
-
-- What current games do poorly
-- What you can improve
-
----
-
-### Output:
-
-- 4–6 paragraphs
-- This should directly lead into your **Product Rationale**
-
-```
-
-###### 3.7.1 - Key Design Principles Derived from Research
-
-###### 3.7.2 - Constraints Identified
-
-###### 3.7.3 - Opportunities for Innovation
+#### 3.8 - Historical Aspects of Game
 
 ---
 <div style="page-break-after: always;"></div>
 
 ## 4 - Product Rationale
 
-#### 4.1 - Historical Design Approach
+#### 4.1 - Historical Approach to Design
 
-###### 4.1.1 - Level of Realism Chosen
+#### 4.2 - Conceptualisation of Features
 
-###### 4.1.2 - Scope of Simulation
+#### 4.3 - Player Agency
 
-Time, geography, systems
+#### 4.4 - Target Audience
 
-#### 4.2 - Conceptualisation
+#### 4.5 - Implications from Game Design Research
 
-###### 4.2.1 - Initial Concept Idea
+#### 4.6 - Translating History Into Mechanics
 
-###### 4.2.2 - Core Gameplay Loop
-
-###### 4.2.3 - Player Role
-
-#### 4.3 - Player Agency with Historical Constraints
-
-###### 4.3.1 - Freedom vs Determinism
-
-###### 4.3.2 - Use of Constraints
-
-Events, systems, limitations
-
-###### 4.3.3 - Encouraging Historically Plausible Outcomes
-
-#### 4.4 - Target Audience 
-
-###### 4.4.1 - Demographics 
-
-###### 4.4.2 - Prior Knowledge Assumptions
-
-###### 4.4.3 - Player Expectations
-
-#### 4.5 - Purpose and Intended Impact
-
-###### 4.5.1 - Educational Goals
-
-###### 4.5.2 - Engagement Goals
-
-###### 4.5.3 - What the player Should Learn or Understand
-
----
-
-<div style="page-break-after: always;"></div>
-
+#### 4.7 - IDK
 ## 5 - Development and Production
 
 #### 5.1 - Initial Concept and Planning
