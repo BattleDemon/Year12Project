@@ -6,68 +6,26 @@ Put similar Image to this but with my game enlarged in the centre
 ---
 
 <div style="page-break-after: always;"></div>
-
 ## Table of Contents
-- Title Page <span style="float:right;">p.01</span>
-- Table of Contents <span style="float:right;">p.02</span>
- <br>
-- 1 - Abstract <span style="float:right;">p.04</span> 
-<br>
-- 2 - Introduction <span style="float:right;">p.xx</span> 
-	- 2.1 - Project Goals <span style="float:right;">p.xx</span>
-	- 2.2 - Background and Passion <span style="float:right;">p.xx</span>
-	- 2.3 - Line of Enquiry <span style="float:right;">p.xx</span>
-	- 2.4 - Product Overview and Purpose <span style="float:right;">p.xx</span>
- <br>
-- 3 - Research<span style="float:right;">p.xx</span>
-	- 3.1 - Key Concepts and Definitions <span style="float:right;">p.xx</span>
-	- 3.2 - Game Based Learning of History <span style="float:right;">p.xx</span>
-	- 3.3 - Historical Simulation and Authenticity <span style="float:right;">p.xx</span>
-	- 3.4 - Grand Strategy Game Design <span style="float:right;">p.xx</span>
-	- 3.5 - Historical Sources <span style="float:right;">p.xx</span>
-	- 3.6 - Translating History Into Game Mechanics <span style="float:right;">p.xx</span>
-	- 3.7 - Implications for Game Design <span style="float:right;">p.xx</span>
-<br>
-- 4 - Product Rationale<span style="float:right;">p.xx</span>
-	- 4.1 - Historical Design Approach <span style="float:right;">p.xx</span>
-	- 4.2 - Conceptualisation <span style="float:right;">p.xx</span>
-	- 4.3 - Player Agency with Historical Constraints <span style="float:right;">p.xx</span>
-	- 4.4 - Target Audience <span style="float:right;">p.xx</span>
-	- 4.5 - Purpose and Intended Impact <span style="float:right;">p.xx</span>
-<br>
-- 5 - Development and Production<span style="float:right;">p.xx</span>
-	- 5.1 - Initial Concept and Planning <span style="float:right;">p.xx</span>
-	- 5.2 - Engine and Tools <span style="float:right;">p.xx</span>
-	- 5.3 - Architecture <span style="float:right;">p.xx</span>
-	- 5.4 - Iteration and Debugging <span style="float:right;">p.xx</span>
-	- 5.5 - Evolution of the Design <span style="float:right;">p.xx</span>
-	- 5.6 - Technical Challenges and Solutions <span style="float:right;">p.xx</span>
-	- 5.7 - Evidence of Development <span style="float:right;">p.xx</span>
-	- 5.8 - Data Structures and System Design <span style="float:right;">p.xx</span>
-	- 5.9 - Mentorship <span style="float:right;">p.xx</span>
-	- 5.10 - Playtesting and Community Feedback <span style="float:right;">p.xx</span>
-<br>
-- 6 - Reflection<span style="float:right;">p.xx</span>
-	- 6.1 - Effectiveness of Research Translation <span style="float:right;">p.xx</span>
-	- 6.2 - Success of Design Philosophy <span style="float:right;">p.xx</span>
-	- 6.3 - Technical Outcomes <span style="float:right;">p.xx</span>
-	- 6.4 - Community Response <span style="float:right;">p.xx</span>
-	- 6.5 - Achievement of Project Goals <span style="float:right;">p.xx</span>
-	- 6.6 - Limitations and Constraints <span style="float:right;">p.xx</span>
-	- 6.7 - Future Improvements <span style="float:right;">p.xx</span>
-	- 6.8 - Personal Learning and Skill Development <span style="float:right;">p.xx</span>
-<br>
-- 7 - Conclusion <span style="float:right;">p.xx</span>
-<br>
-- References <span style="float:right;">p.xx</span>
-- Appendices <span style="float:right;">p.xx</span>
-	- Appendix X.A - TITLE
+
+[[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
+[[#2 - Introduction|2 - Introduction]] <span style="float:right;">Pg.xx</span>
+	[[#2. 1 - Project Goals]] <span style="float:right;">Pg.xx</span>
+[[#3 - Research]] <span style="float:right;">Pg.xx</span>
+[[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
+[[#5 - Development and Production]] <span style="float:right;">Pg.xx</span>
+[[#6 - Reflection]] <span style="float:right;">Pg.xx</span>
+[[#7 - Conclusion]] <span style="float:right;">Pg.xx</span>
+[[#References]] <span style="float:right;">Pg.xx</span>
+[[#Appendices]]  <span style="float:right;">Pg.xx</span>
 
 ---
+
 
 <div style="page-break-after: always;"></div>
 
 ## 1 - Abstract
+
 
 ---
 
