@@ -11,60 +11,37 @@ Put similar Image to this but with my game enlarged in the centre
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
 
 [[#2 - Introduction|2 - Introduction]] <span style="float:right;">Pg.xx</span>
-	[[#2.1 - Line of Enquiry]]
-	[[#2.2 - Background and Passion]]
-	[[#2.3 - Product Outline]]
+	[[#2.1 - Line of Enquiry]] <span style="float:right;">Pg.xx</span>
+	[[#2.2 - Background and Passion]] <span style="float:right;">Pg.xx</span>
+	[[#2.3 - Product Outline]] <span style="float:right;">Pg.xx</span>
 	
 [[#3 - Research]] <span style="float:right;">Pg.xx</span>
-	[[#3.1 - Key Concepts and Definitions]]
-	[[#3.2 - Game-Based Learning]]
-		[[#3.2.1 - The Spectrum of Game-Based Learning]]
-		[[#3.2.2 - Student Engagement and Motivation]]
-		[[#3.2.3 - Gamified Learning Platforms]]
-		[[#3.2.4 - Games as a Resource for Learning History]]
-		[[#3.2.5 - Games as a Medium for Developing Computational Thinking]]
-		[[#3.2.6 - Limitations and Criticisms of Game-Based Learning]]
-	[[#3.3 - Game Design]]
-		[[#3.3.1 - Grand Strategy Game Design - Core Systems]]
-		[[#3.3.2 - Player Agency and Emergent Narrative in Grand Strategy]]
-		[[#3.3.3 - UI/UX Design for Complex Systems]]
-		[[#3.3.4 - Balancing Historical Authenticity against Gameplay]]
-		[[#3.3.5 - Historical Representation in Grand Strategy]]
-	[[#3.4 - Historical Research - The Frankish Migration and Early Merovingian Period]]
-		[[#3.4.1 - The Frankish Migration and Tribal Confederacies]]
-		[[#3.4.2 - The Rise of the Merovingian Dynasty]]
-		[[#3.4.3 - Political Structure and Territory]]
-		[[#3.4.4 - Military, Diplomacy and Trade]]
-		[[#3.4.5 - Historiographical Challenges]]
+	[[#3.1 - Key Concepts and Definitions]] <span style="float:right;">Pg.xx</span>
+	[[#3.2 - Game-Based Learning]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.1 - The Spectrum of Game-Based Learning]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.2 - Student Engagement and Motivation]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.3 - Gamified Learning Platforms]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.4 - Games as a Resource for Learning History]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.5 - Games as a Medium for Developing Computational Thinking]] <span style="float:right;">Pg.xx</span>
+		[[#3.2.6 - Limitations and Criticisms of Game-Based Learning]] <span style="float:right;">Pg.xx</span>
+	[[#3.3 - Game Design]] <span style="float:right;">Pg.xx</span>
+		[[#3.3.1 - Grand Strategy Game Design - Core Systems]] <span style="float:right;">Pg.xx</span>
+		[[#3.3.2 - Player Agency and Emergent Narrative in Grand Strategy]] <span style="float:right;">Pg.xx</span>
+		[[#3.3.3 - UI/UX Design for Complex Systems]] <span style="float:right;">Pg.xx</span>
+		[[#3.3.4 - Balancing Historical Authenticity against Gameplay]] <span style="float:right;">Pg.xx</span>
+		[[#3.3.5 - Historical Representation in Grand Strategy]] <span style="float:right;">Pg.xx</span>
+	[[#3.4 - Historical Research - The Frankish Migration and Early Merovingian Period]] <span style="float:right;">Pg.xx</span>
+		[[#3.4.1 - The Frankish Migration and Tribal Confederacies]] <span style="float:right;">Pg.xx</span>
+		[[#3.4.2 - The Rise of the Merovingian Dynasty]] <span style="float:right;">Pg.xx</span>
+		[[#3.4.3 - Political Structure and Territory]] <span style="float:right;">Pg.xx</span>
+		[[#3.4.4 - Military, Diplomacy and Trade]] <span style="float:right;">Pg.xx</span>
+		[[#3.4.5 - Historiographical Challenges]] <span style="float:right;">Pg.xx</span>
 		
 [[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
-	[[#4.1 - Historical Design Approach]]
-	[[#4.2 - Conceptualisation]]
-	[[#4.3 - Player Agency with Historical Constraints]]
-	[[#4.4 - Target Audience]]
-	[[#4.5 - Purpose and Intended Impact]]
 	
 [[#5 - Development and Production]] <span style="float:right;">Pg.xx</span>
-	[[#5.1 - Initial Concept and Planning]]
-	[[#5.2 - Engine and Tools]]
-	[[#5.3 - Architecture]]
-	[[#5.4 - Iteration and Debugging]]
-	[[#5.5 - Evolution of the Design]]
-	[[#5.6 - Technical Challenges and Solutions]]
-	[[#5.7 - Evidence of Development]]
-	[[#5.8 - Data Structures and System Design]]
-	[[#5.9 - Mentorship]]
-	[[#5.10 - Playtesting and Community Feedback]]
 	
 [[#6 - Reflection]] <span style="float:right;">Pg.xx</span>
-	[[#6.1 - Effectiveness of Research Translation]]
-	[[#6.2 - Success of Design Philosophy]]
-	[[#6.3 - Technical Outcomes]]
-	[[#6.4 - Community Response]]
-	[[#6.5 - Achievement of Project Goals]]
-	[[#6.6 - Limitations and Constraints]]
-	[[#6.7 - Future Improvements]]
-	[[#6.8 - Personal Learning and Skill Development]]
 	
 [[#7 - Conclusion]] <span style="float:right;">Pg.xx</span>
 
@@ -80,8 +57,6 @@ Put similar Image to this but with my game enlarged in the centre
 
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 ## 2 - Introduction
 
@@ -161,6 +136,9 @@ The final product is a grand strategy video game set during the Merovingian peri
 #### 4.6 - Translating History Into Mechanics
 
 #### 4.7 - IDK
+
+--- 
+
 ## 5 - Development and Production
 
 #### 5.1 - Initial Concept and Planning

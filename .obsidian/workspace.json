@@ -4,176 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "be011c9cf0bd918b",
+        "id": "7a01892678e18784",
         "type": "tabs",
         "children": [
           {
-            "id": "c8768500421c6a91",
+            "id": "82ebf48fc61e8b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/\"Actual history doesn't take place\" Digital Gaming, Accuracy and Authenticity.md",
+                "file": "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "\"Actual history doesn't take place\" Digital Gaming, Accuracy and Authenticity"
-            }
-          },
-          {
-            "id": "bd33a798776fb6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Revitalisation of History throughHistorical Games in the Digital Era"
-            }
-          },
-          {
-            "id": "d1d511d817430141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/An Emergent Approach to Game Design –Development and Play.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "An Emergent Approach to Game Design –Development and Play"
-            }
-          },
-          {
-            "id": "34b4c463b67f06a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Games for Teaching and Learning History a Systematic LiteratureReview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Games for Teaching and Learning History a Systematic LiteratureReview"
-            }
-          },
-          {
-            "id": "3d663bbb758d8701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Chapter 3General Game Design Strategy Games.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3General Game Design Strategy Games"
-            }
-          },
-          {
-            "id": "6602b62bdac7f0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences"
-            }
-          },
-          {
-            "id": "a9d3c3ec5900e134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework"
-            }
-          },
-          {
-            "id": "da7251654b13741a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Chapter 3General Game Design Strategy Games.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3General Game Design Strategy Games"
-            }
-          },
-          {
-            "id": "89202207821053cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences"
-            }
-          },
-          {
-            "id": "fa6252768ee3a528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences"
-            }
-          },
-          {
-            "id": "d97042e16f49d618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Revitalisation of History throughHistorical Games in the Digital Era"
+              "title": "Game Design, Development, And How Games Can Be Used As A Resource To Learn History"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -336,21 +185,21 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "ae93bd9d46aa6573",
+  "active": "82ebf48fc61e8b14",
   "lastOpenFiles": [
-    "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md",
-    "Documentation/Research/Research Repository.md",
+    "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
     "Documentation/Research/Game Design Research/Markdown files research/Chapter 3General Game Design Strategy Games.md",
+    "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md",
+    "Documentation/Research/Game Design Research/Markdown files research/Games for Teaching and Learning History a Systematic LiteratureReview.md",
+    "Documentation/Research/Game Design Research/Markdown files research/An Emergent Approach to Game Design –Development and Play.md",
+    "Documentation/Research/Research Repository.md",
     "Documentation/Research/Game Design Research/Markdown files research/\"Actual history doesn't take place\" Digital Gaming, Accuracy and Authenticity.md",
     "Documentation/Research/Game Design Research/Markdown files research",
     "project.md",
     "gitignore.md",
     "README.md",
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Games for Teaching and Learning History a Systematic LiteratureReview.md",
-    "Documentation/Research/Game Design Research/Markdown files research/An Emergent Approach to Game Design –Development and Play.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
     "Untitled",
     "Documentation/Research/Game Design Research/Markdown files research/Modeling and Generating Strategy Games Mechanics.md",
     "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
