@@ -6,6 +6,7 @@ Put similar Image to this but with my game enlarged in the centre
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Table of Contents
 
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
@@ -84,15 +85,50 @@ The final product is a grand strategy video game set during the Merovingian peri
 
 #### 3.2.1 - The Spectrum of Game-Based Learning
 
+- Define and distinguish GBL, gamification, serious games, and COTS
+- Establish where this project sits on that spectrum (COTS/entertainment-first)
+- Key sources: Scholz et al. (2021), Oceja et al. (2022)
+- Already drafted, just needs finalising once you have confirmed your additional sources
+
 #### 3.2.2 - Student Engagement and Motivation
+
+- Why games are inherently motivating (intrinsic motivation, challenge, feedback loops)
+- How engagement in games differs from traditional instruction
+- Link engagement to learning outcomes
+- Key sources: Malone and Lepper (1987), Gee (2003), Scholz et al. (2021)
+- Note: this is the section most in need of additional sources before writing
 
 ### 3.2.3 - Gamified Learning Platforms
 
+- Brief overview of existing platforms like Kahoot, Duolingo, Classcraft
+- How they differ from full GBL
+- Their strengths and limitations as engagement tools
+- Key sources: Deterding et al. (2011), Scholz et al. (2021)
+- Note: keep this relatively brief as it is not the core focus of your project, more contextual background
+
 #### 3.2.4 - Games as a Resource for Learning History
+
+- This is your most important GBL subheading given your project
+- Cover how historical games have been used in classrooms
+- Discuss the tension between accuracy and authenticity in historical games
+- Grand strategy specifically as a vehicle for historical learning
+- Key sources: Stirling and Wood, Loban (2021), Redder (2024), Oceja et al. (2022), Mindrebø (2024)
+- This section should connect directly back to your project and line of enquiry
 
 #### 3.2.5 - Games as a Medium for Developing Computational Thinking
 
+- Define computational thinking briefly
+- How strategy games in particular develop systems thinking, pattern recognition, and logical decision making
+- Connect to grand strategy specifically
+- Key sources: Wing (2006), potentially Mahlmann (2013) for the systems angle
+- Note: needs dedicated sources, keep concise as it is a secondary learning outcome of your project rather than the primary one
+
 #### 3.2.6 - Limitations and Criticisms of Game-Based Learning
+
+- Cover the main criticisms: difficulty of measuring impact, teacher expertise required, risk of trivialising content, bias in commercial games
+- Acknowledge these apply to your project too
+- Key sources: Oceja et al. (2022), Loban (2021) for bias critique, Scholz et al. (2021) for the engagement vs learning outcomes distinction
+- This section should be honest and balanced, not dismissive of the criticisms
 
 ### 3.3 - Game Design
 
@@ -294,6 +330,28 @@ The final product is a grand strategy video game set during the Merovingian peri
 <div style="page-break-after: always;"></div>
 
 ## References
+
+Bowell, T., Pepperell, N., Richardson, A. and Corino, M.-T. (2024). _Revitalising Higher Education_. Cardiff University Press.
+
+Loban, R., (2021) The Transformation from Physical Wargames to Grand Strategy Video Games, and the Opportunities for Deep and Efficient Historical Wargaming Experiences. Digital Culture & Education, 13(1), 81–107
+
+Mahlmann, T. (2012). _Modelling and Generating Strategy Games Mechanics_. [PhD Thesis] Available at: https://www.researchgate.net/publication/275962995_Modelling_and_Generating_Strategy_Games_Mechanics [Accessed 17 May 2026].
+
+Mindrebø, M.E. (2024). Simulating medieval connections: Grand strategy games and social network analysis. _The Journal of HISTORICAL NETWORK RESEARCH_, [online] 10(1). doi:https://doi.org/10.25517/jhnr.v10i1.81.
+
+Oceja, J., Abián-Cubillo, D. and Torres-Trimallez, M. (2022). Games for Teaching and Learning History: a Systematic Literature Review. _European Conference on Games Based Learning_, [online] 16(1), pp.419–430. doi:https://doi.org/10.34190/ecgbl.16.1.558.
+
+Rigney, S.L., Berger, N. and Parada, R. (2025). Rewriting History: How Digital Games are Revolutionising NSW Secondary History Classrooms. _European Conference on Games Based Learning_, 19(2). doi:https://doi.org/10.34190/ecgbl.19.2.3906.
+
+Scholz, K.W., Komornicka, J.N. and Moore, A. (2021). Gamifying History: Designing and Implementing a Game-Based Learning Course Design Framework. _Teaching & Learning Inquiry_, [online] 9(1), pp.99–116. doi:https://doi.org/10.20343/teachlearninqu.9.1.9.
+
+Stirling, Eve and Wood, Jamie (2021). Actual history doesn't take place: Digital Gaming, Accuracy and Authenticity. Games Studies, 21 (1). [Article]
+
+Sweetser, P. (2006). _An Emergent Approach to Game Design – Development and Play_. [PhD Thesis] Available at: https://staff.itee.uq.edu.au/janetw/papers/PhD%202006%20Sweetser.pdf [Accessed 17 May 2026].
+
+Yee, N. (2016). _Game Genre Map: The Cognitive Threshold in Strategy Games_. [online] Quantic Foundry. Available at: https://quanticfoundry.com/2016/01/20/game-genre-map-the-cognitive-threshold-in-strategy-games/ [Accessed 17 May 2026].
+
+<div style="page-break-after: always;"></div>
 
 ## Appendices
 
