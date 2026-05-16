@@ -4,5 +4,6 @@
   "monospaceFontFamily": "Mononoki Nerd Font Mono",
   "nativeMenus": false,
   "textFontFamily": "Mononoki Nerd Font Mono",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "theme": "obsidian"
 }
