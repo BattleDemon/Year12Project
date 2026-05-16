@@ -14,7 +14,14 @@ Put similar Image to this but with my game enlarged in the centre
 	[[#2.2 - Background and Passion]]
 	[[#2.3 - Product Outline]]
 [[#3 - Research]] <span style="float:right;">Pg.xx</span>
-	
+	[[#3.1 - Key Concepts and Ideas]]
+	[[#3.2 - Games as a Resource for Learning]]
+	[[#3.3 - Games as a Resource for Learning History]]
+	[[#3.4 - Games as a Resource for Learning IT]]
+	[[#3.5 - Gameification]]
+	[[#3.6 - Game Design]]
+	[[#3.7 - Game Design Specific to Grand Strategy Games]]
+	[[#3.8 - Historical Aspects of Game]]
 [[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
 	[[#4.1 - Historical Design Approach]]
 	[[#4.2 - Conceptualisation]]
@@ -78,21 +85,29 @@ The final product is a grand strategy video game set during the Merovingian peri
 
 ## 3 - Research
 
-#### 3.1 - Key Concepts and Ideas
+#### 3.1 - Key Concepts and Definitions
 
-#### 3.2 - Games as a Resource for Learning
+#### 3.2 - The Spectrum of Game-Based Learning
 
-#### 3.3 - Games as a Resource for Learning History
+#### 3.3 - Student Engagement and Motivation
 
-### 3.4 - Games as a Resource for Learning IT
+### 3.4 - Gamified Learning Platforms
 
-#### 3.5 - Gameification 
+#### 3.5 - Games as a Resource for Learning History
 
-#### 3.6 - Game Design
+#### 3.6 - Games as a Medium for Developing Computational Thinking
 
-#### 3.7 - Game Design Specific to Grand Strategy Games
+#### 3.7 - Limitations and Criticisms of Game-Based Learning
 
-#### 3.8 - Historical Aspects of Game
+#### 3.8 - Grand Strategy Game Design - Core Systems
+
+#### 3.9 - Player Agency and Emergent Narrative in Grand Strategy
+
+#### 3.10 - UI/UX Design for Complex Systems
+
+#### 3.11 - Balancing Historical Authenticity against Gameplay
+
+#### 3.12 - Historical Representation in Grand Strategy
 
 ---
 <div style="page-break-after: always;"></div>

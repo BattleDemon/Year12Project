@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -187,8 +188,9 @@
   },
   "active": "c8768500421c6a91",
   "lastOpenFiles": [
-    "Documentation/Project Timeline for report.md",
+    "project.md",
     "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
+    "Documentation/Project Timeline for report.md",
     "Documentation/maxresdefault.jpg",
     "Documentation/Project Proposal.md",
     "gitignore.md",
