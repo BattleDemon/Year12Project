@@ -81,6 +81,8 @@ The final product is a grand strategy video game set during the Merovingian peri
 
 ### 3.1 - Key Concepts and Definitions
 
+The key concepts and definitions covered in this section will be referenced and used throughout both the research and further sections of this report. 
+
 ### 3.2 - Game-Based Learning
 #### 3.2.1 - The Spectrum of Game-Based Learning
 
