@@ -82,7 +82,6 @@ The final product is a grand strategy video game set during the Merovingian peri
 ### 3.1 - Key Concepts and Definitions
 
 ### 3.2 - Game-Based Learning
-
 #### 3.2.1 - The Spectrum of Game-Based Learning
 
 - Define and distinguish GBL, gamification, serious games, and COTS
@@ -324,6 +323,7 @@ The final product is a grand strategy video game set during the Merovingian peri
 
 
 ## 7 - Conclusion
+
 
 ---
 
