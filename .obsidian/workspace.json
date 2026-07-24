@@ -11,15 +11,17 @@
             "id": "82ebf48fc61e8b14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Game Design, Development, And How Games Can Be Used As A Resource To Learn History"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -188,6 +189,9 @@
   },
   "active": "82ebf48fc61e8b14",
   "lastOpenFiles": [
+    "Documentation/Project Proposal.md",
+    "Untitled.canvas",
+    "Documentation/“Game Design and Development How Games can be Used as a Resource for Learning”.md",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",
     "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
@@ -207,7 +211,6 @@
     "Documentation/Research/Game Design Research/PhD 2006 Sweetser.pdf",
     "Documentation/Research/Game Design Research/thesis.pdf",
     "Documentation/Research/Game Design Research/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf",
-    "Documentation/Game Design, Development, And How Games Can Be Used As A Resource To Learn History.md",
     "Documentation/Research/Research Repository.md",
     "Documentation/Research/Game Design Research/Markdown files research",
     "project.md",
@@ -216,7 +219,6 @@
     "Untitled",
     "Documentation/Project Timeline for report.md",
     "Documentation/maxresdefault.jpg",
-    "Documentation/Project Proposal.md",
     "introquest.md",
     "260210_10h03m36s_screenshot.png",
     "Documentation/Report with notes.md",

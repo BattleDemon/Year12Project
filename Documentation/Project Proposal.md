@@ -1,11 +1,25 @@
+Working Title
+• Questions (What will you seek to explore and answer?)
+• Goal (What will you create, develop, or produce?)
+• Passion (Why this project? How does it connect to you? Will it sustain your
+enthusiasm?)
+• Mentor (Who will support you? This may be an individual, organisation, or
+community group)
+• Community (How will your project give back to the community?)
+• Research Links (3+) (Provide at least three relevant starting points for your
+research)
+• Challenges and Risk Management (What difficulties might you encounter,
+and how will you mitigate these risks?
+
+
 Title Idea 
-	Game Design, Development and how games can be used as a resource to learn history 
+	Game Design and Development: How Games can be Used as a Resource for Learning 
 
 Questions 
-	How can games be used as a resource to learn history, and how can I put this into practice to design and develop my own game? 
+	
 
 Goal 
-	To produce a demo of my game which I can expand on and eventually publish. The game will model the Frankish migration and the consolidation of power under the Merovingians to Charlamagne. 
+	To produce a GDD ("Game Design Document") outlining all major systems and features of my game, and the first early prototype of the game.
 
 Passion 
 	This has been an idea I have had since about year eight, its changed in content and scope over the years but generally has remained close to my current idea.  
