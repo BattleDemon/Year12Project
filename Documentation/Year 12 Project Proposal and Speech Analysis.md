@@ -3,19 +3,16 @@
 The current working title is as follows, "Grand Strategy: Designing a historical simulation game". It has developed from earlier additions, from my earlier plan which focused more on the goal of "development", along with the previous research angle of teaching. "Game Design and Development: How Games can be Used as a Resource for Learning" Then once this idea shifted closer to the current plan, my title shifted in kind, "Game Design and Development: An analysis.", to "Game Design for Grand Strategy: Building a historical simulator." before landing on the afore mentioned. 
 
 ### Questions 
-How do similar games use principles of game design, and how can that be applied to designing my own game.
-
+The core question developed is, "How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?", which I intend to support through several sub questions, for each section in order to elevate and contextualise both the report and project. 
 ### Goal 
-To produce a GDD ("Game Design Document") outlining all major systems and features of my game, and the first early prototype of the game.
+To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems.
 
 ### Passion 
-This has been an idea I have had since about year eight, its changed in content and scope over the years but generally has remained close to my current idea.  
 
 ### Mentor 
-The grand plan is to contact Paradox Interactive the developer of several games in which I have spent hundreds of hours on and based this games idea on, I want to contact them and see if they can provide any advice on how to structure, develop and workout what is actually achievable, for my project.  Other than them I also want to join CanDev, the Canberra game developer’s community to get any of its fellow members input and advise on the development. Lastly, I would also like Tim as a mentor to help with more general programming problems and more often than I would be able to for CanDev or Paradox. 
 
 ### Community 
-Have my peers test and provided feedback on the current state of the game.  
+
 
 ### Research Links
 
