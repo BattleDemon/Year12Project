@@ -1,6 +1,6 @@
 ## Year 12 Project Proposal
 ### Title Idea 
-The current working title is as follows, "Grand Strategy: Designing a historical simulation game". It has developed from earlier additions 
+The current working title is as follows, "Grand Strategy: Designing a historical simulation game". It has developed from earlier additions, from my earlier plan which focused more on the goal of "development", along with the previous research angle of teaching. "Game Design and Development: How Games can be Used as a Resource for Learning" Then once this idea shifted closer to the current plan, my title shifted in kind, "Game Design and Development: An analysis.", to "Game Design for Grand Strategy: Building a historical simulator." before landing on the afore mentioned. 
 
 ### Questions 
 How do similar games use principles of game design, and how can that be applied to designing my own game.
