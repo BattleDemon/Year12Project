@@ -11,17 +11,15 @@
             "id": "82ebf48fc61e8b14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "\"Grand Strategy; Designing a historical simulator game\""
             }
           }
         ]
@@ -190,8 +188,8 @@
   "active": "82ebf48fc61e8b14",
   "lastOpenFiles": [
     "Documentation/Project Proposal.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Untitled.canvas",
-    "Documentation/“Game Design and Development How Games can be Used as a Resource for Learning”.md",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",
     "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",

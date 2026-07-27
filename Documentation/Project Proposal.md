@@ -14,6 +14,9 @@ and how will you mitigate these risks?
 
 Title Idea 
 	Game Design and Development: How Games can be Used as a Resource for Learning 
+	Game Design and Development: An analysis. 
+	Game Design for Grand Strategy: Building a historical simulator. 
+	Grand Strategy: Designing a historical simulator game
 
 Questions 
 	
