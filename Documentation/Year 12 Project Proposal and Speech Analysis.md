@@ -8,6 +8,7 @@ The core question developed is, "How do grand strategy games balance their histo
 To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems.
 
 ### Passion 
+My interest in strategy game design has developed over several years, beginning in early high school with the creation of fictional worlds focused on kingdoms and warfare. As my understanding of history grew, these ideas gradually shifted towards historically grounded simulations, exploring how political, military, and social systems could be represented through gameplay. By Year Eleven, this had evolved into a historical strategy game incorporating alternative history, laying the foundation for the current project. Building on this progression, my Year 12 project focuses on designing a grand strategy game set in the aftermath of the fall of the Western Roman Empire during the rise of Merovingian Francia. 
 
 ### Mentor 
 

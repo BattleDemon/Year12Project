@@ -181,11 +181,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "active": "82ebf48fc61e8b14",
   "lastOpenFiles": [
+    "Documentation/maxresdefault.jpg",
+    "Documentation/Project Timeline for report.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Untitled.canvas",
@@ -214,8 +217,6 @@
     "gitignore.md",
     "README.md",
     "Untitled",
-    "Documentation/Project Timeline for report.md",
-    "Documentation/maxresdefault.jpg",
     "introquest.md",
     "260210_10h03m36s_screenshot.png",
     "Documentation/Report with notes.md",
