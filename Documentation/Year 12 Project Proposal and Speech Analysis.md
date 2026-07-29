@@ -26,20 +26,7 @@
 
 ### Challenges and Risk Management
 
-
-[https://www.researchgate.net/publication/360564153_Game-Based_Learning_in_History_The_Concealed_Paradox_of_Videogames_as_Historical_Simulations](https://www.researchgate.net/publication/360564153_Game-Based_Learning_in_History_The_Concealed_Paradox_of_Videogames_as_Historical_Simulations)  
-
-[https://orca.cardiff.ac.uk/id/eprint/169728/1/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf](https://orca.cardiff.ac.uk/id/eprint/169728/1/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf)  
-
-[https://unsworks.unsw.edu.au/entities/publication/366ce477-515f-4bfe-9ed3-d20059803046](https://unsworks.unsw.edu.au/entities/publication/366ce477-515f-4bfe-9ed3-d20059803046)  
-
-[https://medium.com/@squashfold/anatomy-of-a-grand-strategy-game-devlog-1-3962ba395ae4](https://medium.com/@squashfold/anatomy-of-a-grand-strategy-game-devlog-1-3962ba395ae4) 
-
-[https://forum.paradoxplaza.com/forum/threads/essay-on-game-design-ideas-to-fix-poor-game-progression-and-lategame-micromanagement-hell.1603103/](https://forum.paradoxplaza.com/forum/threads/essay-on-game-design-ideas-to-fix-poor-game-progression-and-lategame-micromanagement-hell.1603103/) 
-
-[https://ptgmedia.pearsoncmg.com/images/0735713677/samplechapter/0735713677c.pdf](https://ptgmedia.pearsoncmg.com/images/0735713677/samplechapter/0735713677c.pdf)  
-
-[https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1620&context=honors-theses](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1620&context=honors-theses)
+This project incurs a multitude of challenges and risk's, for which i have devised a plan of management. 
 
 ## Speech Analysis
 
