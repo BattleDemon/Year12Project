@@ -1,14 +1,18 @@
 ## Year 12 Project Proposal
 ### Title Idea 
-The current working title is as follows, "Grand Strategy: Designing a historical simulation game". It has developed from earlier additions, from my earlier plan which focused more on the goal of "development", along with the previous research angle of teaching. "Game Design and Development: How Games can be Used as a Resource for Learning" Then once this idea shifted closer to the current plan, my title shifted in kind, "Game Design and Development: An analysis.", to "Game Design for Grand Strategy: Building a historical simulator." before landing on the afore mentioned. 
+
+‌	The current working title is as follows, "Grand Strategy: Designing a historical simulation game". It has developed from earlier additions, from my earlier plan which focused more on the goal of "development", along with the previous research angle of teaching. "Game Design and Development: How Games can be Used as a Resource for Learning" Then once this idea shifted closer to the current plan, my title shifted in kind, "Game Design and Development: An analysis.", to "Game Design for Grand Strategy: Building a historical simulator." before landing on the afore mentioned title. 
 
 ### Questions 
-The core question developed is, "How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?", which I intend to support through several sub questions, for each section in order to elevate and contextualise both the report and project. 
+
+‌	The core question developed is, "How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?", which I intend to support through several sub questions, for each section in order to elevate and contextualise both the report and project. 
 ### Goal 
-To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems.
+
+‌	To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems.
 
 ### Passion 
-My interest in strategy game design has developed over several years, beginning in early high school with the creation of fictional worlds focused on kingdoms and warfare. As my understanding of history grew, these ideas gradually shifted towards historically grounded simulations, exploring how political, military, and social systems could be represented through gameplay. By Year Eleven, this had evolved into a historical strategy game incorporating alternative history, laying the foundation for the current project. Building on this progression, my Year 12 project focuses on designing a grand strategy game set in the aftermath of the fall of the Western Roman Empire during the rise of Merovingian Francia. 
+
+‌	My interest in strategy game design has developed over several years, beginning in early high school with the creation of fictional worlds focused on kingdoms and warfare. As my understanding of history grew, these ideas gradually shifted towards historically grounded simulations, exploring how political, military, and social systems could be represented through gameplay. By Year Eleven, this had evolved into a historical strategy game incorporating alternative history, laying the foundation for the current project. Building on this progression, my Year 12 project focuses on designing a grand strategy game set in the aftermath of the fall of the Western Roman Empire during the rise of Merovingian Francia. 
 
 ### Mentor 
 
@@ -17,6 +21,8 @@ My interest in strategy game design has developed over several years, beginning 
 
 
 ### Research Links
+
+
 
 ### Challenges and Risk Management
 
