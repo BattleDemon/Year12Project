@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a01892678e18784",
+        "id": "5677954a430ab6e7",
         "type": "tabs",
         "children": [
           {
-            "id": "82ebf48fc61e8b14",
+            "id": "5b67e40ddd131910",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,12 +185,12 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "82ebf48fc61e8b14",
+  "active": "5b67e40ddd131910",
   "lastOpenFiles": [
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
-    "Documentation/Project Timeline for report.md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/maxresdefault.jpg",
+    "Documentation/Project Timeline for report.md",
     "Untitled.canvas",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",

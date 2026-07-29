@@ -8,7 +8,7 @@
 ‌	The core question developed is, "How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?", which I intend to support through several sub questions, for each section in order to elevate and contextualise both the report and project. 
 ### Goal 
 
-‌	To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems.
+‌	To produce a comprehensive Game Design Document (GDD) outlining the core mechanics, systems, and features of a historical grand strategy game, supported by an early potentially playable prototype that demonstrates key gameplay systems. 
 
 ### Passion 
 
@@ -16,6 +16,7 @@
 
 ### Mentor 
 
+The choice of mentor has been hard, 
 
 ### Community 
 
@@ -26,13 +27,13 @@
 
 ### Challenges and Risk Management
 
-This project incurs a multitude of challenges and risk's, for which i have devised a plan of management. 
+‌	This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. 
 
 ## Speech Analysis
 
 #### Introduction
 
-Brennan Lee Mulligan, performed his speech during his appearance on the show "Game Changer". 
+Brennan Lee Mulligan, performed his speech during his appearance on the show "Game Changer",
 
 With his speech been entirely improvised. 
 
