@@ -1,9 +1,10 @@
 {
   "cssTheme": "Obsidianite",
-  "baseFontSize": 14,
-  "monospaceFontFamily": "Mononoki Nerd Font Mono",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Mononoki Nerd Font Mono,DejaVu Math TeX Gyre",
   "nativeMenus": false,
-  "textFontFamily": "Mononoki Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
   "baseFontSizeAction": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }
