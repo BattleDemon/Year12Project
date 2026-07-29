@@ -12,6 +12,7 @@ My interest in strategy game design has developed over several years, beginning 
 
 ### Mentor 
 
+
 ### Community 
 
 
