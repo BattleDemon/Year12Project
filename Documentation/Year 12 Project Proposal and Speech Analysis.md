@@ -32,17 +32,23 @@ This project incurs a multitude of challenges and risk's, for which i have devis
 
 #### Introduction
 
+Brennan Lee Mulligan, performed his speech during his appearance on the show "Game Changer". 
+
+With his speech been entirely improvised. 
+
 #### Public Speaking Techniques
 
 #### Writing Techniques (Speech Content)
 
 #### Conclusion
 
-### Video of Speech 
+
+## Appendix
+### 1 - Video of Speech 
 
 https://www.youtube.com/watch?v=88et7YlmzTs
 
-### Transcript (Just Brennan)
+### 2 - Transcript (Just Brennan)
 
 I know what’s going on here. I know what’s going on here. Okay? I do. And if you want me to wander backstage to spill the beans...
 
