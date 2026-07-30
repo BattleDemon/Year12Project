@@ -1,4 +1,4 @@
-# Grand Strategy: *Designing a Historical Simulation Game*
+0# Grand Strategy: *Designing a Historical Simulation Game*
 
 
 ![[maxresdefault.jpg]]
