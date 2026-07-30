@@ -20,10 +20,11 @@ The choice of mentor has been hard,
 
 ### Community 
 
+‌	Since dropping the educational viewpoint my community aspect has become less sound. But currently there is a few possible community opportunities, with either teaching younger years about the Merovingian Era or Frankish migration, or a similar thing for IT students where I teach then how to make a small game then show them how that can be expanded.
 
-### Research Links
+### Research
 
-
+‌	My research shall include
 
 ### Challenges and Risk Management
 
