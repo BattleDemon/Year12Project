@@ -24,11 +24,11 @@ The choice of mentor has been hard,
 
 ### Research
 
-‌	My research shall include
+‌	My research shall include, an exploration into game design within the industry as well as specifically for Grand Strategy games, along with a study into major game design figures such as Sid Meier. Aswell as a case study into existing games within the genre. Apart from game design I will also look into the Frankish migration and the Merovingian's as to ground the historical aspect of a historical simulation.   
 
 ### Challenges and Risk Management
 
-‌	This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. 
+‌	This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. Which includes the afore mentioned re scoping of the project, where originally i intended to produce a much bigger prototype of the game akin to a Alpha or Beta, where now it would only be considered an early internal prototype. This is due to the extent of this project and how a full team of developers would take multiple years to achieve similar projects. As for future Challenges and Risk management, I have begun making a weekly schedule, which outlines the goals for said week and where in the timeline i am. As for programming and its risks, I have read over important sections of the Godot documentation and watched videos on how to approach debugging for a game. 
 
 ## Speech Analysis
 
