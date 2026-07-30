@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Year 12 Project Proposal and Speech Analysis.md",
+                "file": "Viva Voce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Year 12 Project Proposal and Speech Analysis"
+              "title": "Viva Voce"
+            }
+          },
+          {
+            "id": "a0e3d3bec0d42f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Viva Voce.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Viva Voce"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +201,12 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "5b67e40ddd131910",
+  "active": "a0e3d3bec0d42f97",
   "lastOpenFiles": [
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
+    "Viva Voce.md",
     "Documentation/maxresdefault.jpg",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Project Timeline for report.md",
     "Untitled.canvas",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
