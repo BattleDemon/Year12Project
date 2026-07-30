@@ -34,9 +34,7 @@
 
 #### Introduction
 
-Brennan Lee Mulligan, performed his speech during his appearance on the show "Game Changer",
-
-With his speech been entirely improvised. 
+‌	Brennan Lee Mulligan engages his audience through exceptional improvisation, rich cultural and historical references, and expressive language that combines his humour with genuine emotional intensity, transforming this short speech from a game show moment into a captivating performance.
 
 #### Public Speaking Techniques
 
