@@ -16,7 +16,7 @@
 
 ### Mentor 
 
-The choice of mentor has been hard, since most teachers at this school don't cover all features for this project, leading me to find multiple internal and possibly some external mentors. With Tim been my mentor for the programming component, and assisting me if i get stuck during any of my development. Along with possibly Brandon since he ran the Australian STEM Video Game Challenge for our school team, during year 9, 10 and 11. Leading him to have good experience with managing a project, additionally he has experience in the industry. As for external mentors, i have attempted to contact Paradox Interactive a major game studio which designs the majority of the popular games within this genre, along with contacting some indie developers which are also attempting to make similar games. 
+‌	The choice of mentor has been hard, since most teachers at this school don't cover all features for this project, leading me to find multiple internal and possibly some external mentors. With Tim been my mentor for the programming component, and assisting me if i get stuck during any of my development. Along with possibly Brandon since he ran the Australian STEM Video Game Challenge for our school team, during year 9, 10 and 11. Leading him to have good experience with managing a project, additionally he has experience in the industry. As for external mentors, i have attempted to contact Paradox Interactive a major game studio which designs the majority of the popular games within this genre, along with contacting some indie developers which are also attempting to make similar games. 
 
 ### Community 
 

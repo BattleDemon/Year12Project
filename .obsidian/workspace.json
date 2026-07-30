@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Year 12 Project Proposal and Speech Analysis.md",
+                "file": "Viva Voce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Year 12 Project Proposal and Speech Analysis"
+              "title": "Viva Voce"
             }
           }
         ],
@@ -203,9 +203,9 @@
   },
   "active": "a0e3d3bec0d42f97",
   "lastOpenFiles": [
+    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Viva Voce.md",
-    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/maxresdefault.jpg",
     "Documentation/Project Timeline for report.md",
     "Untitled.canvas",
