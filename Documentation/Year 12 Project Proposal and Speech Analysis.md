@@ -34,7 +34,9 @@
 
 #### Introduction
 
-‌	Brennan Lee Mulligan engages his audience through exceptional improvisation, rich cultural and historical references, and expressive language that combines his humour with genuine emotional intensity, transforming this short speech from a game show moment into a captivating performance.
+‌	The speech I have chosen doesn't have a official name but has been dubbed *Brennan Lee Mulligan loses his mind*, which occurred in the show *Game Changer* (Reich 2020)
+
+Brennan Lee Mulligan engages his audience through an improvisation, rich in cultural and historical references, and expressive language that combines his humour with emotional intensity, transforming this short speech from a game show moment into a captivating performance.
 
 #### Public Speaking Techniques
 
@@ -42,6 +44,9 @@
 
 #### Conclusion
 
+## Bibliography
+
+Reich, S. (host) 2020, _'Yes or No'_, _Game Changer_, season 2, episode 6, Dropout, first aired 8 May.
 
 ## Appendix
 ### 1 - Video of Speech 
@@ -65,3 +70,12 @@ I CANNOT WIN!
 HAAAAAAA. 
 
 Goddammit. 
+
+### 3 - Animated Version
+
+https://www.youtube.com/watch?v=Qw3o-F7zPtQ
+
+
+
+NOTE ASSUME 8 round then find probability of Brennan never getting it correct
+IE 0.004% of Brennan never guessing the correct answer. 
