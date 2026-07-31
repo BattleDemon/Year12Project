@@ -1,5 +1,6 @@
 # Grand Strategy: *Designing a Historical Simulation Game*
 
+
 ![[maxresdefault.jpg]]
 
 
@@ -11,6 +12,8 @@
 
 <div style="page-break-after: always;"></div>
 ## Table of Contents
+
+[[#Table of Contents]] <span style="float:right;">Pg.02</span>
 
 [[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
 
@@ -109,3 +112,8 @@ COMPLETE AT END
 #### Appendix 2.B - Bla Bla
 
 (Also referenced in section 2)
+
+Hart Forge Interactive
+
+
+
