@@ -44,8 +44,8 @@
               "type": "markdown",
               "state": {
                 "file": "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -221,9 +220,9 @@
   },
   "active": "442368cd5848b5e2",
   "lastOpenFiles": [
-    "Documentation/Game Design Document.md",
     "Documentation/Viva Voce.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+    "Documentation/Game Design Document.md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/maxresdefault.jpg",
     "README.md",

@@ -11,6 +11,7 @@
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## Table of Contents
 
 [[#Table of Contents]] <span style="float:right;">Pg.02</span>
@@ -41,8 +42,9 @@
 
 ---
 
-
 <div style="page-break-after: always;"></div>
+
+
 ## 1 - Abstract
 
 
@@ -55,6 +57,7 @@ COMPLETE AT END
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## 3 - Research
 
 ### 3.1 - Principles and Frameworks of Game Design
@@ -175,6 +178,7 @@ Include:
 **Links to:** your actual implementation
 
 ---
+
 <div style="page-break-after: always;"></div>
 
 ## 4 - Product Rationale
@@ -199,6 +203,7 @@ Include:
 ---
 
 <div style="page-break-after: always;"></div>
+
 ## 7 - Conclusion
 
 
