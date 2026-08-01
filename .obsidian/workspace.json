@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -220,12 +221,12 @@
   },
   "active": "442368cd5848b5e2",
   "lastOpenFiles": [
-    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Game Design Document.md",
+    "Documentation/Viva Voce.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/maxresdefault.jpg",
     "README.md",
-    "Documentation/Viva Voce.md",
     "Documentation/Project Timeline for report.md",
     "Untitled.canvas",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",

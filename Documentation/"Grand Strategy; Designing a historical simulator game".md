@@ -50,28 +50,129 @@ COMPLETE AT END
 
 ## 2 - Introduction
 
-‌	‌	This report explores the principles and methods of game design, with a focus on grand strategy games. With its guiding line of enquiry been that of: *How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?* The final product produced for this project is a "Game Design Document" (GDD), outlining the core mechanics, systems, and features of a historical grand strategy game. This will be supported by a prototype that demonstrates the foundational gameplay systems. The product intends to communicate the complexity and scale of grand strategy games while providing a detailed framework for future development. This report outlines the research which formed the ideas communicated in the Game Design Document, and the processes taken to plan and develop the final piece. 
+‌	‌	This report explores the principles and methods of game design, with a focus on grand strategy games. With its guiding line of enquiry been that of: *How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?* This project was motivated by my interests in both history and software development, particularly the ability of games to simulate complex systems and allow players to engage with historical scenarios. The game concept developed for this project is set during the transition from the late Roman world into the Early Medieval period, focusing on the migration of Frankish peoples and the rise of the Merovingian dynasty. This period provides a unique foundation for exploring the challenges of a historical simulation, as players must navigate the political fragmentation, cultural change, and the formation of new states. The final product produced for this project is a "Game Design Document" (GDD), outlining the core mechanics, systems, and features of a historical grand strategy game. This will be supported by a prototype that demonstrates the foundational gameplay systems. The product intends to communicate the complexity and scale of grand strategy games while providing a detailed framework for future development. This report outlines the research which formed the ideas communicated in the Game Design Document, and the processes taken to plan and develop the final piece. 
 
 ---
 
 <div style="page-break-after: always;"></div>
 ## 3 - Research
 
-### 3.1 - Grand Strategy Games as a Genre
+### 3.1 - Principles and Frameworks of Game Design
 
-Introduce the topic → explain the theory → compare sources → evaluate disagreements → connect findings back to your own game.
+- What makes games engaging?
+- Game design frameworks (MDA, Mechanics-Dynamics-Aesthetics, etc.)
+- Concepts from designers such as Sid Meier
+- How these principles apply to grand strategy games
 
-### 3.2 - Historical Accuracy and Historical Authenticity
+**Links to:** overall design philosophy
 
-### 3.3 - Player Agency in Historical Games
+### 3.2 - Grand Strategy Games as a Genre
 
-### 3.4 - Strategic Depth and Game Systems
+- Definition of grand strategy games
+- History and evolution of the genre
+- Common mechanics:
+    - diplomacy
+    - economy
+    - warfare
+    - technology
+    - politics
+- Differences between grand strategy and other strategy genres
 
-### 3.5 - Principles of Game Design
+**Links to:** establishing the foundations of your game
 
-### 3.6 - Analysis of Existing Grand Strategy Games
+### 3.3 - Historical Simulation and Representation
 
-### 3.7 - Technical Research and Prototyping
+- How games represent historical events
+- Difference between historical accuracy and historical authenticity
+- The role of interpretation when recreating history
+- Tension between realism and entertainment
+
+**Links to:** your historical setting
+
+### 3.4 - Historical Accuracy and Historical Authenticity
+
+- Deeper analysis of:
+    - accuracy
+    - authenticity
+    - alternate history
+- Examples from historical games
+- How much history should a game preserve versus modify?
+
+**Links to:** design choices around the Merovingian period
+
+### 3.5 - Player Agency in Historical Games
+
+- The conflict between historical outcomes and player freedom
+- Alternate history as a design feature
+- How games create meaningful choices
+- Balancing player freedom with historical context
+
+**Links to:** your research question's player agency component
+
+### 3.6 - Strategic Depth and Game Systems
+
+- Complexity versus unnecessary complication
+- Interconnected systems
+- Emergent gameplay
+- Decision-making and long-term planning
+
+**Links to:** why grand strategy games remain engaging
+
+### 3.7 - Game Mechanics and Systems Design
+
+Focus on the actual systems:
+
+- Economy systems
+- Diplomacy systems
+- Military systems
+- Character systems
+- Succession/government systems
+- Resources and balancing
+
+**Links to:** specific mechanics in your GDD
+
+### 3.8 - Analysis of Existing Grand Strategy Games
+
+Comparative analysis:
+
+- Crusader Kings III
+- Europa Universalis IV
+- Other relevant examples
+
+Compare:
+
+|Game|Strength|Weakness|Influence on Design|
+|---|---|---|---|
+|CK3|Character-driven stories|Less economic depth|Character systems|
+|EU4|Large-scale simulation|Less personal interaction|World systems|
+
+**Links to:** justification of your design decisions
+
+### 3.9 - Historical Context and Source Analysis
+
+- Merovingian Francia
+- Fall of Western Rome
+- Migration Period
+- Frankish political structures
+- Warfare, religion, economy, society
+
+Include:
+
+- primary sources (where possible)
+- historians
+- archaeological evidence
+
+**Links to:** historical foundation of the game
+
+### 3.10 - Technical Research and Prototyping
+
+- Game engine choice
+- Programming approach
+- Prototype development
+- Testing methods
+- Limitations of development scope
+
+**Links to:** your actual implementation
 
 ---
 <div style="page-break-after: always;"></div>
@@ -82,7 +183,7 @@ Introduce the topic → explain the theory → compare sources → evaluate disa
 
 --- 
 
-## 5 - Development and Production
+## 5 - Process (Development and Production)
 
 ### 5.1 - 
 
@@ -121,15 +222,21 @@ Introduce the topic → explain the theory → compare sources → evaluate disa
 
 (Also referenced in section 2)
 
-Hart Forge Interactive
 
+# Extras (Need to Remove but needed place to put)
+Game studio name idea (need to register and get domain) - Hart Forge Interactive
 
-Research                45%
+# Rough Structure Idea
 
-Product rationale       20%
+Aim 10000-30000 words 
 
-Development             20%
+Research                45%     4500 - 13500
 
-Reflection              10%
+Product rationale       20%     2000 - 6000
 
-Introduction + Conclusion + Abstract   5%
+Development             20%     2000 - 6000
+
+Reflection              10%     1000 - 3000
+
+Introduction + Conclusion + Abstract   5%    500 - 1500
+Introduction current (1/8/2026) - 235
