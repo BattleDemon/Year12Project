@@ -50,7 +50,7 @@ COMPLETE AT END
 
 ## 2 - Introduction
 
-‌	‌	This report explores the principles, and methods of game design, with a focus on grand strategy games. With its guiding line of enquiry been that of: *How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?* The final product produced for this project is a "Game Design Document" (GDD), outlining the core mechanics, systems, and features of a historical grand strategy game. This will be supported by a potentially playable prototype that demonstrates key gameplay systems. The product intends to share the vast complexities and scale of such games, while providing a detailed plan for future development. This report outlines the research which formed the ideas communicated in the Game Design Document, and the processes taken to plan and develop the final piece. 
+‌	‌	This report explores the principles and methods of game design, with a focus on grand strategy games. With its guiding line of enquiry been that of: *How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?* The final product produced for this project is a "Game Design Document" (GDD), outlining the core mechanics, systems, and features of a historical grand strategy game. This will be supported by a prototype that demonstrates the foundational gameplay systems. The product intends to communicate the complexity and scale of grand strategy games while providing a detailed framework for future development. This report outlines the research which formed the ideas communicated in the Game Design Document, and the processes taken to plan and develop the final piece. 
 
 ---
 
@@ -58,6 +58,8 @@ COMPLETE AT END
 ## 3 - Research
 
 ### 3.1 - Grand Strategy Games as a Genre
+
+Introduce the topic → explain the theory → compare sources → evaluate disagreements → connect findings back to your own game.
 
 ### 3.2 - Historical Accuracy and Historical Authenticity
 
@@ -122,4 +124,12 @@ COMPLETE AT END
 Hart Forge Interactive
 
 
+Research                45%
 
+Product rationale       20%
+
+Development             20%
+
+Reflection              10%
+
+Introduction + Conclusion + Abstract   5%
