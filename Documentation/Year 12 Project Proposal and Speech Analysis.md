@@ -34,18 +34,23 @@
 
 #### Introduction
 
-‌	The speech I have chosen doesn't have a official name but has been dubbed *Brennan Lee Mulligan loses his mind*, which occurred in the show *Game Changer* (Reich 2020). The specific episode has contestants answer yes or no question but will a twist where what ever Brennan Lee Mulligan answers is wrong. The speech he gives, is upon realising the rule of this game. Brennan Lee Mulligan engages his audience through an improvised speech, rich in cultural and historical references, and expressive language and gestures, that combined with his humour and emotional intensity, ultimately elavating the speech and captivate the audience. 
+‌	The speech I have chosen has been dubbed *Brennan Lee Mulligan loses his mind*, which occurred in the show *Game Changer* (Reich 2020). This specific episode has contestants answer yes or no question but with a twist where what ever Brennan answers is wrong. The speech he gives is upon realising the rule of this game. Brennan Lee Mulligan engages his audience through an improvised speech, rich in cultural and historical references, highly expressive language and gestures, that combined with his humour and emotional intensity, ultimately elavating the speech and captivate the audience. 
 
 #### Public Speaking Techniques
 
-Throughout Brennan's speech
+Throughout Brennan's speech 
 
 Analyse delivery techniques such as voice, movement, gesture, tone,
 projection, audience engagement, and use of visuals, supported with specific
 examples
+
 #### Writing Techniques (Speech Content)
 
+Bla
 
+Analyse how the speech is constructed using techniques such as logos,
+pathos, ethos, rhetorical devices, humour, storytelling, and structure,
+supported with specific examples
 
 #### Conclusion
 
@@ -74,7 +79,7 @@ Well I’m NOT HAVING IT. I solved your labyrinth, puzzle master! The minotaur�
 
 I CANNOT WIN! 
 
-HAAAAAAA. 
+HAAAAAAAAAAAAAAAAAAA. 
 
 Goddammit. 
 
