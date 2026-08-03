@@ -38,7 +38,7 @@
 
 #### Public Speaking Techniques
 
-Throughout Brennan's speech 
+Throughout Brennan's speech he utilises delivery techniques, including his voice, tone, and projection to emphasise sections of his speech, additionally he implements movements, and gestures, along with visuals to elavate his speech and engade the audience. 
 
 Analyse delivery techniques such as voice, movement, gesture, tone,
 projection, audience engagement, and use of visuals, supported with specific
@@ -46,7 +46,7 @@ examples
 
 #### Writing Techniques (Speech Content)
 
-Bla
+Brennan use rich 
 
 Analyse how the speech is constructed using techniques such as logos,
 pathos, ethos, rhetorical devices, humour, storytelling, and structure,
