@@ -43,7 +43,7 @@
 
 #### Writing Techniques (Speech Content)
 
-Brennan invokes rich 
+Brennan although improvised constructs an argument supported with rich cultural and historical references, that build his point and engages the audience. 
 
 Analyse how the speech is constructed using techniques such as logos,
 pathos, ethos, rhetorical devices, humour, storytelling, and structure,
@@ -88,3 +88,6 @@ https://www.youtube.com/watch?v=Qw3o-F7zPtQ
 
 NOTE ASSUME 8 round then find probability of Brennan never getting it correct
 IE 0.004% of Brennan never guessing the correct answer. 
+
+Find way to integrate his flourishing on words like "statistical" and emphasis of "Rigged"
+Poetic phrases such as "Close to the sun he flew"
