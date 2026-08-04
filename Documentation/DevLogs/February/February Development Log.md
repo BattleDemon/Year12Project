@@ -12,4 +12,4 @@ Devlogs in the future will be more detailed and more frequent, this was just the
 
 Issues encountered, 
 Currently in the world scene the first three provinces in the json don't show up visually while they can still be selected. 
-Before this the region selection had an issue where it couldn't select the province even though all the code looked correct and it was clicking on a selectable region, it turned out that the way i had origionally exported the png file shifted the colors which the selection was looking for meaning each province that was mapped to a color was still mapped to that color but the physical color had changed.
+Before this the region selection had an issue where it couldn't select the province even though all the code looked correct and it was clicking on a selectable region, it turned out that the way I had origionally exported the png file shifted the colors which the selection was looking for meaning each province that was mapped to a color was still mapped to that color but the physical color had changed.

@@ -16,7 +16,7 @@
 
 ### Mentor 
 
-‌	The choice of mentor has been hard, since most teachers at this school don't cover all features for this project, leading me to find multiple internal and possibly some external mentors. With Tim been my mentor for the programming component, and assisting me if i get stuck during any of my development. Along with possibly Brandon since he ran the Australian STEM Video Game Challenge for our school team, during year 9, 10 and 11. Leading him to have good experience with managing a project, additionally he has experience in the industry. As for external mentors, i have attempted to contact Paradox Interactive a major game studio which designs the majority of the popular games within this genre, along with contacting some indie developers which are also attempting to make similar games. 
+‌	The choice of mentor has been hard, since most teachers at this school don't cover all features for this project, leading me to find multiple internal and possibly some external mentors. With Tim been my mentor for the programming component, and assisting me if I get stuck during any of my development. Along with possibly Brandon since he ran the Australian STEM Video Game Challenge for our school team, during year 9, 10 and 11. Leading him to have good experience with managing a project, additionally he has experience in the industry. As for external mentors, I have attempted to contact Paradox Interactive a major game studio which designs the majority of the popular games within this genre, along with contacting some indie developers which are also attempting to make similar games. 
 
 ### Community 
 
@@ -28,7 +28,7 @@
 
 ### Challenges and Risk Management
 
-‌	This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. Which includes the afore mentioned re scoping of the project, where originally i intended to produce a much bigger prototype of the game akin to a Alpha or Beta, where now it would only be considered an early internal prototype. This is due to the extent of this project and how a full team of developers would take multiple years to achieve similar projects. As for future Challenges and Risk management, I have begun making a weekly schedule, which outlines the goals for said week and where in the timeline i am. As for programming and its risks, I have read over important sections of the Godot documentation and watched videos on how to approach debugging for a game. 
+‌	This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. Which includes the afore mentioned re scoping of the project, where originally I intended to produce a much bigger prototype of the game akin to a Alpha or Beta, where now it would only be considered an early internal prototype. This is due to the extent of this project and how a full team of developers would take multiple years to achieve similar projects. As for future Challenges and Risk management, I have begun making a weekly schedule, which outlines the goals for said week and where in the timeline I am. As for programming and its risks, I have read over important sections of the Godot documentation and watched videos on how to approach debugging for a game. 
 
 ## Speech Analysis
 

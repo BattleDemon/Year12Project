@@ -190,16 +190,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Plan/Game Design Document.md",
+                "file": "Documentation/Year 12 Project Proposal and Speech Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game Design Document"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
