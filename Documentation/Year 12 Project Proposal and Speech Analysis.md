@@ -34,7 +34,7 @@
 
 #### Introduction
 
-‌	The speech I have chosen has been dubbed *Brennan Lee Mulligan loses his mind*, which occurred in the show *Game Changer* (Reich 2020). This specific episode has contestants answer yes or no question but with a twist where what ever Brennan answers is wrong. The speech he gives is upon realising the rule of this game. Brennan Lee Mulligan engages his audience through an improvised speech, rich in cultural and historical references, highly expressive language and gestures, that combined with his humour and emotional intensity, ultimately elevating the speech and captivate the audience. 
+‌	The speech I have chosen has been dubbed *Brennan Lee Mulligan loses his mind*, which occurred in the show *Game Changer* (Reich 2020). This specific episode has contestants answer yes or no question but with a twist where what ever Brennan answers is wrong. The speech he gives is upon realising the rule of this game. Brennan Lee Mulligan engages his audience through an improvised speech, rich in cultural and historical references, highly expressive language and gestures, that combined with his humour and emotional intensity, ultimately elevate the speech and captivate the audience. 
 
 #### Public Speaking Techniques
 
@@ -47,7 +47,11 @@
 783 words before conclusion (excluding quotes)
 #### Conclusion
 
-‌	Brennan Lee Mulligan's speech demonstrates 
+‌	To conclude, Brennan Lee Mulligan shifts what began as a game moment into that of a compelling and memorable performance through his use of delivery techniques and writing. His expressive delivery, including physical gestures, and emotional intensity, building a performance that escalates its tension while leaving room for comedic moments. While concurrent, to his use logical reasoning, humour, historical and mythological metaphors. rhetorical devices, and a carefully structured argument which expands his speech beyond its surface outburst, increasing audience engagement while still growing the dramatic revelation. Combined, these techniques establish how public speaking can rely on more than just the mater of the words, but rather that in conjunction with it's delivery, resulting in a speech of both entertainment and persuasion. 
+
+HOW DOES THIS FIT ME?????
+
+Fundamentally, Brennan's speech showcases that the combining of a confident delivery, along with a precisely crafted content is needed for capturing and maintaining an audience's attention.   
 
 ## Bibliography
 
@@ -75,11 +79,3 @@ I CANNOT WIN!
 HAAAAAAAAAAAAAAAAAAA. 
 
 Goddammit. 
-
-
-
-NOTE ASSUME 8 round then find probability of Brennan never getting it correct
-IE 0.004% of Brennan never guessing the correct answer. 
-
-Find way to integrate his flourishing on words like "statistical" and emphasis of "Rigged"
-Poetic phrases such as "Close to the sun he flew"
