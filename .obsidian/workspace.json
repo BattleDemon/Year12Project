@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Year 12 Project Proposal and Speech Analysis.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Year 12 Project Proposal and Speech Analysis"
+              "title": "README"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "442368cd5848b5e2",
   "lastOpenFiles": [
+    "grand_strategy_game_concept.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/Viva Voce.md",

@@ -38,7 +38,7 @@
 
 #### Public Speaking Techniques
 
-‌	Throughout Brennan's speech he utilises delivery techniques, including his voice, tone, and projection to emphasise sections of his speech, additionally he implements movements, and gestures, along with visuals to elavate his speech and engade the audience. This is evident, within the first moments as his calm demeanor is replaced with his brooding frustration. Which he unleashes after thirty two seconds, yelling  "*It’s a big ol’ GOOSE EGG, GANG. It’s a FAT ZERO. HELLO!! A little LATE ADDITION*", while simultaneously emphasizing his frustration even more by firmly gesturing towards his point total showing "*0*" using it as a visual. Then again his movements and gestures, show him hunched in argument, as his face expressed with brewing fury and passion. His passion erupts in a yelling burst, as he slams his hands against his podium, turned towards the task master as he unravels his web of lies, and escapes his so called labyrinth while presenting his metaphorical horn's in gesture. Then finally when presented with his chance of revelation, he takes it shouting 
+‌	Throughout Brennan's speech he utilises delivery techniques, including his voice, tone, and projection to emphasise sections of his speech, additionally he implements movements, and gestures, along with visuals to elavate his speech and engade the audience. This is evident, within the first moments as his calm demeanor is replaced with his brooding frustration. Which he unleashes after thirty two seconds, yelling  "*It’s a big ol’ GOOSE EGG, GANG. It’s a FAT ZERO. HELLO!! A little LATE ADDITION*", while simultaneously emphasizing his frustration even more by firmly gesturing towards his point total showing "*0*" using it as a visual. Then again his movements and gestures, show him hunched in argument, as his face expressed with brewing fury and passion. His passion erupts in a yelling burst, as he slams his hands against his podium, turned towards the puzzel master as he unravels his web of lies, and escapes his so called labyrinth while presenting his metaphorical horn's in gesture. Then finally when presented with his chance of revelation, he takes it shouting 
 "*I CANNOT WIN!*" releasing a final fight by slamming the podium. His delivery techniques are the foundation in which he invokes his rich content, and allows his writing techniques to flourish.
 
 #### Writing Techniques (Speech Content)
@@ -79,11 +79,6 @@ I CANNOT WIN!
 HAAAAAAAAAAAAAAAAAAA. 
 
 Goddammit. 
-
-### 3 - Animated Version
-
-https://www.youtube.com/watch?v=Qw3o-F7zPtQ
-
 
 
 NOTE ASSUME 8 round then find probability of Brennan never getting it correct
