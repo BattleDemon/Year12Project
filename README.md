@@ -1,7 +1,7 @@
 # Grand Strategy: *Designing a Historical Simulation Game*
 
+![](maxresdefault.jpg)
 
-![[maxresdefault.jpg]]
 
 
 <center>By</center>
