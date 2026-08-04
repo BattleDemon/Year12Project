@@ -1,6 +1,6 @@
 # Grand Strategy: *Designing a Historical Simulation Game*
 
-![](maxresdefault.jpg)
+![](Documentation/maxresdefault.jpg)
 
 
 
