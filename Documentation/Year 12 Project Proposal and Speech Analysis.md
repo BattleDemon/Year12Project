@@ -38,12 +38,11 @@
 
 #### Public Speaking Techniques
 
-‌	Throughout Brennan's speech he utilises delivery techniques, including his voice, tone, and projection to emphasise sections of his speech, additionally he implements movements, and gestures, along with visuals to elavate his speech and engade the audience. This is evident, within the first moments as his calm demeanor is replaced with his brooding frustration. Which he unleashes after thirty two seconds, yelling  "*It’s a big ol’ GOOSE EGG, GANG. It’s a FAT ZERO. HELLO!! A little LATE ADDITION*", while simultaneously emphasizing his frustration even more by firmly gesturing towards his point total showing "*0*" using it as a visual. Then again his movements and gestures, show him hunched in argument, as his face expressed with brewing fury and passion. His passion erupts in a yelling burst, as he slams his hands against his podium, turned towards the puzzel master as he unravels his web of lies, and escapes his so called labyrinth while presenting his metaphorical horn's in gesture. Then finally when presented with his chance of revelation, he takes it shouting 
-"*I CANNOT WIN!*" releasing a final fight by slamming the podium. His delivery techniques are the foundation in which he invokes his rich content, and allows his writing techniques to flourish.
+‌	Throughout Brennan's speech he utilises delivery techniques, including his voice, tone, and projection to emphasise sections of his speech, additionally he implements movements, and gestures, along with visuals to elavate his speech and engade the audience. This is evident, within the first moments as his calm demeanor is replaced with his brooding frustration. Which he unleashes after thirty two seconds, yelling  "*It’s a big ol’ GOOSE EGG, GANG. It’s a FAT ZERO. HELLO!! A little LATE ADDITION*", while simultaneously emphasizing his frustration even more by firmly gesturing towards his point total showing "*0*" using it as a visual. Then again his movements and gestures, show him hunched in argument, as his face expressed with brewing fury and passion. His passion erupts in a yelling burst, as he slams his hands against his podium, turned towards the puzzel master as he unravels his web of lies, and escapes his so called labyrinth while presenting his metaphorical horn's in gesture. Then finally when presented with his chance of revelation, he takes it shouting "*I CANNOT WIN!*" releasing a final fight by slamming the podium. His delivery techniques are the foundation in which he invokes his rich content, and allows his writing techniques to flourish.
 
 #### Writing Techniques (Speech Content)
 
-Brennan although improvised constructs an argument supported with rich cultural and historical references, that build his point and engages the audience. 
+‌	Brennan although improvised constructs an argument supported with rich cultural and historical references, that build his point and engages the audience, while combining that with more tradition methods such as logos, humour, and rhetorical devices. With Brennan appealing to logos he argues, "*You would THINK in a game where there are only TWO possible correct choices, that one would STUMBLE INTO the right answer every so often... the probability of NEVER guessing right... is a STATISTICAL WONDER.*" which because each question has only two possible answers, the audience given an average mathematical logic, should recognise the vast improbability of his constant incorrect responses. With eight questions, the odds are only 1 in 256 or 0.39%, making his conclusions that the game was "*RIGGED FROM THE BEGINNING!*", mathematically justified. Earlier Brennan, drifts away from logos, presenting a more humourful evidence, "*It's a big ol' GOOSE EGG, GANG. It's a FAT ZERO.*" where he could of rather simply stated his lack of points, Brennan opts for a more exaggerated description, with a repetitive "*It's a*", combined with unorthodox language. Transforming his lack of points into a more comedic moment.  
 
 Analyse how the speech is constructed using techniques such as logos,
 pathos, ethos, rhetorical devices, humour, storytelling, and structure,
@@ -79,6 +78,7 @@ I CANNOT WIN!
 HAAAAAAAAAAAAAAAAAAA. 
 
 Goddammit. 
+
 
 
 NOTE ASSUME 8 round then find probability of Brennan never getting it correct
