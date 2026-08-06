@@ -15,11 +15,6 @@
 ### Passion 
 
 ‌	‌My interest in strategy game design has developed over several years, beginning in early high school with the creation of fictional worlds focused on kingdoms and warfare. As my understanding of history grew, these ideas gradually shifted towards historically grounded simulations, exploring how political, military, and social systems could be represented through gameplay. By Year Eleven, this had evolved into a historical strategy game incorporating alternative history, laying the foundation for the current project. Building on this progression, my Year 12 project focuses on designing a grand strategy game set in the aftermath of the fall of the Western Roman Empire during the rise of Merovingian Francia. 
-
-
-<div style="page-break-after: always;"></div>
-
-
 ### Mentor 
 
 ‌	‌The choice of mentor has been hard, since most teachers at this school don't cover all features for this project, leading me to find multiple internal and possibly some external mentors. With Tim been my mentor for the programming component, and assisting me if I get stuck during any of my development. Along with possibly Brandon since he ran the Australian STEM Video Game Challenge for our school team, during year 9, 10 and 11. Leading him to have good experience with managing a project, additionally he has experience in the industry. As for external mentors, I have attempted to contact Paradox Interactive a major game studio which designs the majority of the popular games within this genre, along with contacting some indie developers which are also attempting to make similar games. 
@@ -36,7 +31,17 @@
 
 ‌	‌This project incurs a multitude of challenges and risk's, for which I have devised a plan of management. Which includes the a fore mentioned re scoping of the project, where originally I intended to produce a much bigger prototype of the game akin to a Alpha or Beta, where now it would only be considered an early internal prototype. This is due to the extent of this project and how a full team of developers would take multiple years to achieve similar projects. As for future Challenges and Risk management, I have begun making a weekly schedule, which outlines the goals for said week and where in the timeline I am. As for programming and its risks, I have read over important sections of the Godot documentation and watched videos on how to approach debugging for a game. 
 
+### Research Links
 
+Here are a small subsection of the links I will be using to begin my research. 
+
+[https://www.researchgate.net/publication/360564153_Game-Based_Learning_in_History_The_Concealed_Paradox_of_Videogames_as_Historical_Simulations](https://www.researchgate.net/publication/360564153_Game-Based_Learning_in_History_The_Concealed_Paradox_of_Videogames_as_Historical_Simulations)  
+[https://orca.cardiff.ac.uk/id/eprint/169728/1/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf](https://orca.cardiff.ac.uk/id/eprint/169728/1/revitalising-higher-education-10-revitalisation-of-history-through-historical-games.pdf)  
+[https://unsworks.unsw.edu.au/entities/publication/366ce477-515f-4bfe-9ed3-d20059803046](https://unsworks.unsw.edu.au/entities/publication/366ce477-515f-4bfe-9ed3-d20059803046)  
+[https://medium.com/@squashfold/anatomy-of-a-grand-strategy-game-devlog-1-3962ba395ae4](https://medium.com/@squashfold/anatomy-of-a-grand-strategy-game-devlog-1-3962ba395ae4)
+[https://forum.paradoxplaza.com/forum/threads/essay-on-game-design-ideas-to-fix-poor-game-progression-and-lategame-micromanagement-hell.1603103/](https://forum.paradoxplaza.com/forum/threads/essay-on-game-design-ideas-to-fix-poor-game-progression-and-lategame-micromanagement-hell.1603103/) 
+[https://ptgmedia.pearsoncmg.com/images/0735713677/samplechapter/0735713677c.pdf](https://ptgmedia.pearsoncmg.com/images/0735713677/samplechapter/0735713677c.pdf)  
+[https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1620&context=honors-theses](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1620&context=honors-theses)
 <div style="page-break-after: always;"></div>
 
 ## Speech Analysis
