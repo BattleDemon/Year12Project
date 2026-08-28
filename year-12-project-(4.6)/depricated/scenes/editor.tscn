@@ -1,0 +1,326 @@
+[gd_scene format=3 uid="uid://dp70y4a4x4a0h"]
+
+[ext_resource type="Texture2D" uid="uid://db52bxm2n7qi0" path="res://utility/goodMap.png" id="1_b1cmn"]
+[ext_resource type="Script" uid="uid://bk1134mqqk718" path="res://scripts/editor.gd" id="1_ba0ut"]
+[ext_resource type="Script" uid="uid://bdjlcr4iagcck" path="res://scripts/map_manager.gd" id="1_pxqd5"]
+[ext_resource type="Script" uid="uid://ciqk10q1ab7vq" path="res://scripts/region_editor.gd" id="4_q68jb"]
+[ext_resource type="Script" uid="uid://bydjovqwcaswk" path="res://scripts/realm_editor.gd" id="5_xg7d5"]
+
+[node name="editor" type="Control" unique_id=1219123374]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_ba0ut")
+
+[node name="HSplitContainer" type="HSplitContainer" parent="." unique_id=436699551]
+layout_mode = 0
+offset_right = 1156.0
+offset_bottom = 645.0
+
+[node name="map_panel" type="PanelContainer" parent="HSplitContainer" unique_id=1999821956]
+layout_mode = 2
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="HSplitContainer/map_panel" unique_id=1334194743]
+layout_mode = 2
+
+[node name="SubViewport" type="SubViewport" parent="HSplitContainer/map_panel/SubViewportContainer" unique_id=603242672]
+handle_input_locally = false
+size = Vector2i(800, 800)
+render_target_update_mode = 4
+
+[node name="map_root" type="Node2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport" unique_id=432671269]
+position = Vector2(335, 277)
+script = ExtResource("1_pxqd5")
+map_texture = ExtResource("1_b1cmn")
+
+[node name="province_map" type="Sprite2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=1131721592]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_b1cmn")
+
+[node name="overlay_map" type="Sprite2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=472084301]
+
+[node name="highlight_overlay" type="Polygon2D" parent="HSplitContainer/map_panel/SubViewportContainer/SubViewport/map_root" unique_id=449752925]
+color = Color(1, 1, 0.14901961, 1)
+
+[node name="right_panel" type="VBoxContainer" parent="HSplitContainer" unique_id=18882081]
+layout_mode = 2
+
+[node name="mode_bar" type="HBoxContainer" parent="HSplitContainer/right_panel" unique_id=1281373704]
+layout_mode = 2
+
+[node name="region_mode_button" type="Button" parent="HSplitContainer/right_panel/mode_bar" unique_id=1107664870]
+layout_mode = 2
+
+[node name="realm_mode_button" type="Button" parent="HSplitContainer/right_panel/mode_bar" unique_id=2122685198]
+layout_mode = 2
+
+[node name="editor_stack" type="TabContainer" parent="HSplitContainer/right_panel" unique_id=1578562126]
+layout_mode = 2
+current_tab = 0
+
+[node name="region_editor" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack" unique_id=278296095]
+layout_mode = 2
+metadata/_tab_index = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/region_editor" unique_id=1346762509]
+layout_mode = 2
+script = ExtResource("4_q68jb")
+
+[node name="region_and_code" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=1188674480]
+layout_mode = 2
+
+[node name="selected_region" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/region_and_code" unique_id=1635119322]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 43.0
+offset_right = 80.0
+offset_bottom = 66.0
+
+[node name="county_code" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/region_and_code" unique_id=137101073]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 43.0
+offset_right = 80.5
+offset_bottom = 74.0
+
+[node name="culture" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=56310104]
+layout_mode = 2
+
+[node name="culture" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/culture" unique_id=1162020725]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="LineEdit" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/culture" unique_id=462561152]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="faith" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=313703471]
+layout_mode = 2
+
+[node name="faith" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/faith" unique_id=1215693527]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="LineEdit" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/faith" unique_id=308260478]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="max infrastructure" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=941386189]
+layout_mode = 2
+
+[node name="max_infrastructure" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/max infrastructure" unique_id=741544388]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="SpinBox" type="SpinBox" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/max infrastructure" unique_id=1811404484]
+layout_mode = 0
+offset_right = 86.5
+offset_bottom = 31.0
+
+[node name="infrastructure" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=700168376]
+layout_mode = 2
+
+[node name="infrastructure" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/infrastructure" unique_id=1018306013]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ItemList" type="ItemList" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/infrastructure" unique_id=196485298]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="add" type="Button" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/infrastructure" unique_id=1456390290]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="remove" type="Button" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/infrastructure" unique_id=448877123]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="terrain" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=1511113302]
+layout_mode = 2
+
+[node name="terrain" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/terrain" unique_id=513578105]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="OptionButton" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/terrain" unique_id=1123944349]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="coastal_river" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=856846817]
+layout_mode = 2
+
+[node name="coastal" type="CheckBox" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/coastal_river" unique_id=542370274]
+layout_mode = 0
+offset_right = 24.0
+offset_bottom = 24.0
+
+[node name="river" type="CheckBox" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/coastal_river" unique_id=599698582]
+layout_mode = 0
+offset_right = 24.0
+offset_bottom = 24.0
+
+[node name="resource" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=1713668068]
+layout_mode = 2
+
+[node name="natural_resource" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/resource" unique_id=238084655]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="LineEdit" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/resource" unique_id=2407769]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="VSeparator" type="HSeparator" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=27748101]
+layout_mode = 2
+
+[node name="cultural_names" type="Control" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=1668769521]
+layout_mode = 2
+
+[node name="cultural_names" type="Label" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names" unique_id=1713576686]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="cultural_names_list" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names" unique_id=395833419]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="culture_name_key" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names/cultural_names_list" unique_id=10752382]
+layout_mode = 2
+
+[node name="display_name" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names/cultural_names_list" unique_id=209957116]
+layout_mode = 2
+
+[node name="remove" type="Button" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names/cultural_names_list" unique_id=889595510]
+layout_mode = 2
+
+[node name="add_culture_name" type="Button" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer/cultural_names" unique_id=1055750731]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="save_region" type="Button" parent="HSplitContainer/right_panel/editor_stack/region_editor/VBoxContainer" unique_id=1196746095]
+layout_mode = 2
+
+[node name="realm_editor" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack" unique_id=645879071]
+visible = false
+layout_mode = 2
+metadata/_tab_index = 1
+
+[node name="realm_editor_content" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor" unique_id=1145551648]
+layout_mode = 2
+script = ExtResource("5_xg7d5")
+
+[node name="realm" type="Control" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=14523014]
+layout_mode = 2
+
+[node name="select_realm" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1443270832]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="realm_dropdown" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=136879592]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="realm_name" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=43003248]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="realm_color" type="ColorPickerButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm" unique_id=1640469685]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="ruler" type="Control" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=1836126659]
+layout_mode = 2
+
+[node name="ruler" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=618589439]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ruler_name" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=1316825364]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="dynasty" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=705777238]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="title" type="LineEdit" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/ruler" unique_id=255604323]
+layout_mode = 0
+offset_right = 68.5
+offset_bottom = 31.0
+
+[node name="realm_options" type="Control" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=1991985905]
+layout_mode = 2
+
+[node name="realm_level" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1295006789]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="admin_type" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1648988241]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="capitol_province" type="OptionButton" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/realm_options" unique_id=1104071280]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+
+[node name="regions" type="Control" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=125584223]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=2121932949]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=1631504494]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="province_ckeckbox_list" type="VBoxContainer" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions/ScrollContainer" unique_id=1736590655]
+layout_mode = 2
+
+[node name="save_realm" type="Button" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content/regions" unique_id=869889044]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="realm_owner" type="Label" parent="HSplitContainer/right_panel/editor_stack/realm_editor/realm_editor_content" unique_id=93216278]
+layout_mode = 2
+
+[node name="bottom_bar" type="HBoxContainer" parent="HSplitContainer/right_panel" unique_id=716024191]
+layout_mode = 2
+
+[node name="save_regions_button" type="Button" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1534689704]
+layout_mode = 2
+
+[node name="save_realms_button" type="Button" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1304588933]
+layout_mode = 2
+
+[node name="debug_label" type="Label" parent="HSplitContainer/right_panel/bottom_bar" unique_id=1252051370]
+layout_mode = 2

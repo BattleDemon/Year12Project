@@ -1,0 +1,7842 @@
+{
+	"aar": {
+		"coastal": "F",
+		"color_code": "#5CDC9B",
+		"county_names": {
+			"Culture1": "Aargua",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"abu": {
+		"coastal": "T",
+		"color_code": "#FC22DD",
+		"county_names": {
+			"Culture1": "Abruzzo Ultra",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"age": {
+		"coastal": "F",
+		"color_code": "#718AD7",
+		"county_names": {
+			"Culture1": "Agenais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"alb": {
+		"coastal": "T",
+		"color_code": "#244FAE",
+		"county_names": {
+			"Culture1": "Lubeck",
+			"Germanic": "Nordalbingia",
+			"Roman": "Albis Septentrionalis",
+			"basque": "Albibar",
+			"brithonic": "Aber Albis",
+			"gaelic": "Albiodunon",
+			"gothic": "Albilanda",
+			"hispanic": "Albia"
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"alc": {
+		"coastal": "F",
+		"color_code": "#6D4EE0",
+		"county_names": {
+			"Culture1": "Alcaniz",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ale": {
+		"coastal": "F",
+		"color_code": "#60A089",
+		"county_names": {
+			"Culture1": "Alessandria",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"alg": {
+		"coastal": "F",
+		"color_code": "#B73F7D",
+		"county_names": {
+			"Culture1": "Allgua",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"all": {
+		"coastal": "F",
+		"color_code": "#F38317",
+		"county_names": {
+			"Culture1": "Aller",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"alp": {
+		"coastal": "F",
+		"color_code": "#F5EFF2",
+		"county_names": {
+			"Culture1": "Alpenvorland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"alt": {
+		"coastal": "F",
+		"color_code": "#F3BB94",
+		"county_names": {
+			"Culture1": "Altmark",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ami": {
+		"coastal": "F",
+		"color_code": "#8A46C4",
+		"county_names": {
+			"Culture1": "Amienois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"amo": {
+		"coastal": "F",
+		"color_code": "#73CA9A",
+		"county_names": {
+			"Culture1": "Amont",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ang": {
+		"coastal": "F",
+		"color_code": "#E83135",
+		"county_names": {
+			"Culture1": "Angouleme",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"anj": {
+		"coastal": "F",
+		"color_code": "#3600E0",
+		"county_names": {
+			"Culture1": "Anjou",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ant": {
+		"coastal": "F",
+		"color_code": "#CEF8DE",
+		"county_names": {
+			"Culture1": "Antwerp",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"aos": {
+		"coastal": "F",
+		"color_code": "#D083DB",
+		"county_names": {
+			"Culture1": "Aosta",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"aqu": {
+		"coastal": "T",
+		"color_code": "#9CB544",
+		"county_names": {
+			"Culture1": "Aquisextain",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"arb": {
+		"coastal": "T",
+		"color_code": "#FFCB21",
+		"county_names": {
+			"Culture1": "Arborea",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"are": {
+		"coastal": "F",
+		"color_code": "#A9B953",
+		"county_names": {
+			"Culture1": "Arezzo",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"arm": {
+		"coastal": "F",
+		"color_code": "#CA14C0",
+		"county_names": {
+			"Culture1": "Armagnac",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"aut": {
+		"coastal": "F",
+		"color_code": "#2A95ED",
+		"county_names": {
+			"Culture1": "Autunnais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"aux": {
+		"coastal": "F",
+		"color_code": "#F89792",
+		"county_names": {
+			"Culture1": "Auxerrois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ava": {
+		"coastal": "F",
+		"color_code": "#0EE6CD",
+		"county_names": {
+			"Culture1": "Aval",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"avi": {
+		"coastal": "F",
+		"color_code": "#354452",
+		"county_names": {
+			"Culture1": "Avignonnais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bar": {
+		"coastal": "T",
+		"color_code": "#564531",
+		"county_names": {
+			"Culture1": "Barcelona",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bas": {
+		"coastal": "F",
+		"color_code": "#BA08B4",
+		"county_names": {
+			"Culture1": "Barbastro",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bay": {
+		"coastal": "T",
+		"color_code": "#8BE9DA",
+		"county_names": {
+			"Culture1": "Bayonne",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Basque",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"baz": {
+		"coastal": "F",
+		"color_code": "#F51571",
+		"county_names": {
+			"Culture1": "Bazadais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bea": {
+		"coastal": "F",
+		"color_code": "#9AED52",
+		"county_names": {
+			"Culture1": "Bearn Bigorre",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bed": {
+		"coastal": "F",
+		"color_code": "#1C9E52",
+		"county_names": {
+			"Culture1": "Bedfordshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"beg": {
+		"coastal": "F",
+		"color_code": "#BB230B",
+		"county_names": {
+			"Culture1": "",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bej": {
+		"coastal": "F",
+		"color_code": "#967410",
+		"county_names": {
+			"Culture1": "Beujolais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bel": {
+		"coastal": "F",
+		"color_code": "#BBCC38",
+		"county_names": {
+			"Culture1": "Belluno",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ben": {
+		"coastal": "F",
+		"color_code": "#ED090D",
+		"county_names": {
+			"Culture1": "Bern",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ber": {
+		"coastal": "F",
+		"color_code": "#6822DB",
+		"county_names": {
+			"Culture1": "Berkshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"beu": {
+		"coastal": "F",
+		"color_code": "#B872B3",
+		"county_names": {
+			"Culture1": "Beauvaisis",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bgs": {
+		"coastal": "F",
+		"color_code": "#2B4FC1",
+		"county_names": {
+			"Culture1": "Bergisches Land",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"blo": {
+		"coastal": "F",
+		"color_code": "#61BBCC",
+		"county_names": {
+			"Culture1": "Blois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bol": {
+		"coastal": "F",
+		"color_code": "#3146ED",
+		"county_names": {
+			"Culture1": "Bologna",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bor": {
+		"coastal": "T",
+		"color_code": "#64D92C",
+		"county_names": {
+			"Culture1": "Bordelais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bou": {
+		"coastal": "F",
+		"color_code": "#AA7BF3",
+		"county_names": {
+			"Culture1": "Bourbon",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bra": {
+		"coastal": "F",
+		"color_code": "#49A237",
+		"county_names": {
+			"Culture1": "Brabant",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"brc": {
+		"coastal": "F",
+		"color_code": "#7982D7",
+		"county_names": {
+			"Culture1": "Brie Champenois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bre": {
+		"coastal": "F",
+		"color_code": "#02953F",
+		"county_names": {
+			"Culture1": "Brescia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"brr": {
+		"coastal": "F",
+		"color_code": "#4DD85F",
+		"county_names": {
+			"Culture1": "Barrois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"brs": {
+		"coastal": "F",
+		"color_code": "#4E377D",
+		"county_names": {
+			"Culture1": "Bresse",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bru": {
+		"coastal": "F",
+		"color_code": "#AB5AED",
+		"county_names": {
+			"Culture1": "Brunswick",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"bss": {
+		"coastal": "F",
+		"color_code": "#97F927",
+		"county_names": {
+			"Culture1": "Bassigny",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"buc": {
+		"coastal": "F",
+		"color_code": "#829E2E",
+		"county_names": {
+			"Culture1": "Buckinghamshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cae": {
+		"coastal": "T",
+		"color_code": "#4FD3C6",
+		"county_names": {
+			"Culture1": "Caennais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cag": {
+		"coastal": "T",
+		"color_code": "#68E3F4",
+		"county_names": {
+			"Culture1": "Cagliari",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cal": {
+		"coastal": "F",
+		"color_code": "#850933",
+		"county_names": {
+			"Culture1": "Calatayud",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cam": {
+		"coastal": "F",
+		"color_code": "#73563C",
+		"county_names": {
+			"Culture1": "Cambridge",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cap": {
+		"coastal": "F",
+		"color_code": "#1024E6",
+		"county_names": {
+			"Culture1": "Campagna",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cas": {
+		"coastal": "T",
+		"color_code": "#CD0D46",
+		"county_names": {
+			"Culture1": "Castellon",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cat": {
+		"coastal": "F",
+		"color_code": "#0BBB9B",
+		"county_names": {
+			"Culture1": "Castres",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cau": {
+		"coastal": "T",
+		"color_code": "#39AAA3",
+		"county_names": {
+			"Culture1": "Caux",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cha": {
+		"coastal": "F",
+		"color_code": "#D46375",
+		"county_names": {
+			"Culture1": "Chartrain",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"chm": {
+		"coastal": "F",
+		"color_code": "#1B3CE7",
+		"county_names": {
+			"Culture1": "Champagne",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cis": {
+		"coastal": "T",
+		"color_code": "#F084D4",
+		"county_names": {
+			"Culture1": "Cismonte",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cmb": {
+		"coastal": "F",
+		"color_code": "#509C3C",
+		"county_names": {
+			"Culture1": "Combraille",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"com": {
+		"coastal": "F",
+		"color_code": "#A18E41",
+		"county_names": {
+			"Culture1": "Comminges",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cor": {
+		"coastal": "T",
+		"color_code": "#76734F",
+		"county_names": {
+			"Culture1": "Cornwall",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cot": {
+		"coastal": "T",
+		"color_code": "#BB5B4E",
+		"county_names": {
+			"Culture1": "Cotentin",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"cre": {
+		"coastal": "F",
+		"color_code": "#159664",
+		"county_names": {
+			"Culture1": "Cremona",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"crn": {
+		"coastal": "T",
+		"color_code": "#BDDBC4",
+		"county_names": {
+			"Culture1": "Cornuaille",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dev": {
+		"coastal": "T",
+		"color_code": "#6CD6EA",
+		"county_names": {
+			"Culture1": "Devon",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dig": {
+		"coastal": "F",
+		"color_code": "#6FB10F",
+		"county_names": {
+			"Culture1": "Dignois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dij": {
+		"coastal": "F",
+		"color_code": "#32F9D1",
+		"county_names": {
+			"Culture1": "Dijonnais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dom": {
+		"coastal": "F",
+		"color_code": "#8EFF3D",
+		"county_names": {
+			"Culture1": "Donaus Moos",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dor": {
+		"coastal": "T",
+		"color_code": "#D8D52C",
+		"county_names": {
+			"Culture1": "Dorset",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dra": {
+		"coastal": "T",
+		"color_code": "#C81FC9",
+		"county_names": {
+			"Culture1": "Dracenois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"dre": {
+		"coastal": "F",
+		"color_code": "#4EB877",
+		"county_names": {
+			"Culture1": "Drenthe",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ebr": {
+		"coastal": "F",
+		"color_code": "#6CD350",
+		"county_names": {
+			"Culture1": "Ebroicien",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"efl": {
+		"coastal": "F",
+		"color_code": "#F8B10C",
+		"county_names": {
+			"Culture1": "East Flanders",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"efr": {
+		"coastal": "T",
+		"color_code": "#4AB2B3",
+		"county_names": {
+			"Culture1": "East Friesland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"eif": {
+		"coastal": "F",
+		"color_code": "#0C3CA7",
+		"county_names": {
+			"Culture1": "Eifel",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"elb": {
+		"coastal": "T",
+		"color_code": "#06BC9F",
+		"county_names": {
+			"Culture1": "Elbmarch",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"elx": {
+		"coastal": "F",
+		"color_code": "#E43F9C",
+		"county_names": {
+			"Culture1": "East Luxembourg",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ems": {
+		"coastal": "F",
+		"color_code": "#F887D9",
+		"county_names": {
+			"Culture1": "Emsland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ess": {
+		"coastal": "T",
+		"color_code": "#35C753",
+		"county_names": {
+			"Culture1": "Essex",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"eus": {
+		"coastal": "F",
+		"color_code": "#D819C9",
+		"county_names": {
+			"Culture1": "Eastern Upper Swabia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"fal": {
+		"coastal": "F",
+		"color_code": "#ED427C",
+		"county_names": {
+			"Culture1": "Franconian Alb",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"fer": {
+		"coastal": "T",
+		"color_code": "#0D84F8",
+		"county_names": {
+			"Culture1": "Ferrara",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"flo": {
+		"coastal": "F",
+		"color_code": "#D3F6D1",
+		"county_names": {
+			"Culture1": "Florence",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"foi": {
+		"coastal": "F",
+		"color_code": "#E0210A",
+		"county_names": {
+			"Culture1": "Foix",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"fra": {
+		"coastal": "F",
+		"color_code": "#92331A",
+		"county_names": {
+			"Culture1": "Frakenwald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"fri": {
+		"coastal": "T",
+		"color_code": "#71C8FF",
+		"county_names": {
+			"Culture1": "Friesland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"frs": {
+		"coastal": "F",
+		"color_code": "#041689",
+		"county_names": {
+			"Culture1": "Frankische Schweiz",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gal": {
+		"coastal": "T",
+		"color_code": "#AC9917",
+		"county_names": {
+			"Culture1": "Gallura",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gat": {
+		"coastal": "F",
+		"color_code": "#DE128C",
+		"county_names": {
+			"Culture1": "Gatinais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gel": {
+		"coastal": "T",
+		"color_code": "#1D9EE2",
+		"county_names": {
+			"Culture1": "Gelderland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gev": {
+		"coastal": "F",
+		"color_code": "#0DFCA6",
+		"county_names": {
+			"Culture1": "Gevaudan",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gip": {
+		"coastal": "T",
+		"color_code": "#00A803",
+		"county_names": {
+			"Culture1": "Gipuzkoa",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Basque",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gir": {
+		"coastal": "T",
+		"color_code": "#154709",
+		"county_names": {
+			"Culture1": "Girona",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"glo": {
+		"coastal": "T",
+		"color_code": "#D6D48E",
+		"county_names": {
+			"Culture1": "Gloucesteshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gra": {
+		"coastal": "F",
+		"color_code": "#A274E7",
+		"county_names": {
+			"Culture1": "Graubunden",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gre": {
+		"coastal": "F",
+		"color_code": "#71E641",
+		"county_names": {
+			"Culture1": "Gresivaudan",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"gro": {
+		"coastal": "T",
+		"color_code": "#824051",
+		"county_names": {
+			"Culture1": "Grosseto",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hai": {
+		"coastal": "F",
+		"color_code": "#261110",
+		"county_names": {
+			"Culture1": "Hainaut",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ham": {
+		"coastal": "T",
+		"color_code": "#1A0E3C",
+		"county_names": {
+			"Culture1": "Hampshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"han": {
+		"coastal": "F",
+		"color_code": "#99335B",
+		"county_names": {
+			"Culture1": "Hanover",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"har": {
+		"coastal": "F",
+		"color_code": "#C5C03E",
+		"county_names": {
+			"Culture1": "Harz",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"heg": {
+		"coastal": "F",
+		"color_code": "#EE7374",
+		"county_names": {
+			"Culture1": "Hegau",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"her": {
+		"coastal": "F",
+		"color_code": "#95803C",
+		"county_names": {
+			"Culture1": "Hertfordshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hes": {
+		"coastal": "F",
+		"color_code": "#B56DF6",
+		"county_names": {
+			"Culture1": "Hessen Bergland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hoh": {
+		"coastal": "F",
+		"color_code": "#5A7154",
+		"county_names": {
+			"Culture1": "Hohenloher Edene",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hol": {
+		"coastal": "T",
+		"color_code": "#B4280E",
+		"county_names": {
+			"Culture1": "Holstein",
+			"Germanic": "Holtsatenland",
+			"Roman": "Silva Saxonsum",
+			"basque": "Oltzibar",
+			"brithonic": "Nant Coill",
+			"gaelic": "Coillobriga",
+			"gothic": "Holtsateland",
+			"hispanic": "Holtia"
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hue": {
+		"coastal": "F",
+		"color_code": "#194BDE",
+		"county_names": {
+			"Culture1": "Huesca",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Basque",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"hun": {
+		"coastal": "F",
+		"color_code": "#9C8798",
+		"county_names": {
+			"Culture1": "Hunsruck",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"jat": {
+		"coastal": "T",
+		"color_code": "#3303EE",
+		"county_names": {
+			"Culture1": "Jativa",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"jul": {
+		"coastal": "F",
+		"color_code": "#867C69",
+		"county_names": {
+			"Culture1": "Julich",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"kem": {
+		"coastal": "F",
+		"color_code": "#60C00F",
+		"county_names": {
+			"Culture1": "Kempenland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ken": {
+		"coastal": "T",
+		"color_code": "#F58C33",
+		"county_names": {
+			"Culture1": "Kent",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"kol": {
+		"coastal": "F",
+		"color_code": "#94E1FD",
+		"county_names": {
+			"Culture1": "Koln Bucht",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"kra": {
+		"coastal": "F",
+		"color_code": "#B7EE5F",
+		"county_names": {
+			"Culture1": "kraichgau",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lal": {
+		"coastal": "F",
+		"color_code": "#7D2845",
+		"county_names": {
+			"Culture1": "Lower Alsace",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lam": {
+		"coastal": "F",
+		"color_code": "#77F056",
+		"county_names": {
+			"Culture1": "La Marche",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lar": {
+		"coastal": "F",
+		"color_code": "#848FEC",
+		"county_names": {
+			"Culture1": "Lower Artois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lat": {
+		"coastal": "T",
+		"color_code": "#3263EB",
+		"county_names": {
+			"Culture1": "Latium",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lau": {
+		"coastal": "F",
+		"color_code": "#B0545E",
+		"county_names": {
+			"Culture1": "Lower Auvergne",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lav": {
+		"coastal": "T",
+		"color_code": "#936CED",
+		"county_names": {
+			"Culture1": "Lavoro",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lbe": {
+		"coastal": "F",
+		"color_code": "#68BA05",
+		"county_names": {
+			"Culture1": "Lower Berry",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lbu": {
+		"coastal": "F",
+		"color_code": "#0E851E",
+		"county_names": {
+			"Culture1": "Luneburger Heide",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lei": {
+		"coastal": "F",
+		"color_code": "#AA34C7",
+		"county_names": {
+			"Culture1": "Leine",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lev": {
+		"coastal": "T",
+		"color_code": "#67739A",
+		"county_names": {
+			"Culture1": "Levante",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lib": {
+		"coastal": "F",
+		"color_code": "#D4E1BC",
+		"county_names": {
+			"Culture1": "Limburg",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lie": {
+		"coastal": "F",
+		"color_code": "#DD008E",
+		"county_names": {
+			"Culture1": "Liege",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lim": {
+		"coastal": "F",
+		"color_code": "#EC1793",
+		"county_names": {
+			"Culture1": "Limousin1",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lip": {
+		"coastal": "F",
+		"color_code": "#18B573",
+		"county_names": {
+			"Culture1": "Lippe",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lma": {
+		"coastal": "F",
+		"color_code": "#DDB0CE",
+		"county_names": {
+			"Culture1": "Lower Maine",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"log": {
+		"coastal": "T",
+		"color_code": "#E98E17",
+		"county_names": {
+			"Culture1": "Logudoro",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"loo": {
+		"coastal": "F",
+		"color_code": "#9C1FFB",
+		"county_names": {
+			"Culture1": "loon",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lop": {
+		"coastal": "T",
+		"color_code": "#0AF697",
+		"county_names": {
+			"Culture1": "Lower Poitou",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"luc": {
+		"coastal": "T",
+		"color_code": "#CA7DA4",
+		"county_names": {
+			"Culture1": "Lucca",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"lyo": {
+		"coastal": "F",
+		"color_code": "#4C434D",
+		"county_names": {
+			"Culture1": "Lyonnais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mab": {
+		"coastal": "F",
+		"color_code": "#180E7A",
+		"county_names": {
+			"Culture1": "Magdeburger Borde",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"maf": {
+		"coastal": "F",
+		"color_code": "#7A2FBC",
+		"county_names": {
+			"Culture1": "Main Franconia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mal": {
+		"coastal": "T",
+		"color_code": "#820658",
+		"county_names": {
+			"Culture1": "Mallorca",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"man": {
+		"coastal": "F",
+		"color_code": "#C796F7",
+		"county_names": {
+			"Culture1": "Mantua",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mar": {
+		"coastal": "T",
+		"color_code": "#0DD4B4",
+		"county_names": {
+			"Culture1": "Marche",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mde": {
+		"coastal": "F",
+		"color_code": "#83AB78",
+		"county_names": {
+			"Culture1": "Modena",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mid": {
+		"coastal": "T",
+		"color_code": "#349EB4",
+		"county_names": {
+			"Culture1": "Middlesex",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mil": {
+		"coastal": "F",
+		"color_code": "#417D7F",
+		"county_names": {
+			"Culture1": "Millieu",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"min": {
+		"coastal": "F",
+		"color_code": "#D4D2EC",
+		"county_names": {
+			"Culture1": "Milano",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mod": {
+		"coastal": "F",
+		"color_code": "#249685",
+		"county_names": {
+			"Culture1": "Mondovi",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mon": {
+		"coastal": "F",
+		"color_code": "#E08F77",
+		"county_names": {
+			"Culture1": "Monferrato",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"moz": {
+		"coastal": "F",
+		"color_code": "#60FD54",
+		"county_names": {
+			"Culture1": "Monza",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mun": {
+		"coastal": "F",
+		"color_code": "#3AB263",
+		"county_names": {
+			"Culture1": "Munsterland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mus": {
+		"coastal": "F",
+		"color_code": "#0D876B",
+		"county_names": {
+			"Culture1": "Munchner Schottereben",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"mwe": {
+		"coastal": "F",
+		"color_code": "#BCF53D",
+		"county_names": {
+			"Culture1": "Middle Weser",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nab": {
+		"coastal": "T",
+		"color_code": "#399357",
+		"county_names": {
+			"Culture1": "Navbonnais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nam": {
+		"coastal": "F",
+		"color_code": "#E76156",
+		"county_names": {
+			"Culture1": "Namur",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nan": {
+		"coastal": "T",
+		"color_code": "#69053E",
+		"county_names": {
+			"Culture1": "Nantais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nar": {
+		"coastal": "F",
+		"color_code": "#A6A58B",
+		"county_names": {
+			"Culture1": "Narvarre",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Basque",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nca": {
+		"coastal": "T",
+		"color_code": "#083434",
+		"county_names": {
+			"Culture1": "New Catelonia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nec": {
+		"coastal": "F",
+		"color_code": "#19310E",
+		"county_names": {
+			"Culture1": "Neckar",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"neu": {
+		"coastal": "F",
+		"color_code": "#9577F5",
+		"county_names": {
+			"Culture1": "Neuchatel",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nev": {
+		"coastal": "F",
+		"color_code": "#FAA636",
+		"county_names": {
+			"Culture1": "Nevernais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nho": {
+		"coastal": "T",
+		"color_code": "#287838",
+		"county_names": {
+			"Culture1": "North Holland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nhp": {
+		"coastal": "F",
+		"color_code": "#DCF831",
+		"county_names": {
+			"Culture1": "Northhampton",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nic": {
+		"coastal": "T",
+		"color_code": "#2DBD84",
+		"county_names": {
+			"Culture1": "Nice",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nie": {
+		"coastal": "F",
+		"color_code": "#28C279",
+		"county_names": {
+			"Culture1": "Niederrheim",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nim": {
+		"coastal": "T",
+		"color_code": "#54DD34",
+		"county_names": {
+			"Culture1": "Nimois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"noa": {
+		"coastal": "F",
+		"color_code": "#F6456A",
+		"county_names": {
+			"Culture1": "Novara",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"nor": {
+		"coastal": "T",
+		"color_code": "#CE691D",
+		"county_names": {
+			"Culture1": "Norfolk",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"obe": {
+		"coastal": "F",
+		"color_code": "#E33ECD",
+		"county_names": {
+			"Culture1": "Oberinntal",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"obr": {
+		"coastal": "F",
+		"color_code": "#711651",
+		"county_names": {
+			"Culture1": "Oberwallis",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"obw": {
+		"coastal": "F",
+		"color_code": "#8A967C",
+		"county_names": {
+			"Culture1": "Oberpfalzer Wald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ode": {
+		"coastal": "F",
+		"color_code": "#43196C",
+		"county_names": {
+			"Culture1": "Odenwald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"omm": {
+		"coastal": "T",
+		"color_code": "#F836C8",
+		"county_names": {
+			"Culture1": "Ommelanden",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"orl": {
+		"coastal": "F",
+		"color_code": "#4CFEA2",
+		"county_names": {
+			"Culture1": "Orleansais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"oso": {
+		"coastal": "F",
+		"color_code": "#198EA8",
+		"county_names": {
+			"Culture1": "Osona",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ost": {
+		"coastal": "F",
+		"color_code": "#50F1BE",
+		"county_names": {
+			"Culture1": "Ostwestphalia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ove": {
+		"coastal": "T",
+		"color_code": "#D097B7",
+		"county_names": {
+			"Culture1": "Overijssel",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"oxf": {
+		"coastal": "F",
+		"color_code": "#F18B65",
+		"county_names": {
+			"Culture1": "Oxford",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pad": {
+		"coastal": "F",
+		"color_code": "#5630CE",
+		"county_names": {
+			"Culture1": "Padua",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pal": {
+		"coastal": "F",
+		"color_code": "#19E37C",
+		"county_names": {
+			"Culture1": "Palatinate",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"par": {
+		"coastal": "F",
+		"color_code": "#455280",
+		"county_names": {
+			"Culture1": "Parma",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pat": {
+		"coastal": "T",
+		"color_code": "#298261",
+		"county_names": {
+			"Culture1": "Patrimonio",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pav": {
+		"coastal": "F",
+		"color_code": "#3899B7",
+		"county_names": {
+			"Culture1": "Pavia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pay": {
+		"coastal": "F",
+		"color_code": "#2B246B",
+		"county_names": {
+			"Culture1": "Pays France",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pec": {
+		"coastal": "F",
+		"color_code": "#CA9B9C",
+		"county_names": {
+			"Culture1": "Perche",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"per": {
+		"coastal": "F",
+		"color_code": "#12A890",
+		"county_names": {
+			"Culture1": "Perugia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pia": {
+		"coastal": "F",
+		"color_code": "#167DEA",
+		"county_names": {
+			"Culture1": "Piacenza",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pis": {
+		"coastal": "T",
+		"color_code": "#3D0B84",
+		"county_names": {
+			"Culture1": "Pisa",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"plo": {
+		"coastal": "F",
+		"color_code": "#B1390D",
+		"county_names": {
+			"Culture1": "Ploermel",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pme": {
+		"coastal": "F",
+		"color_code": "#B2EB46",
+		"county_names": {
+			"Culture1": "Pays Messin",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pna": {
+		"coastal": "F",
+		"color_code": "#D35A49",
+		"county_names": {
+			"Culture1": "Pays Nancy",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pon": {
+		"coastal": "T",
+		"color_code": "#B1D484",
+		"county_names": {
+			"Culture1": "Ponthieu",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pri": {
+		"coastal": "F",
+		"color_code": "#CF6C5B",
+		"county_names": {
+			"Culture1": "Perigord",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pth": {
+		"coastal": "F",
+		"color_code": "#9E35C6",
+		"county_names": {
+			"Culture1": "Perthois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pum": {
+		"coastal": "T",
+		"color_code": "#65F839",
+		"county_names": {
+			"Culture1": "Pumonte",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"pun": {
+		"coastal": "T",
+		"color_code": "#1F782D",
+		"county_names": {
+			"Culture1": "Punente",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"que": {
+		"coastal": "F",
+		"color_code": "#2D5A39",
+		"county_names": {
+			"Culture1": "Quercy",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"raz": {
+		"coastal": "F",
+		"color_code": "#2AAFAD",
+		"county_names": {
+			"Culture1": "Razes",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"reg": {
+		"coastal": "F",
+		"color_code": "#D3B3B0",
+		"county_names": {
+			"Culture1": "Reggioem",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rem": {
+		"coastal": "F",
+		"color_code": "#BCA6A5",
+		"county_names": {
+			"Culture1": "Remois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ren": {
+		"coastal": "T",
+		"color_code": "#F04828",
+		"county_names": {
+			"Culture1": "Rennais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ret": {
+		"coastal": "F",
+		"color_code": "#587E3D",
+		"county_names": {
+			"Culture1": "Rethelois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rfl": {
+		"coastal": "F",
+		"color_code": "#21EEF1",
+		"county_names": {
+			"Culture1": "Roman Flanders",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rhv": {
+		"coastal": "F",
+		"color_code": "#82C59B",
+		"county_names": {
+			"Culture1": "Rhine Valley",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rie": {
+		"coastal": "F",
+		"color_code": "#EA01DF",
+		"county_names": {
+			"Culture1": "Ries",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"roe": {
+		"coastal": "F",
+		"color_code": "#6749DB",
+		"county_names": {
+			"Culture1": "Rouergue",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rom": {
+		"coastal": "T",
+		"color_code": "#04C6AB",
+		"county_names": {
+			"Culture1": "Romagna",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ros": {
+		"coastal": "T",
+		"color_code": "#E7A027",
+		"county_names": {
+			"Culture1": "Rosello",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"rou": {
+		"coastal": "T",
+		"color_code": "#7942EC",
+		"county_names": {
+			"Culture1": "Rouennais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ruh": {
+		"coastal": "F",
+		"color_code": "#1EA5D6",
+		"county_names": {
+			"Culture1": "Ruhr",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"saa": {
+		"coastal": "F",
+		"color_code": "#8E720C",
+		"county_names": {
+			"Culture1": "Saale",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sai": {
+		"coastal": "T",
+		"color_code": "#93FD2C",
+		"county_names": {
+			"Culture1": "Saintonge",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sal": {
+		"coastal": "F",
+		"color_code": "#F4F3F9",
+		"county_names": {
+			"Culture1": "Saluzzo",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sar": {
+		"coastal": "F",
+		"color_code": "#28E818",
+		"county_names": {
+			"Culture1": "Sarregueminois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sau": {
+		"coastal": "F",
+		"color_code": "#DAEA60",
+		"county_names": {
+			"Culture1": "Sauerland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sav": {
+		"coastal": "F",
+		"color_code": "#5B1EFC",
+		"county_names": {
+			"Culture1": "Savoy",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sch": {
+		"coastal": "T",
+		"color_code": "#A9A14E",
+		"county_names": {
+			"Culture1": "Schewin",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sen": {
+		"coastal": "F",
+		"color_code": "#94D3D1",
+		"county_names": {
+			"Culture1": "Senonais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sho": {
+		"coastal": "T",
+		"color_code": "#8E07C2",
+		"county_names": {
+			"Culture1": "South Holland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sie": {
+		"coastal": "F",
+		"color_code": "#0B4D61",
+		"county_names": {
+			"Culture1": "Siena",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sle": {
+		"coastal": "T",
+		"color_code": "#B5A08F",
+		"county_names": {
+			"Culture1": "Slesvig",
+			"Germanic": "Sleswig",
+			"Roman": "Sliasvicum",
+			"basque": "Sliasuri",
+			"brithonic": "Caer Slias",
+			"gaelic": "Sliobriga",
+			"gothic": "Sliasweiks",
+			"hispanic": "Sliasica"
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"soi": {
+		"coastal": "F",
+		"color_code": "#3C977A",
+		"county_names": {
+			"Culture1": "Soissonais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"som": {
+		"coastal": "T",
+		"color_code": "#3898D4",
+		"county_names": {
+			"Culture1": "Somerset",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"son": {
+		"coastal": "T",
+		"color_code": "#B5ED38",
+		"county_names": {
+			"Culture1": "Sonderjylland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "Germanic Pagan",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "3.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "T",
+		"terrain": "terrain type"
+	},
+	"spe": {
+		"coastal": "F",
+		"color_code": "#49D760",
+		"county_names": {
+			"Culture1": "Spessart",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"spo": {
+		"coastal": "F",
+		"color_code": "#915740",
+		"county_names": {
+			"Culture1": "Spoleto",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sti": {
+		"coastal": "F",
+		"color_code": "#B3BD4E",
+		"county_names": {
+			"Culture1": "South Tirol",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"suf": {
+		"coastal": "T",
+		"color_code": "#A4BD09",
+		"county_names": {
+			"Culture1": "Suffolk",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Angle",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sur": {
+		"coastal": "F",
+		"color_code": "#2E59A7",
+		"county_names": {
+			"Culture1": "Surrey",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"sus": {
+		"coastal": "T",
+		"color_code": "#6FFE13",
+		"county_names": {
+			"Culture1": "Sussex",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"swa": {
+		"coastal": "F",
+		"color_code": "#B84A42",
+		"county_names": {
+			"Culture1": "Swabian Alb",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"swz": {
+		"coastal": "F",
+		"color_code": "#AE8BC9",
+		"county_names": {
+			"Culture1": "Schwarzwald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tan": {
+		"coastal": "F",
+		"color_code": "#EF998C",
+		"county_names": {
+			"Culture1": "Taunus",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tau": {
+		"coastal": "F",
+		"color_code": "#80494C",
+		"county_names": {
+			"Culture1": "Tauberfranken",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ten": {
+		"coastal": "F",
+		"color_code": "#7FB37C",
+		"county_names": {
+			"Culture1": "Trentino",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ter": {
+		"coastal": "F",
+		"color_code": "#BEDC3F",
+		"county_names": {
+			"Culture1": "Teruel",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"thi": {
+		"coastal": "F",
+		"color_code": "#BE34C9",
+		"county_names": {
+			"Culture1": "Thierache",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"thr": {
+		"coastal": "F",
+		"color_code": "#FA533D",
+		"county_names": {
+			"Culture1": "Thurgau",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"thu": {
+		"coastal": "F",
+		"color_code": "#141945",
+		"county_names": {
+			"Culture1": "Thuringer Becken",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"thw": {
+		"coastal": "F",
+		"color_code": "#8BDD86",
+		"county_names": {
+			"Culture1": "Thuringer Wald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tic": {
+		"coastal": "F",
+		"color_code": "#290A0D",
+		"county_names": {
+			"Culture1": "Ticino",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tol": {
+		"coastal": "F",
+		"color_code": "#007568",
+		"county_names": {
+			"Culture1": "Toulousain",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Visagothic",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tor": {
+		"coastal": "F",
+		"color_code": "#B658A5",
+		"county_names": {
+			"Culture1": "Torino",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tou": {
+		"coastal": "F",
+		"color_code": "#C1E6E3",
+		"county_names": {
+			"Culture1": "Touraine",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tre": {
+		"coastal": "T",
+		"color_code": "#578E9D",
+		"county_names": {
+			"Culture1": "Tregor",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"trn": {
+		"coastal": "F",
+		"color_code": "#4C1D7D",
+		"county_names": {
+			"Culture1": "Turenne",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"tur": {
+		"coastal": "T",
+		"color_code": "#59F002",
+		"county_names": {
+			"Culture1": "Tursan",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ual": {
+		"coastal": "F",
+		"color_code": "#BED0BE",
+		"county_names": {
+			"Culture1": "Upper Alsace",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"uar": {
+		"coastal": "F",
+		"color_code": "#842A47",
+		"county_names": {
+			"Culture1": "Upper Artois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"uau": {
+		"coastal": "F",
+		"color_code": "#C99D5F",
+		"county_names": {
+			"Culture1": "Upper Auvergne",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ube": {
+		"coastal": "F",
+		"color_code": "#B889F2",
+		"county_names": {
+			"Culture1": "Upper Berry",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"uma": {
+		"coastal": "F",
+		"color_code": "#1EC7BD",
+		"county_names": {
+			"Culture1": "Upper Maine",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gallo-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"unr": {
+		"coastal": "F",
+		"color_code": "#CD13CF",
+		"county_names": {
+			"Culture1": "untermain",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"unt": {
+		"coastal": "F",
+		"color_code": "#AB2000",
+		"county_names": {
+			"Culture1": "Unterinntal",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"upo": {
+		"coastal": "F",
+		"color_code": "#563004",
+		"county_names": {
+			"Culture1": "Upper Poitou",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Gaulish",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"urb": {
+		"coastal": "T",
+		"color_code": "#C77E6D",
+		"county_names": {
+			"Culture1": "Urbino",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"urg": {
+		"coastal": "F",
+		"color_code": "#85508E",
+		"county_names": {
+			"Culture1": "Urgell",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vae": {
+		"coastal": "F",
+		"color_code": "#88DDA5",
+		"county_names": {
+			"Culture1": "Valentinois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"val": {
+		"coastal": "T",
+		"color_code": "#FDAF76",
+		"county_names": {
+			"Culture1": "Valencia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"van": {
+		"coastal": "T",
+		"color_code": "#285248",
+		"county_names": {
+			"Culture1": "Vannetails",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breton",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vat": {
+		"coastal": "F",
+		"color_code": "#2854D6",
+		"county_names": {
+			"Culture1": "Valtellina",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vau": {
+		"coastal": "F",
+		"color_code": "#3F23DF",
+		"county_names": {
+			"Culture1": "Vaud",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ved": {
+		"coastal": "F",
+		"color_code": "#5DB274",
+		"county_names": {
+			"Culture1": "Verdunois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vem": {
+		"coastal": "F",
+		"color_code": "#5AF4C7",
+		"county_names": {
+			"Culture1": "Vermandois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ven": {
+		"coastal": "T",
+		"color_code": "#50DDC2",
+		"county_names": {
+			"Culture1": "Venice",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"ver": {
+		"coastal": "F",
+		"color_code": "#03799C",
+		"county_names": {
+			"Culture1": "Verona",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vic": {
+		"coastal": "F",
+		"color_code": "#B48689",
+		"county_names": {
+			"Culture1": "Vicenza",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vie": {
+		"coastal": "F",
+		"color_code": "#BDE306",
+		"county_names": {
+			"Culture1": "Viennois",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"viv": {
+		"coastal": "F",
+		"color_code": "#CC44CE",
+		"county_names": {
+			"Culture1": "Vivarais",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Burgundian",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"voe": {
+		"coastal": "F",
+		"color_code": "#651447",
+		"county_names": {
+			"Culture1": "Vogelsberg",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Thuringians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vog": {
+		"coastal": "F",
+		"color_code": "#0C4272",
+		"county_names": {
+			"Culture1": "Vogtland",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Saxons",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vos": {
+		"coastal": "F",
+		"color_code": "#CF4F40",
+		"county_names": {
+			"Culture1": "Vosges",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"vrb": {
+		"coastal": "F",
+		"color_code": "#CD6F4A",
+		"county_names": {
+			"Culture1": "Vorarlberg",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wds": {
+		"coastal": "F",
+		"color_code": "#89DF3F",
+		"county_names": {
+			"Culture1": "Waldstatte",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wes": {
+		"coastal": "T",
+		"color_code": "#FA2C3F",
+		"county_names": {
+			"Culture1": "Wesermarch1",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Frisians",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wet": {
+		"coastal": "F",
+		"color_code": "#06DBC0",
+		"county_names": {
+			"Culture1": "Wetterau",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wfl": {
+		"coastal": "T",
+		"color_code": "#F8B93D",
+		"county_names": {
+			"Culture1": "West Flanders",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wil": {
+		"coastal": "F",
+		"color_code": "#C29F95",
+		"county_names": {
+			"Culture1": "Wiltshire",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Breto-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wlx": {
+		"coastal": "F",
+		"color_code": "#EF934C",
+		"county_names": {
+			"Culture1": "West Luxembourg",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wsw": {
+		"coastal": "F",
+		"color_code": "#71BD7F",
+		"county_names": {
+			"Culture1": "Westerwald",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Franks",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"wus": {
+		"coastal": "F",
+		"color_code": "#25BB7D",
+		"county_names": {
+			"Culture1": "Western Upper Swabia",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Alemanni",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	},
+	"zar": {
+		"coastal": "F",
+		"color_code": "#DE8591",
+		"county_names": {
+			"Culture1": "Zaragoza",
+			"Germanic": "",
+			"Roman": "",
+			"basque": "",
+			"brithonic": "",
+			"gaelic": "",
+			"gothic": "",
+			"hispanic": ""
+		},
+		"culture": "Hispano-Roman",
+		"faith": "",
+		"infrastrucure": [
+			"this building",
+			"other building",
+			"ect"
+		],
+		"max_infrastrucure": "0.0",
+		"modifiers": [
+			"list of modifiers applied to this region"
+		],
+		"natural_resource": "the type of natural resource ",
+		"river": "F",
+		"terrain": "terrain type"
+	}
+}

@@ -1,0 +1,353 @@
+{
+	"#F32142" : {
+		"county_name" : "Shetland"
+	},
+	"#5604B8": {
+		"county_name" : "Orkney"
+	},
+	"#FEC267": {
+		"county_name" : "Caithness"
+	},
+	"#DA6C64" : {
+		"county-name" : "Sutherland"
+	},
+	"#F56340": {
+		"county_name" : "Rossshire and Cromartyshire"
+	},
+	"#4A834A": {
+		"county_name" : "Invernessshire"
+	},
+	"#D1A3AC": {
+		"county_name" : "Morayshire"
+	},
+	"#AB846A": {
+		"county_name" : "Banffshire"
+	},
+	"#D31DD2": {
+		"county_name" : "Aberdeenshire"
+	},
+	"#9E46BD": {
+		"county_name" : "Nairnshire"
+	},
+	"#E4D7A9": {
+		"county_name" : "Kincardineshire"
+	},
+	"#EF1345": {
+		"county_name" : "Argyllshire"
+	},
+	"#3EE159": {
+		"county_name" : "Angus"
+	},
+	"#C6E355": {
+		"county_name" : "Perthshire"
+	},
+	"#16E170": {
+		"county_name" : "Fife"
+	},
+	"#E045F3": {
+		"county_name" : "Dumbarton"
+	},
+	"#F4812D": {
+		"county_name" : "Stirlingshire"
+	},
+	"#4812C0": {
+		"county_name" : "Kinrossshire"
+	},
+	"#4A45CC": {
+		"county_name" : "Clackmannanshire"
+	},
+	"#A547B9": {
+		"county_name" : "East Lothian"
+	},
+	"#93DE51": {
+		"county_name" : "West Lothian"
+	},
+	"#4E15E1": {
+		"county_name" : "Midlothian"
+	},
+	"#7124A8": {
+		"county_name" : "Renfrewshire"
+	},
+	"#6439BE": {
+		"county_name" : "Buteshire"
+	},
+	"#7C4DA0": {
+		"county_name" : "Lanarkshire"
+	},
+	"#8780CC": {
+		"county_name" : "Berwickshire"
+	},
+	"#056D10": {
+		"county_name" : "Ayrshire"
+	},
+	"#DF0ECA": {
+		"county_name" : "Pebbleshire"
+	},
+	"#42F6C9": {
+		"county_name" : "Northumberland"
+	},
+	"#89237A": {
+		"county_name" : "Roxburghshire"
+	},
+	"#A965F6": {
+		"county_name" : "Selkirkshire"
+	},
+	"#970613": {
+		"county_name" : "Dumfriesshire"
+	},
+	"#D1DBDD": {
+		
+	},
+	"#608E87": {
+		"county_name" : "Kirkcudbrightshire"
+	},
+	"#77A944": {
+		
+	},
+	"#6F20EE": {
+		"county_name" : "Cumberland"
+	},
+	"#0A81CC": {
+		"county_name" : "Wigtownshire"
+	},
+	"#98C5B1": {
+		
+	},
+	"#42D965": {
+		"county_name" : "Durham"
+	},
+	"#DE1AA9": {
+		
+	},
+	"#FEA807": {
+		"county_name" : "Westmorland"
+	},
+	"#312737": {
+		
+	},
+	"#D8C361": {
+		"county_name": "York"
+	},
+	"#882C75": {
+		
+	},
+	"#53BAB8": {
+		
+	},
+	"#C8393A": {
+		
+	},
+	"#D9AE47": {
+		"county_name" : "Mann"
+	},
+	"#3426DC": {
+		
+	},
+	"#951311": {
+		"county_name" : "Lancashire"
+	},
+	"#4BF698": {
+		
+	},
+	"#84AE10": {
+		
+	},
+	"#A15A16": {
+		
+	},
+	"#F0B832": {
+		
+	},
+	"#38940D": {
+		
+	},
+	"#9BC005": {
+		
+	},
+	"#1EE9EB": {
+		
+	},
+	"#17B269": {
+		
+	},
+	"#1817F0": {
+	
+	},
+	"#798301": {
+		"county_name" : "Lincolnshire"
+	},
+	"#C9853F": {
+		
+	},
+	"#F55BF5": {
+		
+	},
+	"#D46A3F": {
+		"county_name" : "Cheshire"
+	},
+	"#025BED": {
+		"county_name" : "Nottinghamshire"
+	},
+	"#22710B": {
+		"county_name" : "Derbyshire"
+	},
+	"#EC37F4": {
+		"county_name" : "Yns Mon"
+	},
+	"#B58441": {
+		
+	},
+	"#C6808F": {
+		
+	},
+	"#41EA33": {
+		"county_name" : "Flintshire"
+	},
+	"#28651D": {
+		
+	},
+	"#6EF45F": {
+		
+	},
+	"#1D3FBF": {
+		"county_name" : "Caenorfonshire"
+	},
+	"#FC53A2": {
+		"county_name" : "Denbighshire"
+	},
+	"#AAB8D5": {
+		"county_name" : "Staffordshire"
+	},
+	"#08A352": {
+		
+	},
+	"#909CBA": {
+		
+	},
+	"#A2E86D": {
+		"county_name" : "Merioneth"
+	},
+	"#7EEC53": {
+		"county_name" : "Norfolk"
+	},
+	"#5D9C3E": {
+		"county_name" : "Shropshire"
+	},
+	"#5716E1": {
+		"county_name" : "Leicesterchire"
+	},
+	"#E3C536": {
+		
+	},
+	"#9B6AAB": {
+		
+	},
+	"#AFC99F": {
+		"county_name" : "Montgomeryshire"
+	},
+	"#136569": {
+		
+	},
+	"#D93663": {
+		"county_name" : "Rutland"
+	},
+	"#81DA8F": {
+		"county_name" : "Cambridgeshire"
+	},
+	"#CB903F": {
+		"county_name" : "Northhamptonshire"
+	},
+	"#82A302": {
+		"county_name" : "Warwickshire"
+	},
+	"#C21ECD": {
+		"county_name" : "Suffolk"
+	},
+	"#394403": {
+		
+	},
+	"#3D0B34": {
+		"county_name" : "Huntingdonshire"
+	},
+	"#8B0E16": {
+		"county_name" : "Cardiganshire"
+	},
+	"#44A14C": {
+		
+	},
+	"#3A32AA": {
+		"county_name" : "Worcestershire"
+	},
+	"#DF15EA": {
+		"county_name" : "Radnorshire"
+	},
+	"#325AEF": {
+		"county_name" : "Herefordshire"
+	},
+	"#7220BB": {
+		"county_name" : "Bedfordshire"
+	},
+	"#301D2B": {
+		
+	},
+	"#E61E2A": {
+		"county_name" : "Buckinghamshire"
+	},
+	"#3CBCAB": {
+		"county_name" : "Gloucestershire"
+	},
+	"#B0ED29": {
+		"county_name" : "Oxfordshire"
+	},
+	"#C1B4FD": {
+		"county_name" : "Catmarthenshire"
+	},
+	"#4FB0D9": {
+		"county_name" : "Essex"
+	},
+	"#0B5DC4": {
+		"county_name" : "Pembrokeshire"
+	},
+	"#7C4B5D": {
+		"county_name" : "Hertfordshire"
+	},
+	"#6E0FB6": {
+		"county_name" : "Monmonthshire"
+	},
+	"#CE98D3": {
+		"county_name" : "Glamorgan"
+	},
+	"#693FB1": {
+		"county_name" : "Berkshire"
+	},
+	"#EA9C4C": {
+		"county_name" : "Middlesex"
+	},
+	"#1554FD": {
+		"county_name" : "Wiltshire"
+	},
+	"#C32595": {
+		"county_name" : "Kent"
+	},
+	"#1864FE": {
+		"county_name" : "Surrey"
+	},
+	"#75C681": {
+		"county_name" : "Somerset"
+	},
+	"#F0FEDC": {
+		"county_name" : "Hampshire"
+	},
+	"#EE85E5": {
+		"county_name" : "Devon"
+	},
+	"#727118": {
+		"county_name" : "Sussex"
+	},
+	"#CD5AC8": {
+		"county_name" : "Dorset"
+	},
+	"#787AB8": {
+		"county_name" : "Cornwall"
+	}
+}

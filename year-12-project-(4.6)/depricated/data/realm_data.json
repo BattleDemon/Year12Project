@@ -1,0 +1,25 @@
+{
+    "REALM CODE - XXX":
+    {
+        "realm_name" : "COUNTRY/REALM NAME",
+        "color" : "HEX CODE",
+
+        "ruler" : {
+            "name" : "name of ruler",
+            "dynasty" : "family or dynasty",
+            "title" : "title of ruler"
+        },
+
+        "professional_armies" : [
+
+        ],
+
+        "realm_lvl" : "aka: tributary, chiefdom, king, empire idk",
+        "admin_type" : "chief, roman, other idk",
+
+        "capitol" : "code of county where capitol is located",
+        "realm" : [
+            "List of countys in realm"
+        ]
+    }
+}

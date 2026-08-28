@@ -1,0 +1,37 @@
+{
+    "REALM CODE - XXX":
+    {
+        "realm_name" : "COUNTRY/REALM NAME",
+        "color" : "HEX CODE",
+
+        "ruler" : {
+            "name" : "name of ruler",
+            "dynasty" : "family or dynasty - Points to a family tree used to calculate inheritance ect",
+            "title" : "title of ruler",
+            "faith" : "faith of ruler",
+            "culture" : "culture of ruler",
+            "start_reign" : "ddmmyyyy",
+            "character_code" : "xxxxxxxx"
+        },
+
+        "realm_history" : [
+            {
+                "name" : "name of ruler",
+                "dynasty" : "family or dynasty",
+                "title" : "title of ruler",
+                "faith" : "faith of ruler",
+                "culture" : "culture of ruler",
+                "start_reign" : "ddmmyyyy",
+                "end_reign" : "ddmmyyyy"
+            }
+        ],
+
+        "realm_level" : "aka: tributary, chiefdom, king, empire idk",
+        "admin_type" : "Tribal, Roman, Feudal",
+
+        "capitol" : "code of region where capitol is located",
+        "realm" : [
+            "List of region in realm"
+        ]
+    }
+}

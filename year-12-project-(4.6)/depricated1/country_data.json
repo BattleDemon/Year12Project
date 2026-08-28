@@ -1,0 +1,7870 @@
+{
+	"#hexcode of color on map that corresponds to this region" : {
+		"county_code": "XXX  -  letter country code",
+
+		"county_names": {
+			"Culture1" : "name in culture",
+			"Culture2" : "name in this culture",
+			"ect" : "ect"
+		},
+
+		"culture" : "The culture of the region",
+        "faith" : "The faith of the region",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B5ED38" : {
+		"county_code": "son",
+
+		"county_names": {
+			"Culture1" : "Sonderjylland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B5A08F" : {
+		"county_code": "sle",
+
+		"county_names": {
+			"Culture1" : "Slesvig",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#244FAE" : {
+		"county_code": "lub",
+
+		"county_names": {
+			"Culture1" : "Lubeck",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B4280E" : {
+		"county_code": "hol",
+
+		"county_names": {
+			"Culture1" : "Holstein",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A9A14E" : {
+		"county_code": "sch",
+
+		"county_names": {
+			"Culture1" : "Schewin",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#06BC9F" : {
+		"county_code": "elb",
+
+		"county_names": {
+			"Culture1" : "Elbmarch",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4AB2B3" : {
+		"county_code": "efr",
+
+		"county_names": {
+			"Culture1" : "East Friesland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FA2C3F" : {
+		"county_code": "wes",
+
+		"county_names": {
+			"Culture1" : "Wesermarch1",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F836C8" : {
+		"county_code": "omm",
+
+		"county_names": {
+			"Culture1" : "Ommelanden",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0E851E" : {
+		"county_code": "lbu",
+
+		"county_names": {
+			"Culture1" : "Luneburger Heide",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#71C8FF" : {
+		"county_code": "fri",
+
+		"county_names": {
+			"Culture1" : "Friesland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F38317" : {
+		"county_code": "all",
+
+		"county_names": {
+			"Culture1" : "Aller",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4EB877" : {
+		"county_code": "dre",
+
+		"county_names": {
+			"Culture1" : "Drenthe",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F887D9" : {
+		"county_code": "ems",
+
+		"county_names": {
+			"Culture1" : "Emsland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#287838" : {
+		"county_code": "nho",
+
+		"county_names": {
+			"Culture1" : "North Holland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F3BB94" : {
+		"county_code": "alt",
+
+		"county_names": {
+			"Culture1" : "Altmark",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BCF53D" : {
+		"county_code": "mwe",
+
+		"county_names": {
+			"Culture1" : "Middle Weser",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CE691D" : {
+		"county_code": "nor",
+
+		"county_names": {
+			"Culture1" : "Norfolk",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D097B7" : {
+		"county_code": "ove",
+
+		"county_names": {
+			"Culture1" : "Overijssel",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#180E7A" : {
+		"county_code": "mab",
+
+		"county_names": {
+			"Culture1" : "Magdeburger Borde",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#73563C" : {
+		"county_code": "cam",
+
+		"county_names": {
+			"Culture1" : "Cambridge",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#99335B" : {
+		"county_code": "han",
+
+		"county_names": {
+			"Culture1" : "Hanover",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DCF831" : {
+		"county_code": "nhp",
+
+		"county_names": {
+			"Culture1" : "Northhampton",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AB5AED" : {
+		"county_code": "bru",
+
+		"county_names": {
+			"Culture1" : "Brunswick",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A4BD09" : {
+		"county_code": "suf",
+
+		"county_names": {
+			"Culture1" : "Suffolk",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#50F1BE" : {
+		"county_code": "ost",
+
+		"county_names": {
+			"Culture1" : "Ostwestphalia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1D9EE2" : {
+		"county_code": "gel",
+
+		"county_names": {
+			"Culture1" : "Gelderland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1C9E52" : {
+		"county_code": "Bed",
+
+		"county_names": {
+			"Culture1" : "Bedfordshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8E07C2" : {
+		"county_code": "sho",
+
+		"county_names": {
+			"Culture1" : "South Holland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3AB263" : {
+		"county_code": "mun",
+
+		"county_names": {
+			"Culture1" : "Munsterland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#829E2E" : {
+		"county_code": "buc",
+
+		"county_names": {
+			"Culture1" : "Buckinghamshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#18B573" : {
+		"county_code": "lip",
+
+		"county_names": {
+			"Culture1" : "Lippe",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D6D48E" : {
+		"county_code": "glo",
+
+		"county_names": {
+			"Culture1" : "Gloucesteshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C5C03E" : {
+		"county_code": "har",
+
+		"county_names": {
+			"Culture1" : "Harz",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F18B65" : {
+		"county_code": "oxf",
+
+		"county_names": {
+			"Culture1" : "Oxford",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#35C753" : {
+		"county_code": "ess",
+
+		"county_names": {
+			"Culture1" : "Essex",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#95803C" : {
+		"county_code": "her",
+
+		"county_names": {
+			"Culture1" : "Hertfordshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AA34C7" : {
+		"county_code": "lei",
+
+		"county_names": {
+			"Culture1" : "Leine",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#28C279" : {
+		"county_code": "nie",
+
+		"county_names": {
+			"Culture1" : "Niederrheim",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#60C00F" : {
+		"county_code": "kem",
+
+		"county_names": {
+			"Culture1" : "Kempenland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1EA5D6" : {
+		"county_code": "ruh",
+
+		"county_names": {
+			"Culture1" : "Ruhr",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6822DB" : {
+		"county_code": "ber",
+
+		"county_names": {
+			"Culture1" : "Berkshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8E720C" : {
+		"county_code": "saa",
+
+		"county_names": {
+			"Culture1" : "Saale",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#349EB4" : {
+		"county_code": "mid",
+
+		"county_names": {
+			"Culture1" : "Middlesex",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C29F95" : {
+		"county_code": "wil",
+
+		"county_names": {
+			"Culture1" : "Wiltshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CEF8DE" : {
+		"county_code": "ant",
+
+		"county_names": {
+			"Culture1" : "Antwerp",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D4E1BC" : {
+		"county_code": "lib",
+
+		"county_names": {
+			"Culture1" : "Limburg",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DAEA60" : {
+		"county_code": "sau",
+
+		"county_names": {
+			"Culture1" : "Sauerland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B56DF6" : {
+		"county_code": "hes",
+
+		"county_names": {
+			"Culture1" : "Hessen Bergland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3898D4" : {
+		"county_code": "som",
+
+		"county_names": {
+			"Culture1" : "Somerset",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F58C33" : {
+		"county_code": "ken",
+
+		"county_names": {
+			"Culture1" : "Kent",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#141945" : {
+		"county_code": "thu",
+
+		"county_names": {
+			"Culture1" : "Thuringer Becken",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2E59A7" : {
+		"county_code": "sur",
+
+		"county_names": {
+			"Culture1" : "Surrey",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F8B93D" : {
+		"county_code": "wfl",
+
+		"county_names": {
+			"Culture1" : "West Flanders",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#94E1FD" : {
+		"county_code": "kol",
+
+		"county_names": {
+			"Culture1" : "Koln Bucht",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F8B10C" : {
+		"county_code": "efl",
+
+		"county_names": {
+			"Culture1" : "East Flanders",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1A0E3C" : {
+		"county_code": "ham",
+
+		"county_names": {
+			"Culture1" : "Hampshire",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9C1FFB" : {
+		"county_code": "loo",
+
+		"county_names": {
+			"Culture1" : "loon",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2B4FC1" : {
+		"county_code": "bgs",
+
+		"county_names": {
+			"Culture1" : "Bergisches Land",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6CD6EA" : {
+		"county_code": "dev",
+
+		"county_names": {
+			"Culture1" : "Devon",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#867C69" : {
+		"county_code": "jul",
+
+		"county_names": {
+			"Culture1" : "Julich",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D8D52C" : {
+		"county_code": "dor",
+
+		"county_names": {
+			"Culture1" : "Dorset",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6FFE13" : {
+		"county_code": "sus",
+
+		"county_names": {
+			"Culture1" : "Sussex",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8BDD86" : {
+		"county_code": "thw",
+
+		"county_names": {
+			"Culture1" : "Thuringer Wald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#49A237" : {
+		"county_code": "bra",
+
+		"county_names": {
+			"Culture1" : "Brabant",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B1D484" : {
+		"county_code": "pon",
+
+		"county_names": {
+			"Culture1" : "Ponthieu",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#651447" : {
+		"county_code": "voe",
+
+		"county_names": {
+			"Culture1" : "Vogelsberg",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0C4272" : {
+		"county_code": "vog",
+
+		"county_names": {
+			"Culture1" : "Vogtland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#76734F" : {
+		"county_code": "Cor",
+
+		"county_names": {
+			"Culture1" : "Cornwall",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#71BD7F" : {
+		"county_code": "wsw",
+
+		"county_names": {
+			"Culture1" : "Westerwald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#842A47" : {
+		"county_code": "uar",
+
+		"county_names": {
+			"Culture1" : "Upper Artois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#EF998C" : {
+		"county_code": "tan",
+
+		"county_names": {
+			"Culture1" : "Taunus",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DD008E" : {
+		"county_code": "lie",
+
+		"county_names": {
+			"Culture1" : "Liege",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#261110" : {
+		"county_code": "hai",
+
+		"county_names": {
+			"Culture1" : "Hainaut",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#21EEF1" : {
+		"county_code": "rfl",
+
+		"county_names": {
+			"Culture1" : "Roman Flanders",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#06DBC0" : {
+		"county_code": "wet",
+
+		"county_names": {
+			"Culture1" : "Wetterau",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E76156" : {
+		"county_code": "nam",
+
+		"county_names": {
+			"Culture1" : "Namur",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0C3CA7" : {
+		"county_code": "eif",
+
+		"county_names": {
+			"Culture1" : "Eifel",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#7A2FBC" : {
+		"county_code": "maf",
+
+		"county_names": {
+			"Culture1" : "Main Franconia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#848FEC" : {
+		"county_code": "lar",
+
+		"county_names": {
+			"Culture1" : "Lower Artois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#92331A" : {
+		"county_code": "fra",
+
+		"county_names": {
+			"Culture1" : "Frakenwald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#EF934C" : {
+		"county_code": "wlx",
+
+		"county_names": {
+			"Culture1" : "West Luxembourg",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#49D760" : {
+		"county_code": "spe",
+
+		"county_names": {
+			"Culture1" : "Spessart",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#041689" : {
+		"county_code": "frs",
+
+		"county_names": {
+			"Culture1" : "Frankische Schweiz",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8A46C4" : {
+		"county_code": "ami",
+
+		"county_names": {
+			"Culture1" : "Amienois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E43F9C" : {
+		"county_code": "elx",
+
+		"county_names": {
+			"Culture1" : "East Luxembourg",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CD13CF" : {
+		"county_code": "unr",
+
+		"county_names": {
+			"Culture1" : "untermain",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5AF4C7" : {
+		"county_code": "vem",
+
+		"county_names": {
+			"Culture1" : "Vermandois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#39AAA3" : {
+		"county_code": "cau",
+
+		"county_names": {
+			"Culture1" : "Caux",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BE34C9" : {
+		"county_code": "thi",
+
+		"county_names": {
+			"Culture1" : "Thierache",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9C8798" : {
+		"county_code": "hun",
+
+		"county_names": {
+			"Culture1" : "Hunsruck",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#587E3D" : {
+		"county_code": "ret",
+
+		"county_names": {
+			"Culture1" : "Rethelois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#43196C" : {
+		"county_code": "ode",
+
+		"county_names": {
+			"Culture1" : "Odenwald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8A967C" : {
+		"county_code": "obw",
+
+		"county_names": {
+			"Culture1" : "Oberpfalzer Wald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#80494C" : {
+		"county_code": "tau",
+
+		"county_names": {
+			"Culture1" : "Tauberfranken",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#7942EC" : {
+		"county_code": "rou",
+
+		"county_names": {
+			"Culture1" : "Rouennais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BB5B4E" : {
+		"county_code": "cot",
+
+		"county_names": {
+			"Culture1" : "Cotentin",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#19E37C" : {
+		"county_code": "pal",
+
+		"county_names": {
+			"Culture1" : "Palatinate",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3C977A" : {
+		"county_code": "soi",
+
+		"county_names": {
+			"Culture1" : "Soissonais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#EA01DF" : {
+		"county_code": "rie",
+
+		"county_names": {
+			"Culture1" : "Ries",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B872B3" : {
+		"county_code": "beu",
+
+		"county_names": {
+			"Culture1" : "Beauvaisis",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5DB274" : {
+		"county_code": "ved",
+
+		"county_names": {
+			"Culture1" : "Verdunois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BCA6A5" : {
+		"county_code": "rem",
+
+		"county_names": {
+			"Culture1" : "Remois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B2EB46" : {
+		"county_code": "pme",
+
+		"county_names": {
+			"Culture1" : "Pays Messin",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B7EE5F" : {
+		"county_code": "kra",
+
+		"county_names": {
+			"Culture1" : "kraichgau",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#ED427C" : {
+		"county_code": "fal",
+
+		"county_names": {
+			"Culture1" : "Franconian Alb",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4FD3C6" : {
+		"county_code": "cae",
+
+		"county_names": {
+			"Culture1" : "Caennais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4DD85F" : {
+		"county_code": "brr",
+
+		"county_names": {
+			"Culture1" : "Barrois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6CD350" : {
+		"county_code": "ebr",
+
+		"county_names": {
+			"Culture1" : "Ebroicien",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5A7154" : {
+		"county_code": "hoh",
+
+		"county_names": {
+			"Culture1" : "Hohenloher Edene",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#28E818" : {
+		"county_code": "sar",
+
+		"county_names": {
+			"Culture1" : "Sarregueminois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#7982D7" : {
+		"county_code": "brc",
+
+		"county_names": {
+			"Culture1" : "Brie Champenois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2B246B" : {
+		"county_code": "pay",
+
+		"county_names": {
+			"Culture1" : "Pays France",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8EFF3D" : {
+		"county_code": "dom",
+
+		"county_names": {
+			"Culture1" : "Donaus Moos",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#7D2845" : {
+		"county_code": "lal",
+
+		"county_names": {
+			"Culture1" : "Lower Alsace",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#19310E" : {
+		"county_code": "nec",
+
+		"county_names": {
+			"Culture1" : "Neckar",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#82C59B" : {
+		"county_code": "rhv",
+
+		"county_names": {
+			"Culture1" : "Rhine Valley",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AE8BC9" : {
+		"county_code": "swz",
+
+		"county_names": {
+			"Culture1" : "Schwarzwald",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DE128C" : {
+		"county_code": "gat",
+
+		"county_names": {
+			"Culture1" : "Gatinais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9E35C6" : {
+		"county_code": "pth",
+
+		"county_names": {
+			"Culture1" : "Perthois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#578E9D" : {
+		"county_code": "tre",
+
+		"county_names": {
+			"Culture1" : "Tregor",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D35A49" : {
+		"county_code": "pna",
+
+		"county_names": {
+			"Culture1" : "Pays Nancy",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D46375" : {
+		"county_code": "cha",
+
+		"county_names": {
+			"Culture1" : "Chartrain",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CA9B9C" : {
+		"county_code": "pec",
+
+		"county_names": {
+			"Culture1" : "Perche",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B84A42" : {
+		"county_code": "swa",
+
+		"county_names": {
+			"Culture1" : "Swabian Alb",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D819C9" : {
+		"county_code": "eus",
+
+		"county_names": {
+			"Culture1" : "Eastern Upper Swabia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F04828" : {
+		"county_code": "ren",
+
+		"county_names": {
+			"Culture1" : "Rennais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0D876B" : {
+		"county_code": "mus",
+
+		"county_names": {
+			"Culture1" : "Munchner Schottereben",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#97F927" : {
+		"county_code": "bss",
+
+		"county_names": {
+			"Culture1" : "Bassigny",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1B3CE7" : {
+		"county_code": "chm",
+
+		"county_names": {
+			"Culture1" : "Champagne",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DDB0CE" : {
+		"county_code": "lma",
+
+		"county_names": {
+			"Culture1" : "Lower Maine",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CF4F40" : {
+		"county_code": "vos",
+
+		"county_names": {
+			"Culture1" : "Vosges",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BDDBC4" : {
+		"county_code": "crn",
+
+		"county_names": {
+			"Culture1" : "Cornuaille",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1EC7BD" : {
+		"county_code": "uma",
+
+		"county_names": {
+			"Culture1" : "Upper Maine",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#94D3D1" : {
+		"county_code": "sen",
+
+		"county_names": {
+			"Culture1" : "Senonais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B1390D" : {
+		"county_code": "plo",
+
+		"county_names": {
+			"Culture1" : "Ploermel",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BED0BE" : {
+		"county_code": "ual",
+
+		"county_names": {
+			"Culture1" : "Upper Alsace",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#61BBCC" : {
+		"county_code": "blo",
+
+		"county_names": {
+			"Culture1" : "Blois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4CFEA2" : {
+		"county_code": "orl",
+
+		"county_names": {
+			"Culture1" : "Orleansais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#25BB7D" : {
+		"county_code": "wus",
+
+		"county_names": {
+			"Culture1" : "Western Upper Swabia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F89792" : {
+		"county_code": "aux",
+
+		"county_names": {
+			"Culture1" : "Auxerrois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B73F7D" : {
+		"county_code": "alg",
+
+		"county_names": {
+			"Culture1" : "Allgua",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#285248" : {
+		"county_code": "van",
+
+		"county_names": {
+			"Culture1" : "Vannetails",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#73CA9A" : {
+		"county_code": "amo",
+
+		"county_names": {
+			"Culture1" : "Amont",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3600E0" : {
+		"county_code": "anj",
+
+		"county_names": {
+			"Culture1" : "Anjou",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#EE7374" : {
+		"county_code": "heg",
+
+		"county_names": {
+			"Culture1" : "Hegau",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F5EFF2" : {
+		"county_code": "alp",
+
+		"county_names": {
+			"Culture1" : "Alpenvorland",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#69053E" : {
+		"county_code": "nan",
+
+		"county_names": {
+			"Culture1" : "Nantais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B889F2" : {
+		"county_code": "ube",
+
+		"county_names": {
+			"Culture1" : "Upper Berry",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FA533D" : {
+		"county_code": "thr",
+
+		"county_names": {
+			"Culture1" : "Thurgau",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AB2000" : {
+		"county_code": "unt",
+
+		"county_names": {
+			"Culture1" : "Unterinntal",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FAA636" : {
+		"county_code": "nev",
+
+		"county_names": {
+			"Culture1" : "Nevernais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C1E6E3" : {
+		"county_code": "tou",
+
+		"county_names": {
+			"Culture1" : "Touraine",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#32F9D1" : {
+		"county_code": "dij",
+
+		"county_names": {
+			"Culture1" : "Dijonnais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5CDC9B" : {
+		"county_code": "aar",
+
+		"county_names": {
+			"Culture1" : "Aargua",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9577F5" : {
+		"county_code": "neu",
+
+		"county_names": {
+			"Culture1" : "Neuchatel",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CD6F4A" : {
+		"county_code": "vrb",
+
+		"county_names": {
+			"Culture1" : "Vorarlberg",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E33ECD" : {
+		"county_code": "obe",
+
+		"county_names": {
+			"Culture1" : "Oberinntal",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#417D7F" : {
+		"county_code": "mil",
+
+		"county_names": {
+			"Culture1" : "Millieu",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#ED090D" : {
+		"county_code": "ben",
+
+		"county_names": {
+			"Culture1" : "Bern",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B3BD4E" : {
+		"county_code": "sti",
+
+		"county_names": {
+			"Culture1" : "South Tirol",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#68BA05" : {
+		"county_code": "lbe",
+
+		"county_names": {
+			"Culture1" : "Lower Berry",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#89DF3F" : {
+		"county_code": "wds",
+
+		"county_names": {
+			"Culture1" : "Waldstatte",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2A95ED" : {
+		"county_code": "aut",
+
+		"county_names": {
+			"Culture1" : "Autunnais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0AF697" : {
+		"county_code": "lop",
+
+		"county_names": {
+			"Culture1" : "Lower Poitou",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0EE6CD" : {
+		"county_code": "ava",
+
+		"county_names": {
+			"Culture1" : "Aval",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A274E7" : {
+		"county_code": "gra",
+
+		"county_names": {
+			"Culture1" : "Graubunden",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3F23DF" : {
+		"county_code": "vau",
+
+		"county_names": {
+			"Culture1" : "Vaud",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#563004" : {
+		"county_code": "upo",
+
+		"county_names": {
+			"Culture1" : "Upper Poitou",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AA7BF3" : {
+		"county_code": "bou",
+
+		"county_names": {
+			"Culture1" : "Bourbon",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#711651" : {
+		"county_code": "obr",
+
+		"county_names": {
+			"Culture1" : "Oberwallis",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BBCC38" : {
+		"county_code": "bel",
+
+		"county_names": {
+			"Culture1" : "Belluno",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2854D6" : {
+		"county_code": "vat",
+
+		"county_names": {
+			"Culture1" : "Valtellina",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#77F056" : {
+		"county_code": "lam",
+
+		"county_names": {
+			"Culture1" : "La Marche",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#290A0D" : {
+		"county_code": "tic",
+
+		"county_names": {
+			"Culture1" : "Ticino",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4E377D" : {
+		"county_code": "brs",
+
+		"county_names": {
+			"Culture1" : "Bresse",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#7FB37C" : {
+		"county_code": "ten",
+
+		"county_names": {
+			"Culture1" : "Trentino",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5B1EFC" : {
+		"county_code": "sav",
+
+		"county_names": {
+			"Culture1" : "Savoy",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#93FD2C" : {
+		"county_code": "sai",
+
+		"county_names": {
+			"Culture1" : "Saintonge",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#02953F" : {
+		"county_code": "bre",
+
+		"county_names": {
+			"Culture1" : "Brescia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#509C3C" : {
+		"county_code": "cmb",
+
+		"county_names": {
+			"Culture1" : "Combraille",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F6456A" : {
+		"county_code": "noa",
+
+		"county_names": {
+			"Culture1" : "Novara",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#967410" : {
+		"county_code": "Bej",
+
+		"county_names": {
+			"Culture1" : "Beujolais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4C434D" : {
+		"county_code": "lyo",
+
+		"county_names": {
+			"Culture1" : "Lyonnais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D083DB" : {
+		"county_code": "aos",
+
+		"county_names": {
+			"Culture1" : "Aosta",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#EC1793" : {
+		"county_code": "lim",
+
+		"county_names": {
+			"Culture1" : "Limousin1",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#60FD54" : {
+		"county_code": "moz",
+
+		"county_names": {
+			"Culture1" : "Monza",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B0545E" : {
+		"county_code": "lau",
+
+		"county_names": {
+			"Culture1" : "Lower Auvergne",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BB230B" : {
+		"county_code": "beg",
+
+		"county_names": {
+			"Culture1" : "",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E83135" : {
+		"county_code": "ang",
+
+		"county_names": {
+			"Culture1" : "Angouleme",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D4D2EC" : {
+		"county_code": "min",
+
+		"county_names": {
+			"Culture1" : "Milano",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#50DDC2" : {
+		"county_code": "ven",
+
+		"county_names": {
+			"Culture1" : "Venice",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B48689" : {
+		"county_code": "vic",
+
+		"county_names": {
+			"Culture1" : "Vicenza",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BDE306" : {
+		"county_code": "vie",
+
+		"county_names": {
+			"Culture1" : "Viennois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#4C1D7D" : {
+		"county_code": "trn",
+
+		"county_names": {
+			"Culture1" : "Turenne",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#03799C" : {
+		"county_code": "ver",
+
+		"county_names": {
+			"Culture1" : "Verona",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#B658A5" : {
+		"county_code": "tor",
+
+		"county_names": {
+			"Culture1" : "Torino",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#5630CE" : {
+		"county_code": "pad",
+
+		"county_names": {
+			"Culture1" : "Padua",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#64D92C" : {
+		"county_code": "bor",
+
+		"county_names": {
+			"Culture1" : "Bordelais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#159664" : {
+		"county_code": "cre",
+
+		"county_names": {
+			"Culture1" : "Cremona",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#71E641" : {
+		"county_code": "gre",
+
+		"county_names": {
+			"Culture1" : "Gresivaudan",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CF6C5B" : {
+		"county_code": "pri",
+
+		"county_names": {
+			"Culture1" : "Perigord",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C99D5F" : {
+		"county_code": "uau",
+
+		"county_names": {
+			"Culture1" : "Upper Auvergne",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3899B7" : {
+		"county_code": "pav",
+
+		"county_names": {
+			"Culture1" : "Pavia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E08F77" : {
+		"county_code": "mon",
+
+		"county_names": {
+			"Culture1" : "Monferrato",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C796F7" : {
+		"county_code": "man",
+
+		"county_names": {
+			"Culture1" : "Mantua",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CC44CE" : {
+		"county_code": "viv",
+
+		"county_names": {
+			"Culture1" : "Vivarais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0D84F8" : {
+		"county_code": "fer",
+
+		"county_names": {
+			"Culture1" : "Ferrara",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#167DEA" : {
+		"county_code": "pia",
+
+		"county_names": {
+			"Culture1" : "Piacenza",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F4F3F9" : {
+		"county_code": "sal",
+
+		"county_names": {
+			"Culture1" : "Saluzzo",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#60A089" : {
+		"county_code": "ale",
+
+		"county_names": {
+			"Culture1" : "Alessandria",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2D5A39" : {
+		"county_code": "que",
+
+		"county_names": {
+			"Culture1" : "Quercy",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#88DDA5" : {
+		"county_code": "vae",
+
+		"county_names": {
+			"Culture1" : "Valentinois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D3B3B0" : {
+		"county_code": "reg",
+
+		"county_names": {
+			"Culture1" : "Reggioem",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#455280" : {
+		"county_code": "par",
+
+		"county_names": {
+			"Culture1" : "Parma",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0DFCA6" : {
+		"county_code": "gev",
+
+		"county_names": {
+			"Culture1" : "Gevaudan",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#83AB78" : {
+		"county_code": "bol",
+
+		"county_names": {
+			"Culture1" : "Bologna",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6749DB" : {
+		"county_code": "roe",
+
+		"county_names": {
+			"Culture1" : "Rouergue",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F51571" : {
+		"county_code": "baz",
+
+		"county_names": {
+			"Culture1" : "Bazadais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#718AD7" : {
+		"county_code": "age",
+
+		"county_names": {
+			"Culture1" : "Agenais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3146ED" : {
+		"county_code": "mod",
+
+		"county_names": {
+			"Culture1" : "Modena",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#249685" : {
+		"county_code": "mod",
+
+		"county_names": {
+			"Culture1" : "Mondovi",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#67739A" : {
+		"county_code": "lev",
+
+		"county_names": {
+			"Culture1" : "Levante",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1F782D" : {
+		"county_code": "pun",
+
+		"county_names": {
+			"Culture1" : "Punente",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#04C6AB" : {
+		"county_code": "rom",
+
+		"county_names": {
+			"Culture1" : "Romagna",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6FB10F" : {
+		"county_code": "dig",
+
+		"county_names": {
+			"Culture1" : "Dignois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#59F002" : {
+		"county_code": "tur",
+
+		"county_names": {
+			"Culture1" : "Tursan",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CA7DA4" : {
+		"county_code": "luc",
+
+		"county_names": {
+			"Culture1" : "Lucca",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#54DD34" : {
+		"county_code": "nim",
+
+		"county_names": {
+			"Culture1" : "Nimois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#354452" : {
+		"county_code": "avi",
+
+		"county_names": {
+			"Culture1" : "Avignonnais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2DBD84" : {
+		"county_code": "nic",
+
+		"county_names": {
+			"Culture1" : "Nice",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CA14C0" : {
+		"county_code": "arm",
+
+		"county_names": {
+			"Culture1" : "Armagnac",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#D3F6D1" : {
+		"county_code": "flo",
+
+		"county_names": {
+			"Culture1" : "Florence",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0BBB9B" : {
+		"county_code": "cat",
+
+		"county_names": {
+			"Culture1" : "Castres",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#007568" : {
+		"county_code": "tol",
+
+		"county_names": {
+			"Culture1" : "Toulousain",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C77E6D" : {
+		"county_code": "urb",
+
+		"county_names": {
+			"Culture1" : "Urbino",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9CB544" : {
+		"county_code": "aqu",
+
+		"county_names": {
+			"Culture1" : "Aquisextain",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#399357" : {
+		"county_code": "nab",
+
+		"county_names": {
+			"Culture1" : "Navbonnais",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A9B953" : {
+		"county_code": "are",
+
+		"county_names": {
+			"Culture1" : "Arezzo",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3D0B84" : {
+		"county_code": "pis",
+
+		"county_names": {
+			"Culture1" : "Pisa",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#C81FC9" : {
+		"county_code": "dra",
+
+		"county_names": {
+			"Culture1" : "Dracenois",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0DD4B4" : {
+		"county_code": "mar",
+
+		"county_names": {
+			"Culture1" : "Marche",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#12A890" : {
+		"county_code": "per",
+
+		"county_names": {
+			"Culture1" : "Perugia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#9AED52" : {
+		"county_code": "bea",
+
+		"county_names": {
+			"Culture1" : "Bearn Bigorre",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A18E41" : {
+		"county_code": "com",
+
+		"county_names": {
+			"Culture1" : "Comminges",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#8BE9DA" : {
+		"county_code": "bay",
+
+		"county_names": {
+			"Culture1" : "Bayonne",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#2AAFAD" : {
+		"county_code": "raz",
+
+		"county_names": {
+			"Culture1" : "Razes",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#0B4D61" : {
+		"county_code": "sie",
+
+		"county_names": {
+			"Culture1" : "Siena",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#00A803" : {
+		"county_code": "gip",
+
+		"county_names": {
+			"Culture1" : "Gipuzkoa",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#915740" : {
+		"county_code": "spo",
+
+		"county_names": {
+			"Culture1" : "Spoleto",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#A6A58B" : {
+		"county_code": "nar",
+
+		"county_names": {
+			"Culture1" : "Narvarre",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E0210A" : {
+		"county_code": "foi",
+
+		"county_names": {
+			"Culture1" : "Foix",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#824051" : {
+		"county_code": "gro",
+
+		"county_names": {
+			"Culture1" : "Grosseto",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#F084D4" : {
+		"county_code": "cis",
+
+		"county_names": {
+			"Culture1" : "Cismonte",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#298261" : {
+		"county_code": "pat",
+
+		"county_names": {
+			"Culture1" : "Patrimonio",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#194BDE" : {
+		"county_code": "hue",
+
+		"county_names": {
+			"Culture1" : "Huesca",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E7A027" : {
+		"county_code": "ros",
+
+		"county_names": {
+			"Culture1" : "Rosello",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FC22DD" : {
+		"county_code": "abu",
+
+		"county_names": {
+			"Culture1" : "Abruzzo Ultra",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#85508E" : {
+		"county_code": "urg",
+
+		"county_names": {
+			"Culture1" : "Urgell",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BA08B4" : {
+		"county_code": "bas",
+
+		"county_names": {
+			"Culture1" : "Barbastro",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#65F839" : {
+		"county_code": "pum",
+
+		"county_names": {
+			"Culture1" : "Pumonte",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#154709" : {
+		"county_code": "gir",
+
+		"county_names": {
+			"Culture1" : "Girona",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#1024E6" : {
+		"county_code": "cap",
+
+		"county_names": {
+			"Culture1" : "Campagna",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#198EA8" : {
+		"county_code": "oso",
+
+		"county_names": {
+			"Culture1" : "Osona",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#DE8591" : {
+		"county_code": "zar",
+
+		"county_names": {
+			"Culture1" : "Zaragoza",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3263EB" : {
+		"county_code": "lat",
+
+		"county_names": {
+			"Culture1" : "Latium",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#936CED" : {
+		"county_code": "lav",
+
+		"county_names": {
+			"Culture1" : "Lavoro",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#083434" : {
+		"county_code": "nca",
+
+		"county_names": {
+			"Culture1" : "New Catelonia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#564531" : {
+		"county_code": "bar",
+
+		"county_names": {
+			"Culture1" : "Barcelona",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#850933" : {
+		"county_code": "cal",
+
+		"county_names": {
+			"Culture1" : "Calatayud",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#6D4EE0" : {
+		"county_code": "alc",
+
+		"county_names": {
+			"Culture1" : "Alcaniz",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#AC9917" : {
+		"county_code": "gal",
+
+		"county_names": {
+			"Culture1" : "Gallura",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#E98E17" : {
+		"county_code": "log",
+
+		"county_names": {
+			"Culture1" : "Logudoro",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#BEDC3F" : {
+		"county_code": "ter",
+
+		"county_names": {
+			"Culture1" : "Teruel",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#CD0D46" : {
+		"county_code": "cas",
+
+		"county_names": {
+			"Culture1" : "Castellon",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FFCB21" : {
+		"county_code": "arb",
+
+		"county_names": {
+			"Culture1" : "Arborea",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#68E3F4" : {
+		"county_code": "cag",
+
+		"county_names": {
+			"Culture1" : "Cagliari",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#FDAF76" : {
+		"county_code": "val",
+
+		"county_names": {
+			"Culture1" : "Valencia",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#820658" : {
+		"county_code": "mal",
+
+		"county_names": {
+			"Culture1" : "Mallorca",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	},
+	"#3303EE" : {
+		"county_code": "jat",
+
+		"county_names": {
+			"Culture1" : "Jativa",
+			"Culture2" : "",
+			"ect" : "ect"
+		},
+
+		"culture" : "",
+        "faith" : "",
+
+		"max_infrastrucure" : "num",
+		"infrastrucure" : [
+			"this building",
+			"other building",
+			"ect"
+		],
+
+		"terrain" : "terrain type",
+		"coastal" : "T/F if it is on the coast",
+		"river" : "T/F if it is on a river",
+		"natural_resource" : "the type of natural resource ",
+
+		"modifiers" : [
+			"list of modifiers applied to this region"
+		]
+	}
+}
