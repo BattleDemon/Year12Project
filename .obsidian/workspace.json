@@ -11,10 +11,15 @@
             "id": "442368cd5848b5e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Year 12 Project Proposal and Speech Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Year 12 Project Proposal and Speech Analysis"
             }
           }
         ]
@@ -185,6 +190,12 @@
   },
   "active": "442368cd5848b5e2",
   "lastOpenFiles": [
+    "Documentation/Viva Voce.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+    "Documentation/Game Design Document.md",
+    "README.md",
+    "grand_strategy_game_concept.md",
+    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "Documentation/Feature Ideas/Region and Realm Levels.md",
     "year-12-project-(4.6)/depricated1/modified_design.svg.import",
     "year-12-project-(4.6)/utilities/Map Extract/goodMap.svg.import",
@@ -216,12 +227,6 @@
     "year-12-project-(4.6)/utilities/Map Extract/modified_design (1).svg",
     "year-12-project-(4.6)/utilities/Map Extract/goodMap.svg",
     "Documentation/Feature Ideas/Terrain.md",
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
-    "Documentation/Game Design Document.md",
-    "Documentation/Year 12 Project Proposal and Speech Analysis.md",
-    "README.md",
-    "grand_strategy_game_concept.md",
-    "Documentation/Viva Voce.md",
     "Documentation/Project Timeline for report.md",
     "Untitled.canvas",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
