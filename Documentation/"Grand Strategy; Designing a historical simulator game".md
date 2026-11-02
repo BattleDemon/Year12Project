@@ -14,31 +14,35 @@
 
 ## Table of Contents
 
-[[#Table of Contents]] <span style="float:right;">Pg.02</span>
+Table of Contents
 
-[[#1 - Abstract|1 - Abstract]] <span style="float:right;">Pg.xx</span>
-
-[[#2 - Introduction|2 - Introduction]] <span style="float:right;">Pg.xx</span>
-
-[[#3 - Research]] <span style="float:right;">Pg.xx</span>
-‌	[[#3.1 - Grand Strategy Games as a Genre]] <span style="float:right;">Pg.xx</span>	
-‌	[[#3.2 - Historical Accuracy and Historical Authenticity]] <span style="float:right;">Pg.xx</span>	
-‌	[[#3.3 - Player Agency in Historical Games]] <span style="float:right;">Pg.xx</span>	
-‌	[[#3.4 - Strategic Depth and Game Systems]] <span style="float:right;">Pg.xx</span>	
-‌	[[#3.5 - Principles of Game Design]] <span style="float:right;">Pg.xx</span>	
-‌	[[#3.6 - Analysis of Existing Grand Strategy Games]]<span style="float:right;">Pg.xx</span>	
-‌	[[#3.7 - Technical Research and Prototyping]] <span style="float:right;">Pg.xx</span>	
-	
-[[#4 - Product Rationale]] <span style="float:right;">Pg.xx</span>
-	
-[[#5 - Development and Production]] <span style="float:right;">Pg.xx</span>
-	
-[[#6 - Reflection]] <span style="float:right;">Pg.xx</span>
-	
-[[#7 - Conclusion]] <span style="float:right;">Pg.xx</span>
-
-[[#References]] <span style="float:right;">Pg.xx</span>
-[[#Appendices]]  <span style="float:right;">Pg.xx</span>
+Abstract
+Introduction
+Research
+‌	Principles of Game Design
+‌	Grand Strategy Games as a Genre
+‌	Historical Simulation, Accuracy and Authenticity
+‌	Player agency and Strategic Depth
+‌	Analysis of Existing Grand Strategy Games
+‌	Historical Context and Representation
+Product Rationale
+‌	Purpose and Target Audience
+‌	Choice of Product and Format
+‌	Structure, Presentation and Communication
+‌	Application of Research and Design
+Development and Production
+‌	Initial Concept and Planning
+‌	Historical Setting and World Design
+‌	Development of Game Mechanics and Systems
+‌	Creation of the Game Design Document
+‌	Challenges, Changes and Refinement
+Reflection and Evaluation
+‌	Evaluation of Final Product
+‌	Personal learning and development
+‌	Limitations and Future Improvements
+Conclusion
+Refrences
+Appendices
 
 ---
 
@@ -84,7 +88,11 @@ A defining characteristic of grand strategy games is its complex interactions be
 
 However, the systems used in historical strategy games can introduce an assumption on the player, one which is not reflective in historical realities. These assumptions include perfect information, perfect control, and perpetual conflict. These assumptions can simplify complex political relationships, perhaps in history where there were harsh negotiations for months to achieve peace, instead its a bar which says '100%', and an option of which land you take (de Zamaróczy 2016). It an represent a historical state as a much more unified and predictable entity, rather than its reality (de Zamaróczy 2016). Highlighting a limitation of the genre, as the mechanics which make a game understandable and manageable can eclipse the more complex realities, influencing how players interpret historical conditions.
 
-Grand strategy games are particularly suited to historical simulation because they allow political, economic, and military developments to be represented as interconnected processes rather than isolated events. For the proposed game, set during the transition from the Late Roman world into the Early Medieval period, this provides an opportunity to represent political fragmentation and the formation of new states through interacting game systems. Consequently, the design must consider not only the historical circumstances being represented, but also how these systems influence player decisions and the development of alternative historical outcomes.****
+Grand strategy games are particularly suited to historical simulation because they allow political, economic, and military developments to be represented as interconnected processes rather than isolated events. For the proposed game, set during the transition from the Late Roman world into the Early Medieval period, this provides an opportunity to represent political fragmentation and the formation of new states through interacting game systems. Consequently, the design must consider not only the historical circumstances being represented, but also how these systems influence player decisions and the development of alternative historical outcomes.
+
+Should add more on the history, from kriegspel and how it was used by officers to practive before war. including its use still today.
+https://militaryhistorynow.com/2019/04/19/kriegsspiel-how-a-19th-century-war-game-changed-history/
+https://en.wikipedia.org/wiki/Kriegsspiel
 
 #### 3.3 Historical Simulation, Accuracy and Authenticity
 
