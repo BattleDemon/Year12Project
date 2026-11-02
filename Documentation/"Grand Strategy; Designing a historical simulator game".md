@@ -10,7 +10,7 @@
 
 <center>5th November 2026</center>
 
----
+
 
 <div style="page-break-after: always;"></div>
 
@@ -175,18 +175,10 @@ Spring, D 2014, ‘Gaming history: Computer and video games as historical schola
 
 ## Appendices
 
-#### Appendix 1.A - BLA BLa
+#### Appendix A - BLA BLa
 
-(Referenced in section 1)
-#### Appendix 2.A - Bla Bla 
 
-(Referenced in section 2)
-
-#### Appendix 2.B - Bla Bla
-
-(Also referenced in section 2)
-
-# Rough Structure Idea
+##### Rough Structure Idea
 
 Aim 5200 ish words
 
