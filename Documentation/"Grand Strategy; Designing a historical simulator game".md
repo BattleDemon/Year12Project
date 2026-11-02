@@ -51,7 +51,13 @@ COMPLETE AT END
 
 ## 2 Introduction
 
+This report explores the principles and methods of game design, with a focus on grand strategy games. The guiding line of enquiry for this project is: _How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?_
 
+This project was motivated by my interests in both history and software development, particularly the ability of games to simulate complex systems and allow players to engage with historical scenarios. The game concept developed for this project is set during the transition from the Late Roman world into the Early Medieval period, focusing on the migration of Frankish peoples and the rise of the Merovingian dynasty. This period provides a unique foundation for exploring the challenges of historical simulation, as players must navigate political fragmentation, cultural change, and the formation of new states.
+
+The final product produced for this project is a Game Design Document (GDD), outlining the proposed mechanics, systems, and features of a historical grand strategy game. The document is intended for an audience interested in game design and historical strategy games, particularly those interested in understanding how complex historical systems can be represented through gameplay. Rather than producing a complete playable game, the GDD aims to communicate the overall design and provide a foundation for potential future development.
+
+This report outlines the research which informed the ideas and decisions presented in the Game Design Document, the processes undertaken to develop the final product, and an evaluation of the project's outcomes and limitations.
 
 ## 3 Research
 
