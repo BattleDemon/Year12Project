@@ -89,7 +89,7 @@ Grand strategy games are particularly suited to historical simulation because th
 
 #### 3.3 Historical Simulation, Accuracy and Authenticity
 
-how can a game represent historical circumstances without requiring historical outcomes?
+Historical simulation involves the representation of historical events, circumstances, and processes through systems which allow players to interact with the past. Unlike a traditional historical narrative, which presents events in an established sequence, historical simulation allows players to influence how events develop. However, these simulations are necessarily simplified interpretations of history, as the complexity of historical circumstances cannot be fully represented through the mechanics of a game. 
 
 #### 3.4 Player Agency and Strategic Depth
 
