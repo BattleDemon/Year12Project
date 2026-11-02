@@ -3,10 +3,12 @@
 
 ![[maxresdefault.jpg]]
 
+<center>Year 12 Project Report</center>
 
 <center>By</center>
-<center>Dexter Hart</center>
+<center>Dexter Jon Hart</center>
 
+<center>5th November 2026</center>
 
 ---
 
