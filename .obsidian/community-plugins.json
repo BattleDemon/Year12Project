@@ -1,5 +1,6 @@
 [
   "obsidian-import-json",
   "better-export-pdf",
-  "indent"
+  "indent",
+  "obsidian-plugin-toc"
 ]

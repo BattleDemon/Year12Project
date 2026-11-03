@@ -4,11 +4,12 @@
 ![[maxresdefault.jpg]]
 
 <center>Year 12 Project Report</center>
-
+<br>
 <center>By</center>
 <center>Dexter Jon Hart</center>
-
+<br>
 <center>5th November 2026</center>
+
 
 
 
@@ -16,40 +17,40 @@
 
 ## Table of Contents
 
-Table of Contents
-
-Abstract
-Introduction
-Research
-‌	Principles of Game Design
-‌	Grand Strategy Games as a Genre
-‌	Historical Simulation, Accuracy and Authenticity
-‌	Player agency and Strategic Depth
-‌	Analysis of Existing Grand Strategy Games
-‌	Historical Context and Representation
-Product Rationale
-‌	Purpose and Target Audience
-‌	Choice of Product and Format
-‌	Structure, Presentation and Communication
-‌	Application of Research and Design
-Development and Production
-‌	Initial Concept and Planning
-‌	Historical Setting and World Design
-‌	Development of Game Mechanics and Systems
-‌	Creation of the Game Design Document
-‌	Challenges, Changes and Refinement
-Reflection and Evaluation
-‌	Evaluation of Final Product
-‌	Personal learning and development
-‌	Limitations and Future Improvements
-Conclusion
-Refrences
-Appendices
+- [[#Table of Contents|Table of Contents]]
+- [[#1 Abstract|1 Abstract]]
+- [[#2 Introduction|2 Introduction]]
+- [[#3 Research|3 Research]]
+		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]]
+		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]]
+		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]]
+		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]]
+		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]]
+		- [[#3.6 Historical Context and Representation|3.6 Historical Context and Representation]]
+- [[#4 Product Rationale|4 Product Rationale]]
+		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]]
+		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]]
+		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]]
+		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]]
+- [[#5 Development and Production|5 Development and Production]]
+		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]]
+		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]]
+		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]]
+		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]]
+		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]]
+- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]]
+		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]]
+		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]]
+		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]]
+- [[#7 Conclusion|7 Conclusion]]
+- [[#References|References]]
+- [[#Appendices|Appendices]]
+		- [[#Appendix A - BLA BLa|Appendix A - BLA BLa]]
+			- [[#Appendix A - BLA BLa#Rough Structure Idea|Rough Structure Idea]]
 
 ---
 
 <div style="page-break-after: always;"></div>
-
 
 ## 1 Abstract
 
