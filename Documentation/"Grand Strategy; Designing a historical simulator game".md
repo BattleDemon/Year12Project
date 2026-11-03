@@ -148,6 +148,8 @@ Figure 8. Hearts of Iron IV, national focus tree snippet.
 
 **Commonalities between these grand strategy games**
 
+**Non Paradox 4X/grand strategy games such as Civilization 6 and 7 (it calls its self 4x but the overlap is significant enough that i will consider it grand strategy), maybe semi long paragraph or two on the non paradox civ style games how they are similar how they differ and the differing design choices and ways of exploring** 
+
 Together, these games demonstrate the advantages and limitations of different approaches to historical grand strategy. Crusader Kings III provides a useful model for character-driven politics, Europa Universalis V demonstrates the potential of interconnected population and economic systems, while Hearts of Iron IV illustrates the importance of military planning and the consequences of more structured historical progression. For the proposed game, these approaches suggest that a combination of personal political relationships and broader social and economic systems could provide a foundation for historical authenticity and strategic depth, without relying excessively on predetermined historical outcomes.
 
 ## 4 Product Rationale
