@@ -99,21 +99,13 @@ Figure 3: Political map and user interface from *Europa Universalis V*, during a
 However, the systems used in historical strategy games can also introduce assumptions which do not fully reflect historical realities. De Zamaróczy (2017) argues that many historical strategy games rely on assumptions such as perfect information, perfect control, and perpetual conflict. These mechanics can simplify political relationships and present historical states as more unified, rational, and predictable than they were in reality. This highlights a significant limitation of the genre, as the abstractions which make games understandable and playable can also shape, and sometimes distort, the player’s interpretation of the historical world.
 
 Grand strategy games are particularly suited to historical simulation because they allow political, economic, and military developments to be represented as interconnected processes rather than isolated events. For the proposed game, set during the transition from the Late Roman world into the Early Medieval period, this creates an opportunity to represent political fragmentation and the formation of new states through interacting systems. Consequently, the design must consider not only the historical circumstances being represented, but also how these systems influence player decisions and the development of alternative historical outcomes.
-
-- de Zamaróczy, N. (2017) ‘Are we what we play? Global politics in historical strategy computer games’, _International Studies Perspectives_, 18(2), pp. 155–174.
-- Julius, P.H. (2021) ‘Game on! A research project on the Prussian Kriegsspiel’, _British Journal for Military History_, 7(2).
-- Loban, R. (2017) ‘Digitising diplomacy: Grand strategy video games as an introductory tool for learning diplomacy and international relations’, _Proceedings of DiGRA 2017 Conference_.
-- Loban, R. (2021) ‘The transformation from physical wargames to grand strategy video games, and the opportunities for deep and efficient historical wargaming experiences’, _Digital Culture & Education_, 13(1), pp. 81–107.
-- Schuurman, P. (2021) ‘A game of contexts: Prussian-German professional wargames and the leadership concept of mission tactics 1870–1880’, _War in History_, 28(3), pp. 691–710.
-- Silove, N. (2018) ‘Beyond the buzzword: The three meanings of grand strategy’, _Security Studies_, 27(1), pp. 27–57.
-- Spring, D. (2015) ‘Gaming history: Computer and video games as historical scholarship’, _Rethinking History_, 19(2), pp. 207–221.
 #### 3.3 Historical Simulation, Accuracy and Authenticity
 
 Historical simulation involves the representation of historical events, circumstances, and processes through systems which allow players to interact with the past. Unlike a traditional historical narrative, which presents events in an established sequence, historical simulation allows players to influence how events develop. However, these simulations are necessarily simplified interpretations of history, as the complexity of historical circumstances cannot be fully represented through the mechanics of a game. 
 
 #### 3.4 Player Agency and Strategic Depth
 
-How can interconnected systems create meaningful decisions without overwhelming the player? 
+How can interconnected systems create meaningful decisions without overwhelming the player?  
 
 #### 3.5 Analysis of Existing Grand Strategy Games
 
@@ -172,11 +164,15 @@ Firaxis Games & Aspyr 2016, _Sid Meier’s Civilization VI_, 2k, viewed 3 Novemb
 
 GDCVault & Meier, S 2012, _Interesting Decisions_, Game Developers Confrence Vault, viewed 3 November 2026, <https://www.gdcvault.com/play/1015756/Do-Say-The-Right-Thing>.
 
+Henning, P 2021, ‘“Game on!” A research project on the prussian Kriegsspiel’, _British Journal for Military History_, vol. 7, no. 2, pp. 174–183, viewed 3 November 2026, <https://journals.gold.ac.uk/index.php/bjmh/article/view/1561?>.
+
 Hunicke, R, Leblanc, M & Zubek, R 2004, _MDA: A formal approach to game design and game research_, _Association for the Advancement of Artificial Inteligence_, viewed 3 November 2026, <https://ocs.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf>.
 
 Loban, R 2017, ‘Digitising diplomacy: Grand strategy video games as an introductory tool for learning diplomacy and international relations’, _DiGRA Digital Library_, viewed 3 November 2026, <https://dl.digra.org/index.php/dl/article/view/915>.
 
 ― 2021, ‘The transformation from physical wargames to grand strategy video games, and the opportunities for deep and efficient historical wargaming experiences’, _DIGITAL CULTURE & EDUCATION_, vol. 13, no. 1, p. 2021, viewed 3 November 2026, <https://static1.squarespace.com/static/5cf15af7a259990001706378/t/6140608f9c785f4271840181/1631608981678/Loban%2B2021.pdf>.
+
+Nash, J 1872, _The Autumn Manoeuvres, Officers playing at Kriegs Spiel, or the Game of War._, viewed 3 November 2026, <https://commons.wikimedia.org/wiki/File:Joseph_Nash_Kriegsspiel.png>.
 
 Paradox Development Studio, Lab42 & Lab42 Limited 2020, _Crusader Kings 3_, Paradox Interactive, viewed 3 November 2026, <https://www.paradoxinteractive.com/games/crusader-kings-iii/about>.
 
@@ -184,7 +180,13 @@ Paradox Development Studio & Tantalus Media 2016, _Stellaris_, Paradox Interacti
 
 Paradox Development Studios 2016, _Hearts of Iron IV_, Paradox Interactive, viewed 3 November 2026, <https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about>.
 
+Paradox Interactive 2025, ‘3D Map and UI Reveals’, _Paradox Forum_, 8 May, viewed 3 November 2026, <https://forum.paradoxplaza.com/forum/threads/3d-map-and-ui-reveals.1742852/>.
+
 Paradox Tinto & Paradox Development Studio 2025, _Europa Universalis V_, Paradox Interactive, viewed 3 November 2026, <https://www.paradoxinteractive.com/games/europa-universalis-v/about>.
+
+Schuurman, P 2019, ‘A game of contexts: Prussian-German professional wargames and the leadership concept of mission tactics 1870–1880’, _War in History_, vol. 28, no. 3, pp. 504–524, viewed 3 November 2026, <https://doi.org/10.1177/0968344519855104>.
+
+Silove, N 2018, ‘Beyond the buzzword: The three meanings of “grand strategy”’, _Security Studies_, vol. 27, no. 1, pp. 27–57, viewed 3 November 2026, <https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/81defc10-5119-4225-8f08-649e7d7545f7/content>.
 
 Spring, D 2014, ‘Gaming history: Computer and video games as historical scholarship’, _Rethinking History_, vol. 19, no. 2, pp. 207–221, viewed 3 November 2026, <https://www.tandfonline.com/doi/full/10.1080/13642529.2014.973714>.
 
