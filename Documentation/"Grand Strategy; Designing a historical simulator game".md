@@ -113,14 +113,14 @@ An important distinction withing historical game design is that between historic
 ![](accvsauth.png)
 Figure 4. Historical accuracy versus historical authenticity
 
-
+This distinction is particularly important in grand strategy games, where players are able to influence political and military developments across extended historical periods. Strictly following recorded historical events could limit meaningful player decisions, while allowing unrestricted actions may undermine the historical circumstances which make up the setting. However, the systems themselves which are used to simulate historical circumstances can introduce their own inaccuracies. Assumptions within historical strategy games, include a perfect source of information, and control of resources, which simplifies the uncertainty and limitations faced by real historical leaders (De Zamaróczy 2017). Similarly, McCall (2012) recognises that a historical simulation requires the modelling of complex human behaviours which needs to be achieved though defined mechanical means, which will never truly reflect the real circumstances. Showing that these limitations around historical simulation cannot provide a complete and objective reflection of the past, and that the developers selection and design of mechanics influences the historical interpretation presented to the player.
 #### 3.4 Player Agency and Strategic Depth
 
-How can interconnected systems create meaningful decisions without overwhelming the player?  
+Player agency and strategic depth are two closely related principles of game design, particularly within grand strategy games, where players make decisions across numerous interconnected systems. Player agency refers to the ability of players to make meaningful decisions which influence the development and outcomes of a game, while strategic depth concerns the extent to which a game supports complex decision-making, long-term planning, and different strategies. However, providing players with more choices does not necessarily create greater strategic depth. 
 
 #### 3.5 Analysis of Existing Grand Strategy Games
 
-What approaches from existing games are most relevant to the proposed design?
+Existing grand strategy games provide valuable examples of how historical accuracy, player agency, and strategic depth can be balanced through different approaches to game design. Three particularly relevant examples are Crusader Kings III (2020), Europa Universalis V (2025), and Hearts of Iron IV (2016), developed by studios within Paradox Interactive. Although these games share several fundamental characteristics, they differ in the systems they prioritise and the ways players interact with their simulated worlds.
 
 #### 3.6 Historical Context and Representation
 
@@ -167,6 +167,8 @@ Which historical characteristics of the Merovingian period should influence the 
 
 Alexander, L 2012, _GDC 2012: Sid Meier on how to see games as sets of interesting decisions_, Game Developer, viewed 3 November 2026, <https://www.gamedeveloper.com/design/gdc-2012-sid-meier-on-how-to-see-games-as-sets-of-interesting-decisions>.
 
+Chapman, A 2012, _Privileging form over content: Analysing historical videogames · Journal of Digital Humanities_, Journalofdigitalhumanities.org, viewed 3 November 2026, <https://journalofdigitalhumanities.org/1-2/privileging-form-over-content-by-adam-chapman/>.
+
 de Zamaróczy, N 2016, ‘Are we what we play? Global politics in historical strategy computer games’, _International Studies Perspectives_, vol. 18, no. 2, p. ekv010, viewed 3 November 2026, <https://doi.org/10.1093/isp/ekv010>.
 
 Firaxis Games 2025, _Sid Meier’s Civilization VII_, 2k, viewed 3 November 2026, <https://civilization.2k.com/civ-vii/>.
@@ -182,6 +184,8 @@ Hunicke, R, Leblanc, M & Zubek, R 2004, _MDA: A formal approach to game design a
 Loban, R 2017, ‘Digitising diplomacy: Grand strategy video games as an introductory tool for learning diplomacy and international relations’, _DiGRA Digital Library_, viewed 3 November 2026, <https://dl.digra.org/index.php/dl/article/view/915>.
 
 ― 2021, ‘The transformation from physical wargames to grand strategy video games, and the opportunities for deep and efficient historical wargaming experiences’, _DIGITAL CULTURE & EDUCATION_, vol. 13, no. 1, p. 2021, viewed 3 November 2026, <https://static1.squarespace.com/static/5cf15af7a259990001706378/t/6140608f9c785f4271840181/1631608981678/Loban%2B2021.pdf>.
+
+McCall, J 2025, _» Historical simulations as problem spaces: Criticism and Classroom Use Journal of Digital Humanities_, Journalofdigitalhumanities.org, viewed 3 November 2026, <https://journalofdigitalhumanities.org/1-2/historical-simulations-as-problem-spaces-by-jeremiah-mccall/>.
 
 Nash, J 1872, _The Autumn Manoeuvres, Officers playing at Kriegs Spiel, or the Game of War._, viewed 3 November 2026, <https://commons.wikimedia.org/wiki/File:Joseph_Nash_Kriegsspiel.png>.
 
@@ -200,7 +204,6 @@ Schuurman, P 2019, ‘A game of contexts: Prussian-German professional wargames 
 Silove, N 2018, ‘Beyond the buzzword: The three meanings of “grand strategy”’, _Security Studies_, vol. 27, no. 1, pp. 27–57, viewed 3 November 2026, <https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/81defc10-5119-4225-8f08-649e7d7545f7/content>.
 
 Spring, D 2014, ‘Gaming history: Computer and video games as historical scholarship’, _Rethinking History_, vol. 19, no. 2, pp. 207–221, viewed 3 November 2026, <https://www.tandfonline.com/doi/full/10.1080/13642529.2014.973714>.
-
 ## Appendices
 
 #### Appendix A - BLA BLa
