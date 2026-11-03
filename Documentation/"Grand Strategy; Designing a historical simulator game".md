@@ -260,6 +260,9 @@ Spring, D 2014, ‘Gaming history: Computer and video games as historical schola
 Stephenson, M, Perez-Liebana, D, Nelson, M, Khalifa, A & Zook, A 2019, _Game complexity vs strategic depth_, Um.edu.mt, National Institute of Informatics, Japan, viewed 3 November 2026, <https://www.um.edu.mt/library/oar/handle/123456789/82108>.
 
 Tanenbaum, K & Tanenbaum, TJ 2010, ‘Agency as commitment to meaning: Communicative competence in games’, _Digital Creativity_, vol. 21, no. 1, pp. 11–17, viewed 3 November 2026, <https://doi.org/10.1080/14626261003654509>.
+
+<div style="page-break-after: always;"></div>
+
 ## Appendix
 
 #### Appendix A - BLA BLa
