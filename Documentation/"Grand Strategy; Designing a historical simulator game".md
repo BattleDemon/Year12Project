@@ -20,10 +20,10 @@
 - [[#Table of Contents|Table of Contents]] <span style="float:right;">2 / x</span>
 - [[#1 Abstract|1 Abstract]] <span style="float:right;">3 / x</span>
 - [[#2 Introduction|2 Introduction]] <span style="float:right;">3 / x</span>
-- [[#3 Research|3 Research]] <span style="float:right;">Pg.xx</span>
-		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]] <span style="float:right;">Pg.xx</span>
-		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">Pg.xx</span>
-		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]] <span style="float:right;">Pg.xx</span>
+- [[#3 Research|3 Research]] <span style="float:right;">4 / x</span>
+		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]] <span style="float:right;">4 / x</span>
+		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">5 / x</span>
+		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]] <span style="float:right;">7 / x</span>
 		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]] <span style="float:right;">Pg.xx</span>
 		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]] <span style="float:right;">Pg.xx</span>
 		- [[#3.6 Historical Context and Representation|3.6 Historical Context and Representation]] <span style="float:right;">Pg.xx</span>
@@ -53,8 +53,9 @@
 
 ## 1 Abstract
 
-COMPLETE AT END
+Lorem ipsum **==dolor sit amet, consectetur adipiscing elit==**. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 ## 2 Introduction
 
 This report explores the principles and methods of game design, with a focus on grand strategy games. The guiding line of enquiry for this project is: _How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?_
@@ -64,6 +65,10 @@ This project was motivated by my interests in both history and software developm
 The final product produced for this project is a Game Design Document (GDD), outlining the proposed mechanics, systems, and features of a historical grand strategy game. The document is intended for an audience interested in game design and historical strategy games, particularly those interested in understanding how complex historical systems can be represented through gameplay. Rather than producing a complete playable game, the GDD aims to communicate the overall design and provide a foundation for potential future development.
 
 This report outlines the research which informed the ideas and decisions presented in the Game Design Document, the processes undertaken to develop the final product, and an evaluation of the project's outcomes and limitations.
+
+
+
+<div style="page-break-after: always;"></div>
 
 ## 3 Research
 
