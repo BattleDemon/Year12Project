@@ -132,17 +132,17 @@ Existing grand strategy games provide valuable examples of how historical accura
 Crusader Kings III focuses primarily on characters, dynasties, and political relationships rather than the management of a unified state. Players control individual rulers and their successors, navigating relationships with vassals, family members, and neighbouring powers. Mechanics such as character traits, succession laws, marriages, and personal schemes create opportunities for political developments to emerge from interactions between characters (Paradox Development Studio, Lab42 & Lab42 Limited, 2020).  One of the game's greatest strengths is its ability to create personal narratives within a larger historical simulation. However, its emphasis on characters can come at the expense of detailed economic and population systems. This approach is particularly relevant to the proposed game, as personal loyalties and dynastic relationships were important characteristics of early medieval politics.
 
 ![666](ck3.jpg)
-Figure 6. Crusader Kings III, 
+Figure 6. Crusader Kings III, with character menu open showing family and heir, and the council menu.
 
 Europa Universalis V takes a broader approach, focusing on the management of societies and political entities through interconnected economic, diplomatic, and demographic systems. Its population-based model represents differences in culture, religion, and social position, while production, trade, and political estates influence the development of states (Paradox Interactive, 2025). Compared with Crusader Kings III, this provides a more detailed representation of the economic and social foundations of political power. However, such complexity can also increase the difficulty of understanding the consequences of individual decisions, potentially creating a greater barrier to entry.
 
 ![656](eu5.jpg)
-Figure 7. Europa Universalis V
+Figure 7. Europa Universalis V, hovering over population showing the make up of people.
 
 Hearts of Iron IV provides another approach, concentrating on warfare, industrial production, military logistics, and the strategic planning of the Second World War. Its national focus trees allow players to pursue historical or alternative political developments, while military and economic decisions determine their ability to conduct warfare (Paradox Development Studios 2016). Although this creates a strong relationship between strategic planning and military outcomes, its more structured historical pathways can restrict the range of developments that emerge naturally through gameplay.
 
 ![468](23_historical_germany_autarky_efforts.png)
-Figure 8. Hearts of Iron IV, national focus tree snippet
+Figure 8. Hearts of Iron IV, national focus tree snippet.
 
 Together, these games demonstrate the advantages and limitations of different approaches to historical grand strategy. Crusader Kings III provides a useful model for character-driven politics, Europa Universalis V demonstrates the potential of interconnected population and economic systems, while Hearts of Iron IV illustrates the importance of military planning and the consequences of more structured historical progression. For the proposed game, these approaches suggest that a combination of personal political relationships and broader social and economic systems could provide a foundation for historical authenticity and strategic depth, without relying excessively on predetermined historical outcomes.
 
@@ -175,7 +175,10 @@ The structure
 
 #### 5.1 Initial Concept and Planning
 
+Original plan on making the game / acually developing a beta version, to cut back to prototype, then just the GDD
 #### 5.2 Historical Setting and World Design
+
+More like CK3 but with influences from HOI4 for military, and something from EU5
 
 #### 5.3 Development of Game Mechanics and Systems
 
