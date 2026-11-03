@@ -24,7 +24,7 @@
 		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]] <span style="float:right;">4 / x</span>
 		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">5 / x</span>
 		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]] <span style="float:right;">7 / x</span>
-		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]] <span style="float:right;">Pg.xx</span>
+		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]] <span style="float:right;">8 / x</span>
 		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]] <span style="float:right;">Pg.xx</span>
 		- [[#3.6 Historical Context and Representation|3.6 Historical Context and Representation]] <span style="float:right;">Pg.xx</span>
 - [[#4 Product Rationale|4 Product Rationale]] <span style="float:right;">Pg.xx</span>
@@ -120,11 +120,17 @@ Player agency and strategic depth are two closely related principles of game des
 
 Player agency emerges as a thoughtful balance between the actions available to the players and the constraints imposed by the game(Mateas 2001).  However, Tanenbaum (2010) challenges the linearity of this relationship, that greater freedom does not automatically equate to a greater agency, instead pushing the importance of a meaningful participation. These perspectives suggest that limiting player choices can encourage more deliberate and consequential decisions, rather than necessarily restricting the player's experience.
 
+The strategic depth of a game is similarly dependent on the quality of decisions rather than the number of mechanics available.  Strategic depth through a game's capacity to sustain continued learning and strategic problem-solving (Lantz et al. 2017). Within grand strategy games, this can emerge through interconnected systems, where military expansion may provide territorial advantages but also increase economic costs and political instability. Consequently, players must consider both the immediate and long-term consequences of their decisions.
+
+![](interconnect.png)
+Figure 5. Example of interconnected strategic decisions.
 
 
 #### 3.5 Analysis of Existing Grand Strategy Games
 
 Existing grand strategy games provide valuable examples of how historical accuracy, player agency, and strategic depth can be balanced through different approaches to game design. Three particularly relevant examples are Crusader Kings III (2020), Europa Universalis V (2025), and Hearts of Iron IV (2016), developed by studios within Paradox Interactive. Although these games share several fundamental characteristics, they differ in the systems they prioritise and the ways players interact with their simulated worlds.
+
+Crusader Kings III focuses primarily on characters, dynasties, and political relationships rather than the management of a unified state. Players control individual rulers and their successors, navigating relationships with vassals, family members, and neighbouring powers. Mechanics such as character traits, succession laws, marriages, and personal schemes create opportunities for political developments to emerge from interactions between characters (Paradox Development Studio, Lab42 & Lab42 Limited 2020).  One of the game's greatest strengths is its ability to create personal narratives within a larger historical simulation. However, its emphasis on characters can come at the expense of detailed economic and population systems. This approach is particularly relevant to the proposed game, as personal loyalties and dynastic relationships were important characteristics of early medieval politics.
 
 #### 3.6 Historical Context and Representation
 

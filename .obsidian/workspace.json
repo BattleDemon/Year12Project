@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -191,6 +190,7 @@
   },
   "active": "442368cd5848b5e2",
   "lastOpenFiles": [
+    "Documentation/interconnect.png",
     "Documentation/accvsauth.png",
     "Documentation/europa-universalis-v_sc.jpg",
     "Documentation/europa-universalis-v-5-__1_.jpg",
@@ -221,7 +221,6 @@
     "Documentation/Feature Ideas/Regions and Regional Features.md",
     "Documentation/Feature Ideas/Resources.md",
     "year-12-project-(4.6)/utility/modified_design.svg",
-    "year-12-project-(4.6)/utility/modified_design.png",
     "Documentation/Feature Ideas/Terrain.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/Game Design Document.md",
