@@ -25,12 +25,11 @@
 		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">5 / x</span>
 		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]] <span style="float:right;">7 / x</span>
 		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]] <span style="float:right;">8 / x</span>
-		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]] <span style="float:right;">Pg.xx</span>
-		- [[#3.6 Historical Context and Representation|3.6 Historical Context and Representation]] <span style="float:right;">Pg.xx</span>
-- [[#4 Product Rationale|4 Product Rationale]] <span style="float:right;">Pg.xx</span>
-		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]] <span style="float:right;">Pg.xx</span>
-		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]] <span style="float:right;">Pg.xx</span>
-		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]] <span style="float:right;">Pg.xx</span>
+		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]] <span style="float:right;">9 / x</span>
+- [[#4 Product Rationale|4 Product Rationale]] <span style="float:right;">11 / x</span>
+		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]] <span style="float:right;">11 / x</span>
+		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]] <span style="float:right;">11 / x</span>
+		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]] <span style="float:right;">12 / x</span>
 		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]] <span style="float:right;">Pg.xx</span>
 - [[#5 Development and Production|5 Development and Production]] <span style="float:right;">Pg.xx</span>
 		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]] <span style="float:right;">Pg.xx</span>
@@ -44,7 +43,7 @@
 		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]] <span style="float:right;">Pg.xx</span>
 - [[#7 Conclusion|7 Conclusion]] <span style="float:right;">Pg.xx</span>
 - [[#References|References]] <span style="float:right;">Pg.xx</span>
-- [[#Appendices|Appendices]] <span style="float:right;">Pg.xx</span>
+- [Appendix](#Appendix) <span style="float:right;">Pg.xx</span>
 		- [[#Appendix A - BLA BLa|Appendix A - BLA BLa]] <span style="float:right;">Pg.xx</span>
 
 ---
@@ -92,14 +91,14 @@ Grand strategy games are a sub-genre of strategy games which focus on the large-
 The origins of the genre can be traced to earlier military simulations and historical wargames. Among the most influential of these was the Prussian _Kriegsspiel_, a professional wargame adopted by the Prussian army in the early nineteenth century. Schuurman (2021) explains that these wargames were used by officers as serious training tools rather than merely for entertainment, with players issuing written orders while an umpire interpreted outcomes and battlefield conditions. Julius (2021) similarly identifies the Prussian _Kriegsspiel_ as the first professional wargame, introduced into the Prussian army in 1824. These early systems are significant because they established many principles that would later influence strategy games, including map-based simulation, the modelling of military decision-making, and the attempt to represent complex real-world circumstances through rules and abstractions.
 
 ![](Joseph_Nash_Kriegsspiel.png)
-Figure 2: Prussian military officers practice fighting the next war with Kriegsspiel (Nash 1872).
+Figure 2. Prussian military officers practice fighting the next war with Kriegsspiel (Nash 1872).
 
 The development from physical wargames to digital grand strategy games allowed these simulations to become much broader in scale and complexity. Loban (2021) argues that computerisation removed much of the burden of manual calculation and record-keeping which limited earlier wargames, allowing designers to represent more interconnected systems. As a result, historical strategy games expanded beyond the simulation of single battles to include political, economic, diplomatic, and social developments. However, greater complexity does not necessarily produce a more engaging experience, particularly when additional mechanics increase the difficulty of understanding the simulation and raise the barrier to entry.
 
 A defining characteristic of grand strategy games is the interaction between multiple systems. Military campaigns require economic resources, diplomatic relationships influence political stability, and internal political circumstances can limit the player’s ability to pursue their objectives. Loban (2017) identifies diplomacy and international relations as significant elements of the genre, demonstrating how grand strategy games simulate alliances, warfare, and other interactions between political entities. Similarly, Spring (2015) shows that historical strategy games such as the _Crusader Kings_ and _Europa Universalis_ series use both gameplay mechanics and historical framing to represent the past. This demonstrates that the genre extends beyond military conflict alone, incorporating political and social developments as part of a broader simulation. Unlike real-time strategy games, which usually emphasise unit control and resource management during individual engagements, grand strategy games focus on broader political and strategic decision-making over longer periods.
 
 ![](europa-universalis-v-5-__1_.jpg)
-Figure 3: Political map and user interface from *Europa Universalis V*, during a 'Kingdom of France' play though.(Paradox Interactive 2025).
+Figure 3. Political map and user interface from *Europa Universalis V*, during a 'Kingdom of France' play though.(Paradox Interactive 2025).
 
 However, the systems used in historical strategy games can also introduce assumptions which do not fully reflect historical realities. De Zamaróczy (2017) argues that many historical strategy games rely on assumptions such as perfect information, perfect control, and perpetual conflict. These mechanics can simplify political relationships and present historical states as more unified, rational, and predictable than they were in reality. This highlights a significant limitation of the genre, as the abstractions which make games understandable and playable can also shape, and sometimes distort, the player’s interpretation of the historical world.
 
@@ -124,23 +123,46 @@ The strategic depth of a game is similarly dependent on the quality of decisions
 
 ![](interconnect.png)
 Figure 5. Example of interconnected strategic decisions.
-
+<div style="page-break-after: always;"></div>
 
 #### 3.5 Analysis of Existing Grand Strategy Games
 
 Existing grand strategy games provide valuable examples of how historical accuracy, player agency, and strategic depth can be balanced through different approaches to game design. Three particularly relevant examples are Crusader Kings III (2020), Europa Universalis V (2025), and Hearts of Iron IV (2016), developed by studios within Paradox Interactive. Although these games share several fundamental characteristics, they differ in the systems they prioritise and the ways players interact with their simulated worlds.
 
-Crusader Kings III focuses primarily on characters, dynasties, and political relationships rather than the management of a unified state. Players control individual rulers and their successors, navigating relationships with vassals, family members, and neighbouring powers. Mechanics such as character traits, succession laws, marriages, and personal schemes create opportunities for political developments to emerge from interactions between characters (Paradox Development Studio, Lab42 & Lab42 Limited 2020).  One of the game's greatest strengths is its ability to create personal narratives within a larger historical simulation. However, its emphasis on characters can come at the expense of detailed economic and population systems. This approach is particularly relevant to the proposed game, as personal loyalties and dynastic relationships were important characteristics of early medieval politics.
+Crusader Kings III focuses primarily on characters, dynasties, and political relationships rather than the management of a unified state. Players control individual rulers and their successors, navigating relationships with vassals, family members, and neighbouring powers. Mechanics such as character traits, succession laws, marriages, and personal schemes create opportunities for political developments to emerge from interactions between characters (Paradox Development Studio, Lab42 & Lab42 Limited, 2020).  One of the game's greatest strengths is its ability to create personal narratives within a larger historical simulation. However, its emphasis on characters can come at the expense of detailed economic and population systems. This approach is particularly relevant to the proposed game, as personal loyalties and dynastic relationships were important characteristics of early medieval politics.
 
-#### 3.6 Historical Context and Representation
+![666](ck3.jpg)
+Figure 6. Crusader Kings III, 
 
-Which historical characteristics of the Merovingian period should influence the game's mechanics?
+Europa Universalis V takes a broader approach, focusing on the management of societies and political entities through interconnected economic, diplomatic, and demographic systems. Its population-based model represents differences in culture, religion, and social position, while production, trade, and political estates influence the development of states (Paradox Interactive, 2025). Compared with Crusader Kings III, this provides a more detailed representation of the economic and social foundations of political power. However, such complexity can also increase the difficulty of understanding the consequences of individual decisions, potentially creating a greater barrier to entry.
+
+![656](eu5.jpg)
+Figure 7. Europa Universalis V
+
+Hearts of Iron IV provides another approach, concentrating on warfare, industrial production, military logistics, and the strategic planning of the Second World War. Its national focus trees allow players to pursue historical or alternative political developments, while military and economic decisions determine their ability to conduct warfare (Paradox Development Studios 2016). Although this creates a strong relationship between strategic planning and military outcomes, its more structured historical pathways can restrict the range of developments that emerge naturally through gameplay.
+
+![468](23_historical_germany_autarky_efforts.png)
+Figure 8. Hearts of Iron IV, national focus tree snippet
+
+Together, these games demonstrate the advantages and limitations of different approaches to historical grand strategy. Crusader Kings III provides a useful model for character-driven politics, Europa Universalis V demonstrates the potential of interconnected population and economic systems, while Hearts of Iron IV illustrates the importance of military planning and the consequences of more structured historical progression. For the proposed game, these approaches suggest that a combination of personal political relationships and broader social and economic systems could provide a foundation for historical authenticity and strategic depth, without relying excessively on predetermined historical outcomes.
 
 ## 4 Product Rationale
 
 #### 4.1 Purpose and Target Audience
 
+The primary purpose of this project was to design and document the foundations of a historical grand strategy game, exploring how historical authenticity, player agency, and strategic depth could be balanced within a single simulation. The final product is a Game Design Document (GDD), outlining the proposed game's setting, core mechanics, and interconnected systems. Rather than producing a playable game, the document aims to communicate the overall design and provide a framework which could guide future development.
+
+The primary intended audience of the GDD is myself, as I intend to eventually develop the proposed game into a playable product. The document serves as a reference for future development, allowing the design decisions, proposed mechanics, and overall vision of the game to be preserved and further refined. A secondary audience consists of those interested in understanding the proposed game, particularly enthusiasts of historical grand strategy games, and my peers. For this audience, the GDD aims to communicate the game's intended features, historical setting, and underlying design philosophy without requiring an understanding of its eventual technical implementation.
+
+The document aims to address the need for a structured explanation of how different mechanics and historical considerations could be combined into a coherent game concept. By documenting these systems and their intended interactions, the GDD provides a foundation for further development, refinement, and eventual prototyping.
+
 #### 4.2 Choice of Product and Format
+
+The original intention of this project was to design and develop a playable historical grand strategy game. However, due to the complexity and scale of the proposed game, the final product was instead focused on producing a Game Design Document (GDD), outlining the game's overall concept, proposed mechanics, and systems. This change allowed greater attention to be placed on the theoretical and design aspects of the project, rather than attempting to develop a playable game within the available time frame.
+
+A GDD was chosen as it provides a structured method of documenting the different components of a game, allowing individual mechanics to be explained alongside their relationships with other systems. This format is particularly appropriate for a grand strategy game, where the interactions between numerous systems are central to the gameplay experience. It also allows the design to be revised and expanded during future development, while preserving the reasoning behind earlier decisions.
+
+However, the format also presents limitations. Without a playable prototype, the effectiveness of the proposed mechanics cannot be fully evaluated through gameplay testing, particularly in relation to game balance, player engagement, and the behaviour of interconnected systems. Despite these limitations, the GDD provides a more achievable and useful foundation for the project's long-term objective of developing a historical grand strategy game.
 
 #### 4.3 Structure, Presentation and Communication
 
@@ -214,20 +236,8 @@ Schuurman, P 2019, ‘A game of contexts: Prussian-German professional wargames 
 Silove, N 2018, ‘Beyond the buzzword: The three meanings of “grand strategy”’, _Security Studies_, vol. 27, no. 1, pp. 27–57, viewed 3 November 2026, <https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/81defc10-5119-4225-8f08-649e7d7545f7/content>.
 
 Spring, D 2014, ‘Gaming history: Computer and video games as historical scholarship’, _Rethinking History_, vol. 19, no. 2, pp. 207–221, viewed 3 November 2026, <https://www.tandfonline.com/doi/full/10.1080/13642529.2014.973714>.
-## Appendices
+## Appendix
 
 #### Appendix A - BLA BLa
 
-
-##### Rough Structure Idea
-
-Aim 5200 ish words
-
-Research -- 1900
-Development -- 1450
-Product Rationale -- 650
-Reflection -- 550
-introduction -- 300
-conclusion -- 200
-abstract -- 100
 
