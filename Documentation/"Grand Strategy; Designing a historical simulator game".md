@@ -53,7 +53,7 @@
 
 ## 1 Abstract
 
-Lorem ipsum **==dolor sit amet, consectetur adipiscing elit==**. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 ## 2 Introduction
@@ -108,7 +108,12 @@ Grand strategy games are particularly suited to historical simulation because th
 
 Historical simulation involves the representation of historical events, circumstances, and processes through systems which allow players to interact with the past. Unlike a traditional historical narrative, which presents events in an established sequence, historical simulation allows players to influence how events develop. However, these simulations are necessarily simplified interpretations of history, as the complexity of historical circumstances cannot be fully represented through the mechanics of a game. With Elliott (2017) arguing that these types of historical games can provide an opportunity for historical thinking through its simulation, rather than a simple reproduction of historical events.
 
-An important distinction withing historical game design is that between historical accuracy and historical authenticity. With historical accuracy generally concerning the extent of which a presentation of history corresponds with evidence. While historical authenticity, is more concerned as to whether the presentation reflects the general characteristics, conditions, and experiences of the historical aspect. 
+An important distinction withing historical game design is that between historical accuracy and historical authenticity. With historical accuracy generally concerning the extent of which a presentation of history corresponds with evidence. While historical authenticity, is more concerned as to whether the presentation reflects the general characteristics, conditions, and experiences of the historical aspect. A game then can depart from recorded historical events, while maintaining its authentic representation of the period. The idea of evaluating a historical game purely from its accuracy of its content, overlooks the importance of its mechanics and the way a player interacts with the historical representation (Chapman 2012). 
+
+![](accvsauth.png)
+Figure 4. Historical accuracy versus historical authenticity
+
+
 #### 3.4 Player Agency and Strategic Depth
 
 How can interconnected systems create meaningful decisions without overwhelming the player?  
