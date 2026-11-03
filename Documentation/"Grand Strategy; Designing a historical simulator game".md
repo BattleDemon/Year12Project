@@ -118,6 +118,10 @@ This distinction is particularly important in grand strategy games, where player
 
 Player agency and strategic depth are two closely related principles of game design, particularly within grand strategy games, where players make decisions across numerous interconnected systems. Player agency refers to the ability of players to make meaningful decisions which influence the development and outcomes of a game, while strategic depth concerns the extent to which a game supports complex decision-making, long-term planning, and different strategies. However, providing players with more choices does not necessarily create greater strategic depth. 
 
+Player agency emerges as a thoughtful balance between the actions available to the players and the constraints imposed by the game(Mateas 2001).  However, Tanenbaum (2010) challenges the linearity of this relationship, that greater freedom does not automatically equate to a greater agency, instead pushing the importance of a meaningful participation. These perspectives suggest that limiting player choices can encourage more deliberate and consequential decisions, rather than necessarily restricting the player's experience.
+
+
+
 #### 3.5 Analysis of Existing Grand Strategy Games
 
 Existing grand strategy games provide valuable examples of how historical accuracy, player agency, and strategic depth can be balanced through different approaches to game design. Three particularly relevant examples are Crusader Kings III (2020), Europa Universalis V (2025), and Hearts of Iron IV (2016), developed by studios within Paradox Interactive. Although these games share several fundamental characteristics, they differ in the systems they prioritise and the ways players interact with their simulated worlds.
