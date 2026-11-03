@@ -30,21 +30,21 @@
 		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]] <span style="float:right;">11 / x</span>
 		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]] <span style="float:right;">11 / x</span>
 		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]] <span style="float:right;">12 / x</span>
-		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]] <span style="float:right;">Pg.xx</span>
-- [[#5 Development and Production|5 Development and Production]] <span style="float:right;">Pg.xx</span>
-		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]] <span style="float:right;">Pg.xx</span>
-		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]] <span style="float:right;">Pg.xx</span>
-		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]] <span style="float:right;">Pg.xx</span>
-		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]] <span style="float:right;">Pg.xx</span>
-		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]] <span style="float:right;">Pg.xx</span>
-- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]] <span style="float:right;">Pg.xx</span>
-		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]] <span style="float:right;">Pg.xx</span>
-		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]] <span style="float:right;">Pg.xx</span>
-		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]] <span style="float:right;">Pg.xx</span>
-- [[#7 Conclusion|7 Conclusion]] <span style="float:right;">Pg.xx</span>
-- [[#References|References]] <span style="float:right;">Pg.xx</span>
-- [Appendix](#Appendix) <span style="float:right;">Pg.xx</span>
-		- [[#Appendix A - BLA BLa|Appendix A - BLA BLa]] <span style="float:right;">Pg.xx</span>
+		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]] <span style="float:right;">y / x</span>
+- [[#5 Development and Production|5 Development and Production]] <span style="float:right;">y / x</span>
+		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]] <span style="float:right;">y / x</span>
+		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]] <span style="float:right;">y / x</span>
+		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]] <span style="float:right;">y / x</span>
+		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]] <span style="float:right;">y / x</span>
+		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]] <span style="float:right;">y / x</span>
+- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]] <span style="float:right;">y / x</span>
+		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]] <span style="float:right;">y / x</span>
+		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]] <span style="float:right;">y / x</span>
+		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]] <span style="float:right;">y / x</span>
+- [[#7 Conclusion|7 Conclusion]] <span style="float:right;">y / x</span>
+- [[#References|References]] <span style="float:right;">y / x</span>
+- [Appendix](#Appendix) <span style="float:right;">y / x</span>
+		- [[#Appendix A - BLA BLa|Appendix A - BLA BLa]] <span style="float:right;">y / x</span>
 
 ---
 
@@ -149,6 +149,8 @@ Figure 8. Hearts of Iron IV, national focus tree snippet.
 **Commonalities between these grand strategy games**
 
 **Non Paradox 4X/grand strategy games such as Civilization 6 and 7 (it calls its self 4x but the overlap is significant enough that i will consider it grand strategy), maybe semi long paragraph or two on the non paradox civ style games how they are similar how they differ and the differing design choices and ways of exploring** 
+
+**Change section conclusion to reflect new changes**
 
 Together, these games demonstrate the advantages and limitations of different approaches to historical grand strategy. Crusader Kings III provides a useful model for character-driven politics, Europa Universalis V demonstrates the potential of interconnected population and economic systems, while Hearts of Iron IV illustrates the importance of military planning and the consequences of more structured historical progression. For the proposed game, these approaches suggest that a combination of personal political relationships and broader social and economic systems could provide a foundation for historical authenticity and strategic depth, without relying excessively on predetermined historical outcomes.
 
