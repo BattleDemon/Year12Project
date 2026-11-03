@@ -166,6 +166,8 @@ However, the format also presents limitations. Without a playable prototype, the
 
 #### 4.3 Structure, Presentation and Communication
 
+The structure 
+
 #### 4.4 Application of Research and Design
 
 
@@ -195,6 +197,9 @@ However, the format also presents limitations. Without a playable prototype, the
 
 
 
+
+<div style="page-break-after: always;"></div>
+
 ## References
 
 Alexander, L 2012, _GDC 2012: Sid Meier on how to see games as sets of interesting decisions_, Game Developer, viewed 3 November 2026, <https://www.gamedeveloper.com/design/gdc-2012-sid-meier-on-how-to-see-games-as-sets-of-interesting-decisions>.
@@ -213,9 +218,13 @@ Henning, P 2021, ‘“Game on!” A research project on the prussian Kriegsspie
 
 Hunicke, R, Leblanc, M & Zubek, R 2004, _MDA: A formal approach to game design and game research_, _Association for the Advancement of Artificial Inteligence_, viewed 3 November 2026, <https://ocs.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf>.
 
+Lantz, F, Isaksen, A, Jaffe, A, Nealen, A & Togelius, J 2017, _Depth in strategic games_, viewed 3 November 2026, <https://www.nealen.net/papers/Lantz2017Depth.pdf>.
+
 Loban, R 2017, ‘Digitising diplomacy: Grand strategy video games as an introductory tool for learning diplomacy and international relations’, _DiGRA Digital Library_, viewed 3 November 2026, <https://dl.digra.org/index.php/dl/article/view/915>.
 
 ― 2021, ‘The transformation from physical wargames to grand strategy video games, and the opportunities for deep and efficient historical wargaming experiences’, _DIGITAL CULTURE & EDUCATION_, vol. 13, no. 1, p. 2021, viewed 3 November 2026, <https://static1.squarespace.com/static/5cf15af7a259990001706378/t/6140608f9c785f4271840181/1631608981678/Loban%2B2021.pdf>.
+
+Mateas, M 2001, ‘A preliminary poetics for interactive drama and games’, _Digital Creativity_, vol. 12, no. 3, pp. 140–152, viewed 3 November 2026, <https://www.tandfonline.com/doi/abs/10.1076/digc.12.3.140.3224>.
 
 McCall, J 2025, _» Historical simulations as problem spaces: Criticism and Classroom Use Journal of Digital Humanities_, Journalofdigitalhumanities.org, viewed 3 November 2026, <https://journalofdigitalhumanities.org/1-2/historical-simulations-as-problem-spaces-by-jeremiah-mccall/>.
 
@@ -236,6 +245,10 @@ Schuurman, P 2019, ‘A game of contexts: Prussian-German professional wargames 
 Silove, N 2018, ‘Beyond the buzzword: The three meanings of “grand strategy”’, _Security Studies_, vol. 27, no. 1, pp. 27–57, viewed 3 November 2026, <https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/81defc10-5119-4225-8f08-649e7d7545f7/content>.
 
 Spring, D 2014, ‘Gaming history: Computer and video games as historical scholarship’, _Rethinking History_, vol. 19, no. 2, pp. 207–221, viewed 3 November 2026, <https://www.tandfonline.com/doi/full/10.1080/13642529.2014.973714>.
+
+Stephenson, M, Perez-Liebana, D, Nelson, M, Khalifa, A & Zook, A 2019, _Game complexity vs strategic depth_, Um.edu.mt, National Institute of Informatics, Japan, viewed 3 November 2026, <https://www.um.edu.mt/library/oar/handle/123456789/82108>.
+
+Tanenbaum, K & Tanenbaum, TJ 2010, ‘Agency as commitment to meaning: Communicative competence in games’, _Digital Creativity_, vol. 21, no. 1, pp. 11–17, viewed 3 November 2026, <https://doi.org/10.1080/14626261003654509>.
 ## Appendix
 
 #### Appendix A - BLA BLa
