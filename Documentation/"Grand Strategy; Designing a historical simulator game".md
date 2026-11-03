@@ -18,8 +18,8 @@
 ## Table of Contents
 
 - [[#Table of Contents|Table of Contents]] <span style="float:right;">2 / x</span>
-- [[#1 Abstract|1 Abstract]] <span style="float:right;">Pg.xx</span>
-- [[#2 Introduction|2 Introduction]] <span style="float:right;">Pg.xx</span>
+- [[#1 Abstract|1 Abstract]] <span style="float:right;">3 / x</span>
+- [[#2 Introduction|2 Introduction]] <span style="float:right;">3 / x</span>
 - [[#3 Research|3 Research]] <span style="float:right;">Pg.xx</span>
 		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]] <span style="float:right;">Pg.xx</span>
 		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">Pg.xx</span>
