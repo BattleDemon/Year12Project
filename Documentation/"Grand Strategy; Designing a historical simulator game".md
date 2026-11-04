@@ -1,17 +1,4 @@
-# Grand Strategy: *Designing a Historical Simulation Game*
-
-
-![[maxresdefault.jpg]]
-
-<center>Year 12 Project Report</center>
-<br>
-<center>By</center>
-<center>Dexter Jon Hart</center>
-<br>
-<center>5th November 2026</center>
-
-
-
+![700](fffefwe.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -146,7 +133,7 @@ Figure 8. Hearts of Iron IV, national focus tree snippet.
 
 Despite these differences, all three games share several characteristics which define Paradox's approach to grand strategy. These include large-scale political maps, the management of interconnected systems, historical starting conditions, and the ability for players to influence the development of their chosen political entity. Rather than requiring players to achieve a single predetermined outcome, these games generally provide opportunities to establish their own objectives. However, the differences between their mechanics demonstrate that strategic depth can be achieved through different approaches, whether through character relationships, economic development, or military planning.
 
-Grand strategy games are not necessarily historical, as demonstrated by Stellaris (2016), which applies many of these principles to a fictional science-fiction setting. Rather than beginning with established historical nations and circumstances, players can create their own interstellar civilisation, selecting characteristics such as its governing principles and species traits, before exploring a procedurally generated galaxy (Paradox Development Studio & Tantalus Media 2016). Without the requirement to represent a particular historical period, the game has greater freedom to introduce unusual societies, technologies, and political circumstances. However, this freedom also requires the game to establish its own internal rules and consistency, rather than drawing upon historical circumstances to provide the foundations of its simulation.
+Grand strategy games are not necessarily historical, as demonstrated by Stellaris (2016), which applies many of these principles to a fictional science-fiction setting. Rather than beginning with established historical nations and circumstances, players can create their own interstellar civilisation, selecting characteristics such as its governing principles and species traits, before exploring a procedural generated galaxy (Paradox Development Studio & Tantalus Media 2016). Without the requirement to represent a particular historical period, the game has greater freedom to introduce unusual societies, technologies, and political circumstances. However, this freedom also requires the game to establish its own internal rules and consistency, rather than drawing upon historical circumstances to provide the foundations of its simulation.
 
 Beyond Paradox Interactive, the Civilization series provides another significant approach to large-scale strategy gaming. Although primarily classified as 4X games, referring to exploration, expansion, exploitation, and extermination, Civilization VI (2016) and Civilization VII (2025) share many characteristics with grand strategy games. Both involve managing political entities across extensive periods, developing economic and military capabilities, researching technologies, and interacting with competing civilisations. However, unlike most Paradox grand strategy games, which generally begin with established historical political circumstances, Civilization typically begins with a relatively small settlement from which the player develops their society. This places greater emphasis on exploration, territorial expansion, and the gradual construction of a civilisation (Firaxis Games 2025).
 
