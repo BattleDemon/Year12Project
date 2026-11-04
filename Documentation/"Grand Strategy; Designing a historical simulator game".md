@@ -159,10 +159,11 @@ However, the format also presents limitations. Without a playable prototype, the
 
 #### 4.3 Structure, Presentation and Communication
 
-The structure 
+I structured the Game Design Document
 
 #### 4.4 Application of Research and Design
 
+My prior research resulted in the followin approach to its application and design
 
 ## 5 Development and Production
 
@@ -175,16 +176,24 @@ More like CK3 but with influences from HOI4 for military, and something from EU5
 
 #### 5.3 Development of Game Mechanics and Systems
 
+As i did not actually develop the game, the development of the mechanics and sytems meant they are untested, and might not have full results 
+
 #### 5.4 Creation of the Game Design Document
+
+Soft retelling of the creation
 
 #### 5.5 Challenges, Changes and Refinement
 
-
+problems encounterd including time, and effort required if it were the original idea
 ## 6 Reflection and Evaluation
 
 #### 6.1 Evaluation of Final Product
 
+If it were the original product would be better but this is a good compromise, to still explore the passion i have for games it, and history
+
 #### 6.2 Personal Learning and Development
+
+I learnt alot about game design, and the historical period
 
 #### 6.3 Limitations and Future Improvements
 
