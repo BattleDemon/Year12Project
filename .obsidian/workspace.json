@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
+                "file": "project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "\"Grand Strategy; Designing a historical simulator game\" 1"
+              "title": "project"
             }
           }
         ]
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -214,9 +213,10 @@
   },
   "active": "9e27831fa07672a3",
   "lastOpenFiles": [
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
     "Grand_Strategy_Style_Revised.md",
+    "project.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/dadmerovin.png",
     "Documentation/Game Design Document.md",
     "Documentation/fffefwe.png",
@@ -259,7 +259,6 @@
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",
     "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
     "Documentation/Research/Game Design Research/Markdown files research/Modeling and Generating Strategy Games Mechanics.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Interview Paradox Development Studio on strategy games, design, and why this genre doesn’t work on consoles.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md"
+    "Documentation/Research/Game Design Research/Markdown files research/Interview Paradox Development Studio on strategy games, design, and why this genre doesn’t work on consoles.md"
   ]
 }
