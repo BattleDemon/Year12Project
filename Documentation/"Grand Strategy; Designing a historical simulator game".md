@@ -31,7 +31,7 @@
 - [[#7 Conclusion|7 Conclusion]] <span style="float:right;">y / x</span>
 - [[#References|References]] <span style="float:right;">y / x</span>
 - [Appendix](#Appendix) <span style="float:right;">y / x</span>
-		- [[#Appendix A - BLA BLa|Appendix A - BLA BLa]] <span style="float:right;">y / x</span>
+		- [Appendix A - Game Design Document (GDD), template/examplar.](#Appendix%20A%20-%20Game%20Design%20Document%20(GDD),%20template/examplar.) <span style="float:right;">y / x</span>
 
 ---
 
@@ -236,6 +236,8 @@ Paradox Interactive 2025, ‘3D Map and UI Reveals’, _Paradox Forum_, 8 May, v
 
 Paradox Tinto & Paradox Development Studio 2025, _Europa Universalis V_, Paradox Interactive, viewed 3 November 2026, <https://www.paradoxinteractive.com/games/europa-universalis-v/about>.
 
+PNG Mart 2023, _Black fade, smooth transition, subtle shadow, dark gradient, deep toning PNG_, PNG Mart, viewed 4 November 2026, <https://www.pngmart.com/image/654127/png/654126>.
+
 Schuurman, P 2019, ‘A game of contexts: Prussian-German professional wargames and the leadership concept of mission tactics 1870–1880’, _War in History_, vol. 28, no. 3, pp. 504–524, viewed 3 November 2026, <https://doi.org/10.1177/0968344519855104>.
 
 Silove, N 2018, ‘Beyond the buzzword: The three meanings of “grand strategy”’, _Security Studies_, vol. 27, no. 1, pp. 27–57, viewed 3 November 2026, <https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/81defc10-5119-4225-8f08-649e7d7545f7/content>.
@@ -246,10 +248,26 @@ Stephenson, M, Perez-Liebana, D, Nelson, M, Khalifa, A & Zook, A 2019, _Game com
 
 Tanenbaum, K & Tanenbaum, TJ 2010, ‘Agency as commitment to meaning: Communicative competence in games’, _Digital Creativity_, vol. 21, no. 1, pp. 11–17, viewed 3 November 2026, <https://doi.org/10.1080/14626261003654509>.
 
-<div style="page-break-after: always;"></div>
-
 ## Appendix
 
-#### Appendix A - BLA BLa
+#### Appendix A - Game Design Document (GDD), template/examplar.
 
+**Feature/Mechanic Name:** Lorem ipsum
+
+**Tags:** Lorem, Ipsum
+
+**Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Technical:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Reason:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Connections:**
+‌	Lorem Ipsum,
+‌	Dolor sit,
+‌	Consectetur
+
+(Lorem Ipsum 2019)
+
+#### Appendix B - 
 
