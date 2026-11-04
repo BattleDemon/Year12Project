@@ -6,8 +6,6 @@
 
 #### 3.2 Grand Strategy Games as a Genre
 
-Grand strategy games are a sub-genre of strategy games which focus on the large-scale management of political entities, often across extensive geographical areas and historical periods. Rather than concentrating on individual battles or tactical engagements, players make decisions concerning diplomacy, economics, warfare, politics, and the long-term development of their state or territory. This distinction is reflected in the broader concept of grand strategy, which involves the coordination of military, diplomatic, and economic resources towards long-term political objectives (Silove, 2018).
-
 The origins of the genre can be traced to earlier military simulations and historical wargames. Among the most influential of these was the Prussian _Kriegsspiel_, a professional wargame adopted by the Prussian army in the early nineteenth century. Schuurman (2021) explains that these wargames were used by officers as serious training tools rather than merely for entertainment, with players issuing written orders while an umpire interpreted outcomes and battlefield conditions. Julius (2021) similarly identifies the Prussian _Kriegsspiel_ as the first professional wargame, introduced into the Prussian army in 1824. These early systems are significant because they established many principles that would later influence strategy games, including map-based simulation, the modelling of military decision-making, and the attempt to represent complex real-world circumstances through rules and abstractions.
 
 ![](Joseph_Nash_Kriegsspiel.png)
