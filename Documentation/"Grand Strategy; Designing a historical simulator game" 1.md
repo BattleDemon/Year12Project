@@ -1,28 +1,5 @@
 
 
-
-
- 
-#### 4.2 Choice of Product and Format
-
-The original intention of this project was to design and develop a playable historical grand strategy game. However, due to the complexity and scale of the proposed game, the final product was instead focused on producing a Game Design Document (GDD), outlining the game's overall concept, proposed mechanics, and systems. This change allowed greater attention to be placed on the theoretical and design aspects of the project, rather than attempting to develop a playable game within the available time frame.
-
-A GDD was chosen as it provides a structured method of documenting the different components of a game, allowing individual mechanics to be explained alongside their relationships with other systems. This format is particularly appropriate for a grand strategy game, where the interactions between numerous systems are central to the gameplay experience. It also allows the design to be revised and expanded during future development, while preserving the reasoning behind earlier decisions.
-
-However, the format also presents limitations. Without a playable prototype, the effectiveness of the proposed mechanics cannot be fully evaluated through gameplay testing, particularly in relation to game balance, player engagement, and the behaviour of interconnected systems. Despite these limitations, the GDD provides a more achievable and useful foundation for the project's long-term objective of developing a historical grand strategy game.
-
-#### 4.3 Structure, Presentation and Communication
-
-I structured the Game Design Document to communicate the proposed game's mechanics and overall design in a clear and organised manner. The document was divided into sections covering different aspects of the game, allowing individual systems to be explained separately while also establishing their relationships with other mechanics.
-
-Throughout the document, I aimed to balance technical accuracy with accessibility, using game design terminology alongside explanations of the proposed mechanics. I also used headings and a consistent format for documenting individual features, including their descriptions, technical considerations, reasoning, and connections to other systems (see Appendix A). This structure allows information to be easily located and provides a reference for future development, while remaining understandable to readers unfamiliar with the proposed game. 
-
-#### 4.4 Application of Research and Design
-
-The research undertaken throughout this project influenced the design of the proposed game, particularly in determining which mechanics and systems would be included. My analysis of existing grand strategy games, particularly Crusader Kings III and Europa Universalis V, provided examples of different approaches to character relationships, political structures, economics, and population systems.
-
-Research into historical accuracy, player agency, and strategic depth also influenced my overall design philosophy. I aimed to create a game where historical circumstances establish the foundations of the simulation, while player decisions and interactions between systems allow alternative historical outcomes to develop. These findings helped guide the proposed mechanics documented in the GDD, with an emphasis on meaningful decisions and interconnected systems rather than predetermined historical events.
-
 ## 5 Development and Production
 
 #### 5.1 Initial Concept and Planning

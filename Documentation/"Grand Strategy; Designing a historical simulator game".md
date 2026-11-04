@@ -159,13 +159,13 @@ However, the format also presents limitations. Without a playable prototype, the
 
 #### 4.3 Structure, Presentation and Communication
 
-I structured the Game Design Document to communicate the proposed game's mechanics and overall design in a clear and organised manner. The document was divided into sections covering different aspects of the game, allowing individual systems to be explained separately while also establishing their relationships with other mechanics.
+I structured the Game Design Document to communicate the proposed game's mechanics and overall design in a clear and organised format. The document was divided into sections covering different aspects of the game, allowing individual systems to be explained separately while also establishing their relationships with other mechanics.
 
 Throughout the document, I aimed to balance technical accuracy with accessibility, using game design terminology alongside explanations of the proposed mechanics. I also used headings and a consistent format for documenting individual features, including their descriptions, technical considerations, reasoning, and connections to other systems (see Appendix A). This structure allows information to be easily located and provides a reference for future development, while remaining understandable to readers unfamiliar with the proposed game. 
 
 #### 4.4 Application of Research and Design
 
-The research undertaken throughout this project influenced the design of the proposed game, particularly in determining which mechanics and systems would be included. My analysis of existing grand strategy games, particularly Crusader Kings III and Europa Universalis V, provided examples of different approaches to character relationships, political structures, economics, and population systems.
+The research undertaken throughout this project influenced the design of the proposed game, particularly in determining which mechanics and systems would be included. My analysis of existing grand strategy games, particularly Crusader Kings III and Europa Universalis V, provided examples of different approaches to character relationships, political structures, economics, and population systems. Along with my prior experience playing said games, undoubtably shaped my proposed game.
 
 Research into historical accuracy, player agency, and strategic depth also influenced my overall design philosophy. I aimed to create a game where historical circumstances establish the foundations of the simulation, while player decisions and interactions between systems allow alternative historical outcomes to develop. These findings helped guide the proposed mechanics documented in the GDD, with an emphasis on meaningful decisions and interconnected systems rather than predetermined historical events.
 
