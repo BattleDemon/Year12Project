@@ -4,14 +4,12 @@
 
  
 
-#### 3.2 Grand Strategy Games as a Genre
 
-The origins of the genre can be traced to earlier military simulations and historical wargames. Among the most influential of these was the Prussian _Kriegsspiel_, a professional wargame adopted by the Prussian army in the early nineteenth century. Schuurman (2021) explains that these wargames were used by officers as serious training tools rather than merely for entertainment, with players issuing written orders while an umpire interpreted outcomes and battlefield conditions. Julius (2021) similarly identifies the Prussian _Kriegsspiel_ as the first professional wargame, introduced into the Prussian army in 1824. These early systems are significant because they established many principles that would later influence strategy games, including map-based simulation, the modelling of military decision-making, and the attempt to represent complex real-world circumstances through rules and abstractions.
 
-![](Joseph_Nash_Kriegsspiel.png)
-Figure 2. Prussian military officers practice fighting the next war with Kriegsspiel (Nash 1872).
 
-The development from physical wargames to digital grand strategy games allowed these simulations to become much broader in scale and complexity. Loban (2021) argues that computerisation removed much of the burden of manual calculation and record-keeping which limited earlier wargames, allowing designers to represent more interconnected systems. As a result, historical strategy games expanded beyond the simulation of single battles to include political, economic, diplomatic, and social developments. However, greater complexity does not necessarily produce a more engaging experience, particularly when additional mechanics increase the difficulty of understanding the simulation and raise the barrier to entry.
+
+
+
 
 A defining characteristic of grand strategy games is the interaction between multiple systems. Military campaigns require economic resources, diplomatic relationships influence political stability, and internal political circumstances can limit the player’s ability to pursue their objectives. Loban (2017) identifies diplomacy and international relations as significant elements of the genre, demonstrating how grand strategy games simulate alliances, warfare, and other interactions between political entities. Similarly, Spring (2015) shows that historical strategy games such as the _Crusader Kings_ and _Europa Universalis_ series use both gameplay mechanics and historical framing to represent the past. This demonstrates that the genre extends beyond military conflict alone, incorporating political and social developments as part of a broader simulation. Unlike real-time strategy games, which usually emphasise unit control and resource management during individual engagements, grand strategy games focus on broader political and strategic decision-making over longer periods.
 
