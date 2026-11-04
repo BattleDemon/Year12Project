@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7ff45627ee720c",
+        "id": "8821c282ebf9c97d",
         "type": "tabs",
+        "dimension": 56.734913793103445,
         "children": [
           {
-            "id": "9e27831fa07672a3",
+            "id": "e1f5af085ca894d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +21,28 @@
               },
               "icon": "lucide-file",
               "title": "\"Grand Strategy; Designing a historical simulator game\""
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e7ff45627ee720c",
+        "type": "tabs",
+        "dimension": 43.265086206896555,
+        "children": [
+          {
+            "id": "9e27831fa07672a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "\"Grand Strategy; Designing a historical simulator game\" 1"
             }
           }
         ]
@@ -81,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -190,9 +214,11 @@
   },
   "active": "9e27831fa07672a3",
   "lastOpenFiles": [
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
+    "Grand_Strategy_Style_Revised.md",
     "Documentation/dadmerovin.png",
     "Documentation/Game Design Document.md",
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/fffefwe.png",
     "Documentation/Grand Strategy_ Designing a Historical Simulation Game.png",
     "Documentation/Charlemagne_LP_4k.jpg",
@@ -202,7 +228,6 @@
     "Documentation/interconnect.png",
     "Documentation/accvsauth.png",
     "Documentation/europa-universalis-v_sc.jpg",
-    "Documentation/europa-universalis-v-5-__1_.jpg",
     "Documentation/Feature Ideas/Region and Realm Levels.md",
     "year-12-project-(4.6)/depricated1/modified_design.svg.import",
     "year-12-project-(4.6)/utilities/Map Extract/goodMap.svg.import",
@@ -235,7 +260,6 @@
     "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
     "Documentation/Research/Game Design Research/Markdown files research/Modeling and Generating Strategy Games Mechanics.md",
     "Documentation/Research/Game Design Research/Markdown files research/Interview Paradox Development Studio on strategy games, design, and why this genre doesn’t work on consoles.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Games for Teaching and Learning History a Systematic LiteratureReview.md"
+    "Documentation/Research/Game Design Research/Markdown files research/Gamifying History Designing and Implementing aGame-Based Learning Course Design Framework.md"
   ]
 }
