@@ -41,9 +41,7 @@
 
 ## 1 Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+This project investigated how grand strategy games balance historical accuracy, player agency, and strategic depth, and how these principles could be applied to the design of a historical simulation game. Research focused on game design principles, historical representation, and the approaches used by existing grand strategy games, particularly Crusader Kings III, Europa Universalis V, and Hearts of Iron IV. The proposed game is set during the transition from the Late Roman world into the Early Medieval period, focusing on the rise of the Franks and Merovingian dynasty. Although initially intended to be a playable game, the final product was a Game Design Document (GDD), outlining its proposed mechanics and systems. The project established a foundation for future development, while highlighting the challenges of designing complex historical simulations.
 ## 2 Introduction
 
 This report explores the principles and methods of game design, with a focus on grand strategy games. The guiding line of enquiry for this project is: _How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?_
@@ -209,18 +207,29 @@ However, this change also introduced limitations, as the proposed mechanics rema
 
 #### 6.1 Evaluation of Final Product
 
-If it were the original product would be better but this is a good compromise, to still explore the passion i have for games it, and history
+The final product of this project was considerably different from my original intention of developing a playable historical grand strategy game. Although I would have preferred to produce a functioning game or prototype, I believe the Game Design Document represents a reasonable compromise given the time available and the scale of the original project.
 
+The GDD provides a foundation for future development by establishing the overall concept, historical setting, and intended direction of the game's mechanics. However, its effectiveness as a development reference remains limited, as many of the proposed systems require more detailed explanations and their interactions have not been tested. While the document communicates the general vision of the game, it does not yet provide sufficient detail to guide its full implementation.
+
+Overall, I consider the product partially successful in achieving its revised purpose, while recognising that considerable further development is required.
 #### 6.2 Personal Learning and Development
 
-I learnt alot about game design, and the historical period
+Throughout this project, I developed a greater understanding of both game design and the historical period surrounding the rise of the Franks and the Merovingian dynasty. My research into existing grand strategy games helped me better understand how different mechanics and systems interact, and the challenges involved in balancing historical authenticity, player agency, and strategic depth.
+
+One of the most significant lessons I learnt was the importance of establishing a realistic scope for a project. Initially, I underestimated the amount of time and work required to develop a game of this complexity, particularly alongside my other school commitments. While I was unable to achieve my original ambitions, the experience has given me a better understanding of the planning and preparation required for future software development projects.
 
 #### 6.3 Limitations and Future Improvements
 
-My intent to develop this game in the future, with the acknowledgement of the limkitations of its early/rough setup. 
+The greatest limitation of the final product is the lack of detailed and tested game mechanics. While the GDD establishes the overall concept and intended direction of the game, many systems remain in their early stages of design, with their interactions and balance yet to be explored. Without a playable prototype, it is also difficult to determine how effectively these mechanics would function together or whether they would create an engaging experience.
+
+In the future, I intend to continue developing the GDD, expanding upon the proposed mechanics and their relationships before beginning work on a playable prototype. This would allow me to experiment with individual systems, identify problems, and refine the design through testing. Ultimately, I hope to use the foundations established through this project to eventually develop the historical grand strategy game I originally envisioned.
 ## 7 Conclusion
 
+This project explored how grand strategy games balance historical accuracy, player agency, and strategic depth, and how these principles could be applied to the design of my own historical simulation game. Through my research, I found that achieving this balance requires more than simply recreating historical events or introducing complex mechanics. Instead, a successful historical grand strategy game should establish authentic historical circumstances, while allowing meaningful player decisions and interactions between systems to influence how events develop.
 
+Although my original intention was to develop a playable game, the final product became a Game Design Document, outlining the foundations of the proposed game. While the document remains limited in its detail and requires further development, it allowed me to explore the relationship between history and game design, and establish a foundation for future work.
+
+Overall, the project improved my understanding of historical simulation and the challenges of designing complex games, while providing a starting point for eventually developing the game I originally envisioned.
 
 
 <div style="page-break-after: always;"></div>
