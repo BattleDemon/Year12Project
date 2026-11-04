@@ -159,7 +159,7 @@ However, the format also presents limitations. Without a playable prototype, the
 
 #### 4.3 Structure, Presentation and Communication
 
-The structure 
+I structured the Game Design Document to communicate the proposed game's mechanics and overall design in a clear and organised manner. I divided the document into sections covering different aspects of the game, allowing individual systems to be explained separately while establishing their relationships with other mechanics. 
 
 #### 4.4 Application of Research and Design
 
