@@ -82,7 +82,7 @@ Figure 2. Prussian military officers practice fighting the next war with Kriegss
 
 These physical wargames quickly developed into digital strategy and grand strategy games as the technology became available. Which allowed for these forms of simulations to become much broader in scale and complexity. With Loban (2021) arguing that their computerisation removed much of the burden upon the player which relieved then of manual calculations and record keeping which earlier wargaming was restricted by, allowing designers to represent more complex and interconnected simulations, thus more accurately simulating the realities of their situations. As a result, historical strategy games expanded beyond the simulation of single battles to include political, economic, diplomatic, and social developments. However, this greater complexity does not always equate to a more engaging experience and game, particularly when additional mechanics increase the difficulty of understanding the simulation and when the barrier to entry is raised.
 
-The defining characteristic of grand strategy is the interaction between its multiple systems. A military campaign, requires economic resources, which requires trade, which requires diplomatic standing, which requires a level of internal politics, which if any one of these fail it limits the player's ability to pursue their goals.  
+The defining characteristic of grand strategy is the interaction between its multiple systems. A military campaign requires economic resources, which may depend upon trade and production, while diplomatic standing and internal politics can further influence the player's ability to pursue their goals. Loban (2017) identifies diplomacy and international relations as significant elements of the genre, particularly through the simulation of alliances, warfare, and relationships between political entities. Similarly, Spring (2015) explores how historical strategy games such as the _Crusader Kings_ and _Europa Universalis_ series combine gameplay mechanics with historical circumstances to represent the past. Demonstrating that grand strategy extends beyond the simulation of military conflicts, instead incorporating political, economic, and social developments into a broader simulation. This also distinguishes grand strategy from other forms of strategy games, particularly real-time strategy games, which tend to focus on the direct control of military units and resources during individual battles. Whereas grand strategy focuses on the broader political and strategic decisions, and their consequences over extended periods of time.
 
 ![](europa-universalis-v-5-__1_.jpg)
 Figure 3. Political map and user interface from *Europa Universalis V*, during a 'Kingdom of France' play though.(Paradox Interactive 2025).
@@ -308,6 +308,8 @@ Tanenbaum, K & Tanenbaum, TJ 2010, ‘Agency as commitment to meaning: Communica
 ‌	Consectetur
 
 (Lorem Ipsum 2019)
+
+<div style="page-break-after: always;"></div>
 
 #### Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.
 
