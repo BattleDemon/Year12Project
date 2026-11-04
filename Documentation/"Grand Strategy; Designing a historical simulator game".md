@@ -159,21 +159,30 @@ However, the format also presents limitations. Without a playable prototype, the
 
 #### 4.3 Structure, Presentation and Communication
 
-I structured the Game Design Document
+I structured the Game Design Document to communicate the proposed game's mechanics and overall design in a clear and organised manner. The document was divided into sections covering different aspects of the game, allowing individual systems to be explained separately while also establishing their relationships with other mechanics.
+
+Throughout the document, I aimed to balance technical accuracy with accessibility, using game design terminology alongside explanations of the proposed mechanics. I also used headings and a consistent format for documenting individual features, including their descriptions, technical considerations, reasoning, and connections to other systems (see Appendix A). This structure allows information to be easily located and provides a reference for future development, while remaining understandable to readers unfamiliar with the proposed game. 
 
 #### 4.4 Application of Research and Design
 
-My prior research resulted in the followin approach to its application and design
+The research undertaken throughout this project influenced the design of the proposed game, particularly in determining which mechanics and systems would be included. My analysis of existing grand strategy games, particularly Crusader Kings III and Europa Universalis V, provided examples of different approaches to character relationships, political structures, economics, and population systems.
+
+Research into historical accuracy, player agency, and strategic depth also influenced my overall design philosophy. I aimed to create a game where historical circumstances establish the foundations of the simulation, while player decisions and interactions between systems allow alternative historical outcomes to develop. These findings helped guide the proposed mechanics documented in the GDD, with an emphasis on meaningful decisions and interconnected systems rather than predetermined historical events.
 
 ## 5 Development and Production
 
 #### 5.1 Initial Concept and Planning
 
-Original plan on making the game / acually developing a beta version, to cut back to prototype, then just the GDD
+My original intention for the Year 12 project was to design and develop a fully playable historical grand strategy game, focusing on the rise of the Franks and the Merovingian dynasty. The initial scope was ambitious, with the intention of creating a complete game, although using temporary artwork where necessary.
+
+My initial planning involved using the whiteboard in the study room to brainstorm and organise potential features and mechanics. I also selected Godot as the game engine and began experimenting with the initial code. However, by the end of Term 1, I had made little progress towards developing the game, largely due to the time required for other school assignments. This led me to reconsider the scope of the project, initially reducing my ambitions to a limited playable prototype, before eventually focusing on the design and documentation of the game through a GDD.
 #### 5.2 Historical Setting and World Design
 
-More like CK3 but with influences from HOI4 for military, and something from EU5
+I chose to focus on the rise of the Franks and the Merovingian dynasty, as it is an interesting historical period which is not extensively represented in commercially available grand strategy games. My initial interest in the period was also influenced by my father's Blizzard account name, 'Merovingian', which encouraged me to learn more about its historical origins (See Appendix B).
 
+Initially, I intended the game to cover the entirety of Europe, but reduced its geographical scope to France, Italy, northern Spain, and parts of Germany, recognising that even this remained an ambitious undertaking. The game's setting focuses on the migration of the Frankish peoples, the establishment of their kingdom, and the transition from Roman to Germanic political and cultural influence.
+
+These historical circumstances influenced my approach to designing the game's mechanics, combining character-driven politics similar to Crusader Kings III, population systems influenced by Europa Universalis V, and warfare mechanics inspired by Hearts of Iron IV to represent the challenges of migration and territorial expansion.
 #### 5.3 Development of Game Mechanics and Systems
 
 As i did not actually develop the game, the development of the mechanics and sytems meant they are untested, and might not have full results 
@@ -280,5 +289,8 @@ Tanenbaum, K & Tanenbaum, TJ 2010, ‘Agency as commitment to meaning: Communica
 
 (Lorem Ipsum 2019)
 
-#### Appendix B - 
+#### Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.
+
+![](dadmerovin.png)
+Figure B1. My father's Blizzard account, whose username first sparked my interest in the Merovingian dynasty.
 

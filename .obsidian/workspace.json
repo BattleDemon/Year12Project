@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5677954a430ab6e7",
+        "id": "8e7ff45627ee720c",
         "type": "tabs",
         "children": [
           {
-            "id": "442368cd5848b5e2",
+            "id": "9e27831fa07672a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "e76334ed945c9e22",
@@ -189,8 +188,11 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "442368cd5848b5e2",
+  "active": "9e27831fa07672a3",
   "lastOpenFiles": [
+    "Documentation/dadmerovin.png",
+    "Documentation/Game Design Document.md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/fffefwe.png",
     "Documentation/Grand Strategy_ Designing a Historical Simulation Game.png",
     "Documentation/Charlemagne_LP_4k.jpg",
@@ -201,7 +203,6 @@
     "Documentation/accvsauth.png",
     "Documentation/europa-universalis-v_sc.jpg",
     "Documentation/europa-universalis-v-5-__1_.jpg",
-    "Documentation/Joseph_Nash_Kriegsspiel.png",
     "Documentation/Feature Ideas/Region and Realm Levels.md",
     "year-12-project-(4.6)/depricated1/modified_design.svg.import",
     "year-12-project-(4.6)/utilities/Map Extract/goodMap.svg.import",
@@ -223,8 +224,6 @@
     "Documentation/Feature Ideas/Regions and Regional Features.md",
     "Documentation/Feature Ideas/Resources.md",
     "Documentation/Feature Ideas/Terrain.md",
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
-    "Documentation/Game Design Document.md",
     "Documentation/Year 12 Project Proposal and Speech Analysis.md",
     "README.md",
     "grand_strategy_game_concept.md",
