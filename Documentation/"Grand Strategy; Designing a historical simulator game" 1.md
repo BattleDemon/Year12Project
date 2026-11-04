@@ -1,75 +1,8 @@
-![700](fffefwe.png)
-
-<div style="page-break-after: always;"></div>
-
-## Table of Contents
-
-- [[#Table of Contents|Table of Contents]]  <span style="float:right;">x / x</span>
-- [[#1 Abstract|1 Abstract]]<span style="float:right;">x / x</span>
-- [[#2 Introduction|2 Introduction]]<span style="float:right;">x / x</span>
-- [[#3 Research|3 Research]]<span style="float:right;">x / x</span>
-		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]]<span style="float:right;">x / x</span>
-		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]]<span style="float:right;">x / x</span>
-		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]]<span style="float:right;">x / x</span>
-		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]]<span style="float:right;">x / x</span>
-		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]]<span style="float:right;">x / x</span>
-- [[#4 Product Rationale|4 Product Rationale]]<span style="float:right;">x / x</span>
-		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]]<span style="float:right;">x / x</span>
-		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]]<span style="float:right;">x / x</span>
-		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]]<span style="float:right;">x / x</span>
-		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]]<span style="float:right;">x / x</span>
-- [[#5 Development and Production|5 Development and Production]]<span style="float:right;">x / x</span>
-		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]]<span style="float:right;">x / x</span>
-		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]]<span style="float:right;">x / x</span>
-		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]]<span style="float:right;">x / x</span>
-		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]]<span style="float:right;">x / x</span>
-		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]]<span style="float:right;">x / x</span>
-- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]]<span style="float:right;">x / x</span>
-		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]]<span style="float:right;">x / x</span>
-		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]]<span style="float:right;">x / x</span>
-		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]]<span style="float:right;">x / x</span>
-- [[#7 Conclusion|7 Conclusion]]<span style="float:right;">x / x</span>
-- [[#References|References]]<span style="float:right;">x / x</span>
-- [[#Appendix|Appendix]]<span style="float:right;">x / x</span>
-		- [[#Appendix A - Game Design Document (GDD), template/examplar.|Appendix A - Game Design Document (GDD), template/examplar.]]<span style="float:right;">x / x</span>
-		- [[#Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.|Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.]]<span style="float:right;">x / x</span>
-
-
----
-
-<div style="page-break-after: always;"></div>
-
-## 1 Abstract
-
-
-## 2 Introduction
-
-This report explores the principles and methods of game design, with a focus on grand strategy games. The guiding line of enquiry for this project is: _How do grand strategy games balance their historical accuracy, player agency, and strategic depth, and how can those approaches be applied in the design of my own game?_
-
-This project was motivated by my interests in both history and software development, particularly the ability of games to simulate complex systems and allow players to engage with historical scenarios. The game concept developed for this project is set during the transition from the late Roman world into the early Medieval period, focusing on the migration of Frankish peoples and the rise of the Merovingian dynasty. This period provides a unique foundation for exploring the challenges of historical simulation, as players must navigate political fragmentation, cultural change, and the formation of new states.
-
-The final product produced for this project is a Game Design Document (GDD), outlining the proposed mechanics, systems, and features of a historical grand strategy game. The document is intended for personal use as a framework for future development and, an audience interested in game design and historical strategy games. Rather than producing a complete playable game, or that of a prototype the GDD aims to communicate the overall design and provide a foundation for potential future development.
-
-This report outlines the research which informed the ideas and decisions presented in the Game Design Document, the processes undertaken to develop the final product, and an evaluation of the project's outcomes and limitations.
 
 
 
-<div style="page-break-after: always;"></div>
 
-## 3 Research
-
-#### 3.1 Principles of Game Design
-
-Game design is the development and arrangement of rules, mechanics, ans systems which influence how players interact with and experience the game. The fundamental principles of game design includes creating meaningful player choices, establishing clear rules and objectives, balancing challenges and reward, and providing feedback on consequences of player actions. With these principles aiming to create an engaging experience for players, and different theories and frameworks providing approaches to understanding how this can be achieved. 
-
-Individual mechanics within a game establish what is possible, but their interconnecting interactions determines how a game develops and how players can respond. This relationship is explored through the Mechanics, Dynamics, and Aesthetics (MDA) framework, developed by Hunicke, LeBlanc, and Zebek (2004), and separates game design into its three interconnected components (see Figure 1). Mechanics describe the rules and systems of the game, dynamics the behaviour they present during gameplay, and aesthetic as the experience and response from the player (Hunicke, Leblanc & Zubek 2004). A fundamental aspect of this framework is the separation between the perspectives of the developers and players. Where developers construct the mechanics which form the game, and players experience the resulting dynamics and aesthetics (Hunicke, Leblanc & Zubek 2004).
-
-![](mechanics-dynamics-aesthetis.png)
-Figure 1. Diagram showing connection between a players consumption and their design parallels (Hunicke, Leblanc & Zubek 2004). 
-
-One of these fundamental principles is the importance of player decisions. Sid Meier explores this idea in his description of games as a series of 'interesting decisions'. Meier argues that these decisions are often meaningful and require negotiating trade-offs, risks, and consequences, where the effect of the choice depends on the player's circumstances. He uses an example which I have adapted to a strategy game lens, where investing resources into military expansion may provide an instantaneous advantage, but limits further economic growth (GDCVault & Meier 2012). Meier also emphasises in a 'Game Developers' report the importance of providing players with sufficient information and feedback to understand the consequences of their actions (Alexander 2012).
-
-Although these approaches target different aspects of game design, they are connected through their relationship between mechanics and player experience. The MDA framework provides understanding on how systems induce gameplay, while Meier's focuses on the decisions those systems represent. Suggesting that a successful game design requires more than just numerous complex mechanics and systems. Instead they must interact to produce meaningful choices and an engaging experience. 
+ 
 
 #### 3.2 Grand Strategy Games as a Genre
 
