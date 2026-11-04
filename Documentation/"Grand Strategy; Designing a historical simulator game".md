@@ -4,34 +4,36 @@
 
 ## Table of Contents
 
-- [[#Table of Contents|Table of Contents]] <span style="float:right;">2 / x</span>
-- [[#1 Abstract|1 Abstract]] <span style="float:right;">3 / x</span>
-- [[#2 Introduction|2 Introduction]] <span style="float:right;">3 / x</span>
-- [[#3 Research|3 Research]] <span style="float:right;">4 / x</span>
-		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]] <span style="float:right;">4 / x</span>
-		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]] <span style="float:right;">5 / x</span>
-		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]] <span style="float:right;">7 / x</span>
-		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]] <span style="float:right;">8 / x</span>
-		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]] <span style="float:right;">9 / x</span>
-- [[#4 Product Rationale|4 Product Rationale]] <span style="float:right;">11 / x</span>
-		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]] <span style="float:right;">11 / x</span>
-		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]] <span style="float:right;">11 / x</span>
-		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]] <span style="float:right;">12 / x</span>
-		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]] <span style="float:right;">y / x</span>
-- [[#5 Development and Production|5 Development and Production]] <span style="float:right;">y / x</span>
-		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]] <span style="float:right;">y / x</span>
-		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]] <span style="float:right;">y / x</span>
-		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]] <span style="float:right;">y / x</span>
-		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]] <span style="float:right;">y / x</span>
-		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]] <span style="float:right;">y / x</span>
-- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]] <span style="float:right;">y / x</span>
-		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]] <span style="float:right;">y / x</span>
-		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]] <span style="float:right;">y / x</span>
-		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]] <span style="float:right;">y / x</span>
-- [[#7 Conclusion|7 Conclusion]] <span style="float:right;">y / x</span>
-- [[#References|References]] <span style="float:right;">y / x</span>
-- [Appendix](#Appendix) <span style="float:right;">y / x</span>
-		- [Appendix A - Game Design Document (GDD), template/examplar.](#Appendix%20A%20-%20Game%20Design%20Document%20(GDD),%20template/examplar.) <span style="float:right;">y / x</span>
+- [[#Table of Contents|Table of Contents]]  <span style="float:right;">x / x</span>
+- [[#1 Abstract|1 Abstract]]<span style="float:right;">x / x</span>
+- [[#2 Introduction|2 Introduction]]<span style="float:right;">x / x</span>
+- [[#3 Research|3 Research]]<span style="float:right;">x / x</span>
+		- [[#3.1 Principles of Game Design|3.1 Principles of Game Design]]<span style="float:right;">x / x</span>
+		- [[#3.2 Grand Strategy Games as a Genre|3.2 Grand Strategy Games as a Genre]]<span style="float:right;">x / x</span>
+		- [[#3.3 Historical Simulation, Accuracy and Authenticity|3.3 Historical Simulation, Accuracy and Authenticity]]<span style="float:right;">x / x</span>
+		- [[#3.4 Player Agency and Strategic Depth|3.4 Player Agency and Strategic Depth]]<span style="float:right;">x / x</span>
+		- [[#3.5 Analysis of Existing Grand Strategy Games|3.5 Analysis of Existing Grand Strategy Games]]<span style="float:right;">x / x</span>
+- [[#4 Product Rationale|4 Product Rationale]]<span style="float:right;">x / x</span>
+		- [[#4.1 Purpose and Target Audience|4.1 Purpose and Target Audience]]<span style="float:right;">x / x</span>
+		- [[#4.2 Choice of Product and Format|4.2 Choice of Product and Format]]<span style="float:right;">x / x</span>
+		- [[#4.3 Structure, Presentation and Communication|4.3 Structure, Presentation and Communication]]<span style="float:right;">x / x</span>
+		- [[#4.4 Application of Research and Design|4.4 Application of Research and Design]]<span style="float:right;">x / x</span>
+- [[#5 Development and Production|5 Development and Production]]<span style="float:right;">x / x</span>
+		- [[#5.1 Initial Concept and Planning|5.1 Initial Concept and Planning]]<span style="float:right;">x / x</span>
+		- [[#5.2 Historical Setting and World Design|5.2 Historical Setting and World Design]]<span style="float:right;">x / x</span>
+		- [[#5.3 Development of Game Mechanics and Systems|5.3 Development of Game Mechanics and Systems]]<span style="float:right;">x / x</span>
+		- [[#5.4 Creation of the Game Design Document|5.4 Creation of the Game Design Document]]<span style="float:right;">x / x</span>
+		- [[#5.5 Challenges, Changes and Refinement|5.5 Challenges, Changes and Refinement]]<span style="float:right;">x / x</span>
+- [[#6 Reflection and Evaluation|6 Reflection and Evaluation]]<span style="float:right;">x / x</span>
+		- [[#6.1 Evaluation of Final Product|6.1 Evaluation of Final Product]]<span style="float:right;">x / x</span>
+		- [[#6.2 Personal Learning and Development|6.2 Personal Learning and Development]]<span style="float:right;">x / x</span>
+		- [[#6.3 Limitations and Future Improvements|6.3 Limitations and Future Improvements]]<span style="float:right;">x / x</span>
+- [[#7 Conclusion|7 Conclusion]]<span style="float:right;">x / x</span>
+- [[#References|References]]<span style="float:right;">x / x</span>
+- [[#Appendix|Appendix]]<span style="float:right;">x / x</span>
+		- [[#Appendix A - Game Design Document (GDD), template/examplar.|Appendix A - Game Design Document (GDD), template/examplar.]]<span style="float:right;">x / x</span>
+		- [[#Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.|Appendix B - Screenshot of the Blizzard profile showing the name Merovingian.]]<span style="float:right;">x / x</span>
+
 
 ---
 
@@ -185,15 +187,24 @@ Initially, I intended the game to cover the entirety of Europe, but reduced its 
 These historical circumstances influenced my approach to designing the game's mechanics, combining character-driven politics similar to Crusader Kings III, population systems influenced by Europa Universalis V, and warfare mechanics inspired by Hearts of Iron IV to represent the challenges of migration and territorial expansion.
 #### 5.3 Development of Game Mechanics and Systems
 
-As i did not actually develop the game, the development of the mechanics and sytems meant they are untested, and might not have full results 
+The development of the game's mechanics focused primarily on establishing the overall systems and how they could interact, rather than producing fully implemented mechanics. Drawing from my research into existing grand strategy games, I developed a general design direction combining character-driven politics from Crusader Kings III, population systems from Europa Universalis V, and military planning inspired by Hearts of Iron IV.
 
+One of the central considerations was how these systems could represent the migration of the Franks and their eventual establishment of a kingdom. Population and cultural systems would provide a foundation for representing the movement and settlement of peoples, while character and political systems would influence the leadership and organisation of emerging states. Military mechanics would also need to account for the challenges of warfare and territorial expansion during migration.
+
+However, these mechanics remained largely conceptual, with their exact rules, calculations, and interactions not fully established. As a result, their effectiveness could not be evaluated through implementation or gameplay testing. Nevertheless, outlining these systems helped establish the intended direction of the game and identify areas requiring further development.
 #### 5.4 Creation of the Game Design Document
 
-Soft retelling of the creation
+The creation of the Game Design Document involved organising the proposed game's ideas and mechanics into a structured format which could be used for future development. I developed a template for documenting individual features, including their descriptions, technical considerations, reasoning, and connections to other systems (see Appendix A).
+
+This approach allowed me to establish a consistent method for recording design ideas, while also considering how individual mechanics would interact with the broader simulation. However, as the project shifted towards the GDD relatively late in its development, the document remained limited in its detail, with many proposed mechanics requiring further research and refinement. Despite this, the format provides a foundation which I can continue to expand during future development.
 
 #### 5.5 Challenges, Changes and Refinement
 
-problems encounterd including time, and effort required if it were the original idea
+The greatest challenge I encountered throughout the project was managing the scope of the game alongside my other school commitments. My original intention of developing a complete grand strategy game proved unrealistic within the available timeframe, particularly given the complexity of the interconnected systems I intended to include. By the end of Term 1, I had made little progress on the actual development of the game, requiring me to reconsider what could reasonably be achieved.
+
+I initially reduced the scope to a limited playable prototype, before eventually deciding to focus on producing a Game Design Document. While this meant abandoning the original goal of creating a playable game, it allowed me to continue exploring the historical and game design aspects which initially motivated the project.
+
+However, this change also introduced limitations, as the proposed mechanics remained largely conceptual and could not be tested or refined through gameplay. Although the final product is considerably different from my original intentions, reducing the scope allowed me to establish a foundation for future development rather than attempting to produce an incomplete game.
 ## 6 Reflection and Evaluation
 
 #### 6.1 Evaluation of Final Product
