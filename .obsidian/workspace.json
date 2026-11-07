@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "\"Grand Strategy; Designing a historical simulator game\""
+              "title": "README"
             }
           }
         ]
@@ -174,8 +174,8 @@
             "state": {
               "type": "find-replace-view",
               "state": {},
-              "icon": "replace",
-              "title": "Find-n-Replace"
+              "icon": "lucide-ghost",
+              "title": "find-replace-view"
             }
           }
         ],
@@ -195,14 +195,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "find-n-replace:Find-n-Replace": false
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "active": "e1f5af085ca894d1",
   "lastOpenFiles": [
-    "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
+    "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
     "project.md",
     "Grand_Strategy_Style_Revised.md",
     "Documentation/dadmerovin.png",
