@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "temp important invoice info"
             }
+          },
+          {
+            "id": "2ae539179621132e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script Idea plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Script Idea plan"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +229,11 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "3e41684ce03efcaf",
+  "active": "2ae539179621132e",
   "lastOpenFiles": [
-    "README.md",
     "temp important invoice info.md",
+    "Script Idea plan.md",
+    "README.md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\".md",
     "Documentation/\"Grand Strategy; Designing a historical simulator game\" 1.md",
     "project.md",
@@ -261,7 +277,6 @@
     "Untitled.canvas",
     "Documentation/Research/Game Design Research/Markdown files research/The Transformation from Physical Wargames to Grand Strategy Video Games, and theOpportunities for Deep and Efficient Historical Wargaming Experiences.md",
     "Documentation/Research/Game Design Research/Markdown files research/Simulating medieval connectionsGrand strategy games andsocial network analysis.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md",
-    "Documentation/Research/Game Design Research/Markdown files research/Modeling and Generating Strategy Games Mechanics.md"
+    "Documentation/Research/Game Design Research/Markdown files research/Revitalisation of History throughHistorical Games in the Digital Era.md"
   ]
 }
