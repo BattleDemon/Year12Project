@@ -6,5 +6,6 @@
   "textFontFamily": "CaskaydiaCove Nerd Font Mono",
   "baseFontSizeAction": false,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": true
 }
