@@ -111,7 +111,7 @@ To organise these ideas, I developed a template for documenting individual featu
 
 By the later stages of the project, its direction had therefore changed considerably. What began as an attempt to develop a complete historical grand strategy game had gradually become a project focused on the research, planning, and design of one. Although this was a significant departure from my original ambitions, it allowed me to maintain the central ideas of the project while working within the limitations of the time available.
 
-Final Product
+#### Final Product
 
 The final direction of my project was the development of a Game Design Document, or GDD, outlining the proposed mechanics, systems, and overall design of my historical grand strategy game.
 
@@ -128,16 +128,36 @@ To organise the proposed design, I developed a template for documenting individu
 However, the design remained limited in its level of detail, particularly regarding the exact rules, calculations, and interactions between systems. As a result, the project established a general direction for the game, rather than a complete set of specifications ready for implementation.
 
 Nevertheless, the design documentation provides a foundation for continuing the project in the future, with the potential to develop the proposed systems into functional gameplay mechanics.
+#### Evaluation and Reflection
 
-Evaluation and Reflection
+Looking back at the project, I would consider the final outcome to be only partially successful. Although I was able to explore the historical and game design aspects which initially interested me, I ultimately fell considerably short of my original ambition of producing a playable grand strategy game.
+
+One of the main reasons for this was my failure to establish and maintain a realistic development timeline. Although the original scope was ambitious, I also underestimated the amount of time required to develop even the foundational systems of the game. Combined with my decision to prioritise other school assignments, this meant that much of the practical development I had originally intended was never completed.
+
+If I were to undertake the project again, I would begin with a much smaller scope, focusing on developing one or two functional mechanics before attempting to expand the game further. This would provide a more achievable foundation for development, while also allowing the mechanics to be tested and refined throughout the process.
+
+However, despite these difficulties, the project did provide an opportunity to develop my understanding of game design. One of the most important things I learnt was the difference between having an idea for a mechanic and actually designing how it would function. While it is relatively easy to identify features I would like to include in a game, establishing the rules, calculations, and interactions required to implement them is considerably more complicated.
+
+My research also changed how I approached the relationship between historical representation and gameplay. Rather than attempting to recreate historical events exactly as they occurred, I came to recognise the importance of representing the circumstances which produced those events, while allowing the player to influence their development.
+
+Although the final design remains incomplete, the research and planning undertaken throughout the year have provided a foundation which I could continue developing in the future. More importantly, the project has given me a better understanding of the importance of realistic planning, managing the scope of a project, and recognising the difference between what I would like to create and what I can realistically achieve.
+
+#### 7. Conclusion
+
+Throughout this project, I have explored the principles of grand strategy game design, particularly how historical accuracy, player agency, and strategic depth can be balanced to create an engaging historical simulation.
+
+My research demonstrated that successful grand strategy games require more than simply representing historical events or introducing numerous complex mechanics. Instead, their systems must interact to provide meaningful decisions, allowing players to influence the development of history while remaining grounded in the circumstances of the period.
+
+Although my project developed considerably differently from what I had originally intended, moving from the development of a playable game towards its design and documentation, the central idea remained the same. To explore how a game could represent the political, military, and social changes surrounding the rise of the Franks and the Merovingian dynasty.
+
+While I was unable to achieve many of my original objectives, the project has provided a foundation for potential future development, as well as a greater understanding of the challenges involved in designing a game of this scale.
+
+Ultimately, one of the most interesting aspects of grand strategy games is their ability to represent history not simply as a sequence of predetermined events, but as the result of countless interacting decisions and circumstances. It is this ability to allow players to shape their own historical narratives that originally interested me in the genre, and continues to motivate my interest in developing a game of my own.
 
 
 
-Conclusion 
 
-
-
-AIM 2200 words for 20 minute speech
+AIM 2300-2700 words for 20 minute speech depending on pace
 
 justify the reductions in scope for me eventually getting a more polished game, without falling into early pitfalls
 
