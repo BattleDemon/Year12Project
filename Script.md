@@ -12,10 +12,9 @@ Throughout this presentation, I will explore the research that influenced my des
 
 My decision to undertake this project came from three of my main interests: history, programming, and video games. For several years, I had been interested in the idea of developing my own grand strategy game, combining elements from the different games I had played with my own ideas for how such a game could work. The Year 12 Project provided an opportunity to explore this idea further, and to begin turning it into something more substantial.
 
-One of the main influences on my project was the historical period I had chosen to represent. My game would be set during the transition (Slow word down) from the Late Roman Empire into the Early Medieval period, focusing particularly on the migration of the Franks and the eventual establishment of the Merovingian dynasty. I chose this period partly because it was one I had not seen explored in the grand strategy games I had played, but also because of its significance in shaping the political and cultural development of Europe. The collapse of Roman authority in Western Europe, the movement of different peoples, and the establishment of new kingdoms provided an interesting setting for a game focused on political, military, and social developments.
+One of the main influences on my project was the historical period I had chosen to represent. My game would be set during the transition from the Late Roman Empire into the Early Medieval period, focusing particularly on the migration of the Franks and the eventual establishment of the Merovingian dynasty. I chose this period partly because it was one I had not seen explored in the grand strategy games I had played, but also because of its significance in shaping the political and cultural development of Europe. The collapse of Roman authority in Western Europe, the movement of different peoples, and the establishment of new kingdoms provided an interesting setting for a game focused on political, military, and social developments.
 
-My original intention was to develop a playable prototype of this game. I did not expect to produce a finished or polished game, but rather to establish its major gameplay systems, supported by basic visuals. These systems would draw inspiration from existing grand strategy games, particularly their approaches to characters, populations, warfare, and political interactions. The aim was to create a foundation that could be expanded up
- 5. Final Producton through further development, while also exploring how the different mechanics of a grand strategy game could interact to produce a historical simulation.
+My original intention was to develop a playable historical grand strategy game, using basic visuals and temporary artwork where necessary. The focus would be on developing the major gameplay systems, rather than producing a polished visual experience. I hoped to establish a foundation which could be expanded through future development, while exploring how the mechanics of existing grand strategy games could be combined within my own historical setting.
 
 ####  Research
 3:30 -> 8:00
@@ -44,9 +43,7 @@ Hugo, could you state what games you have played?
 
 For those unfamiliar with the genre, grand strategy games are a subgenre of strategy games, generally focusing on the management of political entities across large geographical areas and extended periods of time.
 
-The genre has its origins in historical wargaming, including the Prussian _Kriegsspiel_, which was used by military officers to simulate battles and practise strategic decision-making. As these simulations moved into digital formats, computers allowed developers to introduce increasingly complex systems, extending beyond warfare to represent entire societies.
-
-However, one of the most important characteristics of grand strategy is not simply the number of systems involved, but how they interact with one another.
+The genre developed from historical wargaming, including the Prussian Kriegsspiel, which was used by military officers to simulate battles and practise strategic decision-making. The transition to computers eventually allowed developers to represent much broader and more complicated systems, extending beyond warfare into the political and economic management of entire societies.
 
 3.3 
 
@@ -142,7 +139,7 @@ My research also changed how I approached the relationship between historical re
 
 Although the final design remains incomplete, the research and planning undertaken throughout the year have provided a foundation which I could continue developing in the future. More importantly, the project has given me a better understanding of the importance of realistic planning, managing the scope of a project, and recognising the difference between what I would like to create and what I can realistically achieve.
 
-#### 7. Conclusion
+#### Conclusion
 
 Throughout this project, I have explored the principles of grand strategy game design, particularly how historical accuracy, player agency, and strategic depth can be balanced to create an engaging historical simulation.
 
@@ -162,3 +159,4 @@ AIM 2300-2700 words for 20 minute speech depending on pace
 justify the reductions in scope for me eventually getting a more polished game, without falling into early pitfalls
 
 Reduce repeated points, 
+
