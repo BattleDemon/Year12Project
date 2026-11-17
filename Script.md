@@ -18,8 +18,6 @@ My decision to undertake this project came from three of my main interests: hist
 
 One of the main influences on my project was the historical period I had chosen to represent. My game would be set during the transition from the Late Roman Empire into the Early Medieval period, focusing particularly on the migration of the Franks and the eventual establishment of the Merovingian dynasty.
 
-_[Slow down when introducing the historical period.]_
-
 I chose this period partly because it was one I had not seen explored in the grand strategy games I had played, but also because of its significance in shaping the political and cultural development of Europe. The collapse of Roman authority in Western Europe, the movement of different peoples, and the establishment of new kingdoms provided an interesting setting for a game focused on political, military, and social developments.
 
 My original ambition was to develop a complete historical grand strategy game, although I recognised that producing a polished game within the available time would be difficult. I therefore intended to use basic visuals and temporary artwork where necessary, focusing primarily on the development of its gameplay systems.
