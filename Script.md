@@ -70,6 +70,7 @@ This connects to the concepts of player agency and strategic depth. Player agenc
 
 An important conclusion from my research was that providing more choices does not necessarily create greater agency or strategic depth. Instead, meaningful decisions often emerge from the limitations and consequences imposed by the game's systems.
 
+(Extend example)
 In my own game, for example, the Franks would begin in historically authentic circumstances, but the player's decisions could change whether they successfully establish a kingdom under the Merovingian dynasty. The objective would not be to reproduce the historical outcome exactly, but to represent the circumstances that made it possible.
 
 This also contributes to another interesting aspect of grand strategy games, their ability to create stories without following a predetermined narrative. Rather than every event being written in advance, stories can emerge through the interaction of different systems and player decisions.
@@ -136,6 +137,8 @@ Population mechanics would represent the movement and settlement of peoples, alo
 
 An important part of the intended design was how these systems would interact. For example, the settlement of a migrating population could change the cultural composition of a region, creating political tensions which might influence its stability and the decisions available to the player.
 
+(Example)
+
 To organise the proposed design, I developed a template for documenting individual mechanics and features. This included their descriptions, technical considerations, reasoning behind their inclusion, and their connections to other systems.
 
 The purpose of this structure was to establish a consistent method of recording ideas, which could be expanded upon during future development. It would also allow individual features to be considered in relation to the broader simulation, rather than being designed independently.
@@ -175,3 +178,24 @@ While I was unable to achieve many of my original objectives, the project has pr
 Ultimately, one of the most interesting aspects of grand strategy games is their ability to represent history not simply as a sequence of predetermined events, but as the result of countless interacting decisions and circumstances.
 
 It is this ability to allow players to shape their own historical narratives that originally interested me in the genre, and continues to motivate my interest in developing a game of my own.
+
+
+
+
+
+Near begiing before talkiing about ck3, medium for creativity for design and playing of the game.
+
+Game mechanics and system -- Define, at beginijng, define terms. 
+
+Delete the whole section on term one or term two, Provide a exaple of studios and their timelines, 
+
+Programming older system at the end. 
+
+Characters within my game, kings, advisors, mention the characters withinb my game. (Show frankish) Character decisions
+
+No failure at all no other assignemnts 
+don't suggest wrong foundations
+go directly to the positives
+
+look back and say change focus, based on decision not to spead to thin, but instead to create quility product.
+
